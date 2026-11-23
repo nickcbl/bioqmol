@@ -1,0 +1,417 @@
+Slide 1:
+
+2 | Water
+© 2017 W. H. Freeman and Company
+
+Slide 2:
+CHAPTER 2 
+Water
+What kind of interactions occur between molecules
+Why water is a good medium for life
+Why nonpolar moieties aggregate in water
+How dissolved molecules alter properties of water
+How weak acids and bases behave in water
+How buffers work and why we need them
+How water participates in biochemical reactions
+Learning goals:
+
+Slide 3:
+Water Is the Medium for Life
+Life evolved in water due to the protection it provides from UV light.
+
+Organisms typically contain 70–90% water.
+
+Chemical reactions occur in aqueous milieu.
+
+Water is a critical determinant of the structure and function of proteins, nucleic acids, and membranes.
+
+Slide 4:
+Structure of the Water Molecule
+The octet rule dictates that there are four electron pairs around an oxygen atom in water.
+These electrons are in four sp3 orbitals. 
+Two of these pairs covalently link two hydrogen atoms to a central oxygen atom.
+The two remaining pairs remain nonbonding (lone pairs).
+Water geometry is a distorted tetrahedron.
+The electronegativity of the oxygen atom induces a net dipole moment.
+Because of the dipole moment, water can serve as both a hydrogen bond donor and acceptor.
+
+Slide 5:
+
+Slide 6:
+Hydrogen Bonds
+Hydrogen bonds are strong dipole-dipole or charge-dipole interactions that arise between a covalently bound hydrogen and lone pair of electrons.
+They typically involve two electronegative atoms (frequently nitrogen and oxygen).
+Hydrogen bonds are strongest when the bonded molecules allow for linear bonding patterns.
+Ideally, the three atoms involved are in a line.
+
+Slide 7:
+
+Slide 8:
+Hydrogen Bonding in Water
+Water can serve as both:
+an H donor
+an H acceptor
+Up to four H-bonds per water molecule gives water its:
+anomalously high boiling point
+anomalously high melting point
+unusually large surface tension
+Hydrogen bonding in water is cooperative.
+Hydrogen bonds between neighboring molecules are weak (20 kJ/mol) relative to the H–O covalent bonds (420 kJ/mol).
+
+Slide 9:
+
+Slide 10:
+Importance of Hydrogen Bonds
+Source of unique properties of water
+Structure and function of proteins
+Structure and function of DNA
+Structure and function of polysaccharides
+Binding of substrates to enzymes
+Binding of hormones to receptors
+Matching of mRNA and tRNA
+“I believe that as the methods of structural chemistry are further applied to physiological problems, it will be found that the significance of the hydrogen bond for physiology is greater than that of any other single structural  feature.” 
+			–Linus Pauling, The Nature of the Chemical Bond, 1939
+
+Slide 11:
+Biological Relevance of Hydrogen Bonds
+
+Slide 12:
+Ice: Water in a Solid State
+Water has many different crystal forms; the hexagonal ice is the most common.
+Hexagonal ice forms an organized lattice and thus has a low entropy.
+Hexagonal ice contains maximal hydrogen bonds/ water molecules, forcing the water molecules into equidistant arrangement. Thus:
+ice has lower density than liquid water
+ice floats
+
+Slide 13:
+
+Slide 14:
+Water as a Solvent
+Water is a poor solvent for nonpolar substances:
+nonpolar gases
+aromatic moieties
+aliphatic chains
+
+
+Water is a good solvent for charged and polar substances:
+amino acids and peptides
+small alcohols
+carbohydrates
+
+
+Slide 15:
+
+Slide 16:
+Physics of Noncovalent Interactions
+Ionic (Coulombic) interactions
+electrostatic interactions between permanently charged species, or between the ion and a permanent dipole
+Dipole interactions
+electrostatic interactions between uncharged but polar molecules
+van der Waals interactions
+weak interactions between all atoms, regardless of polarity
+attractive (dispersion) and repulsive (steric) component
+Hydrophobic Effect
+complex phenomenon associated with the ordering of water molecules around nonpolar substances
+
+Noncovalent interactions do not involve sharing a pair of electrons.  Based on their physical origin, one can distinguish between:
+
+Slide 17:
+Examples of Noncovalent Interactions
+
+Slide 18:
+Dissolving Salts Involves Breaking Ionic Interactions
+ 
+
+Slide 19:
+Dissolving Salts Involves Breaking Ionic Interactions
+
+Slide 20:
+van der Waals Interactions
+van der Waals interactions have two components:
+attractive force (London dispersion), which depends on the polarizability
+repulsive force (Steric repulsion), which depends on the size of atoms  
+Attraction dominates at longer distances (typically 0.4–0.7 nm).
+Repulsion dominates at very short distances.
+There is a minimum energy distance (van der Waals contact distance).
+
+Slide 21:
+Biochemical Significance of 
+van der Waals Interactions 
+ Weak individually
+ easily broken, reversible
+ Universal
+ occur between any two atoms that are near each other
+ Importance
+ determines steric complementarity
+ stabilizes biological macromolecules (stacking in DNA)
+ facilitates binding of polarizable ligands
+
+Slide 22:
+The Hydrophobic Effect
+Refers to the association or interaction of nonpolar molecules or components of molecules in the aqueous solution
+Is one of the main factors behind:
+protein folding
+protein-protein association
+formation of lipid micelles
+binding of steroid hormones to their receptors
+Does not arise because of some attractive direct force between two nonpolar molecules 
+
+
+Slide 23:
+Solubility of Polar and Nonpolar Solutes
+Why are nonpolar molecules poorly soluble in water? 
+
+Slide 24:
+Water Surrounding Nonpolar Solutes Has Lower Entropy
+
+High entropy
+
+Low
+Entropy
+Low entropy is thermodynamically unfavorable, thus hydrophobic solutes have low solubility.
+
+
+Slide 25:
+Origin of the Hydrophobic Effect
+Consider amphipathic lipids in water.
+Lipid molecules disperse in the solution; nonpolar tails of lipid molecules are surrounded by ordered water molecules.
+Entropy of the system decreases.
+The system is now in an unfavorable state.
+
+Slide 26:
+Origin of the Hydrophobic Effect
+Nonpolar portions of the amphipathic molecule aggregate so that fewer water molecules are ordered and entropy increases.
+All nonpolar groups are sequestered from water, and the released water molecules increase the entropy further.
+Only polar “head groups” are exposed.
+
+Slide 27:
+Origin of the Hydrophobic Effect
+With high enough concentration of amphipathic molecules, complete aggregation into micelles is possible.
+
+
+Slide 28:
+Hydrophobic Effect Favors Ligand Binding
+Binding sites in enzymes and receptors are often hydrophobic.
+
+Such sites can bind hydrophobic substrates and ligands, such as steroid hormones, which displace water and increase entropy of the system.
+
+Many drugs are designed to take advantage of the hydrophobic effect.
+
+
+Slide 29:
+
+Slide 30:
+Solutes Can Change the Properties of Water
+Colligative properties:
+boiling point, melting point, and osmolarity
+do not depend on the nature of the solute, just the concentration
+Noncolligative properties:
+viscosity, surface tension, taste, and color
+depend on the chemical nature of the solute
+Cytoplasm of cells are highly concentrated solutions and have high osmotic pressure due to dissolved solutes.
+
+
+Slide 31:
+Water moves from areas of high water concentration (low solute concentration) to areas of low water concentration (high solute concentration).
+Osmotic pressure (π) is the force necessary to resist the movement.
+Osmotic pressure is influenced by the concentration of each solute in solution.
+Dissociated components of a solute individually influence the osmotic pressure.
+
+Osmotic Pressure
+
+Slide 32:
+Osmotic Pressure
+
+Slide 33:
+Effect of Osmotic Pressure on Cells
+
+Slide 34:
+Ionization of Water
+O-H bonds are polar and can dissociate heterolytically.
+Products are a proton (H+) and a hydroxide ion (OH–).
+Dissociation of water is a rapid reversible process.
+Most water molecules remain un-ionized, thus pure water has very low electrical conductivity (resistance: 18 MΩ•cm).
+The equilibrium is strongly to the left (low Keq).
+The extent of dissociation depends on the temperature.
+H2O        H+ + OH⎼
+→
+← 
+
+Slide 35:
+Proton Hydration 
+Protons do not exist free in solution.  
+They are immediately hydrated to form hydronium ions     (H3O+).
+
+A hydronium ion is a water molecule with a proton associated with one of the nonbonding electron pairs.
+Hydronium ions are solvated by nearby water molecules.
+The covalent and hydrogen bonds are interchangeable. This allows for an extremely fast mobility of protons in water via “proton hopping.”
+
+Slide 36:
+Proton Hopping
+
+Slide 37:
+Ionization of Water: 
+Quantitative Treatment
+Concentrations of participating species in an equilibrium process 
+are not independent but are related via the equilibrium constant: 
+→
+← 
+H2O        H+ + OH⎼
+Keq = __________
+[H+] • [OH⎼]
+[H2O]
+Keq can be determined experimentally, it is 1.8 • 10–16 M at 25°C.
+[H2O] can be determined from water density, it is 55.5 M.
+
+  Ionic product of water:
+	
+
+
+  In pure water, [H+] = [OH–] = 10–7 M.
+
+
+Slide 38:
+What Is pH?
+pH is defined as the negative logarithm of the hydrogen ion concentration.
+Simplifies equations
+The pH and pOH must always add up to 14.
+In neutral solution, [H+] = [OH–] and the pH is 7.
+pH can be negative ([H+] = 6 M).
+pH = −log[H+]
+
+
+
+Slide 39:
+pH Scale Is Logarithmic: 
+1 unit = 10-fold
+TABLE 2-6	The pH Scale	
+[H+] (M)	pH	[OH–] (M)	pOHa	
+100 (1)	0	10–14	14	
+10–1	1	10–13	13	
+10–2	2	10–12	12	
+10–3	3	10–11	11	
+10–4	4	10–10	10	
+10–5	5	10–9	9	
+10–6	6	10–8	8	
+10–7	7	10–7	7	
+10–8	8	10–6	6	
+10–9	9	10–5	5	
+10–10	10	10–4	4	
+10–11	11	10–3	3	
+10–12	12	10–2	2	
+10–13	13	10–1	1	
+10–14	14	100 (1)	0	
+aThe expression pOH is sometimes used to describe the basicity, or OH– concentration, of a solution; pOH is defined by the expression pOH = 2log [OH2], which is analogous to the expression for pH. Note that in all cases, pH + pOH = 14.	
+
+Slide 40:
+pH of Some Common Liquids
+
+Slide 41:
+Dissociation of Weak Electrolytes: 
+Principle
+Weak electrolytes dissociate only partially in water.
+
+The extent of dissociation is determined by the acid dissociation constant Ka.
+
+We can calculate the pH if the Ka is known. But some algebra is needed!
+
+
+
+
+
+Slide 42:
+Dissociation of Weak Electrolytes: Example 
+What is the final pH of a solution when 0.1 moles of acetic acid is added to water to a final volume of 1L?
+0.1 – x                      x              x
+
+
+
+
+
+
+x = 0.001310,     pH = 2.883
+We assume that the only source of H+ is the weak acid.
+
+To find the [H+], a quadratic equation must be solved.
+
+Slide 43:
+Dissociation of Weak Electrolytes: Simplification 
+0.1 – x                     x             x
+    0.1                       x             x
+
+x = 0.00132,     pH = 2.880
+The equation can be simplified if the amount of dissociated species is much less than the amount of undissociated acid.
+Approximation works for sufficiently weak acids and bases.
+Check that x < [total acid].
+
+Slide 44:
+pKa Measures Acidity
+pKa = –log Ka
+
+Slide 45:
+Buffers Are Mixtures of Weak Acids and Their Anions (Conjugate Base)
+
+Buffers resist change in pH.
+At pH = pKa, there is a 50:50 mixture of acid and anion forms of the compound.
+Buffering capacity of acid/anion system is greatest at pH = pKa.
+Buffering capacity is lost when the pH differs from pKa by more than 1 pH unit.
+
+Slide 46:
+
+Slide 47:
+Weak Acids Have Different pKas
+
+Slide 48:
+Henderson–Hasselbalch Equation:
+Derivation
+
+
+HA        H+ + A-
+← 
+→
+
+
+Slide 49:
+Henderson–Hasselbalch Equation: Example
+ 
+
+Slide 50:
+Biological Buffer Systems
+Maintenance of intracellular pH is vital to all cells.
+Enzyme-catalyzed reactions have optimal pH.
+Solubility of polar molecules depends on H-bond donors and acceptors.
+Equilibrium between CO2 gas and dissolved HCO3– depends on pH.
+ 
+Buffer systems in vivo are mainly based on:
+phosphate, concentration in millimolar range
+bicarbonate, important for blood plasma
+histidine, efficient buffer at neutral pH 
+
+Buffer systems in vitro are often based on sulfonic acids of cyclic amines.
+HEPES
+PIPES
+CHES
+
+
+
+Slide 51:
+Water Bound to Proteins Is 
+Essential for Their Function
+
+Slide 52:
+Water Bound to Proteins Is 
+Essential for Their Function
+
+Slide 53:
+Water Bound to Proteins Is 
+Essential for Their Function
+
+Slide 54:
+Chapter 2: Summary
+In this chapter, we learned about the:
+
+nature of intermolecular forces 
+properties and structure of liquid water
+behavior of weak acids and bases in water
+way water can participate in biochemical reactions
+

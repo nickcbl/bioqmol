@@ -1,0 +1,388 @@
+Slide 1:
+
+3 | Amino Acids, Peptides, and Proteins
+© 2017 W. H. Freeman and Company
+
+Slide 2:
+CHAPTER 3 
+ Amino Acids, Peptides, 
+and Proteins
+Structure and naming of amino acids
+Structure and properties of peptides
+Ionization behavior of amino acids and peptides 
+Methods to characterize peptides and proteins
+Learning goals:
+
+Slide 3:
+Proteins: 
+Main Agents of Biological Function
+ Catalysis
+ enolase (in the glycolytic pathway)
+ DNA polymerase (in DNA replication)
+ Transport
+ hemoglobin (transports O2 in the blood)
+ lactose permease (transports lactose across the cell membrane)
+ Structure
+ collagen (connective tissue)
+ keratin (hair, nails, feathers, horns)
+ Motion
+ myosin (muscle tissue)
+ actin (muscle tissue, cell motility)
+
+Slide 4:
+Proteins Serve a Wide Range of 
+Biological Functions
+
+Slide 5:
+Amino Acids: 
+Building Blocks of Protein
+Proteins are linear heteropolymers of α-amino acids.
+
+Amino acids have properties that are well suited to carry out a variety of biological functions:
+capacity to polymerize
+useful acid-base properties
+varied physical properties
+varied chemical functionality
+
+Slide 6:
+Amino Acids Share Many Features, Differing Only at the R Substituent
+
+Slide 7:
+Amino Acids Have Three Common Functional Groups Attached to the α Carbon
+The α carbon always has four substituents and is tetrahedral.
+All (except proline) have:
+an acidic carboxyl group connected to the α carbon
+a basic amino group connected to the α carbon
+an α hydrogen connected to the α carbon
+The fourth substituent (R) is unique in glycine, the simplest amino acid. The fourth substituent is also hydrogen.
+
+Slide 8:
+All Amino Acids Are Chiral (Except Glycine)
+Proteins only contain L amino acids
+
+Slide 9:
+Amino Acids: Classification
+Common amino acids can be placed in five basic groups depending on their R substituents:
+ nonpolar, aliphatic (7)
+ aromatic (3)
+ polar, uncharged (5)
+ positively charged (3)
+ negatively charged (2)
+
+
+Slide 10:
+
+Slide 11:
+These amino acid side chains absorb UV light at 270–280 nm
+
+Slide 12:
+These amino acids side chains can form hydrogen bonds.
+Cysteine can form disulfide bonds.
+
+Slide 13:
+
+Slide 14:
+
+Slide 15:
+Ionization of Amino Acids
+Amino acids contain at least two ionizable protons, each with its own pKa. 
+The carboxylic acid has an acidic pKa and will be protonated at an acidic (low) pH:
+−COOH ↔ COO− + H+
+The amino group has a basic pKa and will be protonated until basic pH (high) is achieved:
+−NH4+ ↔ NH3 + H+
+
+Slide 16:
+Chemical Environment Affects pKa Values
+α-carboxy group is much more acidic than in carboxylic acids.
+α-amino group is slightly less basic than in amines.
+
+Slide 17:
+Ionization of Amino Acids
+At low pH, the amino acid exists in a positively charged form (cation).
+At high pH, the amion acid exists in a negatively charged form (anion).
+Between the pKa for each group, the amino acid exists in a zwitterion form, in which a single molecule has both a positive and negative charge.
+
+
+Slide 18:
+Cation →  Zwitterion  →  Anion
+
+Slide 19:
+Amino Acids Carry a Net Charge of Zero 
+at a Specific pH (the pI)
+Zwitterions predominate at pH values between the pKa values of the amino and carboxyl groups.
+For amino acids without ionizable side chains, the Isoelectric Point (equivalence point, pI) is: 
+		
+
+ At this point, the net charge is zero.
+ AA is least soluble in water.
+ AA does not migrate in electric field. 
+
+
+Slide 20:
+Amino Acids Can Act as Buffers
+Amino acids with uncharged side chains, such as glycine, have two pKa values:
+The pKa of the α-carboxyl group is 2.34.
+The pKa of the α-amino group is 9.6.
+    
+As buffers prevent change in pH close to the pKa, glycine can act as a buffer in two pH ranges.
+
+
+Slide 21:
+Buffer 
+Regions
+
+Slide 22:
+Ionizable Side Chains Also Have pKa and Act as Buffers 
+Ionizable side chains influence the pI of the amino acid.
+Ionizable side chains can be also titrated.
+Titration curves are now more complex, as each pKa has a buffering zone of 2 pH units.
+
+
+Slide 23:
+
+Slide 24:
+How to Calculate the pI When the Side Chain Is Ionizable
+Identify species that carries a net zero charge.
+
+
+
+Identify the pKa value that defines the acid strength of this zwitterion: (pKR).
+Identify the pKa value that defines the base strength of this zwitterion: (pK2).
+Take the average of these two pKa values.
+What is the pI of histidine?
+
+Slide 25:
+Amino Acids Polymerize to Form Peptides 
+Peptides are small condensation products of amino acids.
+They are “small” compared with proteins (Mw < 10 kDa).
+
+Slide 26:
+Peptide Ends Are Not the Same
+Numbering (and naming) starts from the amino terminus (N-terminal).
+AA1           AA2           AA3            AA4           AA5
+
+Slide 27:
+Naming Peptides: 
+Start at the N-terminal
+Using full amino acid names:
+serylglycyltyrosylalanylleucine
+Using the three-letter code abbreviation:
+Ser-Gly-Tyr-Ala-Leu
+For longer peptides (like proteins) the one- letter code can be used:
+SGYAL
+
+Slide 28:
+Peptides: A Variety of Functions
+ Hormones and pheromones
+ insulin (think sugar metabolism)
+ oxytocin (think childbirth)
+ sex-peptide (think fruit fly mating)
+ Neuropeptides
+ substance P (pain mediator)
+ Antibiotics
+ polymyxin B (for Gram – bacteria)
+ bacitracin (for Gram + bacteria)
+ Protection, e.g., toxins
+ amanitin (mushrooms)
+ conotoxin (cone snails)
+ chlorotoxin (scorpions)
+
+
+Slide 29:
+Proteins are comprised of: 
+ Polypeptides (covalently linked α-amino acids) + possibly: 
+ cofactors 
+functional non-amino acid component
+metal ions or organic molecules
+ coenzymes
+organic cofactors
+ NAD+ in lactate dehydrogenase
+ prosthetic groups
+covalently attached cofactors 
+heme in myoglobin
+ other modifications (posttranslational modifications)
+
+Slide 30:
+Uncommon Amino Acids in Proteins
+Not incorporated by ribosomes
+except for selenocysteine
+Arise by posttranslational modifications of proteins
+Reversible modifications, especially phosphorylation, are important in regulation and signaling.
+
+
+
+Slide 31:
+Modified Amino Acids Found in Proteins
+
+Slide 32:
+Reversible Modifications of Amino Acids
+
+Slide 33:
+Polypeptide Size and Number 
+Varies Greatly in Proteins
+TABLE 3-2	Molecular Data on Some Proteins	
+Protein	Molecular weight	Number of residues	Number of polypeptide chains	
+Cytochrome c (human)	12,400	104	1	
+Ribonuclease A (bovine pancreas)	13,700	124	1	
+Lysozyme (chicken egg white)	14,300	129	1	
+Myglobin (equine heart)	16,700	153	1	
+Chymotrypsin (bovine pancreas)	25,700	245	1	
+Chymotrypsinogen (bovine)	25,700	245	1	
+Hemoglobin (human)	64,500	574	4	
+Serum albumin (human)	66,000	609	1	
+Hexokinase (yeast)	107,900	972	2	
+RNA polymerase (E. coli)	450,000	4,158	5	
+Apolipoprotein B (human)	513,000	4,536	1	
+Glutamine synthetase (E. coli)	619,000	5,628	12	
+Titin (human)	2,993,000	26,926	1	
+
+Slide 34:
+Conjugated Proteins Are Covalently Bound to a Nonprotein Entity
+TABLE 3-4	Conjugated Proteins	
+Class	Prosthetic group	Example	
+Lipoproteins 	Lipids	β1-Lipoprotein of blood	
+Glycoproteins	Carbohydrates	Immunoglobulin G	
+Phosphoproteins	Phosphate groups	Casein of milk	
+Hemoproteins	Heme (iron porphyrin)	Hemoglobin	
+Flavoproteins	Flavin nucleotides	Succinate dehydrogenase	
+Metalloproteins	Iron
+Zinc
+Calcium
+Molybdenum
+Copper	Ferritin
+Alcohol dehydrogenase
+Calmodulin
+Dinitrogenase
+Plastocyanin	
+
+Slide 35:
+Common Questions About Peptides and Proteins
+What is its sequence and composition?
+What is its three-dimensional structure?
+How does it find its native fold?
+How does it achieve its biochemical role?
+How is its function regulated?
+How does it interact with other macromolecules?
+How is it related to other proteins?
+Where is it localized within the cell?
+What are its physico-chemical properties?
+
+Slide 36:
+Studying Proteins and Peptides Sometimes Requires Purification from a Mixture
+Polypeptides contain differing amino acid sequences.
+The sequence and arrangement of amino acids gives the polypeptide a chemical character (i.e., charged, polar, hydrophobic, etc.).
+Some polypeptides bind specific targets, which can be used to “fish them out” of a complex mixture.
+
+
+Slide 37:
+A Mixture of Proteins Can Be Separated
+Separation relies on differences in physical and chemical properties:
+charge
+size
+affinity for a ligand
+solubility
+hydrophobicity
+thermal stability
+Chromatography is commonly used for preparative separation in which the protein is often able to remain fully folded.
+
+
+Slide 38:
+Column Chromatography
+Column chromatography allows separation of a mixture of proteins over a solid phase (porous matrix) using a liquid phase to mobilize the proteins.
+Proteins with a lower affinity for the solid phase will wash off first; proteins with higher affinity will retain on the column longer and wash off later.
+
+Slide 39:
+Separation by Charge: Ion Exchange 
+
+Slide 40:
+Separation by Size: Size Exclusion
+
+Slide 41:
+Separation by Binding: Affinity
+
+Slide 42:
+Electrophoresis for Protein Analysis
+Separation in analytical scale is commonly done by electrophoresis.
+The electric field pulls proteins according to their charge.
+The gel matrix hinders mobility of proteins according to their size and shape.
+The gel is commonly polyacrylamide, so separation of proteins via electrophoresis is often called polyacrylamide gel electrophoresis, or PAGE.
+
+Slide 43:
+
+Slide 44:
+SDS PAGE Separates Proteins by Molecular Weight
+SDS – sodium dodecyl sulfate – a detergent
+
+
+
+
+SDS micelles bind to proteins and facilitate unfolding.
+SDS gives all proteins a uniformly negative charge.
+The native shape of proteins does not matter.
+The rate of movement will only depend on size: small proteins will move faster.
+
+Slide 45:
+
+Slide 46:
+SDS-PAGE Can Be Used to Calculate the Molecular Weight of a Protein
+
+Slide 47:
+Isoelectric Focusing Can Be Used to Determine the pI of a Protein
+
+Slide 48:
+Isoelectric Focusing and SDS-PAGE Are Combined in 2D Electrophoresis
+
+Slide 49:
+Aromatic Amino Acids Absorb Light in a Concentration-Dependent Manner
+The aromatic amino acids absorb light in the UV region.
+Proteins typically have UV absorbance maxima around 275–280 nm.
+Tryptophan and tyrosine are the strongest chromophores.
+For proteins and peptides with known extinction coefficients (or sequences), concentration can be determined by UV-visible spectrophotometry using the Lambert-Beer law:    A = εcl
+		
+
+Slide 50:
+
+Slide 51:
+
+Specific Activity Describes the Purity of the Protein of Interest
+Proteins in a complex mixture often require more than one purification to completely isolate the protein of interest.
+During purification, determination of the location of the protein of interest can be performed by tracking its behavior.
+If a protein has a specific function (e.g., binding insulin), the fraction that binds insulin best after each purification step will contain the most of the protein of interest.
+The function of the protein is called the “activity.”
+The ratio of activity to total protein concentration is called the “specific activity.”
+
+Slide 52:
+Specific Activity Describes the Purity of the Protein of Interest
+
+Slide 53:
+Protein Sequencing
+It is essential to further biochemical analysis that we know the sequence of the protein we are studying.
+The actual sequence is generally determined from the DNA sequence.
+Edman degradation (classical method):
+successive rounds of N-terminal modification, cleavage, and identification
+can be used to identify protein with known sequence
+Mass spectrometry (modern method):
+MALDI MS and ESI MS can precisely identify the mass of a peptide, and thus the amino acid sequence
+can be used to determine posttranslational modifications
+
+Slide 54:
+Edman’s Degradation for Protein Sequencing
+
+Slide 55:
+MALDI-MS for Protein Sequencing
+
+Slide 56:
+Protein Sequences as Clues to Evolutionary Relationships
+Sequences of proteins with identical functions from a wide range of species can be aligned and analyzed for differences.
+Differences indicate evolutionary divergences.
+Analysis of multiple protein families can indicate evolutionary relationships between organisms, ultimately the history of life on Earth.
+
+Slide 57:
+Chapter 3: Summary
+In this chapter, we learned about the:
+
+many biological functions of peptides and proteins
+structures and names of amino acids found in proteins 
+ionization properties of amino acids and peptides
+methods for separation and analysis of proteins
+

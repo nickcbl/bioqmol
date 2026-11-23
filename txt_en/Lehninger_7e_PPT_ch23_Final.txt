@@ -1,0 +1,911 @@
+Slide 1:
+
+23| Hormonal Regulation and Integration of Mammalian Metabolism
+© 2017 W. H. Freeman and Company
+
+Slide 2:
+CHAPTER 23 
+Hormonal Regulation and Integration of Mammalian Metabolism
+Basics of endocrine signaling
+Hormonal regulation of fuel metabolism: insulin
+Obesity
+Learning goals: 
+
+Slide 3:
+Metabolism at the Organism Level
+In previous lectures, we focused on metabolism at the cellular level.
+role and mechanism of specific enzymes
+flux of metabolites through pathways
+feedback regulation of metabolic pathways
+transport of metabolites across organelle membranes
+In this chapter, we will focus on metabolism at the whole organism level.
+role and structure of specific tissues and organs
+flux of metabolites from organ to organ
+hormonal regulation of metabolism
+control of body mass
+
+Slide 4:
+Neuronal versus Hormonal Signaling
+In neuronal signaling, nerve cells release neurotransmitters that act on nearby cells.	 Distance may be small (<1 μm).
+In hormonal signaling, hormones are carried by the bloodstream to nearby cells or other organs. Distance may be great (1 m or more).
+
+Slide 5:
+Challenges in Detection and Quantification of Hormones
+Produced in small amounts, so it is difficult to purify in appreciable quantity.
+Chemical analysis of thyrotropin-releasing hormone (TRH) from pigs required one million hypothalmuses (1,000,000 pigs).
+The radioimmunoassay (RIA) was developed to be a more sensitive way to measure hormones using radiolabeled antibodies.
+
+Slide 6:
+Methods in Detection and Quantification of Hormones
+Purified hormone is injected into an animal.
+The animal makes an antibody to the hormone.
+The antibody is purified and labeled with radioactive tag (for RIA) or an enzyme that produces a colored product (for ELISA).
+For a quantitative assay, a known amount of tagged antibody is added to a sample.
+The fraction of the antibody bound is measured via photometry (for ELISA) or radiation detection (for RIA).
+
+
+Slide 7:
+Hormone-Receptor Interactions Are Specific and High-Affinity
+Different types of cells have different sets of receptors.
+Different cells with the same receptor can have different downstream effects.
+Even structurally similar hormones can bind different receptors.
+Interactions are high-affinity so that only low amounts of hormone are needed.
+
+Slide 8:
+Five Types of “Downstream” Events Following Hormone Binding
+A secondary messenger (cAMP; inositol triphosphate, IP3) is released inside the cell.
+ allosterically regulates enzymes
+A receptor Tyr kinase is activated.
+A hormone-gated ion channel is opened or closed.
+resulting in changes in membrane potential
+An adhesion receptor sends information to the cytoskeleton. 
+A steroid bound to receptor protein in the nucleus alters gene expression.
+resulting in changes in membrane potential
+
+
+Slide 9:
+Hormones Can Be Extracellular or Intracellular
+
+Slide 10:
+Peptide and Amine Hormones Bind Extracellularly
+Insulin is a peptide hormone; epinephrine (adrenaline) is an amine hormone.
+They bind to receptors that span the membrane and induce conformational change that produces a second messenger.
+It results in signal amplification and many targets.
+
+Slide 11:
+Three Classes 
+of Mammalian Hormones
+This classification is based on path from release to target.
+Paracrine:  released into extracellular space, diffuse to neighboring target
+example: eicosanoids
+ Endocrine:  released to blood, carried to target cells
+example: insulin, glucagon
+Autocrine:  affect the cell where they’re produced (but bind to surface receptors)
+
+Slide 12:
+Additional Classification of Hormones Based on Chemical Structure
+
+Slide 13:
+Insulin Is a Peptide Hormone
+Peptide hormones include insulin, glucagon, somatostatin, and so on.
+Insulin is:
+synthesized on ribosome of β cells as preproinsulin and processed into the 5.8 kDa active form 
+stored in secretory vesicles in β cells 
+
+
+Slide 14:
+Conversion of Preproinsulin to Proinsulin and Mature Insulin
+
+Slide 15:
+Peptide Hormone Insulin
+It is secreted in response to increased blood glucose levels.
+It binds to receptors in muscle, the brain, the liver, adipose tissue, and other fuel-metabolizing tissues.
+In muscle, insulin facilitates glucose uptake.
+In the liver, insulin promotes glycogen synthesis.
+In adpocytes, insulin promotes glycerol synthesis and inhibits breakdown of fats.
+
+Slide 16:
+Some Peptide Pro-Hormones Can Yield Multiple Products
+Pro-Opiomelanocortin (POMC)
+
+It has at least eight different cleavage sites.
+It produces at least 10 different peptide hormones.
+includes β-endorphin, malanocyte-stimulating hormones
+Mutations in the POMC gene are associated with obesity.
+
+Slide 17:
+Proteolytic Processing of POMC
+
+Slide 18:
+Epinephrine and Norepinephrine Are Catecholamine Hormones
+Synthesized in adrenal glands
+Synthesized from the amino acid L-tyrosine
+Concentrated in storage vesicles and released
+like peptide hormones 
+Bind to extracellular receptors to generate secondary messengers
+like peptide hormones
+
+
+Catechol
+Epinephrine
+Norepinephrine
+
+Slide 19:
+Eicosanoid Hormones Are Not Synthesized in Advance
+Include prostaglandins, thromboxanes, and leukotrienes
+Produced when needed from arachidonic acid via phospholipase A2
+Paracrine hormones (act nearby)
+Play a role in inflammation, smooth muscle contraction, platelet function
+
+
+Slide 20:
+Steroid Hormones Are Made from Cholesterol
+Includes cortisol, testosterone, estradiol
+Bind to carrier proteins to travel through the bloodstream
+Enter cell nucleus; bind to nuclear receptor to alter gene expression
+Some may also bind to a plasma receptor.
+
+Slide 21:
+Vitamin D Hormone Also Binds to a Nuclear Receptor
+It is obtained from food or from photolysis of 7-dehydrocholesterol in sun-exposed skin.
+Calcitrol (1α,25-dihydroxycalcitrol) is the active form.
+It affects the transcription of genes that regulate [Ca2+] and the balance between Ca2+ deposition and removal from bone.
+
+Slide 22:
+Retinoid Hormones Also Bind to Nuclear Receptor
+They derive from vitamin A1 (retinol), which derive from β-carotene.
+All cells have at least one form of retinoid receptor.
+The hormone-receptor complex regulates genes governing cell growth and differentiation.
+They are most active in cells experiencing rapid growth (lung epithelia, skin, immune system, cornea, etc.).
+
+Slide 23:
+Thyroid Hormones Also Bind Nuclear Receptors
+T3 (triiodothyronine) has three iodines at Tyr residues.
+T4 (thyroxine) has four iodines.
+Precursor thyroglobulin → yields T4, which is converted to T3.
+The receptor-hormone complex increases expression of enzymes that yield energy.
+T4
+T3
+
+Slide 24:
+Nitric Oxide Interacts with an Intracellular Receptor
+NO is a free radical made from arginine and O2 by NO synthase.
+It acts near its point of release.
+It enters the target cell and activates guanylyl cyclase to increase cGMP.
+leads to activation of cGMP-dep protein kinase
+leads to relaxation of contractile proteins in smooth muscle of blood vessels
+	→lowers blood pressure
+
+
+Slide 25:
+The Major Endocrine Glands
+Brain: hypothalmus, pituitary
+Thyroid, parathyroid
+Adipose (fat) tissue
+Adrenals (on top of the kidneys)
+Pancreas
+Ovaries/Testes
+
+Slide 26:
+Division of Labor of Tissues
+
+Slide 27:
+Hormones and Target Tissues
+
+Slide 28:
+Top Down versus Bottom Up Hormonal Signaling
+Top down
+Some signals originate in the brain, and the signal is sent out to the body.
+examples: oxytocin, vasopressin, cortisol
+Bottom up
+Some signals originate from elsewhere in the body and send messages to the brain.
+examples: epinepherine (adrenaline), insulin, leptin
+
+Slide 29:
+The Hypothalamus Is the Coordination Center of the Endocrine System
+The hypothalamus is a small region of the forebrain in animals with skulls.
+It receives and integrates nerve signals from the central nervous system.
+It synthesizes the small peptide hormones oxytocin and vasopressin.
+It synthesizes several factors that regulate the function of the anterior pituitary.
+
+Slide 30:
+Pituitary Release of Hormones Target Other Glands 
+The posterior pituitary (neurohypophysis) contains the end of axons from the hypothalmus.
+produces short peptide hormones made in the hypothalmus (vasopressin, oxytocin)
+The anterior pituitary (adenohypophysis) is the endocrine organ that receives releasing factors from the hypothalamus via blood vessels.
+produces long peptide hormones called tropins
+activates second targets: adrenal cortex, thyroid, ovaries/testes
+
+Slide 31:
+
+Slide 32:
+Posterior Pituitary Hormones Oxytocin and Vasopressin
+Oxytocin promotes: 
+contraction of smooth muscle of the uterus during labor
+milk release from the mammary gland
+Vasopressin promotes:
+water reabsorption in kidneys to maintain salt balance
+constriction of blood vessels; increases blood pressure
+
+Both hormones:
+play roles in social behavior such as pair bonding; these CNS effects do not involve pituitary secretion
+
+Slide 33:
+Two Hormones of the Posterior Pituitary Gland: Oxytocin and Vasopressin
+
+Slide 34:
+Hypothalamic Cortisol Cascade
+Fear, infection, hypoglycemia, and so on send electric signal to the hypothalmus. 
+→ ~ng of corticotropin-releasing hormone
+→ anterior pituitary releases μg corticotropin
+→ adrenal gland releases mg cortisol
+The cortisol end-product feeds back and can inhibit these steps.
+
+Slide 35:
+Bottom Up Signaling Requires Tissue-Specific Responses to Fuel
+The portal vein carries nutrients to the liver.
+Hepatocytes turn nutrients into fuel.
+Hepatocyte enzymes turn over quickly.
+Enzymes increase or decrease with changes in diet and the needs of other tissues.
+
+
+Slide 36:
+The Liver Adapts to Changing Metabolic Conditions
+The portal vein carries nutrients to the liver.
+Hepatocytes turn nutrients into fuel.
+Hepatocyte enzymes turn over quickly.
+Enzymes increase or decrease with changes in diet and the needs of other tissues.
+
+
+Slide 37:
+Carbohydrate Sensing and Processing in the Liver
+Glucose, fructose, galactose, and mannose convert to glucose-6-phosphate (G6p).
+G6p is the “transfer station” in the liver.
+can be made by multiple pathways
+can have multiple metabolic fates
+Hepatocytes have GLUT2 transporter.
+allows passive diffusion of glucose in and out
+Hepatocytes have glucokinase (hexokinase IV).
+has higher Km than other hexokinases
+10 mM versus 4 mM 
+So g6p isn’t made when glucose low (other tissues need it).
+not inhibited by g6p
+So g6p can be made continually.
+
+
+Slide 38:
+Fates Available to G6p in the Liver
+Dephosphorylate to yield free glucose to send to other tissues
+Make into liver glycogen
+Enter glycolysis, make acetyl CoA and then ATP for hepatocytes themselves
+Enter glycolysis, make acetyl CoA to be made into fatty acids and then TAGs
+Enter pentose phosphate pathway to yield NADPH and ribose-5-phosphate
+
+
+Slide 39:
+Fates for Glucose 6-Phosphate in the Liver
+
+Dephosphorylate to yield free glucose to send to other tissues
+Make into liver glycogen
+Enter glycolysis, make acetyl CoA and then ATP for hepatocytes themselves
+Enter glycolysis, make acetyl CoA to be made into fatty acids and then TAGs
+Enter pentose phosphate pathway to yield NADPH and ribose-5-phosphate
+
+
+Slide 40:
+Metabolism of Amino Acids in the Liver
+
+Make into proteins for liver and other tissues
+Make into hormones, nucleotides
+Make into CAC intermediates or pyruvate:
+for gluconeogenesis
+convert pyruvate to acetyl-CoA for:
+liver cell energy
+conversion to lipids
+
+
+Slide 41:
+Fates Available to Fatty Acids (FA) in the Liver
+Use FA to synthesize liver lipids
+Oxidize FA to acetyl-CoA and NADH 
+→ CAC and oxphos → ATP
+FA are primary fuel for liver
+excess acetyl-CoA → ketone bodies for brain, heart, and so on in carbohydrate restriction, fasting
+some acetyl-CoA → cholesterol
+Convert FA to phospholipids
+Convert FA to TAGs for storage
+Carry FA to heart and muscle for oxidation
+
+Slide 42:
+Metabolism of Fatty Acids in the Liver
+
+
+Slide 43:
+Ketone Bodies Are Made from Acetyl-CoA
+Include β-hydroxybutyrate, aceteoacetate, and acetone
+Made when oxaloacetate pools are insufficient to condense with acetyl-CoA
+Can enter brain (unlike most FA, which are bound to serum albumin)
+Are oxidized for energy in the place of or to supplement glucose
+Can provide up to 70% of energy for heart during prolonged fasting
+
+Slide 44:
+Composition of Two Types of Fat Tissue
+White adipose tissue (WAT)
+made of large spherical cells (30–70 μm) filled with one lipid droplet
+mitochondria and nucleus are squeezed to a layer near membrane
+Brown adipose tissue (BAT)
+smaller (20−40 μm), not round
+have several lipid droplets
+have more mitochondria 
+More cytochrome content gives it a brown color.
+
+Slide 45:
+Adipocytes of WAT and BAT
+
+
+Slide 46:
+Two Types of Fat Function
+WAT serves as fuel storage
+BAT expresses uncoupling protein UCP1 (thermogenin)
+allows H+ gradient in mitochondrial to be dissipated
+energy released as heat → process called thermogenesis
+keeps organs warm in low-temp environments
+BAT primarily in newborns, around kidneys, spine, and so on
+
+Slide 47:
+Distribution of BAT 
+
+Slide 48:
+Brown Adipose Tissue Can Be Synthesize—Even in Adults 
+At birth, BAT is abundant.
+surrounds organs, provides warmth during adaptation to ambient temperature
+BAT declines in childhood. 
+But preadipocytes, even in adults, can be induced to become BAT.
+via cold exposure
+
+Slide 49:
+Functions of Adipocytes
+Carry out glycolysis through oxidative phosphorylation
+Convert acetyl-CoA into fatty acids
+But in humans, the liver is the preferred place for FA synthesis.
+Use FA to make TAGs
+from intestinal lipids via chylomicrons
+from the liver via VLDL
+Release FA when other tissues need them
+skeletal muscle, heart
+
+Slide 50:
+Hormones Work Quickly on Adipocytes
+Accelerated by epinephrine
+It gives hormone-sensitive lipase (HSL) access to lipid droplets.
+Lipases hydrolyze TAGs to release FA.
+Insulin inhibits lipase access.
+
+Slide 51:
+Muscle (Myocytes)—Two Types
+Slow-twitch (red muscle)
+fed by many blood vessels
+rich in mitochondria
+to provide energy via slow and steady oxphos
+Fast-twitch (white muscle)
+fewer mitochondria and lower O2 delivery
+uses ATP faster and fatigues faster due to greater demands (more tension, etc.) combined with reduced O2 delivery
+Endurance training can increase mitochondria.
+
+Slide 52:
+Energy Sources for Muscle Contraction
+
+
+Slide 53:
+Sources of ATP for Skeletal Muscle
+Muscle glycogen → glucose 6-phosphate
+yields 3 ATPs, not 2 (as in glycolysis)
+glycogen breakdown skips ATP-dependent hexokinase reaction
+pyruvate → lactate to create NAD+ to enable glycolysis to continue
+Phosphocreatine 
+acted on by creatine kinase to release ATP
+
+Slide 54:
+Phosphocreatine Buffers ATP Concentration During Exercise
+
+
+Slide 55:
+Hormonal Control of Glycogen Mobilization
+Epinephrine cascade stimulates glycogen phosphorylase
+breaks down glycogen in muscle and the liver
+
+Slide 56:
+O2 Debt
+After vigorous exercise, rapid breathing continues.
+used for oxidative phosphorylation to build proton gradient and replenish ATP
+ATP used for gluconeogenesis to use up lactate and restore muscle glycogen concentrations (i.e., Cori cycle)
+
+
+Slide 57:
+The Cori Cycle
+
+
+Slide 58:
+Heart Muscle versus Skeletal Muscle
+Heart muscle has more mitochondria.
+~50% of cell volume
+It is fueled primarily by fatty acids.
+some ketones, some glucose, some phosphocreatine
+It is an aerobic organ; if the O2 supply is cut off, the muscle dies. 
+	→myocardial infarction
+
+Slide 59:
+Electron Micrograph of Heart Muscle
+
+
+Slide 60:
+The Mammalian Brain Consumes About 20% of Available O2 Supply at Rest
+The brain is made of neurons and glial cells.
+Metabolism uses ~130 g glucose/day.
+It is highly dependent on glucose.
+can use β-hydroxybutyrate (ketone body)
+astrocytes can use fatty acids
+ATP is used to maintain electrical potential across membranes of neurons.
+especially the Na+-K+-ATPase
+
+Slide 61:
+Fuels for the Brain
+
+
+Slide 62:
+Composition of Blood
+
+Average adult has 5−6 L
+~50% of volume is erythrocytes
+lose mitochondria, rely on glycolysis
+Isotonic and maintains concentration gradient (homeostasis) 
+~140 mM Na+, 5 mM K+, 2.5 mM Ca2+ 
+
+Slide 63:
+Physiological Effects of Low Blood Glucose in Humans
+
+Blood glucose is ideally kept at ~4.5 mM (60−90 mg/dL), with some fluctuation occurring after a meal.
+
+Slide 64:
+Insulin Stimulates Conversion of Excess Glucose to Glycogen and/or TAGs  
+Insulin stimulates glucose uptake in muscle and fat.
+glucose → G6p
+Glycolysis begins when G6p concentrations rise and produce acetyl-CoA.
+In the liver, insulin stimulates glycogen synthase and inactivates glycogen phosphorylase.
+G6p → G1p → UDP-glucose → glycogen
+Also in the liver, insulin stimulates fatty acid synthesis from excess acetyl-CoA.
+acetyl-CoA → TAG, exported by VLDL
+In fat, insulin stimulates TAG assembly.
+Glucose 6-phosphate → glycogen
+
+Slide 65:
+
+TABLE 23-3	Pathways of Carbohydrate, Amino Acid, and Fat Metabolism Illustrated in Earlier Chapters	
+Pathway	Figure reference(s)	
+Citric acid cycle: acetyl-CoA → 2CO2	16-7	
+Oxidative phosphorylation: ATP synthesis	19-19	
+Carbohydrate catabolism		
+Glycogenolysis: glycogen → glucose 1-phosphate → blood glucose	15-27; 15-28	
+Hexose entry into glycolysis: fructose, mannose, galactose → glucose 6-phosphate	14-11	
+Glycolysis: glucose → pyruvate	14-2	
+Pyruvate dehydrogenase reaction: pyruvate → acetyl-CoA	16-2	
+Lactic acid fermentation: glucose → lactate + 2ATP	14-4	
+Pentose phosphate pathway: glucose 6-phosphate → pentose phosphates + NADPH	4-22	
+Carbohydrate anabolism		
+Gluconeogenesis: citric acid cycle intermediates → glucose	14-17	
+Glucose-alanine cycle: glucose → pyruvate → alanine → glucose	18-9	
+Glycogen synthesis: glucose 6-phosphate → glucose 1-phosphate → glycogen	15-32	
+
+Slide 66:
+TABLE 23-3	Pathways of Carbohydrate, Amino Acid, and Fat Metabolism Illustrated in Earlier Chapters	
+Pathway	Figure reference(s)	
+Amino acid and nucleotide metabolism		
+Amino acid degradation: amino acids → acetyl-CoA, citric acid cycle intermediates	18-15	
+Amino acid synthesis	22-11	
+Urea cycle: NH3 → urea	18-10	
+Glucose-alanine cycle: alanine → glucose	18-9	
+Nucleotide synthesis: amino acids → purines, pyrimidines	22-35; 22-38	
+Hormone and neurotransmitter synthesis	22-31	
+Fat catabolism		
+β Oxidation of fatty acids: fatty acids → acetyl-CoA	17-8	
+Oxidation of ketone bodies: β-hydroxybutyrate → acetyl-CoA → CO2 via citric acid cycle	17-19	
+Fat anabolism		
+Fatty acid synthesis: acetyl-CoA → fatty acids	21-6	
+Triacylglycerol synthesis: acetyl-CoA → fatty acids → triacylglycerol	21-17 to 21-19	
+Ketone body formation: acetyl-CoA → acetoacetate, β-hydroxybutyrate	17-18	
+Cholesterol and cholesteryl ester synthesis: acetyl-CoA → cholesterol → cholesteryl esters	21-33 to 21-38	
+Phospholipid synthesis: fatty acids ¡ phospholipids	21-17; 21-23 to 21-28	
+
+Slide 67:
+The Well-Fed Lipogenic Liver
+
+
+Slide 68:
+Specialized Pancreatic Cells Secrete Important Hormones
+α cells − secrete glucagon
+β cells − secrete insulin
+δ cells – secrete somatostatin
+These cells are found in the islets of Langerhans in the pancreas.
+
+
+Slide 69:
+Glucose Regulation of Insulin Secretion
+
+Glucose enters β cells via GLUT2.
+enters glycolysis, [ATP] increases
+ATP binds to ATP-gated K+ channels.
+K+ channels close, depolarize the plasma membrane
+Triggers opening of voltage-gated Ca2+ channels
+↑Ca2+ in cytosol triggers release of insulin by exocytosis
+
+Slide 70:
+ATP-Gated K+ Channels Are the Target of Sulfonylurea Drugs
+The K+ channel is an octamer of 4 SUR1 subunits and 4 Kir6.2 subunits.
+SUR = Sulfonylurea receptor)
+See Figure 23-28.
+Sulfonyurea drugs close the K+ channel artificially and stimulate insulin secretion.
+used to treat type 2 diabetes
+overcome insulin resistance via more insulin secretion
+
+Slide 71:
+Sulfonylurea Drugs Inhibit Na+K+-ATPases
+General formula of a sulfonylurea
+
+
+
+Slide 72:
+Glucagon Raises Blood Glucose
+Works via cAMP-mediated cascades
+in liver, activates glycogen phosphorylase, inactivates glycogen synthase
+in liver, reduces [F2,6BP] so inhibits glycolysis, stimulates gluconeogenesis
+inhibits pyruvate kinase 	
+prevents phosphoenolpyruvate from being converted to acetyl-CoA
+accumulation of phosphoenolpyruvate favors gluconeogenesis
+stimulates PEPCK for gluconeogenesis
+
+Slide 73:
+Glucagon Affects Adipose Tissue to Spare Glucose for the Brain
+Also via cAMP cascades
+At adipose tissue, activates TAG hydrolysis
+phosphorylates perilipin to expose the lipid droplet to lipases
+activates hormone-sensitive lipase 
+Results in fatty acid transport to other tissues so that glucose is spared for the brain
+
+Slide 74:
+The Fasting, Glucogenic Liver
+
+Slide 75:
+
+TABLE 23-4	Effects of Insulin on Blood Glucose: Uptake of Glucose by Cells and Storage as Triacylglycerols and Glycogen	
+Metabolic effect	Target Enzyme	
+↑ Glucose uptake (muscle, adipose)	↑ Glucose transporter (GLUT4)	
+↑ Glucose uptake (liver)	↑ Glucokinase (increased expression)	
+↑ Glycogen synthesis (liver, muscle)	↑ Glycogen synthase	
+↓ Glycogen breakdown (liver, muscle)	↓ Glycogen phosphorylase	
+↑ Glycolysis, acetyl-CoA production
+(liver, muscle)	↑ PFK-1 (by PFK-2)
+↑ Pyruvate dehydrogenase complex	
+↑ Fatty acid synthesis (liver)	↑ Acetyl-CoA carboxylase	
+↑ Triacylglycerol synthesis (adipose tissue)	↑ Lipoprotein lipase	
+
+Slide 76:
+Epinephrine versus Glucagon
+Epinephrine stimulates the same cAMP cascades as glucagon in fat and liver but…
+also stimulates glucagon secretion itself and inhibits insulin secretion
+breaks down muscle glycogen as well as liver glycogen
+stimulates glycolysis and therefore lactate formation
+raises [F26BP] to stimulate PFK-1
+
+Slide 77:
+Fuel Use over Four Hours of Normal Human Metabolism
+Immediately after a meal, glucose increases.
+Insulin stimulates glycolysis and glycogen synthesis.  
+Two or more hours postprandial, blood glucose begins to drop.
+Glycogen is secreted, and liver glycogen releases glucose.
+Four hours postprandial, more glucagon, more TAG hydrolysis, and FA become fuel for muscle and the liver.
+
+Slide 78:
+Effects of Prolonged Fasting
+Muscle begins to be used for fuel.
+The liver deaminates or transaminates amino acids.
+converts amino groups to urea
+C skeletons of glucogenic amino acids converted to pyruvate, then glucose via gluconeogenesis
+provides glucose for brain
+FA is oxidized to acetyl-CoA, but oxaloacetate is depleted to make glucose, so ketone bodies are formed.
+exported to other tissues
+reduction in blood pH (e.g., ketoacidosis)
+
+
+Slide 79:
+Fuel Metabolism in Prolonged Fasting or Type 1 Diabetes
+
+
+Slide 80:
+Plasma Levels of Fatty Acids, Glucose, and Ketone Bodies During a One-Week Fast
+
+
+Slide 81:
+Cortisol (a Stress Hormone) Acts on Liver, Fat, and Muscle
+Promotes FA and glucose release in response to pain, anxiety, fear, infection, low blood glucose, and so on
+Changes type and levels of enzymes, rather than activating existing enzymes
+in fat, increases FA and glycerol release
+in liver, stimulates synthesis of PEPCK for gluconeogenesis
+in muscle, breaks down protein to export aa to liver for gluconeogenesis
+
+Slide 82:
+More Effects of Cortisol
+Counteracts effects of insulin
+Continued release of cortisol leads to “adrenal fatigue”
+effects of cortisol are lessened
+cortisol release may be compromised
+can ultimately damage bone, muscle, immune system, and other hormone function
+
+Slide 83:
+Two Forms of  Diabetes Mellitus
+Type 1:  insufficient production of insulin
+usually due to autoimmune destruction of β cells
+usually develops early in life  
+used to be called insulin-dependent or juvenile diabetes
+Type 2:  insulin resistance
+usually develops in late adulthood
+usually associated with obesity
+cells don’t respond appropriately to insulin
+
+Slide 84:
+Diabetes Symptoms
+In both forms of diabetes, blood sugar becomes elevated.
+The body tries to dilute the glucose, leading to excessive urination and thirst.
+In type 1, fat breakdown is accelerated, which leads to high production of ketone bodies.
+Some of the ketones are ketoacids, which raise blood [H+], leading to ketoacidosis.
+The bicarbonate buffering system is activated, leading to altered breathing.
+The breakdown of ketone body acetoacetate produces acetone, which is expelled via the breath.
+Untreated diabetes leads to dramatic weight loss.
+
+Slide 85:
+Physiological Effects of Blood Glucose Levels
+Blood glucose is normally determined after several hours of fasting.
+A high fasting blood glucose level (126 or higher) is a warning sign for diabetes.
+A low fasting blood glucose level below 50 (in men) or 40 are warning signs of various hypoglycemic conditions.
+Blood glucose levels after a meal (postprandial) are typically higher (up to 145 mg/100 mL is normal).
+
+Slide 86:
+Long-Term Effects of Elevated Blood Sugar
+Proteins can be glycosylated, especially at free amino groups.
+Hemoglobin is abundant, has many exposed amino groups during formation, and entry of glucose into erythrocytes is not regulated.
+hence, Hb easily glycosylated
+compromises O2 delivery, especially in extremities (feet, etc.)
+It increases the risk of cardiovascular disease, renal failure, and damage to small blood vessels and nerves.
+
+Slide 87:
+Adipose Tissue Releases Adipokines
+Adipose tissue is also an endocrine organ.
+It releases peptide hormones called adipokines.
+carry information about fuel stores to brain
+include leptin, adiponectin
+
+Slide 88:
+Leptin Is an Appetite Suppressant
+Sent from adipose tissue to the brain
+reduces appetite
+First identified in obese mice, product of OB gene
+Homozygous ob/ob mice ate continually, had elevated cortisol, shivered, did not reproduce, had insulin resistance, and were obese.
+When leptin was injected, the mice lost weight, temperature returned to normal 
+
+Slide 89:
+Leptin-Deficient Mice: Untreated versus Treated with Leptin
+
+Slide 90:
+Defects in the Leptin Receptor Also Produced Obese Mice
+The DB gene encodes the leptin receptor in the brain.
+senses leptin sent from adipose tissue
+Db/db (heterozygous) mice were obese and diabetic.
+expressed mostly in the hypothalmus
+associated with eating behavior
+
+Slide 91:
+Leptin Affects Two Types of Appetite-Related Hormones
+Neuropeptide Y (NPY) is an orexigenic (appetite-stimulating) hormone.
+sends signal to eat
+levels rise in starvation
+levels rise in ob/ob and db/db mice
+inhibited by leptin and insulin
+α-melanocyte-stimulating hormone (α-MSH) is an anorexigenic (appetite-suppressing) hormone.
+sends signal to stop eating
+release stimulated by leptin
+
+
+Slide 92:
+Hypothalmic Regulation of Food Intake and Energy Expenditure
+
+Slide 93:
+Leptin Increases Transcription of Gene Yielding α-MSH
+  
+Leptin receptor dimerizes when leptin binds.
+A Janus kinase (JAK) phosphorylates 2 Tyr in the receptor dimer.
+receptor becomes docking site for STAT3, STAT5, STAT6 (Signal Tranducers and Activators of Transcription)
+STATs phosphorylated by the same JAK
+STATs dimerize, move to the nucleus, and stimulate transcription.
+Leptin increases transcription of the gene for the precursor to the anorexigenic α-MSH.
+
+Slide 94:
+The JAK-STAT Mechanism of Leptin Signal Transduction
+
+
+Slide 95:
+Leptin, via Sympathetic Nervous System, Increases Thermogenesis
+Neurons in the hypothalmus send signals to adipose tissue and so on.
+It stimulates release of norepinephrine.
+A cascade via β3-adrenergic receptors increases transcription of UCP1 gene.
+It increases thermogenesis.
+→Energy from the H+ gradient in mitochondria is released as heat without making ATP.
+increased fat loss to compensate
+
+Slide 96:
+Leptin Resistance Occurs in Obese Individuals
+Restoring leptin to ob/ob mice results in restoration to normal body mass.
+BUT, leptin administration to most obese people does NOT restore normal body mass.
+This was a great disappointment to the pharmaceutical industry.
+Leptin is in fact elevated in many cases of obesity.
+
+Something downstream in leptin response must be defective (“leptin resistance”).
+
+
+Slide 97:
+Insulin Also Inhibits Appetite by Interacting with the Hypothalmus
+The orexigenic neurons have insulin receptors.
+Insulin binding:	
+inhibits release of appetite-stimulating NPY
+stimulates appetite-suppressing α-MSH
+There may be cross-talk between insulin and leptin pathways!
+Leptin makes liver and muscle more sensitive to insulin.
+A common 2° messenger may enable leptin and insulin to trigger the same downstream pathways.
+
+Slide 98:
+Hormones That Control Eating
+
+
+Slide 99:
+Adiponectin Is Made by Adipose Tissue and Has Receptors in the Brain
+It circulates and makes other organs sensitive to insulin.
+While incompletely understood, it appears to work via AMP-activated kinase pathway.
+AMPK phosphorylates and inactivates acetyl-CoA carboxylase.
+Enzyme normally makes malonyl-CoA.
+Malonyl-CoA inhibits fatty acid import into mitochondria.
+Reduced acetyl-CoA carboxylase means that fatty acids are free to enter the mitochondria for oxidation.
+AMPK pathway also inhibits cholesterol synthesis.
+
+
+Slide 100:
+The Role of AMPK in Regulating ATP Metabolism
+
+Slide 101:
+Formation of Adiponectin and Its Actions Through AMPK
+
+
+Slide 102:
+Peroxisome Proliferator−Activated Receptors (PPARs) Alter Expression of Genes for Fat 
+and Carbohydrate Metabolism
+PPARs so named because discovered in peroxisomes
+Bind fatty acids or derivatives
+Then bind to retinoid X receptor (RXR) and become powerful transcription factors
+Includes PPARγ, PPARα, and PPARδ
+
+Slide 103:
+Function of PPARs
+PPARγ 
+in liver and adipose tissue 
+turns on genes for lipid synthesis and storage 
+activated by thiazolidinediones
+PPARα 
+in liver, heart, skeletal muscle, and so on 
+activated by FA and eicosanoids 
+turns on genes for uptake and oxidation of FA and for ketone body formation
+PPARδ 
+in liver and muscle 
+turns on genes for FA oxidation and mt uncoupling
+
+Slide 104:
+Mode of Action of PPARs
+
+
+Slide 105:
+PPARδ Is a Key Regulator of Fat Metabolism
+Mice who are overfed do not become obese if PPARδ is constitutively active.
+PPARδ activation even prevents obesity in db/db mice.
+The major target seems to be mitochondrial uncoupling.
+
+Slide 106:
+Metabolic Integration by PPARs
+
+
+Slide 107:
+mTORC Activates Growth and Development During Adequate Nutrition
+Ser/Thr kinase acts to hold together and activate multiple factors.
+Continued stimulation via overeating will increase adipose tissue. 
+
+Slide 108:
+Thiazolidinedione Drugs Activate the AMPK  and PPAR Pathways and Increase Expression of Adiponectin Genes 
+Thiazolidinediones are used to treat type 2 diabetes.
+includes Avandia (rosiglitazone), actos (pioglitazone)
+Targets include:
+receptors that lead to activation of adiponectin gene transcription
+AMPK pathway
+PPARγ
+Avandia limited due to increased heart disease risk
+
+Slide 109:
+Ghrelin Is a Short-Term Orexigenic Peptide Secreted in the Stomach
+Ghrelin receptors appear in the brain, the heart, and adipose tissue.
+Ghrelin is not well understood.
+It works via G protein−coupled receptors to increase the sensation of hunger.
+Injections of ghrelin immediately increase appetite.
+Prader-Willi syndrome is associated with high levels of ghrelin and insatiable appetite.
+
+Slide 110:
+Variations in Glucose, Ghrelin, and Insulin Relative to Meal Times
+
+
+Slide 111:
+PYY3-36 Is an Appetite-Suppressing Hormone Secreted from the Small Intestine and Colon
+PYY3-36 so-named because peptide of 36 aa and two Tyr (Y) residues at end
+Secreted in response to food entering stomach
+Transported to hypothalmus
+Inhibits release of orexigenic NPY
+Result is reduced hunger
+
+Slide 112:
+Microbes in the Gut Influence Obesity
+Obese and lean persons have different gut microbial flora.
+Some microorganisms create fermentation products that affect adipose tissue.
+Most products are short-chain FA: acetate propionate, butyrate, and so on.
+Propionate is known to act on GPCRs of precursor cells, inducing them to become adipocytes and inhibiting lipolysis.
+
+
+Slide 113:
+
+Slide 114:
+Type 2 Diabetes and Metabolic Syndrome
+Believed to affect 27% of adult U.S. population (90% of diabetics are type 2)
+hallmark is resistance to insulin
+Cluster of symptoms along with insulin resistance:  
+abdominal obesity
+high triglycerides (TAGs)
+low HDL
+high blood pressure
+elevated blood glucose (but may not be full-blown diabetic)
+often includes other signs of inflammation
+
+Slide 115:
+The “Lipid Burden” Hypothesis to Explain the Path from Obesity to Type 2 Diabetes
+80% of type 2 diabetics are obese, but the minority of obese individuals develop diabetes.
+Adipocytes become packed and unable to accommodate more TAG.
+The inability to deposit TAG leads to FA in the blood.
+Excess FA enter muscle and the liver, create TAG lipid droplets, and cause these organs to lose sensitivity to insulin.
+	→Ultimately, blood glucose levels rise.
+
+Slide 116:
+Overloading Adipocytes
+
+
+Slide 117:
+Treatments for Type 2 Diabetes
+Diet and exercise to reduce obesity, manage blood glucose, increase insulin sensitivity of muscles
+Insulin, if endogenous insulin secretion is inadequate
+AMPK activator: Metformin (glucophage)
+PPAR activators to increase adiponectin, stimulate adipocyte differential, and increase capacity for TAG storage:  thiozidinediones
+Stimulation of insulin by binding to ATP-gated K+ channels:  sulfonylureas
+Preventing proteolytic degradation of glucagon-like peptide-1 (GLP-1), a peptide that stimulates insulin secretion (dipeptidyl protease-4 inhibitors such as Januvia)
+
+
+Slide 118:
+
+Slide 119:
+Chapter 23: Summary
+
+the nervous system controls the production of specific hormones via the hypothalamus-pituitary system 
+the pituitary hormones stimulate other hormone-synthesizing glands or act directly on target tissues
+tissues sense metabolic states and mobilize hormones to other tissues, including blood and the brain, to respond
+blood glucose level is controlled by the peptide hormone insulin
+defective insulin production by the pancreas or inadequate insulin sensing by target cells leads to diabetes
+adipocytes influence the brain’s decision making about food intake and energy expenditure via the protein hormone leptin 
+In this chapter, we learned that:

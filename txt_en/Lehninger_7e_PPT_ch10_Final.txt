@@ -1,0 +1,393 @@
+Slide 1:
+
+10| Lipids
+© 2017 W. H. Freeman and Company
+
+Slide 2:
+CHAPTER 10 
+ Lipids
+Biological roles of lipids 
+Structure and properties of storage lipids
+Structure and properties of membrane lipids
+Structure and properties of signaling lipids
+
+Learning goals: 
+
+Slide 3:
+Lipids: Structurally Diverse Class 
+Organic molecules that are characterized by low solubility in water, that is, are relatively hydrophobic.
+
+Slide 4:
+Biological Functions of Lipids
+Storage of energy
+reduced compounds: lots of available energy
+hydrophobic nature: good packing
+Insulation from environment
+low thermal conductivity
+high heat capacity (can “absorb” heat) 
+mechanical protection (can absorb shocks)
+Water repellant 
+hydrophobic nature: keeps surface of the organism dry
+prevents excessive wetting (birds)
+prevents loss of water via evaporation 
+Buoyancy control and acoustics in marine mammals
+increased density while diving deep helps sinking (just a hypothesis)
+spermaceti organ may focus sound energy: sound stun gun?
+
+Slide 5:
+More Functions
+Membrane structure
+main structure of cell membranes
+Cofactors for enzymes
+vitamin K: blood clot formation
+coenzyme Q: ATP synthesis in mitochondria
+Signaling molecules
+paracrine hormones (act locally)
+steroid hormones (act body-wide)
+growth factors
+vitamins A and D (hormone precursors)
+Pigments
+color of tomatoes, carrots, pumpkins, some birds
+Antioxidants
+vitamin E
+
+
+Slide 6:
+Lipids Can Provide Pigment
+
+Slide 7:
+Classification of Lipids
+Two major categories based on the structure and function:
+Lipids that contain fatty acids (complex lipids)
+  can be further separated into:
+storage lipids and membrane lipids
+Lipids that do not contain fatty acids: cholesterol, vitamins, pigments, etc.
+
+Slide 8:
+Fatty Acids
+Carboxylic acids with hydrocarbon chains containing between  4 to 36 carbons
+Almost all natural fatty acids have an even number of carbons. 
+Most natural fatty acids are unbranched.
+Saturated: no double bonds between carbons in the chain
+Monounsaturated: one double bond between carbons in the alkyl chain
+Polyunsaturated: more than one double bond in the alkyl chain
+
+Slide 9:
+Fatty Acid Nomenclature
+Fatty acids can be described by (example): 
+systematic name: cis-9-octadecanoic acid
+common name: oleic acid
+delta numbering of carbon skeleton: 18:1Δ9
+describes location of the first carbon of the alkene in relationship to the carbonyl carbon
+omega numbering of carbon skeleton: 18:1ω9
+describes location of the first carbon of the alkene in relationship to the terminal methyl
+
+Slide 10:
+Fatty Acid Nomenclature
+TABLE 10-1	Some Naturally Occurring Fatty Acids: Structure, Properties, and Nomenclature	
+					Solubility at 30 ˚C
+(mg/g solvent)	
+Carbon skeleton	Structurea	Systematic nameb	Common name (derivation)	Melting point (˚C)	Water	Benzene	
+12:0	CH3(CH2)10COOH	n-Dodecanoic acid	Lauric acid (Latin laurus, “laurel plant”)	44.2	0.063	2,600	
+14:0	CH3(CH2)12COOH 	n-Tetradecanoic acid	Myristic acid (Latin Myristica, nutmeg genus)	53.9	0.024	874	
+16:0	CH3(CH2)14COOH	n-Hexadecanoic acid	Palmitic acid (Latin palma “palm tree”)	63.1	0.0083	348	
+18:0	CH3(CH2)16COOH	n-Octadecanoic acid	Stearic acid (Greek stear, “hard fat”)	69.6	0.0034	124	
+20:0	CH3(CH2)18COOH	n-Eicosanoic acid	Arachidic acid (Latin Arachis, legume genus)	76.5			
+24:0	CH3(CH2)22COOH	n-Tetracosanoic acid	Lignoceric acid (Latin lignum, “wood” + cera, “wax”)	86.0			
+aAll acids are shown in their nonionized form. At pH 7, all free fatty acids have an ionized carboxylate. Note that numbering of carbon atoms begins at the carboxyl carbon.
+bThe prefix n- indicates the “normal” unbranched structure. For instance, “dodecanoic” simply indicates 12 carbon atoms, which could be arranged in a variety of branched forms; “n-dodecanic” specifies the linear, unbranched form. For unsaturated fatty acids, the configuration of each double bond is indicated; in biological fatty acids the configuration is almost always cis.	
+
+Slide 11:
+Fatty Acid Nomenclature
+TABLE 10-1	Some Naturally Occurring Fatty Acids: Structure, Properties, and Nomenclature	
+					Solubility at 30 ˚C
+(mg/g solvent)	
+Carbon skeleton	Structurea	Systematic nameb	Common name (derivation)	Melting point (˚C)	Water	Benzene	
+16:1(Δ9)	CH3(CH2)5CH= CH(CH2)7COOH	cis-9-Hexadecenoic acid	Palmitoleic acid	1 to –0.5			
+18:1(Δ9)	CH3(CH2)7CH= CH(CH2)7COOH	cis-9-Octadecenoic acid	Oleic acid (Latin oleum, “oil”)	13.4			
+18:2(Δ9,12)	CH3(CH2)4CH= CHCH2CH= CH(CH2)7COOH	cis-,cis-9,12-Octadecadienoic acid	Linoleic acid (Greek linon, “flax”)	1–5			
+18:3(Δ9,12,15)	CH3CH2CH= CHCH2CH= CHCH2CH= CH(CH2)7COOH	cis-,cis-,cis-9,12,15- Octadecatrienoic acid	α-Linolenic acid	211			
+20:4(Δ5,8,11,14)	CH3(CH2)4CH= CHCH2CH= CHCH2CH= CHCH2CH= CH(CH2)3COOH	cis-,cis-,cis-, cis-5,8,11,14- Icosatetraenoic acid	Arachidonic acid	–49.5			
+aAll acids are shown in their nonionized form. At pH 7, all free fatty acids have an ionized carboxylate. Note that numbering of carbon atoms begins at the carboxyl carbon.
+bThe prefix n- indicates the “normal” unbranched structure. For instance, “dodecanoic” simply indicates 12 carbon atoms, which could be arranged in a variety of branched forms; “n-dodecanic” specifies the linear, unbranched form. For unsaturated fatty acids, the configuration of each double bond is indicated; in biological fatty acids the configuration is almost always cis.	
+
+Slide 12:
+Fatty Acid Nomenclature
+Omega-3 fatty acids are essential nutrients.
+Humans need them but cannot synthesize them.
+They including ALA, DHA, and EPA.
+although DHA and EPA can be synthesized from ALA
+
+Slide 13:
+Solubility and Melting Point of Fatty Acids
+Solubility
+decreases as the chain length increases
+
+Melting Point 
+decreases as the chain length decreases
+decreases as the number of double bonds increases
+
+
+Slide 14:
+Conformation of Fatty Acids
+The saturated chain tends to adopt extended conformations. 
+The double bonds in natural unsaturated fatty acids are commonly in cis configuration, which kinks the chain.
+
+Slide 15:
+Melting Point and Double Bonds
+Saturated fatty acids pack in a fairly orderly way.
+extensive favorable interactions
+Unsaturated cis fatty acids pack less orderly due to the kink.
+less-extensive favorable interactions
+It takes less thermal energy to disrupt disordered packing of unsaturated fatty acids.
+Unsaturated cis fatty acids have a lower melting point.
+
+
+Slide 16:
+Trans Fatty Acids
+Trans fatty acids form by partial dehydrogenation of unsaturated fatty acids.
+done to increase shelf life or stability at high temperature of oils used in cooking (especially deep frying)
+A trans double bond allows a given fatty acid to adopt an extended conformation.
+Trans fatty acids can pack more regularly and show higher melting points than cis forms.
+Consuming trans fats increases risk of cardiovascular disease.
+Avoid deep frying partially hydrogenated vegetable oils.
+Current trend: reduce trans fats in foods (Wendy’s, KFC).
+
+Slide 17:
+TABLE 10-2	Eight Major Categories of Biological Lipids	
+Category	Category code	Examples	
+Fatty acids	FA	Oleate, stearoyl-CoA, palmitoylcarnitine	
+Glycerolipids	GL	Di- and triacylglycerols	
+Glycerophospholipids	GP	Phosphatidylcholine, phosphatidylserine, phosphatidyethanoloamine	
+Sphingolipids	SP	Sphingomyelin, ganglioside GM2	
+Sterol lipids	ST	Cholesterol, progesterone, bile acids	
+Prenol lipids	PR	Farnesol, geraniol, retinol, ubiquinone	
+Saccharolipids	SL	Lipopolysaccharide	
+Polyketides	PK	Tetracycline, erythromycin, aflatoxin B1	
+
+Slide 18:
+Triacylglycerols (Nonpolar)
+The majority of fatty acids in biological systems are found in the form of triacylglycerols.
+Solid ones are called fats.
+Liquid ones are called oils.
+The primary storage form of lipids (body fat)  
+Less soluble in water than fatty acids due to the esterification of the carboxylate group
+Less dense than water: fats and oils float.
+
+Slide 19:
+Triacylglycerols
+
+Slide 20:
+Fats Provide Efficient Fuel Storage
+The advantage of fats over polysaccharides:
+Fatty acids carry more energy per carbon because they are more reduced.
+Fatty acids carry less water per gram because they are nonpolar.
+Glucose and glycogen are for short-term energy needs and quick delivery.
+Fats are for long-term (months) energy needs, good storage,  andslow delivery.
+
+
+
+Slide 21:
+Fats Provide Efficient Fuel Storage
+
+Slide 22:
+Waxes
+Waxes are esters of long-chain saturated and unsaturated fatty acids with long-chain alcohols.
+Insoluble and have high melting points
+Variety of functions:
+storage of metabolic fuel in plankton
+protection and pliability for hair and skin in vertebrates
+waterproofing of feathers in birds
+protection from evaporation in tropical plants and ivy
+used by people in lotions, ointments, and polishes
+
+Slide 23:
+Wax: The Material of the Honeycomb
+Beeswax is a mixture of a large number of lipids, including esters of triacontanol, and a long-chain alkane hentiacontane.
+
+Slide 24:
+Structural Lipids in Membranes (Polar)
+Contain polar head groups and nonpolar tails (usually attached fatty acids)
+Diversification can come from:
+modifying a different backbone 
+changing the fatty acids
+modifying the head groups
+The properties of head groups determine the surface properties of membranes.
+Different organisms have different membrane lipid head group compositions.
+Different tissues have different membrane lipid head group compositions.
+
+
+Slide 25:
+Glycerophospholipids
+Primary constituents of cell membranes
+Two fatty acids form ester linkages with the first and second hydroxyl groups of L-glycerol-3-phosphate.
+The phosphate group is charged at physiological pH.
+
+Slide 26:
+General Structure of Glycerophospholipids
+Unsaturated fatty acids are commonly found connected to C2 of glycerol-3-phosphate.
+The highly polar phosphate group may be further esterified by an alcohol; such substituent groups are called the head groups.
+
+Slide 27:
+Examples of Glycerophospholipids
+
+Slide 28:
+Phosphatidylcholine
+Phosphatidylcholine is the major component of most eukaryotic cell membranes.
+Many prokaryotes, including E. coli, cannot synthesize this lipid; their membranes do not contain phosphatidylcholine.
+
+Slide 29:
+Ether Lipids: Plasmalogen
+Vinyl ether analog of phosphatidylethanolamine
+Common in vertebrate heart tissue
+Also found in some protozoa and anaerobic bacteria 
+Function is not well understood
+resistant to cleavage by common lipases but cleaved by few specific lipases 
+Increase membrane rigidity?
+Sources of signaling lipids?
+May be antioxidant?
+
+Slide 30:
+Ether Lipids: Plasmalogen
+
+Slide 31:
+Ether Lipids: Platelets-Activating Factor
+Aliphatic ether analog of phosphatidylcholine
+Acetic acid has esterified position C2
+First signaling lipid to be identified
+Stimulates aggregation of blood platelets
+Plays role in mediation of inflammation
+
+
+Slide 32:
+Sphingolipids
+The backbone of sphingolipids is NOT glycerol.
+The backbone of sphingolipids is a long-chain amino alcohol sphingosine.
+A fatty acid is joined to sphingosine via an amide linkage, rather than an ester linkage as usually seen in lipids.
+A polar head group is connected to sphingosine by a glycosidic or phosphodiester linkage.
+The sugar-containing glycosphingolipids are found largely in the outer face of plasma membranes.
+
+Slide 33:
+Sphingolipids
+
+Slide 34:
+Sphingomyelin
+Ceramide (sphingosine + amide-linked fatty acid) + phosphocholine attached to the alcohol
+Sphingomyelin is abundant in myelin sheath that surrounds some nerve cells in animals.
+
+Slide 35:
+Sphingomyelin Is Structurally Similar 
+to Phosphatidylcholine
+
+Slide 36:
+Glycosphingolipids and Blood Groups
+The blood groups are determined in part by the type of sugars located on the head groups in glycosphingolipids.  
+The structure of sugar is determined by an expression of specific glycosyltransferases.
+Individuals with no active glycosyltransferase will have the O antigen.
+Individuals with a glycosyltransferase that transfers an                N-acetylgalactosamine group have A blood group.
+Individuals with a glycosyltransferase that transfers a galactose group have B blood group.
+
+Slide 37:
+Glycosphingolipids Determine Blood Groups
+
+Slide 38:
+Structural and Signaling Lipids Are Degraded in the Lysosome
+Most cells continually degrade and replace their membrane lipids.
+Phospholipids are degraded by phospholipases A−D. 
+Each phospholipase cleaves a specific bond.
+
+Gangliosides are degraded via a series of enzymatic cleavages.
+Failure to correctly degrade gangliosides results in build-up of lipids in lysosomes, a dysfunction categorized as “lysosomal storage disorders.”
+
+Slide 39:
+Dysfunction in Ganglioside Recycling Leads to a Variety of Medical Disorders
+
+Slide 40:
+Sterols and Cholesterol
+Sterol
+steroid nucleus: four fused rings
+hydroxyl group (polar head) in the A-ring
+various nonpolar side chains
+The tetracycle structure of sterols is almost planar.
+
+
+
+
+Slide 41:
+Physiological Role of Sterols
+Cholesterol and related sterols are present in the membranes of most eukaryotic cells.
+modulate fluidity and permeability
+thicken the plasma membrane
+no sterols in most bacteria
+Mammals obtain cholesterol from food or synthesize it de novo in the liver.
+Cholesterol, bound to proteins, is transported to tissues via blood vessels.
+Cholesterol in low-density lipoproteins tends to deposit and clog arteries.
+Many hormones are derivatives of sterols.
+
+Slide 42:
+Steroid Hormones
+Steroids are oxidized derivatives of sterols.
+Steroids have the sterol nucleus but lack the alkyl chain found in cholesterol.
+They are more polar than cholesterol.
+Steroid hormones are synthesized from cholesterol in gonads and adrenal glands.
+They are carried through the body in the bloodstream, usually attached to carrier proteins.
+Many of the steroid hormones are male and female sex hormones.
+
+Slide 43:
+Steroid Hormones
+
+Slide 44:
+Biologically Active Lipids
+Are present in much smaller amounts than storage or structural lipids
+
+Play vital roles as signaling molecules between nearby cells
+
+Lipid-soluble vitamins (A, D, E, and K)
+
+Slide 45:
+Arachidonic Acid Derivatives 
+as Signaling Lipids
+
+Enzymatic oxidation of arachidonic acid yields:
+prostaglandins (inflammation and fever) 
+thromboxanes (formation of blood clots)
+leukotrienes (smooth muscle contraction in lungs)
+
+
+Slide 46:
+Vitamin D Is Synthesized from Cholesterol and Regulates Calcium Metabolism
+
+Slide 47:
+Vitamin A (Retinol) is Derived from β-carotene
+Involved in visual pigment
+Precursor for other hormones involved in signaling
+
+
+
+Slide 48:
+Vitamins E, K, and Other Lipid Quinones 
+Are Antioxidants
+
+Slide 49:
+Vitamins E, K, and Other Lipid Quinones 
+Are Antioxidants
+
+Slide 50:
+Vitamins E, K, and Other Lipid Quinones 
+Are Antioxidants
+
+Slide 51:
+Polyketides Are Biologically Active Lipids with Medicinal Uses
+Polyketides are a diverse family of compounds synthesized similarly to fatty acid biosynthesis.
+commonly secondary metabolites with specialized function
+
+
+Slide 52:
+Chapter 10: Summary
+lipids are a structurally and functionally diverse class of molecules that are poorly soluble in water
+triacylglycerols are the main storage lipids 
+phospholipids are the main constituents of membranes
+sphingolipids play roles in cell recognition
+cholesterol is both a membrane lipid and the precursor for steroid hormones 
+some lipids carry signals from cell to cell and from tissue to tissue
+In this chapter, we learned that:

@@ -1,0 +1,492 @@
+---
+title: "Capítulo"
+# author: Nicholas Costa & Nicholas Barroso
+lang: pt-BR
+date: today
+date-format: "DD/MM/YYYY"
+format:
+  revealjs:
+    pdf-separate-fragments: true
+#    width: 1600
+#    height: 900
+    width: 960
+    height: 720
+#    logo: imgs/logo.png
+    incremental: false
+    theme: tema_azul.scss
+    lightbox: true
+    slide-number: true
+    background-transition: fade
+    menu: true
+    progress: true
+    center: true
+    auto-stretch: true
+---
+# Slide 1:
+
+5 | Função Proteica
+© 2017 W. H. Freeman and Company
+
+# Slide 2:
+Objetivos de aprendizagem:
+
+Métodos de ligação de ligantes e proteínas
+Modelagem quantitativa e gráfica das interações proteína-ligante
+Interação das globinas com oxigênio e ligantes não oxigenados
+Regulação fisiológica da ligação do oxigênio
+Mecanismo e controle da interação antígeno-anticorpo
+Mecanismo da contração muscular 
+Regulação da contração muscular
+
+
+ 
+CAPÍTULO 5: 
+Função Proteica
+
+# Slide 3:
+Função das Proteínas Globulares
+A ligação reversível de ligantes é essencial.
+especificidade de ligantes e sítios de ligação
+A ligação do ligante é frequentemente acoplada a mudanças conformacionais, às vezes de forma bastante dramática (encaixe induzido).
+Em proteínas com múltiplas subunidades, mudanças conformacionais em uma subunidade podem afetar as outras (cooperatividade).
+As interações podem ser reguladas.
+Ilustrado por: 
+hemoglobina, anticorpos e proteínas musculares
+Tópicos principais na função proteica: 
+
+# Slide 4:
+
+Funções das Proteínas Globulares
+Armazenamento de íons e moléculas 
+mioglobina, ferritina 
+Transporte de íons e moléculas 
+hemoglobina, transportador de serotonina
+Defesa contra patógenos 
+anticorpos, citocinas 
+Contração muscular 
+actina, miosina 
+Catálise biológica 
+quimotripsina, lisozima
+
+# Slide 5:
+Interação com Outras Moléculas
+Processo reversível e transitório de equilíbrio químico: 
+A + B ↔ AB
+Uma molécula que se liga a uma proteína é chamada de ligante.
+tipicamente uma molécula pequena
+Uma região na proteína onde o ligante se liga é chamada de sítio de ligação.
+O ligante liga-se por meio das mesmas interações não covalentes que ditam a estrutura proteica (ver Capítulo 4).
+permite que as interações sejam transitórias
+
+
+# Slide 6:
+Ligação: Descrição Quantitativa
+Considere um processo no qual um ligante (L) se liga reversivelmente a um sítio em uma proteína (P). 
+
+
+
+
+
+
+Essa interação pode ser descrita quantitativamente pela constante de velocidade de associação ka ou pela constante de velocidade de dissociação kd.
+Após algum tempo, o processo atingirá o equilíbrio onde as velocidades de associação e dissociação são iguais.
+
+A composição de equilíbrio é caracterizada 
+pela constante de associação de equilíbrio Ka 
+ou pela constante de dissociação de equilíbrio, Kd.
+
+
+
++ 
+
+
+
+ka
+kd
+PL
+P
+L
+
+
+# Slide 7:
+Ligação: 
+Análise em Termos da Fração Ligada
+Na prática, podemos frequentemente determinar a fração de sítios de ligação ocupados (θ).
+
+
+Substituindo [PL] por Ka[L][P], eliminaremos [PL].
+Eliminar [P] e reorganizar fornece o resultado em termos da constante de associação de equilíbrio.
+Em termos da constante de dissociação de equilíbrio, mais comumente usada:
+
+
+
+
+
+
+
+# Slide 8:
+Ligação: Análise Gráfica
+A fração de sítios ligados depende 
+da concentração de ligante livre e do Kd.
+Experimentalmente:
+a concentração do ligante é conhecida
+o Kd pode ser determinado graficamente ou por regressão de mínimos quadrados
+
+[L] ≈ [L]total
+
+# Slide 9:
+Exemplo: Ligação do Oxigênio à Mioglobina
+Quando um ligante é um gás, a ligação é expressa em termos de pressões parciais.
+
+# Slide 10:
+Ligação: Conexões Termodinâmicas
+A força de interação pode ser expressa como:
+constante de associação (ligação) Ka, unidades M−1
+constante de dissociação Kd, unidades M, Kd = 1/Ka
+energia livre de interação (ligação) ΔG°, unidades: kJ/mol
+Definições
+ΔG° = ΔH° − TΔS°: entalpia e entropia
+Ka = [PL]/[P][L]		Kd = [P][L]/[PL]
+Relações
+ ΔG° = −RT ln Ka  = RT ln Kd	(RT a 25°C é 2,48 kJ/mol.)
+Magnitudes
+ligação forte: Kd < 10 nM 
+ligação fraca: Kd > 10 μM  
+
+# Slide 11:
+Exemplos de Força de Ligação
+
+# Slide 12:
+Especificidade: Modelo Chave-Fechadura
+As proteínas tipicamente têm alta especificidade: apenas certos ligantes se ligam.
+A alta especificidade pode ser explicada pela complementaridade entre o sítio de ligação e o ligante.
+Complementaridade em:
+tamanho
+forma
+carga
+caráter hidrofóbico/hidrofílico
+O modelo “chave-fechadura” de Emil Fischer (1894) assume que as superfícies complementares são pré-formadas.
+
+
+
+
++
+
+# Slide 13:
+Especificidade: Encaixe Induzido
+Mudanças conformacionais podem ocorrer após a ligação do ligante (Daniel Koshland em 1958).
+Essa adaptação é chamada de encaixe induzido.
+O encaixe induzido permite uma ligação mais firme do ligante.
+O encaixe induzido permite alta afinidade por diferentes ligantes.
+Tanto o ligante quanto a proteína podem alterar suas conformações.
+
+
++
+
+
+
+# Slide 14:
+Estudo de Caso I: Globinas São Proteínas Ligantes de Oxigênio
+Problemas biológicos: 
+As cadeias laterais das proteínas carecem de afinidade pelo O2.
+Alguns metais de transição ligam bem o O2, mas gerariam radicais livres se estivessem livres em solução.
+Compostos organometálicos como o heme são mais adequados, mas o Fe2+ no heme livre poderia ser oxidado a Fe3+ (muito reativo!).
+
+Solução biológica:
+Capturar a molécula de oxigênio com o heme ligado a uma proteína.
+
+A mioglobina (armazenamento) e a hemoglobina (transporte) podem ligar oxigênio por meio de um heme ligado à proteína.
+
+
+# Slide 15:
+Estruturas da Porfirina e do Heme
+
+# Slide 16:
+Estrutura da Mioglobina
+
+# Slide 17:
+Ligação do Monóxido de Carbono
+O CO tem tamanho e forma semelhantes ao O2; ele pode caber no mesmo sítio de ligação.
+O CO liga-se ao heme mais de 20.000 vezes melhor do que o O2 porque o carbono no CO possui um par de elétrons isolados preenchido que pode ser doado aos orbitais d vazios do Fe2+.
+O bolsão proteico diminui a afinidade pelo CO, mas ele ainda se liga cerca de 250 vezes melhor do que o oxigênio.
+O CO é altamente tóxico, pois compete com o oxigênio. Ele bloqueia a função da mioglobina, hemoglobina e citocromos mitocondriais envolvidos na fosforilação oxidativa.
+
+
+# Slide 18:
+Ligação de CO vs. O2 ao Heme Livre
+
+# Slide 19:
+A Ligação do Heme à Proteína Afeta a 
+Ligação de CO vs. O2 
+
+# Slide 20:
+Detecção Espectroscópica da 
+Ligação de Oxigênio às Globinas
+O grupo heme é um forte cromóforo que absorve tanto na faixa ultravioleta quanto na visível.
+A forma ferrosa (Fe2+) sem oxigênio apresenta uma banda de Soret intensa em 429 nm.
+A ligação do oxigênio altera as propriedades eletrônicas do heme e desloca a posição da banda de Soret para 414 nm.
+A ligação do oxigênio pode ser monitorada por espectrofotometria UV-Vis.
+A desoxi-hemoglobina (no sangue venoso) apresenta cor arroxeada e a oxi-hemoglobina (no sangue arterial) é vermelha.
+
+# Slide 21:
+A pO2 nos pulmões é de cerca de 13 kPa: certamente liga bem o oxigênio.
+A pO2 nos tecidos é de cerca de 4 kPa: ela não o liberará!
+
+
+
+
+
+
+
+
+Diminuir a afinidade (P50) da mioglobina pelo oxigênio ajudaria?
+A Mioglobina Poderia Transportar O2?
+
+# Slide 22:
+Para um Transporte Eficaz, a 
+Afinidade Deve Variar com a pO2
+
+# Slide 23:
+Como a Afinidade pelo Oxigênio Pode Mudar?
+Deve ser uma proteína com múltiplos sítios de ligação.
+Os sítios de ligação devem ser capazes de interagir entre si.
+Esse fenômeno é chamado de cooperatividade.
+cooperatividade positiva 
+o primeiro evento de ligação aumenta a afinidade nos sítios restantes
+reconhecida por curvas de ligação sigmoidais
+cooperatividade negativa 
+o primeiro evento de ligação reduz a afinidade nos sítios restantes
+
+
+# Slide 24:
+Cooperatividade
+
+# Slide 25:
+Cooperatividade: Descrição Quantitativa
+ 
+
+# Slide 26:
+O Gráfico de Hill da Cooperatividade 
+
+# Slide 27:
+Dois Modelos de Cooperatividade:
+Concertado vs. Sequencial
+
+# Slide 28:
+A Cooperatividade É um 
+Caso Especial de Regulação Alostérica
+Proteína alostérica
+A ligação de um ligante a um sítio afeta as propriedades de ligação de um sítio diferente na mesma proteína.
+pode ser positiva ou negativa
+homotrópica 
+O ligante normal da proteína é o regulador alostérico.
+heterotrópica
+Um ligante diferente afeta a ligação do ligante normal.
+Cooperatividade = regulação homotrópica positiva
+
+# Slide 29:
+A Hemoglobina Liga Oxigênio Cooperativamente
+A hemoglobina (Hb) é um tetrâmero de duas subunidades (α2β2).
+Cada subunidade é semelhante à mioglobina.
+
+# Slide 30:
+Interações entre Subunidades na Hemoglobina
+
+# Slide 31:
+Interações entre Subunidades: Detalhes
+
+# Slide 32:
+Interações entre Subunidades: Detalhes
+
+# Slide 33:
+Similaridade de Sequência Entre 
+Hemoglobina e Mioglobina
+
+# Slide 34:
+Estados R e T da Hemoglobina 
+T = estado tenso 
+mais interações, mais estável 
+menor afinidade pelo O2
+R = estado relaxado 
+menos interações, mais flexível
+maior afinidade pelo O2 
+A ligação do O2 desencadeia uma mudança conformacional T → R.
+A mudança conformacional do estado T para o estado R envolve a quebra de pares iônicos na interface α1-β2.   
+
+
+# Slide 35:
+Estados R e T da Hemoglobina 
+
+# Slide 36:
+A Mudança Conformacional É Desencadeada pela Ligação do Oxigênio
+
+# Slide 37:
+Efeito do pH na Ligação do O2 à Hemoglobina
+A acidez aumenta ou diminui o Kd? 
+
+# Slide 38:
+Efeito do pH na Ligação do O2 à Hemoglobina
+Tecidos metabolicamente ativos geram H+, diminuindo o pH do sangue próximo aos tecidos em relação aos pulmões (catalisado pela anidrase carbônica).
+CO2 + H2O ↔ HCO3− + H+
+A afinidade da Hb pelo oxigênio depende do pH.
+O H+ liga-se à Hb e estabiliza o estado T.
+protona a His146, que então forma uma ponte salina com o Asp94
+leva à liberação de O2 (nos tecidos)
+A diferença de pH entre os pulmões e os tecidos metabólicos aumenta a eficiência do transporte de O2.
+ Isso é conhecido como efeito Bohr.
+
+# Slide 39:
+Hemoglobina e Exportação de CO2
+O CO2 é produzido pelo metabolismo nos tecidos e deve ser exportado.
+15–20% do CO2 é exportado na forma de um carbamato nos resíduos amino-terminais de cada uma das subunidades polipeptídicas.  
+
+
+
+
+Observe:
+A formação de um carbamato produz um próton que pode contribuir para o efeito Bohr.
+O carbamato forma pontes salinas adicionais, estabilizando o estado T.
+
+
+# Slide 40:
+O 2,3-Bisfosfoglicerato Regula a Ligação de O2 
+Regulador heterotrópico negativo da função da Hb
+Presente em concentrações mM nos eritrócitos
+produzido a partir de um intermediário da glicólise
+Molécula pequena carregada negativamente, 
+liga-se à cavidade central carregada 
+positivamente da Hb
+Estabiliza o estado T
+
+# Slide 41:
+O 2,3-BPG Liga-se à Cavidade Central da Hb 
+
+# Slide 42:
+O 2,3-BPG Permite a Liberação de O2 nos Tecidos 
+e a Adaptação a Mudanças de Altitude
+
+# Slide 43:
+A Anemia Falciforme Deve-se a 
+uma Mutação na Hemoglobina
+Glu6 → Val na cadeia β da Hb
+A nova cadeia lateral de valina pode ligar-se a uma molécula diferente de Hb para formar um filamento semelhante às proteínas amiloidogênicas discutidas no Capítulo 4.
+Isso torna as hemácias falciformes (em forma de foice).
+Indivíduos homozigotos não tratados geralmente morrem na infância.
+Indivíduos heterozigotos exibem resistência à malária.
+
+# Slide 44:
+Formação de Filamentos de Hb 
+na Anemia Falciforme
+
+# Slide 45:
+Estudo de Caso 2: Interação Anticorpo/Antígeno
+Dois Tipos de Sistemas Imunes
+ Sistema imune celular
+tem como alvo as próprias células que foram infectadas
+também elimina partículas virais e bactérias infectantes
+atores principais: macrófagos, células T citotóxicas (Tc) e células T inflamatórias (TH1)
+ Sistema imune humoral (“fluido”)
+tem como alvo patógenos extracelulares
+também pode reconhecer proteínas estranhas
+produz anticorpos solúveis    
+mantém “memória” de infecções passadas
+atores principais: linfócitos B e células T auxiliares (TH2)
+
+# Slide 46:
+Sistema Imune Celular
+Os anticorpos ligam-se a fragmentos exibidos na superfície das células invasoras.
+Fagócitos: células especializadas que englobam invasores
+Macrófagos: grandes fagócitos que ingerem bactérias marcadas por anticorpos
+
+# Slide 47:
+Sistema Imune Humoral
+Os vertebrados também combatem infecções com anticorpos solúveis que se ligam especificamente a antígenos.
+Antígenos são substâncias que estimulam a produção de anticorpos.
+tipicamente de natureza macromolecular
+reconhecidos como estranhos pelo sistema imune
+proteínas do envoltório de bactérias e vírus
+carboidratos de superfície de células ou vírus
+Anticorpos são proteínas produzidas pelas células B e que se ligam especificamente a antígenos.
+A ligação marcará o antígeno para destruição ou interferirá em sua função.
+Um determinado anticorpo ligar-se-á a uma pequena região (epítopo) do antígeno.
+Um antígeno pode ter vários epítopos.
+
+# Slide 48:
+Anticorpos: Imunoglobulina G
+Duas cadeias pesadas e duas cadeias leves
+compostas por domínios constantes e domínios variáveis
+
+Cadeias leves: um domínio constante e um domínio variável
+Cadeias pesadas: três domínios constantes e um domínio variável
+
+Os domínios variáveis de cada cadeia formam o sítio de ligação ao antígeno (dois por anticorpo) e são hipervariáveis, o que confere especificidade ao antígeno.
+
+
+# Slide 49:
+Anticorpos: Imunoglobulina G
+
+# Slide 50:
+Antígenos Ligam-se via Encaixe Induzido
+A ligação do antígeno causa mudanças estruturais significativas no anticorpo.
+
+
+
+# Slide 51:
+A Especificidade de Anticorpos É um 
+Importante Reagente Analítico
+
+# Slide 52:
+A Detecção de Anticorpos Pode Ser 
+Colorimétrica ou Luminescente
+
+# Slide 53:
+Estudo de Caso 3: Proteínas Musculares
+Estrutura Muscular
+Fibra muscular: célula grande, única, alongada e multinucleada
+Cada fibra contém cerca de 1.000 miofibrilas.
+
+# Slide 54:
+Miofibrilas Contêm 
+Filamentos Espessos de Miosina
+
+# Slide 55:
+Miofibrilas Contêm 
+Filamentos Finos de Actina
+
+# Slide 56:
+Filamentos Espessos de Miosina Deslizam ao Longo de 
+Filamentos Finos de Actina
+
+# Slide 57:
+Filamentos Espessos de Miosina Deslizam ao Longo de 
+Filamentos Finos de Actina
+
+# Slide 58:
+Interações Proteicas 
+Moduladas por Energia Química
+O uso de energia química (ATP) pode causar mudanças conformacionais nas proteínas, geralmente necessárias para sua função.
+
+Especialmente em proteínas motoras
+controlam o movimento de células e organelas dentro das células
+A contração muscular ocorre por meio de uma série de mudanças conformacionais na estrutura proteica devido à ligação, hidrólise e liberação de ATP e ADP.
+
+# Slide 59:
+Ciclo da Actomiosina
+
+# Slide 60:
+Regulação da Contração Muscular
+A disponibilidade dos sítios de ligação da miosina na actina é regulada pela troponina e tropomiosina.
+evita a contração muscular contínua
+O impulso nervoso desencadeia a liberação de Ca2+.
+causa mudanças conformacionais no complexo tropomiosina-troponina, expondo os sítios de ligação da miosina	
+
+# Slide 61:
+Capítulo 5: Resumo
+como a ligação de ligantes pode afetar a função proteica
+como analisar quantitativamente dados de ligação
+como a mioglobina armazena oxigênio
+como a hemoglobina transporta O2, prótons e CO2   
+como os anticorpos reconhecem estruturas estranhas
+como o músculo funciona
+
+Neste capítulo, aprendemos:

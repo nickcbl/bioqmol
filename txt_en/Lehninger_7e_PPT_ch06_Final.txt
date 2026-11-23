@@ -1,0 +1,450 @@
+Slide 1:
+
+6| Enzymes
+© 2017 W. H. Freeman and Company
+
+Slide 2:
+CHAPTER 6 
+Enzymes
+Physiological significance of enzymes
+Origin of catalytic power of enzymes
+Chemical mechanisms of catalysis
+Mechanisms of chymotrypsin and lysozyme
+Description of enzyme kinetics and inhibition
+Learning goals: 
+
+Slide 3:
+What Are Enzymes?
+Enzymes are catalysts.
+increase reaction rates without being used up
+Most enzymes are globular proteins. 
+However, some RNA (ribozymes and ribosomal RNA) also catalyze reactions.
+The study of enzymatic processes is the oldest field of biochemistry, dating back to late 1700s.
+The study of enzymes has dominated biochemistry in the past and continues to do so.
+
+Slide 4:
+
+Slide 5:
+Why Biocatalysis Over Inorganic Catalysts?
+Greater reaction specificity: avoids side products
+Milder reaction conditions: conducive to conditions in  cells
+			pH ~ 7, 37°C
+Higher reaction rates: in a biologically useful timeframe
+Capacity for regulation: control of biological pathways
+Metabolites have many potential pathways of decomposition. 
+
+
+Enzymes make the desired one most favorable.
+
+Slide 6:
+Enzymatic Substrate Selectivity
+No binding
+   Binding but no reaction
+Example: phenylalanine hydroxylase
+
+Slide 7:
+Enzyme-Substrate Complex Drives Selectivity
+
+Slide 8:
+Enzymatic Catalysis
+Enzymes do not affect equilibrium (Keq)…
+…which means that enzymes cannot affect the free energy of the reaction (ΔG).
+Slow reactions face significant activation barriers (ΔG‡) that must be surmounted during the reaction.
+Enzymes increase reaction rates (k) by decreasing ΔG‡.
+
+
+Slide 9:
+Rate Enhancement by Enzymes
+TABLE 6-5	Some Rate Enhancements Produced by Enzymes	
+Cyclophilin	105	
+Carbonic anhydrase	107	
+Triose phosphate isomerase	109	
+Carboxypeptidase A	1011	
+Phosphoglucomutase	1012	
+Succinyl-CoA transferase	1013	
+Urease	1014	
+Orotidine monophosphate decarboxylase	1017	
+
+Slide 10:
+Reaction Coordinate Diagram
+
+Slide 11:
+Enzymes Decrease ΔG‡
+
+Slide 12:
+How to Lower ΔG≠
+Enzymes organize reactive groups into close proximity and proper orientation.
+ Uncatalyzed bimolecular reactions 
+Two free reactants → single restricted transition state conversion is entropically unfavorable.
+ Uncatalyzed unimolecular reactions 
+Flexible reactant → rigid transition state conversion is entropically unfavorable for flexible reactants.
+ Catalyzed reactions
+The enzyme uses the binding energy of substrates to organize the reactants to a fairly rigid ES complex.
+The entropy cost is paid during binding.
+Rigid reactant complex → transition state conversion is entropically neutral.
+
+Slide 13:
+Support for the Proximity Model
+The rate of anhydride formation from esters and carboxylates shows a strong dependence on proximity of two reactive groups (work by Thomas C. Bruice’s group).
+
+Slide 14:
+How to Lower ΔG≠
+Enzymes bind transition states best.
+The idea was proposed by Linus Pauling in 1946.
+Enzyme active sites are complimentary to the transition state of the reaction.
+Enzymes bind transition states better than substrates.
+Stronger/additional interactions with the transition state as compared with the ground state lower the activation barrier.
+Largely ΔH‡ effect
+
+Slide 15:
+Illustration of TS Stabilization Idea:
+Imaginary Stickase 
+
+Slide 16:
+Catalytic Mechanisms
+acid-base catalysis: give and take protons
+covalent catalysis: change reaction paths
+metal ion catalysis: use redox cofactors, pKa shifters
+Enzymes may use one or a combination of the following: 
+
+Slide 17:
+General Acid-Base Catalysis 
+
+Slide 18:
+Amino Acids in 
+General Acid-Base Catalysis
+
+Slide 19:
+Covalent Catalysis
+A transient covalent bond between the enzyme and the substrate
+Changes the reaction pathway
+uncatalyzed:   
+
+catalyzed (X = catalyst):
+
+
+Requires a nucleophile on the enzyme
+can be a reactive serine, thiolate, amine, or carboxylate
+
+Slide 20:
+Metal Ion Catalysis
+Involves a metal ion bound to the enzyme
+Interacts with substrate to facilitate binding
+stabilizes negative charges
+Participates in oxidation reactions
+
+Slide 21:
+Chymotrypsin
+During digestion, dietary proteins must be broken down into small peptides by proteases.
+Chymotrypsin is one of several proteases that cuts peptides at specific locations on the peptide backbone.
+This protease is able to cleave the peptide bond adjacent to aromatic amino acids.
+
+Chymotrypsin cuts this bond.
+
+Slide 22:
+Chymotrypsin Uses Most of 
+the Enzymatic Mechanisms
+
+Slide 23:
+Chymotrypsin Mechanism 
+Step 1: Substrate Binding
+
+Slide 24:
+Chymotrypsin Mechanism
+Step 2: Nucleophilic Attack
+
+Slide 25:
+Chymotrypsin Mechanism 
+Step 3: Substrate Cleavage
+
+Slide 26:
+Chymotrypsin Mechanism
+Step 4: Water Comes In
+
+Slide 27:
+Chymotrypsin Mechanism
+Step 5: Water Attacks
+
+Slide 28:
+Chymotrypsin Mechanism 
+Step 6: Break-off from the Enzyme
+
+Slide 29:
+Chymotrypsin Mechanism
+ Step 7: Product Dissociates
+
+Slide 30:
+Peptidoglycan and Lysozyme
+Peptidoglycan is a polysaccharide found in many bacterial cell walls.
+
+Cleavage of the cell wall leads to the lysis of bacteria.
+
+Lysozyme is an antibacterial enzyme.
+
+Slide 31:
+Peptidoglycan and Lysozyme
+
+Slide 32:
+X-ray structures of lysozyme with bound substrate analogs show that the C-1 carbon is located between Glu 35 and Asp 52 residues.  
+General Acid-Base + Covalent Catalysis: 
+Cleavage of Peptidoglycan by Lysozyme
+
+Slide 33:
+Cleavage of Peptidoglycan by Lysozyme: Two Successive SN2 Steps Model
+Asp 52 acts as a nucleophile to attack the anomeric carbon in the first SN2 step.
+Glu 35 acts as a general acid and protonates the leaving group in the transition state.
+Water hydrolyzes the covalent glycosyl-enzyme intermediate.
+Glu 35 acts as a general base to deprotonate water in the second SN2 step.
+
+Slide 34:
+
+Slide 35:
+
+Slide 36:
+What Is Enzyme Kinetics?
+Kinetics is the study of the rate at which compounds react.
+The rate of enzymatic reaction is affected by:
+enzyme
+substrate
+effectors
+temperature
+
+Slide 37:
+
+Slide 38:
+Why Study Enzyme Kinetics?
+Quantitative description of biocatalysis
+Determine the order of binding of substrates
+Elucidate acid-base catalysis
+Understand catalytic mechanism
+Find effective inhibitors
+Understand regulation of activity
+
+Slide 39:
+Derivation of Enzyme Kinetics Equations
+Start with a model mechanism.
+Identify constraints and assumptions.
+Carry out algebra ...
+... or graph theory for complex reactions.
+
+Simplest Model Mechanism: E + S → ES → E + P
+one reactant, one product, no inhibitors
+
+
+←
+
+Slide 40:
+Identify Constraints and Assumptions
+Total enzyme concentration is constant.
+The mass balance equation for enzymes is ETot = [E] + [ES].
+It is also implicitly assumed that STot = [S] + [ES] ≈ [S].
+Steady state assumption
+
+
+What is the observed rate?
+
+
+The rate of product formation is the rate of [ES] breakdown to product.
+ 
+
+Slide 41:
+Carry Out the Algebra
+The final form in case of a single substrate is the Michaelis-Menten equation:
+
+
+
+kcat (turnover number): how many substrate molecules one enzyme molecule can convert per second
+Km (Michaelis constant): an approximate measure of a substrate’s affinity for an enzyme
+During steady state, the maximum velocity (Vmax) occurs when all of the enzyme is in the ES complex and is dependent on the breakdown of that complex (k[ES]).
+The microscopic meaning of Km and kcat depends on the details of the mechanism.
+
+Slide 42:
+How to Do Kinetic Measurements
+Experiment:
+Mix enzyme + substrate.
+Record rate of substrate disappearance and/or product formation as a function of time (the velocity of reaction).
+Plot initial velocity versus substrate concentration.
+Change substrate concentration and repeat.
+
+Slide 43:
+Effect of Substrate Concentration
+ Ideal rate: 
+
+
+
+Deviations due to:
+ limitation of measurements
+ substrate inhibition
+ substrate prep containing inhibitors
+ enzyme prep containing inhibitors
+
+Slide 44:
+Effect of Substrate Concentration
+
+Slide 45:
+Saturation Kinetics: 
+At High [S], Velocity Is not Proportional to [S]
+
+Slide 46:
+Determination of Kinetic Parameters
+A nonlinear Michaelis-Menten plot should be used to calculate parameters Km and Vmax.
+
+A linearized double-reciprocal plot is good for analysis of two-substrate data or inhibition. 
+
+
+Slide 47:
+Lineweaver-Burk Plot:
+Linearized, Double-Reciprocal
+
+Slide 48:
+Enzyme Efficiency Is Limited by Specificity: kcat/KM
+Diffusion from the active site limits the maximum value for specificity.
+Can gain efficiency by having high velocity or affinity for substrate
+catalase vs. acetylcholinesterase
+TABLE 6-8	Enzymes for Which kcat/Km Is Close to the Diffusion-Controlled Limit (108 to 109 M–1s–1)	
+Enzyme	Substrate	kcat (S–1)	Km (S–1)	kcat/Km
+(M–1s–1)	
+Acetylcholinesterase	Acetylcholine	1.4 x 104	9 x 10–5	1.6 x108	
+Carbonic anhydrase	CO2
+HCO3–	1 x 106
+4 x 105	1.2 x 10–2
+2.6 x 10–2	8.3 x 107
+1.5 x 107	
+Catalase	H2O2	4 x 107	1.1 x 100	4 x 107	
+Crotonase	Crotonyl-CoA	5.7 x103	2 x 10–5	2.8 x 108	
+Fumarase	Fumarate
+Malate	8 x 102
+9 x 102	5 x 10–6
+2.5 x 10–5	1.6 x 108
+3.6 x 107	
+β-Lactamase	Benzylpenicillin	2.0 x 103	2 x 10–5	1 x 108	
+Source: A. Fersht, Structure and Mechanism in Protein Science, p. 166, W. H. Freeman and Company, 1999.	
+
+Slide 49:
+Two-Substrate Reactions
+Kinetic mechanism: the order of binding of substrates and release of products
+
+When two or more reactants are involved, enzyme kinetics allows to distinguish between different kinetic mechanisms:
+ sequential mechanism
+ ping-pong mechanism
+
+
+Slide 50:
+
+Slide 51:
+Sequential Kinetic Mechanism
+We cannot easily distinguish random from ordered.
+Random mechanisms in equilibrium will give the intersection point at the y-axis.
+Lineweaver-Burk: lines intersect
+
+
+Slide 52:
+Ping-Pong Kinetic Mechanism
+Lineweaver-Burk: lines are parallel
+
+Slide 53:
+Enzyme Inhibition
+Inhibitors are compounds that decrease an enzyme’s activity.
+Irreversible inhibitors (inactivators) react with the enzyme.
+One inhibitor molecule can permanently shut off one enzyme molecule.
+They are often powerful toxins but also may be used as drugs.
+
+Reversible inhibitors bind to and can dissociate from the enzyme.
+They are often structural analogs of substrates or products.
+They are often used as drugs to slow down a specific enzyme.
+
+Reversible inhibitor can bind to: 
+the free enzyme and prevent the binding of the substrate.
+the enzyme-substrate complex and prevent the reaction.
+
+Slide 54:
+Competes with substrate for binding 
+binds active site
+does not affect catalysis
+
+
+
+
+
+
+No change in Vmax; apparent increase in KM
+Lineweaver-Burk: lines intersect at the y-axis.
+
+Competitive Inhibition
+
+Slide 55:
+Competitive Inhibition
+
+Slide 56:
+Uncompetitive Inhibition
+Only binds to ES complex 
+does not affect substrate binding
+inhibits catalytic function
+
+
+
+
+
+
+Decrease in Vmax; apparent decrease in KM
+No change in KM/Vmax
+Lineweaver-Burk: lines are parallel.
+
+Slide 57:
+Uncompetitive Inhibition
+
+Slide 58:
+Mixed Inhibition
+Binds enzyme with or without substrate
+binds to regulatory site
+inhibits both substrate binding and catalysis
+Decrease in Vmax; apparent change in KM
+Lineweaver-Burk: lines intersect left from the y-axis.
+Noncompetitive inhibitors are mixed inhibitors such that there is no change in KM.
+
+Slide 59:
+Mixed Inhibition
+
+Slide 60:
+Enzyme Activity Can Be Regulated
+Regulation can be:
+noncovalent modification (allosteric)
+covalent modification
+irreversible
+reversible
+
+Slide 61:
+Allosteric effectors or modulators are generally small chemicals.
+Allosteric effectors can be positive, or improve enzymatic catalysis. 
+Allosteric effectors can be negative, or reduce enzymatic catalysis.
+Noncovalent Modification: Allosteric Regulators
+
+Slide 62:
+Noncovalent Modification: Allosteric Regulators
+The kinetics of allosteric regulators differ from Michaelis-Menten kinetics.
+
+
+Slide 63:
+Some Reversible Covalent Modifications
+
+Slide 64:
+Zymogens Are Activated by 
+Irreversible Covalent Modification
+
+Slide 65:
+The Blood Coagulation Cascade Uses Irreversible Covalent Modification
+
+Slide 66:
+Some Enzymes Use 
+Multiple Types of Regulation
+
+Slide 67:
+Chapter 6: Summary
+why nature needs enzyme catalysis
+how enzymes can accelerate chemical reactions
+how chymotrypsin breaks down peptide bonds  
+how to perform and analyze kinetic studies
+how to characterize enzyme inhibitors 
+how enzyme activity can be regulated
+
+In this chapter, we learned:

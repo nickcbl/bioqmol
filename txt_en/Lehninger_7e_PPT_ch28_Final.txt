@@ -1,0 +1,708 @@
+Slide 1:
+
+28 | Regulation of Gene Expression
+© 2017 W. H. Freeman and Company
+
+Slide 2:
+Ways to Regulate Protein Concentration in a Cell
+Synthesis of primary RNA transcript 
+How to process this RNA into mRNA
+Posttranscriptional modifications of mRNA
+Degradation of mRNA
+Protein synthesis
+Posttranslational modification of protein
+Targeting and transport of the protein
+Degradation of the protein
+
+Slide 3:
+The Vocabulary of Gene Regulation
+Housekeeping gene 
+under constitutive expression
+constantly expressed in approximately all cells
+Regulated gene
+Levels of the gene product rise and fall with the needs of the organism.
+Such genes are inducible.
+able to be turned on 
+Such genes are also repressible.
+able to be turned off
+
+Slide 4:
+RNA Polymerase Binding to Promoters Is a Major Target of Regulation
+RNA polymerases bind to promoter sequences near the starting point of transcription initiation.
+
+The RNA pol-promoter interaction greatly influences the rate of transcription initiation.
+
+Regulatory proteins (transcription factors) work to enhance or inhibit this interaction between RNA pol and the promoter DNA.
+
+Slide 5:
+A Consensus Sequence Is Found in Many E. Coli Promoters
+
+Most bacterial promoters include the conserved –10 and –35 regions that interact with the σ factor of RNA polymerase.
+Substitutions in this –10 to –35 region usually reduce the affinity of RNA Pol for the promoter.
+Some promoters also include the upstream element that interacts with the α subunit of RNA polymerase.
+
+Slide 6:
+Mechanisms to Regulate Transcription in Bacteria
+Use of σ factors 
+recognize different classes of promoters
+allows coordinated expression of different sets of genes
+Binding other proteins (transcription factors) to promoters
+recognize promoters of specific genes
+may bind small signaling molecules
+may undergo posttranslational modifications
+protein’s affinity toward DNA is altered by ligand binding or posttranslational modifications
+allows expression of specific genes in response to signals in the environment
+
+Slide 7:
+Regulation by Specificity Factors Such as σ Subunits of RNA Pol
+Specificity factors alter RNA polymerase’s affinity for certain promoters.
+Example: σ subunit of E. coli RNA Pol
+Most E. coli promoters recognized by σ70.
+This subunit can be replaced by one of six additional specificity factors.
+Heat shock will replace σ70 with σ32 and direct RNA Pol to different promoters.
+
+Slide 8:
+Heat Shock Induces Transcription of New Products to Protect Cell
+Occurs when bacteria are subject to heat stress
+RNA Pol replaces σ70 with σ32
+Causes RNA Pol to bind to different set of promoters
+→ transcription of new products including chaperones that keep proteins in correct conformation, even in heat
+
+Slide 9:
+Small-Molecule Effectors Can Regulate Activators and Repressors 
+Repressors reduce RNA Pol-promoter interactions or block the polymerase.
+bind to operator sequences on DNA
+usually near a promoter in bacteria but further away in many eukaryotes
+Effectors can bind to repressor and induce a conformational change.
+change may increase or decrease repressor’s affinity for the operator and thus may increase or decrease transcription
+
+Slide 10:
+Activators Improve Contacts Between 
+RNA Polymerase and the Promoter
+Binding sites in DNA for activators are called enhancers.
+In bacteria, enhancers are usually adjacent to the promoter.
+often adjacent to promoters that are “weak” (bind RNA polymerase weakly), so the activator is necessary
+In eukaryotes, enhancers may be very distant from the promoter.
+
+Slide 11:
+Negative Regulation
+Negative regulation involves repressors.
+Example: Repressor binds to DNA and shuts down transcription
+Alternative: Signal causes repressor to dissociate from DNA; transcription induced  
+
+Despite opposite effects on transcription, both are negative regulation
+
+Slide 12:
+Positive Regulation
+Positive regulation involves activators.
+Enhance activity of RNA polymerase
+
+Activator-binding sites are near promoters that weakly bind RNA Pol or do not bind at all.
+It may remain bound until a molecule signals dissociation.
+Alternatively, the activator may only bind when signaled.
+
+Slide 13:
+DNA Looping Allows Eukaryotic Enhancers to Be Far from Promoters
+Activators can influence transcription at promoters thousands of bp away.
+How? Via formation of DNA loops
+Looping can be facilitated by architectural regulator proteins.
+Co-activators may mediate binding by binding to both activator and RNA polymerase.
+
+Slide 14:
+Many Bacterial Genes Are Transcribed And Regulated Together in an Operon
+An operon is a cluster of genes sharing a promoter and regulatory sequences.
+Genes are transcribed together, so mRNAs are several genes represented on one mRNA (polycistronic).
+First example: the lac operon
+
+Slide 15:
+The lac Operon Reveals Many Principles of Gene Regulation
+Work of Jacob and Monod − 1960
+Shows how three genes for metabolism of lactose are regulated together as an operon:
+β-galactosidase (lacZ)
+cleaves lactose to yield glucose and galactose
+lactose permease (galactoside permease; lacY)
+transports lactose into cell
+thiogalactoside transacetylase (lacA)
+That rely on negative regulation via a repressor.
+
+Slide 16:
+Lactose Metabolism in E. Coli
+When glucose is abundant and lactose is lacking, cells make only very low levels of enzymes for lactose metabolism.
+Transcription is repressed.
+If glucose is scarce and cells are fed lactose, the cells can use it as their energy source. 
+The cells suddenly express the genes for the enzymes for lactose metabolism.
+Transcription is no longer repressed.
+
+
+Slide 17:
+Lactose Metabolism in E. Coli
+
+Slide 18:
+Inhibiting the Transcription of the lac Operon via a Repressor Protein
+A gene called lacI encodes a repressor called the Lac repressor.
+It has its own promoter PI.
+Transcription of the repressor is independent of transcription of the enzymes the repressor regulates.
+The repressor can bind to three operator sites (O1–O3).
+The Lac repressor binds primarily to the operator O1.
+O1 is adjacent to the promoter.
+Binding of the repressor helps prevent RNA polymerase from binding to the promoter.
+The repressor also binds to one of two secondary operators, with the DNA looped between this secondary operator and O1  (see Fig. 28-8b).
+It reduces transcription, but transcription occurs at a low, basal rate, even with the repressor bound.
+
+
+
+Slide 19:
+Structure of the lac Operon
+
+Slide 20:
+Lac Repressor Bound to O1 and O3 with DNA Looped Between
+
+Slide 21:
+The lac Operon Is Induced by Allolactose
+Allolactose (an inducer) binds to the repressor and causes it to dissociate from the operator.
+β-galactosidase not only hydrolyzes lactose, but it can also isomerize lactose into allolactose.
+[Allolactose] ↑ when
+	[Lactose] ↑
+
+Slide 22:
+The lac Operon Is Governed by More Than Repressor Binding
+The availability of glucose governs expression of lactose-digesting genes via catabolite repression.
+When glucose is present, lactose genes are turned off.
+It is mediated by cAMP and cAMP receptor protein (CRP or CAP for catabolite activator protein).
+
+Slide 23:
+When Glucose Is Absent, lac Operon Transcription Is Stimulated by CRP-cAMP
+cAMP binds near the promoter.
+stimulates transcription 50-fold
+bends DNA
+open complex doesn’t form readily without CRP-cAMP
+CRP-cAMP only has this effect when the Lac repressor has dissociated.
+cAMP is made when [glucose] is low.
+
+Slide 24:
+When Lactose Is Absent 
+Little to No Transcription Occurs
+Whether [glucose] is high or low, if lactose is absent → repressor stays bound….→ no transcription even when CRP-cAMP bind.
+
+Slide 25:
+When Lactose Is Present, Transcription Depends On Glucose Level
+Repressor dissociates, but transcription is only stimulated significantly if cAMP rises.
+
+Slide 26:
+Two Requirements for Strongest Induction of the lac Operon
+Lactose must be present to form allolactose to bind to the repressor and cause it to dissociate from the operator.
+reducing repression
+[Glucose] must be low so that cAMP can increase, bind to CRP, and the complex can bind near the promoter
+causing activation
+
+
+Slide 27:
+Combined Effects of Glucose and Lactose on the lac Operon
+When lactose is low, repressor is bound: →inhibition
+When lactose is high, repressor dissociates →permitting transcription
+When glucose is high, CRP is not bound and →transcription is dampened
+When glucose is low, cAMP is high and CRP is bound →activation
+
+Slide 28:
+Protein-DNA Binding Motifs
+A few protein arrangements are used in thousands of different regulatory proteins and are hence called motifs.
+helix-turn-helix
+used by Lac repressor
+zinc finger
+leucine zipper
+and so on
+
+Slide 29:
+The Helix-Turn-Helix Motif Is Common in DNA-Binding Proteins
+~ 20 aa
+one α helix for recognition for DNA (red in the next slide), then β turn, then another α helix
+sequence-specific binding due to specific contacts between the recognition helix and the major groove 
+Four DNA-binding helix-turn-helix motifs (gray) in the Lac repressor
+
+Slide 30:
+Helix-Turn-Helix Motif
+
+Slide 31:
+The Zinc Finger Motif Is Common in Eukaryotic Transcription Factors
+~30 aa
+“Finger” portion is a peptide loop cross-linked by Zn2+ 
+Zn2+ usually coordinated by 4 Cys, or 2 Cys, 2 His
+Interact with DNA or RNA 
+Binding is weak, so several zinc fingers often act in tandem.
+Binding can range from sequence specific to random.
+
+
+Slide 32:
+Zinc Fingers
+
+Slide 33:
+The Leucine Zipper Motif
+Dimer of two amphipathic α helices plus a DNA-binding domain
+Each helix is hydrophobic on one side and hydrophilic on the other.
+The hydrophobic side is the contact between the two monomers.
+Approximately every seventh residue in helices is Leu.
+Helices form a coiled coil.
+The DNA-binding domain has basic residues (Lys, Arg) to interact with polyanionic DNA.
+
+
+Slide 34:
+Structure of a Leucine Zipper:  GCN4 from Yeast
+
+Slide 35:
+Eukaryotic Gene Regulation Relies on Combinatorial Control
+In yeast, there are only 300 transcription factors for thousands of genes.
+Transcription factors mix and match.
+Different combinations regulate different genes.
+Eukaryotic gene regulation relies on protein-protein interactions.
+
+Slide 36:
+Eukaryotic RNA-Binding Domain
+RNA recognition motifs – (RRMs) 
+90−100 amino acids – four strand antiparallel β sheet with two α helices
+Found in gene activators and bind to both DNA and RNA
+DNA binding induces transcription.
+Binding to lncRNAs (long noncoding RNAs) forces the proteins to compete with DNA for binding, thus decreasing gene transcription.
+They may bind to mRNA, rRNA, or other ncRNAs.
+This motif may be part of DNA-binding regulatory proteins or may occur in proteins binding only RNA.
+
+Slide 37:
+Eukaryotic RRM Binding to DNA and RNA
+
+Slide 38:
+Amino Acid Biosynthesis Regulated by Transcriptional Attenuation
+Bacterial operons are also found for biosynthetic pathways.
+The trp operon is regulated by transcription attenuation.
+Transcription begins but is then halted by a stop signal (attenuator).
+It relies on the fact that, in bacteria, transcription and translation can proceed simultaneously.
+The attenuator sequence is in the 5’-region of a leader sequence, and it can make the ribosome stall.
+
+Slide 39:
+Role of the Attenuator
+The attenuator (purple, next slide), which is part of the leader (light blue) determines:
+if transcription will be attenuated at the end of the leader 
+or, if transcription will continue into the genes for Trp synthesis
+
+
+Slide 40:
+The trp Operon
+
+Slide 41:
+The Leader Region Can Form Different Stem-Loop Structures
+The leader is 162 nucleotides long.
+includes segments 1−4
+If segments 3 and 4 base-pair, they form a hairpin structure that is the attenuation signal.
+If segments 2 and 3 base-pair, transcription proceeds and the trp synthetic enzymes are made.
+no attenuation
+
+Slide 42:
+The Four Segments of the Trp Leader Region
+
+Slide 43:
+The 3–4 Pair (Attenuator) and the 2–3 Pair
+
+Slide 44:
+Trp Operon When Trp Synthesis Is Not Needed (tRNATrp Is High)
+
+Slide 45:
+Trp Operon When Trp Levels Are Low, tRNATrp Not Abundant, and Trp Synthesis Is Needed
+
+Slide 46:
+
+A Repressor Protein Also Regulates TRP Transcription
+The Trp operon also has a repressor that binds to DNA in the presence of tryptophan.
+Trp repressor is a homodimer.
+When Trp is abundant, it binds to repressor, causes it to bind to the operator, and slows expression of genes for Trp synthesis.
+It has helix-turn-helix motifs that interact with DNA via the major groove.
+
+Slide 47:
+Regulation of the SOS Response
+SOS Response = response to extensive DNA damage
+results in cell cycle arrest and activation of DNA repair systems
+Normally, SOS genes are repressed by LexA repressor.
+LexA binds to operators at several genes.
+Damaged DNA produces a lot of single strands.
+ssDNA is bound by the protein RecA (or, in eukaryotes Rad51).
+activates RecA’s ability to interact with LexA repressor
+RecA binds to LexA repressor, causing it to self-cleave and dissociate from DNA.
+RecA is called a co-protease.
+
+
+Slide 48:
+Regulation of the SOS Response
+ in E. Coli
+
+Slide 49:
+Synthesis of Ribosomal Proteins and rRNA is Controlled at Translation
+When bacteria need more protein (as in cell growth), they make more ribosomes.
+Ribosome synthesis consumes energy and resources, so it is highly regulated.
+Ribosomal protein (r-protein) operons are regulated via translational feedback (next slide).
+
+Slide 50:
+Translational Feedback Mechanism
+Each operon for an r-protein encodes a translational repressor.
+repressor binds to mRNA and blocks translation
+Repressor has greater affinity for rRNA than for mRNA.
+so translation is repressed only when synthesis of r-proteins exceeds a level needed to make ribosomes
+
+
+Slide 51:
+rRNA Synthesis Is Also Regulated by Amino Acid Availability
+The stringent response occurs when aa concentrations are low.
+Lack of aa produces uncharged tRNA.
+Uncharged tRNA binds to ribosomal A site.
+rRNA synthesis triggers a cascade that begins with binding stringent factor protein (RelA) to ribosome.
+
+
+Slide 52:
+Stringent Factor Catalyzes Formation of an Unusual Guanosine-Based Messenger
+Stringent factor catalyzes formation of nucleotide guanosine tetraphosphate (ppGpp).
+It is formed from adding diphosphate (pyrophosphate) to the 3’-end of GTP.
+Then a phosphorylase cleaves a phosphate to yield ppGpp.
+Binding of ppGpp to RNA polymerase reduces rRNA synthesis.
+
+Slide 53:
+Stringent Response in E. Coli
+
+Slide 54:
+Some RNAs Participate in Regulation
+“Cis” regulation: a molecule affects its own function
+“Trans” regualation: a molecule is affected by another separate molecule
+Example: mRNA of gene rpoS (RNA polymerase sigma factor) that encodes σS, a specificity factor used by E. coli in stress conditions
+such as starvation when σS needed to transcribe stress response genes
+
+
+
+Slide 55:
+Trans-Acting sRNAs Facilitate Translation of σS  mRNA
+σS mRNA is present a low levels but is not translated due to a hairpin structure that inhibits its binding to ribosomes.
+sRNAs (small RNAs) bind to this mRNA and inhibit formation of the hairpin	.
+These sRNAs include DsrA and RprA.
+sRNA-mRNA interactions are facilitated by a chaperone protein called Hfq.
+
+Slide 56:
+Regulation of Bacterial mRNA Function in Trans by sRNA
+
+Slide 57:
+Activation of Bacterial Translation by Small RNA Molecules 
+The ribosome-binding Shine−Dalgarno sequence is sequestered into a stem-loop structure in the mRNA.
+In the presence of protein Hfq, small regulatory RNA DsrA binds to the mRNA.
+The binding of DsrA opens up the stem-loop and allows mRNA binding to the ribosome.
+DsrA RNA promotes translation.
+
+Slide 58:
+Inhibition of Bacterial Translation by Small RNA Molecules 
+The ribosome-binding Shine−Dalgarno sequence is sequestered into a stem-loop structure in the mRNA.
+In the presence of protein Hfq, small regulatory RNA OxyS binds to the mRNA.
+The binding of OxyS blocks the ribosome binding site in mRNA.
+OxyS RNA inhibits translation.
+
+Slide 59:
+Cis Regulation by Riboswitches
+Riboswitch = domain of an mRNA that can bind a small-molecule ligand
+The binding of ligand affects conformation of the mRNA and its activity.
+Thus, riboswitches allow mRNA to participate in their own regulation and respond to changing concentrations of the ligand.
+
+Slide 60:
+Riboswitches Are a Developing Area of Research
+Riboswitches have been found to respond to many coenzymes, metabolites, and so on.
+They are also found in eukaryotic introns and seem to regulate splicing.
+Some riboswitches are unique to bacteria and are therefore a target for antibiotics.
+
+
+Slide 61:
+Regulation by Gene Recombination
+Processes can remove promoters relative to the coding sequence or can put genes into multiple orientations to alter the expression.
+Example: Flagellin genes in Salmonella
+In one orientation fljB is expressed with a repressor for fljC gene.
+In another orientation, only fljC is expressed.
+The process is called phase variation.
+
+Slide 62:
+Phase Variation – Regulation of Flagellin Genes
+
+Slide 63:
+TABLE 28-1	Examples of Gene Regulation by Recombination	
+System	Recombinase/recombination site	Type of recombination	Function	
+Phase variation (Salmonella)	Hin/hix	Site-specific	Alternative expression of two flagellin genes allows evasion of host immune response.	
+Host range (bacteriophage μ)	Gin/gix	Site-specific	Alternative expression of two sets of tail fiber genes affects host range.	
+Mating-type switch (yeast)	HO endonuclease, RAD52 protein, other proteins/MAT	Nonreciprocal gene conversiona	Alternative expression of two mating types of yeast, a and α, creates cells of different mating types that can mate and undergo meiosis.	
+Antigenic variation (trypanosomes)b	Varies	Nonreciprocal gene conversiona	Successive expression of different genes encoding the variable surface glycoproteins (VSGs) allows evasion of host immune response.	
+aIn nonreciprocal gene conversion (a class of recombination events not discussed in Chapter 25), genetic information is moved from one part of the genome (where it is silent) to another (where it is expressed). The reaction is similar to replicative transposition (see Fig. 25-42).
+bTrypanosomes cause African sleeping sickness and other diseases (see Box 6-3). The outer surface of a trypanosome is made up of multiple copies of a single VSG, the major surface antigen. A cell can change surface antigens to more than 100 different forms, precluding an effective defense by the host immune system. Function	
+
+Slide 64:
+Features of Eukaryotic Gene Regulation
+Access of eukaryotic promoters to RNA polymerase is hindered by chromatin structure.
+thus requires remodeling chromatin
+Positive regulation mechanisms predominate and are required for even a basal level of gene expression.
+Eukaryotic gene expression requires a complicated set of proteins.
+
+Slide 65:
+Three Features of Transcriptionally Active Chromatin 
+Euchromatin = less-condensed chromatin, distinguished from transcriptionally inactive heterochromatin
+Chromatin remodeling of transcriptionally active genes:
+nucleosomes repositioned 
+histone variants
+covalent modifications to nucleosomes
+
+Slide 66:
+Nucleosomes Can Be Restructured by Specific Protein Complexes
+SWI/SNF (SWItch/Sucrose NonFermentable) complex
+remodels chromatin to irregularly space nucleosomes
+stimulates binding of transcription factors
+works with proteins of ISWI (imitation switch) family
+ATP-dependent alteration of spacing between nucleosomes, and so on
+
+Slide 67:
+Nucleosome Remolding
+Eukaryotic cells generally have 9−10 different CHD (chromodomain helicase DNA-binding) grouped into three subfamilies.
+Each family has a specialized role.
+Ie: INO80 family:
+roles in remodeling chromatin and DNA repair
+SWR1 – promotes subunit exchange in nucleosomes inducing histone variants 
+Ie: H2Az – found in transcriptionally active regions
+
+Slide 68:
+Covalent Modification of Histones
+Methylation
+Phosphorylation
+Acetylation
+Ubiquitination
+Sumoylation
+Occur mostly in the N-terminal domain of the histones found near the exterior of the nucleosome particle
+
+
+Slide 69:
+Histone Modification Alters Transcription
+Covalent modification of histones allows recruitment of enzymes and transcription factors.
+Methylation of Lys-4 and Lys-36 at histone3 (H3) and Arg of H3 and H4:
+results in transcriptional activation
+recruits histone acetyltransferases (HATs) that then acetylate a particular Lys
+reversed by histone deacetylases (HDACs) that make chromatin inactive
+Acetylation of Lys results in decreased affinity of histone for DNA.
+
+Slide 70:
+TABLE 28-2	Some Enzyme Complexes That Catalyze Chromatin Structural Changes Associated with Transcription	
+Enzyme complexa	Oligomeric structure (number of polypeptides)	Source	Activities	
+Histone movement, replacement, or editing, requiring ATP	
+SWI/SNF family	8–17
+Mr > 106	Eukaryotes	Nucleosome remodeling; transcriptional activation	
+ISWI family	2–4	Eukaryotes	Nucleosome remodeling; transcriptional repression; transcriptional activation in some cases	
+CHD family	1–10	Eukaryotes	Nucleosome remodeling; nucleosome ejection for transcriptional activation; some have repressive roles	
+INO80 family 	>10	Eukaryotes	Nucleosome remodeling and transcriptional activation; family member SWR1 engages in replacement of H2A-H2B with H2AZ-H2B	
+Histone modification	
+GCN5-ADA2-ADA3 	3	Yeast	GCN5 has type A HAT activity	
+SAGA/PCAF	>20	Eukaryotes	Includes GCN5-ADA2-ADA3; acetylates residues in H3, H2B, H2AZ	
+NuA4	≥12	Eukaryotes	EsaI component has HAT activity; acetylates H4, H2A, and H2AZ	
+Histone chaperones not requiring ATP	
+HIRA	1	Eukaryotes	Eukaryotes Deposition of H3.3 during transcription	
+aThe abbreviations for eukaryotic genes and proteins are often more confusing or obscure than those used for bacteria. SWI (switching) was discovered as a protein required for expression of certain genes involved in mating-type switching in yeast, and SNF (sucrose nonfermenting) as a factor for expression of the yeast gene for sucrase. Subsequent studies revealed multiple SWI and SNF proteins that act in a complex. The SWI/SNF complex has a role in expression of a wide range of genes and has been found in many eukaryotes, including humans. ISWI is imitation SWI. CHD is chromodomain, helicase, DNA binding; INO80, inositol-requiring 80; and SWR1, SWi2/Snf2-related ATPase 1. The complex of GCN5 (general control nonderepressible) and ADA (alteration/deficiency activation) proteins was discovered during investigation of the regulation of nitrogen metabolism genes in yeast. These proteins can be part of the larger SAGA (SPF, ADA2,3, GCN5, acetyltransferase) complex in yeasts. The equivalent of SAGA in humans is PCAF (p300/CBP-associated factor). NuA4 is nucleosome acetyltransferase of H4; ESA1, essential SAS2-related acetyltransferase. HIRA is histone regulator A.	
+
+Slide 71:
+Idea of a “Nucleosome Code” or “Histone Code”
+Some speculate that genomes encode directions for nucleosome organization. 
+Nucleosomes seem to occur at specific sequences.
+Covalent modifications seem to occur at specific regions/sequences.
+A nucleosome positioning code or histone modification code explains these observations.
+
+Slide 72:
+Positive Regulation of Eukaryotic Promoters
+Eukaryotic gene transcription is usually dependent on activator proteins, not RNA Pol affinity.
+Most promoters are inaccessible, thus making repressors redundant.
+Combinatorial control provides a more precise positive control for gene regulation.
+Negative regulation exists but typically involves lncRNAs not proteins.
+
+
+Slide 73:
+RNA Polymerase II Requires 
+Five Types of Proteins
+Transcription activators (enhancers)
+proteins that bind to upstream activator sequences (UASs)
+Architectural regulators to facilitate DNA looping
+Chromatin modification/remodeling proteins
+Coactivators
+act indirectly (with other proteins, not with DNA)
+Basal (general) transcription factors
+
+
+Slide 74:
+Enhancer Proteins Are Diverse
+Can bind thousands of nucleotides away from the TATA box of the promoter
+Can have DNA-binding, protein-binding, and/or signal molecule-binding domains
+can bind with multiple proteins
+Some regulate a few genes; some regulate many hundreds of genes
+
+Slide 75:
+Architectural Regulators Regulate Looping
+Looping of DNA allows distant enhancers to modulate assembly at promoters.
+Example: high mobility group (HMG) proteins 
+have multiple functions, including architectural regulation
+
+Slide 76:
+Coactivators Assist RNA Polymerase
+Mediator complex binds to carboxyl-terminal domain(CTD) of RNA Pol II
+required for both basal and regulated transcription at many promoters
+later provides assembly surface for other complexes 
+TATA-binding protein is first component of preinitiation complex (PIC) at the typical TATA box of a promoter
+
+Slide 77:
+Details of Eukaryotic Regulation That Are Emerging
+Binding of activators triggers many promoters to bind RNA Pol II.
+Binding one activator seems to enable binding of additional activators.
+Often, components bind in a regular order.
+Histones are displaced as activators bind.
+The process coordinates with chromatin remodeling.
+
+Slide 78:
+Yeast Galactose Metabolism 
+The regulation of genes for importing and metabolizing galactose in yeast illustrates important principles.
+Genes for galactose metabolism (GAL) are spread over several chromosomes.
+But all have similar promoters.
+TATA box, Inr sequences, upstream activator sequence (UASG) recognized by Gal4 protein (Gal4p)
+
+
+
+Slide 79:
+All GAL Genes Are Regulated by a Common Set of Proteins
+Galactose binds Gal3p, then forms a complex with Gal4p and Gal80p.
+It allows Gal4p to be activator.
+Gal4 also recruits the SWI/NSF and mediator complexes for opening the chromatin.
+
+Slide 80:
+TABLE 28-3	Genes of Galactose Metabolism in Yeast	
+Gene	Protein function	Chromosomal location	Protein size (number of residues)	Relative protein expression in different carbon sources	
+Glucose	Glycerol	Galactose	
+Regulated genes	
+GAL1	Galactokinase	II	528	–	–	+++	
+GAL2	Galactose permease	XII	574	–	–	+++	
+PGM2	Phosphoglucomutase	XIII	569	+	+	++	
+GAL7	Galactose 1-phosphate uridylyltransferase	II	365	–	–	+++	
+GAL10	UDP-glucose 4-epimerase	II	699	–	–	+++	
+MEL1	α-Galactosidase	II	453	–	+	++	
+Regulatory Genes	
+GAL3	Inducer	IV	520	–	+	++	
+GAL4	Transcriptional activator	XVI	881	+/–	+	+	
+GAL80	Transcriptional inhibitor	XIII	435	+	+	++	
+Source: Information from R. Reece and A. Platt, Bioessays 19:1001, 1997.	
+
+Slide 81:
+Features of Hormone-Mediated Regulation
+Hormone-receptor complex binds to DNA regions called hormone response elements (HREs).
+Hormone receptors have a DNA-binding domain with zinc fingers.
+Hormone receptors also have a ligand-binding region at the C-terminus that is highly variable between different receptors.
+
+Slide 82:
+Two Types of Hormone Receptors
+Monomeric Type 1 (NR)―receptors for sex hormones and glucocorticoids
+found in cytoplasm in complex with Hsp70
+when hormone binds, Hsp70 dissociates
+receptor dimerizes
+exposes nuclear localization region
+so hormone-receptor complex travels to nucleus to be transcriptional activator
+
+
+Slide 83:
+Type II (includes thyroid hormone receptor; TR)
+found in nucleus bound to DNA and corepressor retinoid X receptor (RXR)
+hormone binds, corepressor dissociates
+receptor-hormone complex then activates transcription
+
+Two Types of Hormone Receptors
+
+Slide 84:
+Eukaryotic Gene Expression Is Also Regulated by Peptide Hormones
+2° messengers lead to activation of transcription factors
+Example: β-adrenergic pathway 	
+↑cAMP activates protein kinase A (PKA).
+PKA enters the nucleus and phosphorylates cAMP response element-binding protein (CREB).
+CREB is a transcription activator of genes leading to fuel use, rather than fuel storage.
+
+Slide 85:
+Four Mechanisms of Translation Regulation
+Phosphorylation of translation initiation factors
+Translational repressors (typically bind to 3’ UTR)
+Disruption of eIF4E and eIF4G interactions
+RNA-mediated regulation (gene silencing)
+
+Slide 86:
+Micro-RNAs Prevent Translation of mRNA
+Micro-RNAs (miRNAs) silence genes by binding to mRNAs
+can prevent transcription of the mRNA by cleaving it (via endonucleases Drosha or Dicer) or by blocking it
+Some miRNAs are made briefly during development; they are called small temporal RNAs (stRNAs).
+
+Slide 87:
+Researchers Can Shut Down Genes Artificially via RNA Interference
+Any dsRNA that corresponds to an mRNA and is introduced into a cell will be cleaved by Dicer into short segments called small interfering RNAs (siRNAs).
+These will bind to the mRNA to silence its translation.
+The process is called RNA interference.
+
+Slide 88:
+Gene Silencing by RNA Interference
+
+Slide 89:
+ncRNAs Also Regulate Gene Expression
+Referred to as lncRNAs when longer than 200 nt
+example: HSR1 – lncRNA (~600nts) interacts with eEF1a to regulate translation in stress cells 
+example: 7SK – binds to RNA Pol II transcription factor pTEFb to repress elongation
+Our knowledge of ncRNAs is rapidly expanding as further research continues to explore this field.
+
+Slide 90:
+Regulatory Proteins Control Development
+ Embryonic development requires complex and intricate coordination and regulation of gene expression.
+More genes are expressed during early development than any other part of the life cycle in a differentiated tissue.
+example: sea urchin with ~18,500 different mRNAs in oocyte versus ~6,000 different mRNAs in a differentiated tissue
+
+
+Slide 91:
+Regulatory Proteins Control Development
+Polarity must be established (anterior vs. posterior and dorsal vs. ventral).
+The embryo body may have repeating segments (Drosophila) (metamerism) with characteristic features.
+Morphogens, proteins that cause surrounding tissues to change shape, affect development.
+Genes from both mother (maternal genes) and embryo affect development and proper segmentation.
+
+Slide 92:
+Homeotic versus Maternal Genes
+Homeotic genes – specify development of organs and appendages in a particular body segment
+Hox genes – homeobox – contains a conserved sequence present in all of these genes
+Maternal genes – genes expressed in nurse and follicle cells that affect initial polarity and axes development (bicoid and nanos)
+
+Slide 93:
+Regulatory Proteins Control Development
+Bicoid – a transcription factor that activates expression of several segmentation genes; translational repressor that inactivated certain mRNAs deposited at the anterior pole
+Lack of Bicoid results in an embryo without a head or thorax and two abdomens.
+Nanos – translational repressor protein deposited at posterior of the egg
+
+
+Slide 94:
+Translational Regulation of Anterior-Posterior Development
+
+Slide 95:
+Homeotic Genes
+Often found in clusters and are highly conserved amount animals
+
+
+Slide 96:
+Developmental Potential of 
+Stem Cells
+Stem cells have the potential to differentiate into various tissues.
+Totipotent cells have the ability to differentiate into ANY tissue type or even a complete organism.
+Pluripotent cells are able to differentiate into any of the three germ cell layers and many types of tissues, but they cannot make a complete organism.
+Unipotent cells can differentiate into only one type of cell or tissue.
+
+Slide 97:
+Developmental Potential of 
+Stem Cells
+Embryonic stem cells   
+pluripotent cells of the blastocyst 
+used in embryonic stem cell research
+Adult stem cells
+limited potential compared with embryonic 
+hematopoietic stem cells – can give rise to different cells in niche or microenvironment
+considered multipotent
+example: bone marrow hematopoietic stem cells – give rise to many types of blood cells and those that can regenerate bone, but not liver, kidney, and so on
+
+
+
+Slide 98:
+Developmental Potential of 
+Stem Cells

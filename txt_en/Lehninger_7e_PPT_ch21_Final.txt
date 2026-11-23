@@ -1,0 +1,756 @@
+Slide 1:
+
+21| Lipid Biosynthesis
+© 2017 W. H. Freeman and Company
+
+Slide 2:
+CHAPTER 21 
+Lipid Biosynthesis 
+Biosynthesis of fatty acids and eicosanoids
+Assembly of fatty acids and glycerol into triacylglycerols
+Biosynthesis of cholesterol
+Trafficking and metabolism of cholesterol
+Regulation and role of cholesterol in human disease
+Learning goals: 
+
+Slide 3:
+Lipids Fulfill a Variety of Biological Functions
+Energy storage
+Constituents of  membranes
+Anchors for membrane proteins
+Cofactors for enzymes
+Signaling molecules
+Pigments
+Detergents
+Transporters
+Antioxidants
+
+
+
+Slide 4:
+Catabolism and Anabolism of Fatty Acids Proceed via Different Pathways
+Catabolism of fatty acids 
+produces acetyl-CoA
+produces reducing power (NADH, FADH2)
+takes place in the mitochondria
+Anabolism of fatty acids
+requires acetyl-CoA and malonyl-CoA 
+requires reducing power from NADPH
+takes place in cytosol in animals, chloroplast in plants
+
+Slide 5:
+
+Slide 6:
+Overview of Fatty Acid Synthesis
+Fatty acids are built in several passes, processing one acetate unit at a time.
+The acetate is coming from activated malonate in the form of malonyl-CoA.
+Each pass involves reduction of a carbonyl carbon to a methylene carbon.  
+
+Slide 7:
+Fatty Acid Synthesis Occurs in Cell Compartments Where NADPH Levels Are High
+Cytosol for animals, yeast
+Chloroplast for plants
+
+Sources of NADPH:
+in adipocytes: pentose phosphate pathway and malic enzyme (Fig. 21-9)
+ NADPH made as malate converts to pyruvate + CO2.
+in hepatocytes and mammary gland: pentose phosphate pathway
+NADPH made as glucose-6-phosphate converts to ribulose 6-phosphate.
+in plants: photosynthesis
+
+Slide 8:
+Pathways for NADPH Production
+
+Slide 9:
+Malonyl-CoA Is Formed from Acetyl-CoA and Bicarbonate
+Reaction carboxylates acetyl-CoA
+Catalyzed by acetyl-CoA carboxylase
+The enzyme has three subunits:
+One unit has biotin covalently linked to Lys.
+Biotin carries CO2.
+In animals, all three subunits are on one polypeptide chain.
+HCO3− (bicarbonate) is the soluble source of CO2.
+
+Slide 10:
+The Acetyl-CoA Carboxylase Reaction: Part 1
+Two-step Rx similar to carboxylations catalyzed by pyruvate carboxylase and propionyl-CoA carboxylase
+CO2 binds to biotin.
+CO2 is activated by attachment to N in ring of biotin.
+Reaction with ATP produces carbamoyl.
+
+Slide 11:
+The Acetyl-CoA Carboxylase Reaction: Part 2
+Enzyme undergoes conformational change to carry carbamoyl to transcarboxylase site 
+CO2 attaches to acetyl-CoA and leaves active site 
+
+Slide 12:
+Synthesis of Fatty Acids Is Catalyzed by Fatty Acid Synthase (FAS)
+Catalyzes a repeating four-step sequence that elongates the fatty acyl chain by two carbons at each step
+See Fig. 21-2
+uses NADPH as as the electron donor
+ises two enzyme-bound -SH groups as activating groups
+FAS I in vertebrates and fungi
+FAS II in plants and bacteria
+
+Slide 13:
+FAS I vs. FAS II
+FAS I
+Single polypeptide chain in vertebrates
+Leads to single product:  palmitate 16:0
+C-15 and C-16 are from the acetyl-CoA used to prime the Rx
+FAS II
+Made of separate, diffusible enzymes
+Makes many products (saturated, unsaturated, branched, many lengths, etc.)
+Mostly in plants and bacteria
+
+Slide 14:
+Fatty Acid Synthase Type I Systems
+
+Slide 15:
+Fatty Acid Synthesis
+Overall goal: attach acetate unit (2-carbon) from malonyl-CoA to a growing chain and then reduce it
+Reaction involves cycles of four enzyme-catalyzed steps:
+condensation of the growing chain with activated acetate
+reduction of carbonyl to hydroxyl
+dehydration of alcohol to trans-alkene
+reduction of alkene to alkane
+The growing chain is initially attached to the enzyme via a thioester linkage.
+
+Slide 16:
+The General Four-Step Fatty Acid Synthase I Reaction in Mammals
+Prep:  Malonyl CoA and acetyl CoA (or longer fatty acyl chain) are bound to FAS I and lose CoA.
+bind via thioester terminus or a Cys of the FAS
+activates the acyl group
+Step 1:  Condensation reaction attaches two C from acetyl group (or longer fatty acyl chain) to two C from malonyl group.
+release of CO2 activates malonyl group for attachment
+creates β-keto intermediate
+
+Slide 17:
+Fatty Acid Synthesis in Detail:
+Condensation and Elongation
+Activated acetyl and malonyl groups form acetoacetyl-ACP and CO2.
+Claisen condensation reaction
+Catalyzed by β-ketoacyl-ACP synthase
+Coupling condensation to decarboxylation of malonyl-CoA makes the reaction energetically favorable.
+
+Slide 18:
+Step 1 of FAS I:  Elongation
+
+Note that malonyl-CoA and acetyl-CoA have already been attached to complex via thioester linkages to enzyme and have shed their CoA attachments.
+
+Slide 19:
+Step 2:  First reduction: NADPH reduces the β-keto intermediate to an alcohol.
+carbonyl at C-3 reduced to form d-β-hydroxybutyryl-ACP
+NADPH is e− donor
+catalyzed by β-ketoacyl-ACP reductase (KR)
+The General Four-Step Fatty Acid Synthase I Reaction in Mammals
+
+Slide 20:
+Step 3:  Dehydration:  OH group from C-2 and H from neighboring CH2 are eliminated, creating double bond (trans-alkene).
+OH and H removed from C-2 and C-3 of β-hydroxybutyryl-ACP to form trans-Δ2-butenoyl-ACP
+catalyzed by β-hydroxyacyl-ACP dehydratase (DH)
+Step 4:  Second reduction:  NADPH reduces double bond to yield saturated alkane.
+The General Four-Step Fatty Acid Synthase I Reaction in Mammals
+
+Slide 21:
+Step 4:  Second reduction:  NADPH reduces double bond to yield saturated alkane.
+NADPH is the electron donor to reduce double bond of trans-Δ2-butenoyl-ACP to form butyryl-ACP.
+catalyzed by enoyl-ACP reductase (ER)
+
+
+The General Four-Step Fatty Acid Synthase I Reaction in Mammals
+
+Slide 22:
+Steps 2−4 of the FAS I Rx
+
+Slide 23:
+Overall Palmitate (16C) Synthesis
+
+Slide 24:
+Acyl Carrier Protein (ACP) Serves as a Shuttle in Fatty Acid Synthesis
+Contains a covalently attached prosthetic group 4’-phosphopantetheine
+flexible arm to tether acyl chain while carrying intermediates from one enzyme subunit to the next
+Delivers acetate (in the first step) or malonate (in all the next steps) to the fatty acid synthase
+Shuttles the growing chain from one active site to another during the four-step reaction
+
+Slide 25:
+Charging ACP and FAS I with Acyl Groups Activates Them
+Two thiols must be charged with the correct acyl groups before the condensation reaction can begin.
+thiol from 4-phosphopantethine in ACP
+thiol from Cys in fatty acid synthase
+The acetyl group of acetyl-CoA is transferred to ACP.
+catalyzed by malonyl/aceyl-CoA transferase (MAT)
+ACP passes this acetate to the Cys of the β-ketoacyl-ACP synthase (KS) domain of FAS 1.
+ACP –SH group is recharged with malonyl from malonyl-CoA.
+
+
+Slide 26:
+Charging, Activation with ACP, and the Four-Step Sequence of Mammalian Fatty Acid Synthesis
+
+Slide 27:
+Charging, Activation with ACP, and the Four-Step Sequence of Mammalian Fatty Acid Synthesis
+
+Slide 28:
+Charging, Activation with ACP, and the Four-Step Sequence of Mammalian Fatty Acid Synthesis
+
+Slide 29:
+Charging, Activation with ACP, and the Four-Step Sequence of Mammalian Fatty Acid Synthesis
+
+Slide 30:
+Charging, Activation with ACP, and the Four-Step Sequence of Mammalian Fatty Acid Synthesis
+
+Slide 31:
+Charging, Activation with ACP, and the Four-Step Sequence of Mammalian Fatty Acid Synthesis
+
+Slide 32:
+Charging, Activation with ACP, and the Four-Step Sequence of Mammalian Fatty Acid Synthesis
+
+Slide 33:
+Charging, Activation with ACP, and the Four-Step Sequence of Mammalian Fatty Acid Synthesis
+
+Slide 34:
+Enzymes in Fatty Acid Synthase
+Condensation with acetate
+β-ketoacyl-ACP synthase (KS)
+Reduction of carbonyl to hydroxyl
+β-ketoacyl-ACP reductase (KR)
+Dehydration of alcohol to alkene
+β-hydroxyacyl-ACP dehydratase (DH)
+Reduction of alkene to alkane
+enoyl-ACP reductase (ER)
+Chain transfer/charging 
+malonyl/acetyl-CoA ACP transferase
+
+Slide 35:
+Stoichiometry of Synthesis of Palmitate (16:0)
+7 acetyl-CoAs are carboxylated to make 7 malonyl-CoAs… using ATP.
+
+7 acetyl-CoA + 7 CO2 + 7 ATP → 7 malonyl-CoA + 7 ADP + 7 Pi
+
+Seven cycles of condensation, reduction, dehydration, and reduction… using NADPH to reduce the β-keto group and trans-double bond
+acetyl-CoA + 7 malonyl-CoA + 14 NADPH + 14 H+ → palmitate (16-carbons) + 7 CO2 + 8 CoA + 14 NADP+ + 6 H2O
+
+Slide 36:
+Acetyl-CoA Is Transported into the Cytosol for Fatty Acid Synthesis 
+In nonphotosynthetic eukaryotes…
+Acetyl-CoA is made in the mitochondria
+But fatty acids are made in the cytosol
+So acetyl-CoA is transported into the cytosol with a cost of 2 ATPs
+Therefore, cost of FA synthesis is 3 ATPs per 2-C unit
+
+Slide 37:
+Shuttle for Transfer of Acetyl Groups from Mitochondria to Cytosol
+
+Slide 38:
+Fatty Acid Synthesis Is Tightly Regulated via ACC
+Acetyl CoA carboxylase (ACC) catalyzes the rate-limiting step.
+ACC is feedback-inhibited by palmitoyl-CoA.
+ACC is activated by citrate.
+Citrate is made from acetyl-CoA in mitochondria (acetyl-CoAmt).
+Citrate signals excess energy to be converted to fat.
+When [acetyl-CoA]mt ↑ is converted to citrate… citrate is exported to cytosol.
+
+Slide 39:
+ACC Is Also Regulated by Covalent Modification
+Inhibited when energy is needed
+Glucagon and epinephrine: 
+reduce sensitivity of citrate activation
+lead to phosphorylation and inactivation of ACC
+ACC is active as dephosphorylated monomers.
+When dephosphorylated, ACC polymerizes into long inactive filaments.
+Phosphorylation reverses the polymerization.
+
+
+Slide 40:
+Regulation of Fatty Acid Synthesis in Vertebrates
+
+Slide 41:
+Additional Modes of Regulation in Fatty Acid Synthesis
+Changes in gene expression
+example:  Fatty acids (and eicosanoids) bind to transcription factors called peroxisome proliferator-activated receptors (PPARS).
+Reciprocal regulation
+Malonyl-CoA inhibits fatty acid import into mitochondria.
+one of many ways to ensure that fat synthesis and oxidation don’t occur simultaneously
+
+Slide 42:
+Palmitate Can Be Lengthened to Longer-Chain Fatty Acids
+Elongation systems in the endoplasmic reticulum and mitochondria create longer fatty acids.
+
+As in palmitate synthesis, each step adds units of 2 C.
+
+Stearate (18:0) is the most common product.
+
+
+Slide 43:
+Palmitate and Stearate Can Be Desaturated
+Palmitate(16:0) → palmitoleate(16:1; Δ9) 
+Stearate (18:0) → oleate (18;1; Δ9) 
+catalyzed by fatty acyl-CoA desaturase in animals 
+also known as the fatty acid desaturases
+requires NADPH; enzyme uses cytochrome b5 and cytochrome b5 reductase
+
+Note that this is a Δ9-desaturase! 
+ It reduces the bond between C-9 and C-10.
+
+
+Slide 44:
+Desaturation of a Fatty Acid by Fatty Acyl-CoA Desaturase
+O2 accepts four electrons from two substrates.
+Two electrons come from saturated fatty acid.
+Two electrons come from ferrous state of cytochrome b5.
+
+Slide 45:
+Plants Can Desaturate Positions Beyond C-9
+Humans have Δ4, Δ5, Δ6, and Δ9 desaturases but cannot desaturate beyond Δ9.
+Plants can produce:
+linoleate 18:2(Δ9,12)
+α-linolenate 18:3 (Δ9,12,15)
+These fatty acids are “essential” to humans.
+Polyunsaturated fatty acids (PUFAs) help control membrane fluidity.
+PUFAs are precursors to eicosanoids.
+
+Slide 46:
+Plant Desaturases Act on Fatty Acids on a Phospholipid
+Unlike mammal desaturases, plant desaturases do not oxidize free fatty acids.
+They oxidize fatty acids that are bound to glycerol in phosphatidylcholine.
+Free desaturated fatty acids can then be hydrolyzed from the glycerol backbone.
+
+Slide 47:
+Routes of Synthesis of Elongated and Unsaturated Fatty Acids
+
+Slide 48:
+Eicosanoids Are Potent Short-Range Hormones Made from Arachidonate
+Eicosanoid hormones include prostaglandins, leukotrienes, thromboxanes.
+Created from the arachidonate that is incorporated into the phospholipids of membranes.
+In response to stimuli (hormone, etc.), phospholipase A2 is activated and attacks the C-2 fatty acid, releasing arachidonate.
+
+Slide 49:
+Conversion of Arachidonate to Prostaglandins and Other Eicosanoids
+PGH2 synthase is a cyclooxygenase/peroxidase  enzyme that functions in the smooth ER.
+Step 1: PGH2’s cyclooxygenase activity adds 2 O2 to form PGG2.
+Step 2: PGH2’s peroxidase activity converts peroxide to alcohol, creates PGH2.
+
+Slide 50:
+PGH2 Synthase Has Two Isoforms
+COX-1 catalyzes synthesis of prostaglandins that regulate gastric mucin secretion.
+COX-2 catalyzes synthesis of prostaglandins that mediate pain, inflammation, and fever.
+NSAIDs (aspirin, ibuprofen, acetaminophen) inhibit COX-2.
+
+Slide 51:
+NSAIDs Inhibit Cyclooxygenase (COX) Activity
+Aspirin (acetylsalicylate) is an irreversible inhibitor.
+acetylates a Ser in active site
+blocks active site in both COX isozymes
+Ibuprofen and naproxen are competitive inhibitors.
+resemble substrate; also block active site in both isozymes
+
+Slide 52:
+Synthesis of Leukotrienes Also Begins with Arachidonate 
+O2 added to arachidonate via lipoxygenases (mixed-function  oxidases)
+Creates species that differ in the position of the OOH group
+
+Slide 53:
+Fat (Triacylglycerol) and Phospholipids in Animals, Plants, and Bacteria
+Animals and plants store fat for fuel.
+plants: in seeds, nuts
+typical 70-kg human has ~15 kg fat
+enough to last 12 weeks
+compare with 12 hours worth of glycogen in liver and muscle
+Animals and plants and bacteria make phospholipids for cell membranes.
+Both molecules contain glycerol backbone and 2 (e.g., phospholipids) or 3 (e.g., triacylglycerides) fatty acids. 
+
+Slide 54:
+Synthesis of Backbone of TAGs and Phospholipids 
+Most glycerol 3-phosphate comes from siphoning off dihydroxyacetone phosphate (DHAP) from glycolysis.
+via glycerol 3-phosphate dehydrogenase 
+Some glycerol 3-phosphate is made from glycerol.
+via glycerol kinase
+minor pathway in liver and kidney
+
+Slide 55:
+Synthesis of Phosphophatidic Acid Occurs Before TAGs
+Phosphatidic acid is the precursor to TAGs and phospholipids.
+fatty acids attached by acyl transferases	
+releases CoA
+Advantage of making phosphatidic acid:
+It can then be made into triacylglycerol OR phospholipid.
+
+Slide 56:
+Phosphatidic acid phosphatase (lipin) removes the 3-phosphate from the phosphatidic acid.
+yields 1,2-diacylglycerol
+The third carbon is then acylated with a third fatty acid.
+yields triacylglycerol
+
+Phosphatidic Acid Can Be Modified to Form Phosphlipids or TAGs
+
+Slide 57:
+Regulation of Triacylglycerol Synthesis by Insulin
+Insulin results in stimulation of triacylglycerol synthesis.
+Lack of insulin results in:
+increased lipolysis
+increased fatty acid oxidation
+sometimes to ketones if citric acid cycle intermediates (oxaloacetate) that react with acetyl CoA are depleted
+failure to synthesize fatty acids
+
+Slide 58:
+Triacylglycerol Breakdown and
+Resynthesis create a Futile Cycle
+Seventy-five percent of free fatty acids (FFAs) released by lipolysis are reesterified to form TAGs, rather than be used for fuel.
+Some recycling occurs in adipose tissue.
+Some FFAs from adipose cells are transported to the liver, remade into TAG, and redeposited in adipose cells.
+Although the distribution between these two paths may vary, overall, the percentage of FFAs being esterified remains at ~75%.
+
+Slide 59:
+The Triacylglycerol Cycle
+
+Slide 60:
+What Is the Source of the Glycerol 3-Phosphate Needed for Fatty Acid Reesterification?
+During lipolysis (stimulated by glucagon or epinephrine), glycolysis is inhibited.
+So DHAP is not readily available to make glycerol 3-phosphate.
+And adipose cells don’t have glycerol kinase to make glycerol 3-phosphate on site.
+So cells make DHAP via glyceroneogenesis.
+See next slide.
+
+Slide 61:
+Glyceroneogenesis Makes DHAP for Glycerol 3-Phosphate Generation During TAG Cycle
+During lipolysis (stimulated by glucagon or epinephrine), glycolysis is inhibited.
+So DHAP is not readily available to make glycerol 3-phosphate.
+And adipose cells don’t have glycerol kinase to make glycerol 3-phosphate on site.
+Glyceroneogenesis contains some of the same steps of gluconeogenesis.
+converts pyruvate → DHAP
+basically, an abbreviated version of gluconeogenesis in the liver and adipose tissue
+
+Slide 62:
+Glyceroneogenesis
+
+Slide 63:
+Biosynthesis of Membrane Phospholipds
+Begin with phosphatidic acid or diacylglycerol
+Attach head group to C-3 OH group
+C-3 has OH; head group has OH
+new phospho-head group created when phosphoric acid condenses with these two alcohols
+eliminates two H2O
+
+Slide 64:
+Attaching Phospholipid Head Group Requires Activation by CDP
+Either one of the alcohols is activated by attaching to CDP (cytidine diphosphate).
+
+The free (not bound to CDP) alcohol then does a nucleophilic attack on the CDP-activated phosphate.
+
+
+Slide 65:
+Phospholipid Synthesis in E. coli
+Two main pathways: 
+Phosphatidylserine is synthesized and can be decarboxylated to phosphatidylethanolamine.
+Phosphatidylglycerol is synthesized by addition of a CDP-glycerol-3-phosphate.
+Further modification to cardiolipin can be achieved by replacement of the glycerol head group with another phospholipid.
+
+Slide 66:
+Synthesis of Anionic Phospholipids in Eukaryotes Uses Similar Strategies to That of E. coli
+
+
+Slightly different from bacterial synthesis strategy (e.g., replacement of CMP, rather than glycerol)
+
+Slide 67:
+Yeast Synthesize Phosphatidylcholine from Phosphatidylethanolamine
+Phosphatidylserine is decarboxylated to phosphatidylethanolamine.
+as in bacteria, but enzyme is phosphatidylserine decarboxylase
+Phosphatidylethanolamine acted on by S-adenosylmethione (methyl group donor) adds three methyl groups to amino group → phopshatidylcholine (lecithin).
+catalyzed by methyltransferase
+
+Slide 68:
+Synthesis of Phosphatidylserine and Phosphatidylcholine in Mammals Constitutes a Salvage Pathway
+Phosphatidylserine is made “backwards” from phosphatidyl-ethanolamine or phosphatidylcholine via head-group exchange reactions.
+catalyzed by specific synthases
+pathway “salvages” the choline
+
+Slide 69:
+Summary of Phospholipid Biosynthesis Pathways in Eukaryotes
+
+Slide 70:
+Synthesis of Ether Lipids and Plasmalogens Use Similar Pathways
+
+Slide 71:
+Synthesis of Sphingolipids Use Similar Pathways
+
+Slide 72:
+Synthesis and Transport of Cholesterol, Steroids, and Isoprenes
+Compounds are chemically related and distinct from TAGs, phospholipids, sphingolipids, and plasmalogens.
+Chemical relationship is built on biosynthesis using 5-carbon isoprene unit
+
+Slide 73:
+Overview of Eukaryotic Cholesterol Biosynthesis
+Three acetates condense to form mevalonate.
+Mevalonate converts to phosphorylated 5-C isoprene.
+Six isoprenes polymerize to form the 30-C linear squalene.
+Squalene cyclizes to form the four rings that are modified to produce cholesterol.
+
+Slide 74:
+Step 1:  Formation of Mevalonate from Acetyl-CoA
+Three acetyl-CoA are condensed to form HMG-CoA.
+HMG-CoA is reduced to form mevalonate.
+HMG-CoA reductase is a common target of cholesterol-lowering drugs.
+
+
+Slide 75:
+Step 2:  Conversion of Mevalonate to Activated Isoprenes
+Three phosphates are transferred stepwise from ATP to mevalonate.
+Decarboxylation and hydrolysis creates a diphosphorylated 5-C product (isoprene) with a double bond.
+Isomerization to a second isoprene
+Δ3-isopentyl pyrophosphate (IPP)
+dimethylallylpyrophosphate (DMAPP)
+
+Slide 76:
+Step 3:  Six Activated Isoprene Units Condense to Form Squalene
+The two isoprenes join head to tail, displacing one set of diphosphates.
+→ forms geranyl pyrophopshate
+Geranyl pyrophosphate joins to another isopentenyl pyrophosphate.
+→ forms 15-C farnesyl pyrophosphate
+Two farnesyl pyrophosphates join head to head to form phosphate-free squalene.
+
+
+
+
+
+
+Slide 77:
+Step 3: Formation of Squalene
+The two isoprenes join head to tail, displacing one set of diphosphates, forming 10-carbon geranyl pyrophosphate (GPP).
+GPP joins to another IPP to form 15-C farnesyl pyrophosphate.
+Two farnesyl pyrophosphates join head to head to form phosphate-free squalene.
+
+Slide 78:
+Step 4:  Conversion of Squalene to Four-Ring Steroid Nucleus
+Squalene monooxygenase adds one oxygen to the end of the squalene chain.
+→ forms squalene 2,3-epoxide
+Here, pathways diverge in animal cells versus plant cells.
+The cyclization product in animals is lanosterol, which converts to cholesterol.
+In plants, the epoxide cyclizes to other sterols, such as ergosterol.
+
+Slide 79:
+Conversion of Squalene to Cholesterol
+
+Slide 80:
+Fates of Cholesterol After Synthesis
+In vertebrates, most cholesterol is synthesized in the liver, then exported.
+They are exported as bile acids, biliary cholesterol, or cholesteryl esters.
+Bile is stored in the gall bladder and secreted into the small intestine after fatty meal.
+Bile acids such as taurocholic acid emulsify fats.
+They surround droplets of fat, increasing surface area for attack by lipases.
+Other tissues convert cholesterol into steroid hormones and so on.
+
+Slide 81:
+Fates of Cholesterol After Synthesis
+
+Slide 82:
+Cholesterol and Other Lipids Are Carried on Lipoprotein Particles
+Lipids are carried through the plasma on spherical particles.	
+surface is made of protein (called apolipoprotein) and a phospholipid monolayer
+interior contains cholesterol, TAGs, and cholesteryl esters, which are more nonpolar than cholesterol
+
+Slide 83:
+Four Major Classes of Lipoprotein Particles
+Named based on position of sedimentation (density) in centrifuge
+Composition varies between class of lipoprotein
+Includes four major classes: 
+TABLE 21-1	Major Classes of Human Plasma Lipoproteins: Some Properties	
+		Composition (wt %)	
+Lipoprotein	Density (g/ml)	Protein	Phospholipids	Free cholesterol	Cholesteryl esters	Triacylglycerols	
+Chylomicrons	<1.006	2	9	1	3	85	
+VLDL	0.95–1.006	10	18	7	12	50	
+LDL	1.006–1.063	23	20	8	37	10	
+HDL	1.063–1.210	55	24	2	15	4	
+Source: Data from D. Kritchevsky, Nutr. Int. 2:290, 1986.	
+
+Slide 84:
+Electron Microscope Pictures of Lipoproteins
+
+Slide 85:
+Apolipoproteins in Lipoproteins
+“Apo” for “without”… 
+So “apolipoprotein” refers to the protein part of a lipoprotein particle.
+TABLE 21-2	Apolipoproteins of the Human Plasma Lipoproteins	
+Apolipoprotein	Polypeptide molecular weight	Lipoprotein association	Function (if known)	
+ApoA-I	28,100	HDL	Activates LCAT; interacts with ABC transporter	
+ApoA-II	17,400	HDL	Inhibits LCAT	
+ApoA-IV	44,500	Chylomicrons, HDL	Activates LCAT; cholesterol transport/clearance	
+ApoB-48	242,000	Chylomicrons	Cholesterol transport/clearance	
+ApoB-100	512,000	VLDL, LDL	Binds to LDL receptor	
+ApoC-I	7,000	VLDL, HDL		
+ApoC-II	9,000	Chylomicrons, VLDL, HDL	Activates lipoprotein lipase	
+ApoC-III	9,000	Chylomicrons, VLDL, HDL	Inhibits lipoprotein lipase	
+ApoD	32,500	HDL		
+ApoE	34,200	Chylomicrons, VLDL, HDL	Triggers clearance of VLDL and chylomicron remnants	
+ApoH	50,000	Possibly VLDL, binds phospholipids such as cardiolipin	Roles in coagulation, lipid metabolism, apoptosis, inflammation	
+Source: Information from D. E. Vance and J. E. Vance (eds), Biochemistry of Lipids and Membranes, 5th edn, Elsevier Science Publishing, 2008.	
+
+Slide 86:
+Biological Roles and Characteristics of Lipoproteins
+Chylomicrons
+Least dense of lipoproteins (contains most TAG)
+Have apoB-48, apoE, and apoC-II
+VLDL
+Contains TAG and cholesteryl esters in high concentrations
+Contain apoB-100, apoC-I, apoC-II, apoC-III, and apoE
+
+
+
+LDL
+Produced by removal of TAG from VLDL
+LDL is enriched in cholesterol/chloesteryl esters. 
+ApoB-100 is the major apolipoprotein.
+HDL
+Produced from enzymatic conversion of LDL and VLDL cholesterol to cholesteryl esters 
+HDLs are high in protein, including apoA-I.
+
+
+Slide 87:
+Activation and Mobilization of Lipoprotein Contents (1)
+Chylomicrons
+ApoC-II activates lipoprotein lipase to allow free fatty acid release for fuel in adipose tissue, heart, and skeletal muscle.
+When fats are depleted, remnants go to the liver for absorption via apoE-mediated endocytosis.
+
+
+VLDL
+Again, apoC-II activates lipoprotein lipase to release free fatty acids.
+Adipocytes take up the FFAs, reconvert them to TAGs, and store them in lipid droplets.
+Muscle uses the TAG for energy.
+
+
+Slide 88:
+Activation and Mobilization of Lipoprotein Contents (2)
+LDL
+Muscle and adipose tissue have LDL receptors and recognize apoB-100.
+Myocytes and adipocytes take up cholesterol via receptor-mediated endocytosis.
+
+HDL
+HDL picks up cholesterol from the cells and returns to liver, where it can be metabolized (e.g., bile salts). 
+Also catalyzes conversion of  remnant cholesterol of LDL and VLDL to cholesteryl esters
+
+
+Slide 89:
+Lecithin-Cholesterol Acyl Transferase-Catalyzed Reaction Occurs in HDL
+
+Slide 90:
+Biological Roles of Lipoproteins in Trafficking Cholesterol and TAGs
+
+Slide 91:
+Cholesterol Uptake by Receptor-Mediated Endocytosis
+
+Slide 92:
+Five Modes of Regulation of Cholesterol Synthesis and Transport
+Covalent modification of HMG-CoA reductase
+Transcriptional regulation of HMG-CoA gene
+Proteolytic degradation of HMG-CoA reductase
+Activation of ACAT, which increases esterification for storage
+Transcriptional regulation of the LDL receptor
+
+Slide 93:
+HMG-CoA Reductase Is Most Active When Dephosphorylated
+AMP-dependent protein kinase
+when AMP rises, kinase phosphorylates the enzyme → activity ↓, cholesterol synthesis ↓
+ Glucagon, epinephrine
+cascades lead to phosphorylation, ↓ activity
+Insulin
+cascades lead to dephosphorylation,↑ activity
+Covalent modification provides short-term regulation.
+
+Slide 94:
+Regulation of Cholesterol Metabolism
+
+Slide 95:
+Longer-Term Regulation of HMG-CoA Reductase Through Transcriptional Control
+Sterol regulatory element-binding proteins (SREBPs)
+When sterol levels are low, SREBPs are in the ER membrane with other proteins.
+When sterol levels rise, the complex is cleaved and moves to the nucleus.
+It activates transcription of HMG-CoA reductase and LDL receptor, as well as other genes.
+
+Slide 96:
+Regulation of Cholesterol Synthesis by SREBP
+
+Slide 97:
+Regulation of HMG-CoA Reductase by Proteolytic Degradation
+Insig (insulin-induced gene protein) senses cholesterol levels.
+triggers ubiquination of HMG-CoA reductase
+targets the enzyme for degradation by proteasomes
+
+Slide 98:
+Regulation by LXR-Mediated Transcription
+Liver X receptor (LXR) – a transcription factor activated by cholesterol
+Binds to retinoid X receptor (RXR)
+LXR-RXR dimer activates transcription of a host of genes.
+
+Slide 99:
+The Genes Activated by LXR-RXR Are Largely for Cholesterol Transport
+Acetyl-CoA carboxylase
+first enzyme in fatty acid synthesis
+Apoproteins (C1, C2, D, and E)
+for cholesterol transport
+GLUT4
+ABC transporters
+for reverse cholesterol transport
+
+
+Slide 100:
+Cardiovascular Disease (CVD) Is Multifactorial
+Very high LDL-cholesterol levels tend to correlate with atherosclerosis.
+although many heart attack victims have normal cholesterol, and many people with high cholesterol do not have heart attacks
+Low HDL-cholesterol levels are negatively associated with heart disease.
+
+Slide 101:
+How Plaques Form
+
+Slide 102:
+Familial Hypercholesterolemia
+Due to genetic mutation in LDL receptor
+Impairs receptor-mediated uptake of cholesterol from LDL  
+Cholesterol accumulates in the blood and in foam cells.
+Regulation mechanisms based on cholesterol sensing inside the cell don’t work.
+Homozygous individuals can experience severe CVD as youths.
+
+Slide 103:
+Statin Drugs Inhibit HMG-CoA Reductase to Lower Cholesterol Synthesis
+Statins resemble mevalonate → competitive inhibitors of HMG-CoA reductase
+First statin, lovastatin, found in fungi
+lowers serum cholesterol by tens of percent
+Also reported to improve circulation, stabilize plaques by removing cholesterol from them, and reduce vascular inflammation
+
+Slide 104:
+Reverse Cholesterol Transport by HDL Explains Why HDL Is Cardioprotective
+HDL picks up cholesterol from nonliver tissues, including foam cells at growing plaques.
+HDL carries cholesterol back to the liver.
+
+Slide 105:
+There Are Several Classes of Cholesterol-Derived Steroids
+Adrenal gland-synthesized steroids:
+mineralcorticoids
+control electrolyte balance, reabsorption of Na+, Cl−, HCO3− from kidney
+glucocorticoids
+regulate gluconeogenesis, reduce inflammation
+Gonad-synthesized steroids:
+progesterone, androgens, estrogems
+
+Slide 106:
+Steroid Hormones Derived from Cholesterol
+
+Slide 107:
+Side-Chain Cleavage in Steroid Synthesis
+Takes place in mitochondria
+The “side chain” on C-17 of the D ring is modified or cleaved.
+Two adjacent carbons are hydroxylated.
+Uses mixed-function oxidases, NADPH and cytochrome P450
+
+Slide 108:
+Chapter 21 Summary
+In this chapter, we learned that:
+synthesis of fatty acids is a multistep process starting from acetyl-CoA and its carboxylated product, malonyl-CoA
+phospholipids are a precursor to TAGs
+phospholipids and TAGs are built on a glycerol backbone that can be derived from dihydroxyacetone phosphate or glycerol
+head groups are attached using one of two methods, both of which use a CDP label
+pathways to the synthesis of specific head groups vary by organism and may use salvage pathways
+cholesterol is derived from the isoprene unit
+production of isoprene for cholesterol biosynthesis occurs via the mevalonate pathway and starts with multiple acetyl-CoA
+cholesterol can be metabolized and modified in a variety of ways
+cholesterol and TAGs are trafficked in lipoproteins that are classified by density
+incorrect trafficking of cholesterol and TAGs is correlated to multiple human diseases
+

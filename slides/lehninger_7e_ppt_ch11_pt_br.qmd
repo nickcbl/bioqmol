@@ -1,0 +1,535 @@
+---
+title: "Capítulo"
+# author: Nicholas Costa & Nicholas Barroso
+lang: pt-BR
+date: today
+date-format: "DD/MM/YYYY"
+format:
+  revealjs:
+    pdf-separate-fragments: true
+#    width: 1600
+#    height: 900
+    width: 960
+    height: 720
+#    logo: imgs/logo.png
+    incremental: false
+    theme: tema_azul.scss
+    lightbox: true
+    slide-number: true
+    background-transition: fade
+    menu: true
+    progress: true
+    center: true
+    auto-stretch: true
+---
+# Slide 1:
+
+11 | Membranas Biológicas e Transporte
+© 2017 W. H. Freeman and Company
+
+# Slide 2:
+CAPÍTULO 11 
+Membranas Biológicas e Transporte
+A função das membranas biológicas 
+A estrutura e composição das membranas
+Dinâmica das membranas
+Estrutura e função das proteínas de membrana
+Transporte através de membranas biológicas
+
+Objetivos de aprendizagem: 
+
+# Slide 3:
+Lipídios Agregam-se em Estruturas na Água
+Três estruturas principais são observadas: 
+micelas
+bicamadas
+lipossomos
+As estruturas formadas dependem de:
+tipo de lipídio
+concentração
+
+# Slide 4:
+Micela
+Forma-se na solução de moléculas anfipáticas que têm cabeça maior e mais polar do que a cauda
+ácidos graxos
+dodecil sulfato de sódio
+Micelas são compostas de algumas dezenas a alguns milhares de moléculas lipídicas.
+A agregação de lipídios individuais em micelas depende da concentração.
+
+# Slide 5:
+Bicamada de Membrana
+Consiste em dois folhetos (ou seja, camadas) de monocamadas lipídicas
+Forma-se quando lipídios com grupos cabeça polares e mais de uma cauda lipídica estão em solução aquosa 
+fosfolipídios
+esfingolipídios
+Grupos cabeça hidrofílicos interagem com a água em ambos os lados da bicamada.
+Caudas hidrofóbicas de ácidos graxos são empacotadas no interior.
+
+
+# Slide 6:
+Vesícula (Lipossomo)
+Pequenas bicamadas fecham-se espontaneamente em vesículas esféricas de maneira dependente da concentração.
+Membranas vesiculares sintéticas podem ser feitas in vitro e podem conter proteínas inseridas artificialmente.
+A cavidade aquosa central pode encapsular moléculas dissolvidas.
+São carreadores artificiais úteis de moléculas (ex.: fármacos).
+Vesículas fusionam-se prontamente com membranas celulares ou umas com as outras.
+
+# Slide 7:
+O Que São Membranas?
+Estruturas complexas baseadas em lipídios que formam folhas flexíveis 
+Compostas por uma variedade de lipídios e proteínas
+Todas as células têm uma membrana celular, que separa a célula de seu entorno.
+Células eucarióticas têm várias membranas internas que dividem o espaço interno em compartimentos (ou seja, organelas).
+
+# Slide 8:
+Micrografia Eletrônica de 
+Membranas Biológicas
+
+# Slide 9:
+Funções das Membranas
+Definir os limites da célula
+Permitir importação e exportação
+Importação seletiva de nutrientes (ex.: lactose)
+Exportação seletiva de resíduos e toxinas (ex.: antibióticos)
+Reter metabólitos e íons dentro da célula
+Perceber sinais externos e transmitir informações para dentro da célula
+Fornecer compartimentalização dentro da célula
+separar reações produtoras de energia daquelas consumidoras de energia
+manter enzimas proteolíticas longe de proteínas celulares importantes 
+Produzir e transmitir sinais nervosos
+Armazenar energia como um gradiente de prótons 
+Dar suporte à síntese de ATP
+
+# Slide 10:
+Características Comuns das Membranas
+Estrutura flexível semelhante a uma folha, com 30–100 Å (3–10 nm) de espessura
+A estrutura principal é composta por dois folhetos de lipídios (bicamada)
+com exceção das arqueobactérias: monocamada de lipídios bifuncionais
+Formam-se espontaneamente em solução aquosa e são estabilizadas por forças não covalentes, especialmente o efeito hidrofóbico
+Moléculas proteicas atravessam a bicamada lipídica
+Assimétricas
+Alguns lipídios são encontrados mais comumente “por dentro”.
+Alguns lipídios são encontrados mais comumente “por fora”.
+Porções de carboidratos estão ligadas no folheto externo.
+Podem ser eletricamente polarizadas. 
+Estruturas fluidas: solução bidimensional de lipídios orientados
+
+
+# Slide 11:
+Modelo do Mosaico Fluido das Membranas
+Proposto em 1972 por Singer e Nicolson (UCSD)
+Lipídios formam um solvente bidimensional viscoso no qual as proteínas são inseridas e integradas mais ou menos profundamente.
+Proteínas podem estar embebidas ou associadas à membrana: 
+Proteínas integrais estão firmemente associadas à membrana, frequentemente atravessando a bicamada.
+Proteínas periféricas estão fracamente associadas e podem ser removidas facilmente.
+Algumas estão ligadas não covalentemente.
+Algumas estão ligadas a lipídios de membrana.
+
+# Slide 12:
+O Modelo do Mosaico Fluido: Detalhes
+
+# Slide 13:
+A Composição das Membranas
+A composição lipídica das membranas varia conforme:
+organismos
+tecidos
+organelas
+A razão lipídio/proteína varia 
+o tipo de fosfolipídio varia
+a abundância e o tipo de esteróis variam 
+ausência de esteróis em procariotos
+colesterol predominante na membrana plasmática, virtualmente ausente nas mitocôndrias
+galactolipídios abundantes nos cloroplastos vegetais, mas quase ausentes em animais
+
+# Slide 14:
+A Composição da Membrana É 
+Altamente Variável em Diferentes Organismos
+TABELA 11-1	Principais Componentes das Membranas Plasmáticas em Vários Organismos	
+	Componentes (% em peso)		
+	Proteína	Fosfolipídio	Esterol	Tipo de esterol	Outros lipídios	
+Bainha de mielina humana	30	30	19	Colesterol	Galactolipídios, plasmalogênios	
+Fígado de camundongo	45	27	25	Colesterol	—	
+Folha de milho	47	26	7	Sitosterol	Galactolipídios	
+Levedura	52	7	4	Ergosterol	Triacilgliceróis, ésteres de esterila	
+Paramecium (protista ciliado)	56	40	4	Estigmasterol	—	
+E. coli	75	25	0	—	—	
+Nota: Os valores não somam 100% em todos os casos porque existem outros componentes além de proteína, fosfolipídios e esterol; plantas, por exemplo, têm alto teor de glicolipídios.	
+
+# Slide 15:
+A Composição da Membrana É 
+Altamente Variável em Diferentes Organelas
+
+# Slide 16:
+Composição e Assimetria da Membrana
+
+# Slide 17:
+Bicamadas de Membrana São Assimétricas
+Dois folhetos têm composições lipídicas diferentes.
+O folheto externo é frequentemente carregado mais positivamente.
+Fosfatidilserina no exterior tem um significado especial:
+plaquetas: ativa a coagulação sanguínea
+outras células: marca a célula para destruição
+
+# Slide 18:
+Archaea Possuem Múltiplos Constituintes Exclusivos de Membrana
+Quiralidade única do glicerol nos fosfolipídios
+L-glicerol em arqueias
+D-glicerol em bactérias
+Ácidos graxos exclusivos
+cadeias ramificadas de isopreno em arqueias
+cadeias não ramificadas de ácidos graxos em bactérias
+Ligações exclusivas
+ligações éter em arqueias
+ligações éster em bactérias
+Topologia de membrana
+monocamada em algumas arqueias
+
+
+
+# Slide 19:
+Monocamada Lipídica em Archaea
+Sulfolobus solfataricus e parentes:
+fontes termais vulcânicas
+temperaturas de 75–80°C
+ambiente ácido: pH 2–3
+Melhor estabilidade de membrana por:
+tetraéteres isoprenoides com álcoois exclusivos
+
+
+
+# Slide 20:
+Funções das Proteínas nas Membranas
+Receptores: detecção de sinais externos
+luz (opsina)
+hormônios (receptor de insulina)
+neurotransmissores (receptor de acetilcolina)
+feromônios (receptores de paladar e olfato)
+Canais, portões, bombas
+nutrientes (maltoporina)
+íons (canal de K+) 
+neurotransmissores (proteína de recaptação de serotonina)
+Enzimas
+biossíntese de lipídios (algumas aciltransferases)
+síntese de ATP (F0F1 ATPase/ATP sintase)
+
+
+# Slide 21:
+Três Tipos de Proteínas de Membrana
+Proteínas periféricas de membrana (não ligadas a GPI) podem ser dissociadas da membrana com relativa facilidade durante mudanças na força iônica, como alterações de pH.
+Proteínas anfitrópicas e ligadas a GPI são conectadas à membrana durante eventos regulatórios específicos e podem ser removidas reversivelmente.
+Na presença de detergentes fortes, proteínas integrais de membrana podem ser removidas da membrana.
+
+# Slide 22:
+Proteínas Periféricas de Membrana
+Associam-se aos grupos cabeça polares das membranas
+Associadas de forma relativamente frouxa à membrana
+por meio de interações iônicas com os lipídios ou domínios aquosos de proteínas integrais de membrana
+Removidas rompendo-se as interações iônicas com alta concentração de sal ou mudança de pH
+Proteínas periféricas de membrana purificadas não estão mais associadas a nenhum lipídio.
+
+# Slide 23:
+Proteínas anfitrópicas podem ser condicionalmente ligadas à membrana por interação covalente com lipídios ou carboidratos ligados a lipídios.
+A regulação biológica resulta na ligação ou clivagem a partir dos lipídios.
+
+Proteínas Anfitrópicas de Membrana
+
+# Slide 24:
+Proteínas de Membrana Ligadas a Lipídios
+
+# Slide 25:
+Âncoras Lipídicas
+Algumas proteínas de membrana são lipoproteínas.
+Elas contêm uma molécula lipídica ligada covalentemente.
+ácidos graxos de cadeia longa
+isoprenoides
+esteróis
+fosfatidilinositol glicosilado (GPI)
+A parte lipídica pode tornar-se parte da membrana.
+A proteína fica agora ancorada à membrana.
+processo reversível
+permite o direcionamento de proteínas
+Algumas, como as âncoras de GPI, são encontradas apenas na face externa da membrana plasmática.
+
+# Slide 26:
+Farnesilação de Proteínas
+As proteínas podem ser direcionadas ao folheto interno da membrana plasmática por farnesilação.
+A farnesilação pode ser um intermediário na lipidação de proteínas.
+A sequência primária da proteína contém uma assinatura para farnesilação: CaaX.
+C é uma Cys conservada.
+“a” é geralmente um aminoácido alifático.
+“X” é Met, Ser, Glu ou Ala.
+Essa reação é catalisada pela farnesil transferase.
+Proteínas não farnesiladas não vão para a membrana e são inativas.
+terapia promissora contra o câncer (onco-Ras)
+
+# Slide 27:
+Proteínas Integrais de Membrana
+Atravessam toda a membrana
+Possuem assimetria como a membrana
+diferentes domínios em diferentes compartimentos
+Estreitamente associadas à membrana
+Trechos hidrofóbicos na proteína interagem com as regiões hidrofóbicas da membrana.
+Removidas por detergentes que rompem a membrana
+Proteínas integrais de membrana purificadas ainda possuem fosfolipídios associados a elas.
+
+# Slide 28:
+Proteínas Integrais de Membrana
+
+# Slide 29:
+Aminoácidos em Proteínas de Membrana 
+Agrupam-se em Regiões Distintas
+Segmentos transmembrana são predominantemente hidrofóbicos.
+Tyr e Trp agrupam-se na interface apolar/polar.
+Aminoácidos carregados são encontrados apenas em domínios aquosos.
+
+# Slide 30:
+Proteínas de Membrana Também Contêm Folhas β
+
+# Slide 31:
+Proteínas Integrais de Membrana Têm Aminoácidos Apolares Seletivamente Posicionados Dentro da Membrana
+
+# Slide 32:
+Gráficos de Hidropatia Podem Prever Domínios Transmembrana
+
+# Slide 33:
+Propriedades Físicas das Membranas
+Estruturas dinâmicas e flexíveis
+Podem existir em várias fases e sofrer transições de fase
+Não são permeáveis a grandes solutos polares e íons
+Permeáveis a pequenos solutos polares e compostos apolares
+A permeabilidade pode ser aumentada artificialmente por tratamento químico.
+quando queremos introduzir DNA na célula
+
+# Slide 34:
+Fases da Membrana
+Dependendo de sua composição e da temperatura, a bicamada lipídica pode estar na fase gel ou fluida
+estado líquido-ordenado (ou seja, “fase gel”): moléculas individuais não se movem livremente
+estado líquido-desordenado (ou seja, “fase fluida”): moléculas individuais podem mover-se livremente
+O aquecimento causa transição de fase do estado gel para o fluido.
+Sob condições fisiológicas, as membranas são mais fluidas do que semelhantes a gel.
+devem ser fluidas para o funcionamento adequado
+
+# Slide 35:
+Fases da Membrana
+
+# Slide 36:
+Os Organismos Podem Ajustar 
+a Composição da Membrana
+A fluidez da membrana é determinada principalmente pela composição de ácidos graxos e pelo ponto de fusão.
+Membranas mais fluidas requerem ácidos graxos mais curtos e mais insaturados.
+A temperatura de fusão diminui à medida que ligações duplas são adicionadas.
+A temperatura de fusão aumenta com o comprimento dos ácidos graxos saturados.
+Em temperaturas mais altas, as células precisam de mais ácidos graxos longos e saturados.
+Em temperaturas mais baixas, as células precisam de mais ácidos graxos insaturados. 
+
+# Slide 37:
+TABELA 11-2	Composição de Ácidos Graxos de Células de E. coli Cultivadas em Diferentes Temperaturas	
+	Porcentagem do total de ácidos graxosa	
+	10 °C	20 °C	30 °C	40 °C	
+Ácido mirístico	4	4	4	8	
+Ácido palmítico	18	25	29	48	
+Ácido palmitoleico	26	24	23	9	
+Ácido oleico	38	34	30	12	
+Ácido hidroximirístico	13	10	10	8	
+Razão insaturados/saturadosb	2,9	2,0	1,6	0,38	
+FONTE: Dados de A. G. Marr e J. L. Ingraham, J. Bacteriol. 84:1260, 1962.
+aA composição exata de ácidos graxos depende não apenas da temperatura de crescimento, mas também da fase de crescimento e da composição do meio de cultura.
+bRazões calculadas como a porcentagem total de 16:1 mais 18:1 dividida pela porcentagem total de 14:0 mais 16:0. O ácido hidroximirístico foi omitido deste cálculo.	
+
+# Slide 38:
+Esteróis e Hopanóis Aumentam a Rigidez e Permeabilidade da Membrana
+Membranas celulares de muitos eucariotos contêm esteróis.
+colesterol em animais
+fitoesteróis em plantas
+ergosterol em fungos
+
+Membranas celulares de procariotos aeróbios contêm hopanóis.
+colesterol
+ergosterol
+um hopanol específico
+
+# Slide 39:
+Dinâmica de Membrana: 
+Difusão Lateral
+Lipídios individuais sofrem rápida difusão lateral dentro do folheto.
+
+# Slide 40:
+Estudo da Dinâmica de Membrana: FRAP
+A recuperação da fluorescência após fotobranqueamento (FRAP) permite monitorar a difusão lateral de lipídios acompanhando a taxa de retorno da fluorescência.
+A partir da taxa de retorno dos lipídios, o coeficiente de difusão de um lipídio no folheto pode ser determinado.
+As taxas de difusão lateral são altas (até 1 μm/s). 
+Um lipídio pode dar a volta completa em uma célula de E. coli em um segundo.
+
+# Slide 41:
+FRAP Demonstra Rápido Movimento Lateral de Lipídios
+
+# Slide 42:
+FRAP Etapa 1: Marcar o Exterior da Célula
+
+# Slide 43:
+FRAP Etapa 2: Fotobranqueamento
+
+# Slide 44:
+FRAP Etapa 3: Medir a Recuperação
+
+# Slide 45:
+Movimento de um Único Lipídio em 56 ms
+
+# Slide 46:
+Dinâmica de Membrana: 
+Difusão Transversal
+Inversões (*flips*) espontâneas de um folheto para outro são raras porque o grupo cabeça carregado deve atravessar a região hidrofóbica das caudas da membrana.
+
+# Slide 47:
+Difusão na Membrana: Flipases
+Enzimas especiais catalisam a difusão transversal.
+Embora frequentemente referidas pelo nome genérico “flipase”, existem enzimas unidirecionais e bidirecionais exclusivas para catalisar o movimento lipídico.
+Algumas flipases usam a energia do ATP para mover lipídios contra o gradiente de concentração.
+
+# Slide 48:
+Balsas Lipídicas (*Lipid Rafts*)
+A distribuição lipídica em um único folheto não é aleatória ou uniforme.
+Balsas lipídicas:
+contêm aglomerados de glicoesfingolipídios com caudas mais longas do que o habitual
+são mais ordenadas 
+contêm proteínas específicas dupla ou triplamente aciladas
+permitem a segregação de proteínas na membrana
+
+# Slide 49:
+A Caveolina Força a Curvatura da Membrana
+
+# Slide 50:
+Outros Modos de Curvatura da Membrana
+
+# Slide 51:
+Exemplos de Fusão de Membranas
+Membranas podem fusionar-se umas com as outras sem exposição de lipídios ao solvente aquoso.
+A fusão pode ser espontânea ou mediada por proteínas.
+
+# Slide 52:
+A Liberação de Neurotransmissores É Mediada por Proteínas do Tipo SNARE
+Três tipos de proteínas SNARE estão envolvidos: 
+t-SNARE montam-se na membrana alvo.
+v-SNARE montam-se na membrana da vesícula.
+Q-SNARE (ex.: SNAP-25) são proteínas regulatórias induzidas por Ca2+.
+
+# Slide 53:
+Liberação de Neurotransmissores
+
+# Slide 54:
+Liberação de Neurotransmissores
+
+# Slide 55:
+Transporte Através de Membranas
+As membranas celulares são permeáveis a pequenas moléculas apolares que se difundem passivamente através da membrana.
+A difusão passiva de moléculas polares envolve dessolvatação e, portanto, tem uma alta barreira de ativação.
+O transporte através da membrana pode ser facilitado por proteínas que fornecem um caminho alternativo de difusão.
+Tais proteínas são chamadas de transportadores ou permeases.
+
+# Slide 56:
+O transporte através de uma membrana deve ser energeticamente favorável.
+Dependência da concentração: O soluto move-se em direção ao equilíbrio através da membrana.
+Dependência eletroquímica: O soluto move-se em direção ao equilíbrio de cargas através da membrana.
+Transporte Através de Membranas
+
+# Slide 57:
+Solutos Polares Precisam de Caminhos Alternativos para Atravessar Membranas Celulares
+
+# Slide 58:
+Tipos de Transporte
+
+# Slide 59:
+Três Classes de Sistemas de Transporte 
+
+# Slide 60:
+Transportador de Glicose na Membrana
+
+# Slide 61:
+Modelo para o Transporte de Glicose
+
+# Slide 62:
+O Transportador de Bicarbonato É um Antiportador
+Mantém o potencial eletroquímico através da membrana
+
+# Slide 63:
+A Importação Eficiente de Glicose Usa Múltiplos Transportadores de Glicose
+Um simportador Na+-glicose e um uniportador de glicose operam em lados opostos das células epiteliais para facilitar o movimento da glicose do intestino para o sangue.
+
+
+# Slide 64:
+Dois Tipos de Transporte Ativo
+
+# Slide 65:
+Transportadores ABC Usam Hidrólise de ATP 
+para Impulsionar o Transporte de Substratos
+
+# Slide 66:
+Transportadores ABC Usam Hidrólise de ATP 
+para Impulsionar o Transporte de Substratos
+
+# Slide 67:
+A Falha de Transportadores ABC Pode Levar a Doenças Humanas
+Mutações no transportador humano CFTR (um transportador do tipo ABC) resultam na doença humana fibrose cística.
+Mutações de um único aminoácido podem tornar a proteína mal enovelada e/ou incapaz de transportar íons, resultando em um desequilíbrio de água através da membrana.
+
+# Slide 68:
+Transporte de Prótons e 
+Energia Química do ATP
+A energia da hidrólise do ATP pode ser usada para impulsionar prótons através da membrana.
+controle de pH na célula pela ATPase do tipo F
+A energia do gradiente de prótons pode ser usada para sintetizar ATP.
+nas membranas dos cloroplastos e mitocôndrias pela ATP sintase
+
+# Slide 69:
+ATPases Impulsionadas por Prótons Podem Funcionar em Ambas as Direções
+
+# Slide 70:
+Aquaporinas Permitem a Passagem Rápida de Água Através das Membranas
+
+# Slide 71:
+Canais Iônicos Mantêm Gradientes 
+para o Transporte Ativo
+
+# Slide 72:
+Canais Iônicos Podem Responder a Alterações de Voltagem Celular
+
+# Slide 73:
+TABELA 11-7a	Sistemas de Transporte Descritos em Outras Partes Deste Texto	
+Sistema de transporte e localização	Figura	Papel	
+Canal de Ca2+ regulado por IP3 do RE	12-11	Permite sinalização via alterações na [Ca2+] citosólica	
+Transportador de glicose da membrana plasmática de célula animal; regulado por insulina	12-20	Aumenta a capacidade do músculo e tecido adiposo de captar excesso de glicose do sangue	
+Canal de Na+ dependente de voltagem do neurônio	12-29	Cria potenciais de ação na transmissão de sinais neuronais	
+Transportador de ácidos graxos da membrana plasmática do miócito	17-3	Importa ácidos graxos como combustível	
+Transportador acil-carnitina/carnitina da membrana mitocondrial interna	17-6	Importa ácidos graxos para a matriz para β-oxidação	
+Transportadores de prótons dos complexos I, III e IV da membrana mitocondrial interna	19-16 	Atuam como mecanismo conservador de energia na fosforilação oxidativa, convertendo fluxo de elétrons em gradiente de prótons	
+FoF1 ATPase/ATP sintase da membrana mitocondrial interna, tilacoide do cloroplasto e membrana plasmática bacteriana	19-25, 20-20a, 20-24	Interconverte a energia do gradiente de prótons e ATP durante a fosforilação oxidativa e fotofosforilação	
+Antiportador de nucleotídeos de adenina da membrana mitocondrial interna	19-30	Importa o substrato ADP para fosforilação oxidativa e exporta o produto ATP	
+Simportador Pi-H+ da membrana mitocondrial interna	19-30	Fornece Pi para a fosforilação oxidativa	
+Transportador malato-α-cetoglutarato da membrana mitocondrial interna	19-31	Transporta equivalentes redutores (como malato) da matriz para o citosol	
+Transportador glutamato-aspartato da membrana mitocondrial interna	19-31	Completa o transporte iniciado pela lançadeira malato-α-cetoglutarato	
+
+# Slide 74:
+TABELA 11-7b	Sistemas de Transporte Descritos em Outras Partes Deste Texto	
+Sistema de transporte e localização	Figura	Papel	
+Proteína desacopladora UCP1, um poro de prótons da membrana mitocondrial interna	19-36, 23-35	Permite a dissipação do gradiente de prótons nas mitocôndrias como meio de termogênese e/ou descarte de excesso de combustível	
+Complexo citocromo bf, um transportador de prótons do tilacoide do cloroplasto	20-19	Atua como bomba de prótons, impulsionada pelo fluxo de elétrons através do esquema Z; fonte de gradiente de prótons para síntese fotossintética de ATP	
+Bacteriorrodopsina, uma bomba de prótons movida a luz	20-27	Fonte movida a luz de gradiente de prótons para síntese de ATP em bactéria halofílica	
+Antiportador Pi-triose fosfato da membrana interna do cloroplasto	20-42, 20-43	Exporta produto fotossintético do estroma; importa Pi para síntese de ATP	
+Transportador de citrato da membrana mitocondrial interna	21-10	Fornece citrato citosólico como fonte de acetil-CoA para síntese de lipídios	
+Transportador de piruvato da membrana mitocondrial interna	21-10	Faz parte do mecanismo de transporte de citrato da matriz para o citosol	
+Receptor de LDL na membrana plasmática de célula animal	21-41	Importa, por endocitose mediada por receptor, partículas carreadoras de lipídios	
+Translocase de proteínas do RE	27-40	Transporta para o RE proteínas destinadas à membrana plasmática, secreção ou organelas	
+Translocase de proteínas do poro nuclear	27-44a	Transporta proteínas entre o núcleo e o citoplasma	
+Transportador de proteínas bacteriano	27-46	Exporta proteínas secretadas através da membrana plasmática	
+
+# Slide 75:
+Capítulo 11: Resumo
+lipídios podem formar micelas, bicamadas e lipossomos
+membranas são compostas de vários lipídios e proteínas
+as propriedades da bicamada dependem da composição lipídica, que varia fortemente de:
+organismo para organismo 
+tecido para tecido
+organela para organela
+proteínas de membrana são encontradas em três classes principais e desempenham uma variedade de papéis estruturais e funcionais, especialmente no transporte de solutos através da membrana
+o transporte ativo de solutos através das membranas requer ATP, mas pode ser realizado de muitas maneiras diferentes
+Neste capítulo, aprendemos que:

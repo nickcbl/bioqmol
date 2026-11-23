@@ -1,0 +1,708 @@
+---
+title: "Capítulo"
+# author: Nicholas Costa & Nicholas Barroso
+lang: pt-BR
+date: today
+date-format: "DD/MM/YYYY"
+format:
+  revealjs:
+    pdf-separate-fragments: true
+#    width: 1600
+#    height: 900
+    width: 960
+    height: 720
+#    logo: imgs/logo.png
+    incremental: false
+    theme: tema_azul.scss
+    lightbox: true
+    slide-number: true
+    background-transition: fade
+    menu: true
+    progress: true
+    center: true
+    auto-stretch: true
+---
+
+# Slide 1:
+
+28 | Regulação da Expressão Gênica
+© 2017 W. H. Freeman and Company
+
+# Slide 2:
+Maneiras de regular a concentração de proteínas em uma célula
+Síntese do transcrito primário de RNA
+Como processar este RNA em mRNA
+Modificações pós-transcricionais do mRNA
+Degradação do mRNA
+Síntese de proteínas
+Modificação pós-traducional da proteína
+Direcionamento e transporte da proteína
+Degradação da proteína
+
+# Slide 3:
+O vocabulário da regulação gênica
+Gene de manutenção
+sob expressão constitutiva
+constantemente expresso em aproximadamente todas as células
+Gene regulado
+Os níveis do produto gênico sobem e descem com as necessidades do organismo.
+Tais genes são induzíveis.
+capazes de serem ligados
+Tais genes também são reprimíveis.
+capazes de serem desligados
+
+# Slide 4:
+A ligação da RNA polimerase aos promotores é um importante alvo de regulação
+As RNA polimerases se ligam a sequências promotoras próximas ao ponto de início da transcrição.
+
+A interação RNA pol-promotor influencia grandemente a taxa de iniciação da transcrição.
+
+Proteínas reguladoras (fatores de transcrição) trabalham para aumentar ou inibir esta interação entre a RNA pol e o DNA promotor.
+
+# Slide 5:
+Uma sequência consenso é encontrada em muitos promotores de E. coli
+
+A maioria dos promotores bacterianos inclui as regiões conservadas −10 e −35 que interagem com o fator σ da RNA polimerase.
+Substituições nesta região −10 a −35 geralmente reduzem a afinidade da RNA Pol pelo promotor.
+Alguns promotores também incluem o elemento a montante que interage com a subunidade α da RNA polimerase.
+
+# Slide 6:
+Mecanismos para regular a transcrição em bactérias
+Uso de fatores σ
+reconhecem diferentes classes de promotores
+permite expressão coordenada de diferentes conjuntos de genes
+Ligação de outras proteínas (fatores de transcrição) aos promotores
+reconhecem promotores de genes específicos
+podem ligar pequenas moléculas sinalizadoras
+podem sofrer modificações pós-traducionais
+a afinidade da proteína pelo DNA é alterada pela ligação de ligante ou modificações pós-traducionais
+permite a expressão de genes específicos em resposta a sinais no ambiente
+
+# Slide 7:
+Regulação por fatores de especificidade como as subunidades σ da RNA Pol
+Fatores de especificidade alteram a afinidade da RNA polimerase por certos promotores.
+Exemplo: subunidade σ da RNA Pol de E. coli
+A maioria dos promotores de E. coli é reconhecida por σ70.
+Esta subunidade pode ser substituída por um de seis fatores de especificidade adicionais.
+O choque térmico substituirá σ70 por σ32 e direcionará a RNA Pol para diferentes promotores.
+
+# Slide 8:
+O choque térmico induz a transcrição de novos produtos para proteger a célula
+Ocorre quando as bactérias são submetidas a estresse térmico
+A RNA Pol substitui σ70 por σ32
+Faz com que a RNA Pol se ligue a um conjunto diferente de promotores
+→ transcrição de novos produtos, incluindo chaperonas que mantêm as proteínas na conformação correta, mesmo no calor
+
+# Slide 9:
+Efetores de pequenas moléculas podem regular ativadores e repressores
+Repressores reduzem as interações RNA Pol-promotor ou bloqueiam a polimerase.
+ligam-se a sequências operadoras no DNA
+geralmente perto de um promotor em bactérias, mas mais distantes em muitos eucariotos
+Efetores podem se ligar ao repressor e induzir uma mudança conformacional.
+a mudança pode aumentar ou diminuir a afinidade do repressor pelo operador e assim pode aumentar ou diminuir a transcrição
+
+# Slide 10:
+Ativadores melhoram os contatos entre
+a RNA polimerase e o promotor
+Os sítios de ligação no DNA para ativadores são chamados de enhancers.
+Em bactérias, os enhancers são geralmente adjacentes ao promotor.
+frequentemente adjacentes a promotores que são "fracos" (ligam a RNA polimerase fracamente), então o ativador é necessário
+Em eucariotos, os enhancers podem estar muito distantes do promotor.
+
+# Slide 11:
+Regulação negativa
+A regulação negativa envolve repressores.
+Exemplo: O repressor se liga ao DNA e desliga a transcrição
+Alternativa: O sinal faz o repressor se dissociar do DNA; transcrição induzida
+
+Apesar dos efeitos opostos na transcrição, ambos são regulação negativa
+
+# Slide 12:
+Regulação positiva
+A regulação positiva envolve ativadores.
+Aumentam a atividade da RNA polimerase
+
+Os sítios de ligação de ativadores estão perto de promotores que ligam fracamente a RNA Pol ou não se ligam de forma alguma.
+Pode permanecer ligado até que uma molécula sinalize a dissociação.
+Alternativamente, o ativador pode se ligar apenas quando sinalizado.
+
+# Slide 13:
+O looping do DNA permite que enhancers eucarióticos fiquem longe dos promotores
+Ativadores podem influenciar a transcrição em promotores a milhares de pb de distância.
+Como? Via formação de alças de DNA
+O looping pode ser facilitado por proteínas reguladoras arquiteturais.
+Co-ativadores podem mediar a ligação ligando-se tanto ao ativador quanto à RNA polimerase.
+
+# Slide 14:
+Muitos genes bacterianos são transcritos e regulados juntos em um operon
+Um operon é um aglomerado de genes compartilhando um promotor e sequências reguladoras.
+Os genes são transcritos juntos, então os mRNAs são vários genes representados em um mRNA (policistrônico).
+Primeiro exemplo: o operon lac
+
+# Slide 15:
+O operon lac revela muitos princípios da regulação gênica
+Trabalho de Jacob e Monod − 1960
+Mostra como três genes para o metabolismo da lactose são regulados juntos como um operon:
+β-galactosidase (lacZ)
+cliva a lactose para produzir glicose e galactose
+lactose permease (galactosídeo permease; lacY)
+transporta lactose para a célula
+tiogalactosídeo transacetilase (lacA)
+Que dependem de regulação negativa via um repressor.
+
+# Slide 16:
+Metabolismo da lactose em E. coli
+Quando a glicose é abundante e a lactose está ausente, as células produzem apenas níveis muito baixos de enzimas para o metabolismo da lactose.
+A transcrição é reprimida.
+Se a glicose é escassa e as células são alimentadas com lactose, as células podem usá-la como fonte de energia.
+As células subitamente expressam os genes para as enzimas do metabolismo da lactose.
+A transcrição não é mais reprimida.
+
+# Slide 17:
+Metabolismo da lactose em E. coli
+
+# Slide 18:
+Inibindo a transcrição do operon lac via uma proteína repressora
+Um gene chamado lacI codifica um repressor chamado repressor Lac.
+Tem seu próprio promotor PI.
+A transcrição do repressor é independente da transcrição das enzimas que o repressor regula.
+O repressor pode se ligar a três sítios operadores (O1–O3).
+O repressor Lac se liga principalmente ao operador O1.
+O1 é adjacente ao promotor.
+A ligação do repressor ajuda a impedir que a RNA polimerase se ligue ao promotor.
+O repressor também se liga a um dos dois operadores secundários, com o DNA formando uma alça entre este operador secundário e O1 (ver Fig. 28-8b).
+Reduz a transcrição, mas a transcrição ocorre a uma taxa baixa e basal, mesmo com o repressor ligado.
+
+# Slide 19:
+Estrutura do operon lac
+
+# Slide 20:
+Repressor Lac ligado a O1 e O3 com DNA formando alça entre eles
+
+# Slide 21:
+O operon lac é induzido por alolactose
+A alolactose (um indutor) se liga ao repressor e faz com que ele se dissocie do operador.
+A β-galactosidase não apenas hidrolisa a lactose, mas também pode isomerizar a lactose em alolactose.
+[Alolactose] ↑ quando
+[Lactose] ↑
+
+# Slide 22:
+O operon lac é governado por mais do que a ligação do repressor
+A disponibilidade de glicose governa a expressão dos genes digestores de lactose via repressão catabólica.
+Quando a glicose está presente, os genes da lactose são desligados.
+É mediada por cAMP e proteína receptora de cAMP (CRP ou CAP para proteína ativadora catabólica).
+
+# Slide 23:
+Quando a glicose está ausente, a transcrição do operon lac é estimulada por CRP-cAMP
+cAMP se liga perto do promotor.
+estimula a transcrição 50 vezes
+dobra o DNA
+o complexo aberto não se forma prontamente sem CRP-cAMP
+CRP-cAMP só tem este efeito quando o repressor Lac se dissociou.
+cAMP é produzido quando [glicose] está baixa.
+
+# Slide 24:
+Quando a lactose está ausente
+Ocorre pouca ou nenhuma transcrição
+Independentemente de [glicose] ser alta ou baixa, se a lactose está ausente → o repressor permanece ligado…→ nenhuma transcrição mesmo quando CRP-cAMP se liga.
+
+# Slide 25:
+Quando a lactose está presente, a transcrição depende do nível de glicose
+O repressor se dissocia, mas a transcrição só é estimulada significativamente se o cAMP aumentar.
+
+# Slide 26:
+Dois requisitos para a indução mais forte do operon lac
+A lactose deve estar presente para formar alolactose para se ligar ao repressor e fazer com que ele se dissocie do operador.
+reduzindo a repressão
+[Glicose] deve estar baixa para que o cAMP possa aumentar, ligar-se ao CRP, e o complexo possa se ligar perto do promotor
+causando ativação
+
+# Slide 27:
+Efeitos combinados de glicose e lactose no operon lac
+Quando a lactose está baixa, o repressor está ligado: → inibição
+Quando a lactose está alta, o repressor se dissocia → permitindo a transcrição
+Quando a glicose está alta, o CRP não está ligado e → a transcrição é atenuada
+Quando a glicose está baixa, o cAMP está alto e o CRP está ligado → ativação
+
+# Slide 28:
+Motivos de ligação proteína-DNA
+Alguns arranjos proteicos são usados em milhares de diferentes proteínas reguladoras e são, portanto, chamados de motivos.
+hélice-Volta-hélice
+usado pelo repressor Lac
+dedo de zinco
+zíper de leucina
+e assim por diante
+
+# Slide 29:
+O motivo hélice-Volta-hélice é comum em proteínas de ligação ao DNA
+~20 aa
+uma α hélice para reconhecimento do DNA (vermelha no próximo slide), então uma volta β, então outra α hélice
+ligação específica de sequência devido a contatos específicos entre a hélice de reconhecimento e o sulco maior
+Quatro motivos hélice-Volta-hélice de ligação ao DNA (cinza) no repressor Lac
+
+# Slide 30:
+Motivo hélice-Volta-hélice
+
+# Slide 31:
+O motivo dedo de zinco é comum em fatores de transcrição eucarióticos
+~30 aa
+A porção "dedo" é uma alça peptídica cruzada por Zn2+
+Zn2+ geralmente coordenado por 4 Cys, ou 2 Cys, 2 His
+Interagem com DNA ou RNA
+A ligação é fraca, então vários dedos de zinco frequentemente atuam em tandem.
+A ligação pode variar de específica de sequência a aleatória.
+
+# Slide 32:
+Dedos de zinco
+
+# Slide 33:
+O motivo zíper de leucina
+Dímero de duas α hélices anfipáticas mais um domínio de ligação ao DNA
+Cada hélice é hidrofóbica em um lado e hidrofílica no outro.
+O lado hidrofóbico é o contato entre os dois monômeros.
+Aproximadamente a cada sétimo resíduo nas hélices é Leu.
+As hélices formam uma bobina enrolada.
+O domínio de ligação ao DNA tem resíduos básicos (Lys, Arg) para interagir com o DNA polianiônico.
+
+# Slide 34:
+Estrutura de um zíper de leucina: GCN4 de levedura
+
+# Slide 35:
+A regulação gênica eucariótica depende do controle combinatório
+Em levedura, existem apenas 300 fatores de transcrição para milhares de genes.
+Os fatores de transcrição se combinam e se alternam.
+Diferentes combinações regulam diferentes genes.
+A regulação gênica eucariótica depende de interações proteína-proteína.
+
+# Slide 36:
+Domínio de ligação ao RNA eucariótico
+Motivos de reconhecimento de RNA – (RRMs)
+90−100 aminoácidos – folha β antiparalela de quatro fitas com duas α hélices
+Encontrados em ativadores gênicos e se ligam tanto a DNA quanto a RNA
+A ligação ao DNA induz a transcrição.
+A ligação a lncRNAs (RNAs longos não codificantes) força as proteínas a competir com o DNA pela ligação, diminuindo assim a transcrição gênica.
+Podem se ligar a mRNA, rRNA ou outros ncRNAs.
+Este motivo pode ser parte de proteínas reguladoras de ligação ao DNA ou pode ocorrer em proteínas que se ligam apenas a RNA.
+
+# Slide 37:
+RRM eucariótico ligando-se a DNA e RNA
+
+# Slide 38:
+Biossíntese de aminoácidos regulada por atenuação transcricional
+Operons bacterianos também são encontrados para vias biossintéticas.
+O operon trp é regulado por atenuação da transcrição.
+A transcrição começa mas é então interrompida por um sinal de parada (atenuador).
+Depende do fato de que, em bactérias, a transcrição e a tradução podem prosseguir simultaneamente.
+A sequência atenuadora está na região 5' de uma sequência líder, e pode fazer o ribossomo estagnar.
+
+# Slide 39:
+Papel do atenuador
+O atenuador (roxo, próximo slide), que é parte do líder (azul claro) determina:
+se a transcrição será atenuada no final do líder
+ou, se a transcrição continuará nos genes para a síntese de Trp
+
+# Slide 40:
+O operon trp
+
+# Slide 41:
+A região líder pode formar diferentes estruturas em grampo
+O líder tem 162 nucleotídeos de comprimento.
+inclui segmentos 1−4
+Se os segmentos 3 e 4 formarem pares de bases, eles formam uma estrutura em grampo que é o sinal de atenuação.
+Se os segmentos 2 e 3 formarem pares de bases, a transcrição prossegue e as enzimas sintéticas de trp são produzidas.
+sem atenuação
+
+# Slide 42:
+Os quatro segmentos da região líder de Trp
+
+# Slide 43:
+O par 3–4 (atenuador) e o par 2–3
+
+# Slide 44:
+Operon trp quando a síntese de Trp não é necessária (tRNATrp está alto)
+
+# Slide 45:
+Operon trp quando os níveis de Trp estão baixos, tRNATrp não abundante, e a síntese de Trp é necessária
+
+# Slide 46:
+Uma proteína repressora também regula a transcrição de TRP
+O operon Trp também tem um repressor que se liga ao DNA na presença de triptofano.
+O repressor Trp é um homodímero.
+Quando Trp é abundante, ele se liga ao repressor, faz com que ele se ligue ao operador e retarda a expressão dos genes para a síntese de Trp.
+Tem motivos hélice-Volta-hélice que interagem com o DNA via o sulco maior.
+
+# Slide 47:
+Regulação da resposta SOS
+Resposta SOS = resposta a dano extenso ao DNA
+resulta em parada do ciclo celular e ativação de sistemas de reparo do DNA
+Normalmente, os genes SOS são reprimidos pelo repressor LexA.
+LexA se liga a operadores em vários genes.
+O DNA danificado produz muitas fitas simples.
+ssDNA é ligado pela proteína RecA (ou, em eucariotos, Rad51).
+ativa a capacidade de RecA de interagir com o repressor LexA
+RecA se liga ao repressor LexA, fazendo com que ele se autoclivem e se dissocie do DNA.
+RecA é chamada de co-protease.
+
+# Slide 48:
+Regulação da resposta SOS
+em E. coli
+
+# Slide 49:
+A síntese de proteínas ribossômicas e rRNA é controlada na tradução
+Quando as bactérias precisam de mais proteína (como no crescimento celular), elas produzem mais ribossomos.
+A síntese de ribossomos consome energia e recursos, então é altamente regulada.
+Os operons de proteínas ribossômicas (r-proteínas) são regulados via feedback traducional (próximo slide).
+
+# Slide 50:
+Mecanismo de feedback traducional
+Cada operon para uma r-proteína codifica um repressor traducional.
+o repressor se liga ao mRNA e bloqueia a tradução
+O repressor tem maior afinidade pelo rRNA do que pelo mRNA.
+então a tradução é reprimida apenas quando a síntese de r-proteínas excede um nível necessário para produzir ribossomos
+
+# Slide 51:
+A síntese de rRNA também é regulada pela disponibilidade de aminoácidos
+A resposta estringente ocorre quando as concentrações de aa estão baixas.
+A falta de aa produz tRNA descarregado.
+O tRNA descarregado se liga ao sítio A ribossômico.
+A síntese de rRNA desencadeia uma cascata que começa com a ligação do fator estringente (RelA) ao ribossomo.
+
+# Slide 52:
+O fator estringente catalisa a formação de um mensageiro incomum baseado em guanosina
+O fator estringente catalisa a formação do nucleotídeo guanosina tetrafosfato (ppGpp).
+É formado pela adição de difosfato (pirofosfato) à extremidade 3' do GTP.
+Então uma fosforilase cliva um fosfato para produzir ppGpp.
+A ligação de ppGpp à RNA polimerase reduz a síntese de rRNA.
+
+# Slide 53:
+Resposta estringente em E. coli
+
+# Slide 54:
+Alguns RNAs participam da regulação
+Regulação "Cis": uma molécula afeta sua própria função
+Regulação "Trans": uma molécula é afetada por outra molécula separada
+Exemplo: mRNA do gene rpoS (fator sigma da RNA polimerase) que codifica σS, um fator de especificidade usado por E. coli em condições de estresse
+como inanição quando σS é necessário para transcrever genes de resposta ao estresse
+
+# Slide 55:
+sRNAs trans-atuantes facilitam a tradução do mRNA de σS
+O mRNA de σS está presente em níveis baixos mas não é traduzido devido a uma estrutura em grampo que inibe sua ligação aos ribossomos.
+sRNAs (pequenos RNAs) se ligam a este mRNA e inibem a formação do grampo.
+Estes sRNAs incluem DsrA e RprA.
+As interações sRNA-mRNA são facilitadas por uma proteína chaperona chamada Hfq.
+
+# Slide 56:
+Regulação da função do mRNA bacteriano em trans por sRNA
+
+# Slide 57:
+Ativação da tradução bacteriana por pequenas moléculas de RNA
+A sequência Shine−Dalgarno de ligação ao ribossomo é sequestrada em uma estrutura em haste-alça no mRNA.
+Na presença da proteína Hfq, o pequeno RNA regulador DsrA se liga ao mRNA.
+A ligação de DsrA abre a haste-alça e permite a ligação do mRNA ao ribossomo.
+O RNA DsrA promove a tradução.
+
+# Slide 58:
+Inibição da tradução bacteriana por pequenas moléculas de RNA
+A sequência Shine−Dalgarno de ligação ao ribossomo é sequestrada em uma estrutura em haste-alça no mRNA.
+Na presença da proteína Hfq, o pequeno RNA regulador OxyS se liga ao mRNA.
+A ligação de OxyS bloqueia o sítio de ligação do ribossomo no mRNA.
+O RNA OxyS inibe a tradução.
+
+# Slide 59:
+Regulação Cis por riboswitches
+Riboswitch = domínio de um mRNA que pode ligar um ligante de pequena molécula
+A ligação do ligante afeta a conformação do mRNA e sua atividade.
+Assim, os riboswitches permitem que o mRNA participe de sua própria regulação e responda a mudanças nas concentrações do ligante.
+
+# Slide 60:
+Riboswitches são uma área de pesquisa em desenvolvimento
+Riboswitches foram encontrados para responder a muitas coenzimas, metabólitos, e assim por diante.
+Eles também são encontrados em íntrons eucarióticos e parecem regular o splicing.
+Alguns riboswitches são exclusivos de bactérias e são, portanto, um alvo para antibióticos.
+
+# Slide 61:
+Regulação por recombinação gênica
+Processos podem remover promotores em relação à sequência codificante ou podem colocar genes em múltiplas orientações para alterar a expressão.
+Exemplo: Genes de flagelina em Salmonella
+Em uma orientação fljB é expresso com um repressor para o gene fljC.
+Em outra orientação, apenas fljC é expresso.
+O processo é chamado de variação de fase.
+
+# Slide 62:
+Variação de fase – Regulação dos genes de flagelina
+
+# Slide 63:
+TABELA 28-1 Exemplos de regulação gênica por recombinação
+Sistema	Recombinase/sítio de recombinação	Tipo de recombinação	Função
+Variação de fase (Salmonella)	Hin/hix	Específica de sítio	Expressão alternativa de dois genes de flagelina permite evasão da resposta imune do hospedeiro.
+Faixa de hospedeiro (bacteriófago μ)	Gin/gix	Específica de sítio	Expressão alternativa de dois conjuntos de genes de fibra da cauda afeta a faixa de hospedeiro.
+Troca de tipo de acasalamento (levedura)	Endonuclease HO, proteína RAD52, outras proteínas/MAT	Conversão gênica não recíprocaa	Expressão alternativa de dois tipos de acasalamento de levedura, a e α, cria células de diferentes tipos de acasalamento que podem acasalar e sofrer meiose.
+Variação antigênica (tripanossomos)b	Varia	Conversão gênica não recíprocaa	Expressão sucessiva de diferentes genes que codificam as glicoproteínas variáveis de superfície (VSGs) permite evasão da resposta imune do hospedeiro.
+aNa conversão gênica não recíproca (uma classe de eventos de recombinação não discutida no Capítulo 25), a informação genética é movida de uma parte do genoma (onde é silenciosa) para outra (onde é expressa). A reação é semelhante à transposição replicativa (ver Fig. 25-42).
+bOs tripanossomos causam a doença do sono africana e outras doenças (ver Box 6-3). A superfície externa de um tripanossomo é composta de múltiplas cópias de uma única VSG, o principal antígeno de superfície. Uma célula pode mudar os antígenos de superfície para mais de 100 formas diferentes, impedindo uma defesa eficaz pelo sistema imunológico do hospedeiro.
+
+# Slide 64:
+Características da regulação gênica eucariótica
+O acesso dos promotores eucarióticos à RNA polimerase é impedido pela estrutura da cromatina.
+portanto requer remodelação da cromatina
+Mecanismos de regulação positiva predominam e são necessários até para um nível basal de expressão gênica.
+A expressão gênica eucariótica requer um conjunto complicado de proteínas.
+
+# Slide 65:
+Três características da cromatina transcricionalmente ativa
+Eucromatina = cromatina menos condensada, distinguida da heterocromatina transcricionalmente inativa
+Remodelação da cromatina de genes transcricionalmente ativos:
+nucleossomos reposicionados
+variantes de histonas
+modificações covalentes nos nucleossomos
+
+# Slide 66:
+Os nucleossomos podem ser reestruturados por complexos proteicos específicos
+Complexo SWI/SNF (SWItch/Sucrose NonFermentable)
+remodela a cromatina para espaçar irregularmente os nucleossomos
+estimula a ligação de fatores de transcrição
+trabalha com proteínas da família ISWI (imitation switch)
+alteração dependente de ATP do espaçamento entre nucleossomos, e assim por diante
+
+# Slide 67:
+Remodelação de nucleossomos
+As células eucarióticas geralmente têm 9−10 CHD diferentes (chromodomain helicase DNA-binding) agrupados em três subfamílias.
+Cada família tem um papel especializado.
+Ex: família INO80:
+papéis na remodelação da cromatina e reparo do DNA
+SWR1 – promove troca de subunidades em nucleossomos induzindo variantes de histonas
+Ex: H2Az – encontrado em regiões transcricionalmente ativas
+
+# Slide 68:
+Modificação covalente de histonas
+Metilação
+Fosforilação
+Acetilação
+Ubiquitinação
+Sumoilação
+Ocorrem principalmente no domínio N-terminal das histonas encontradas perto do exterior da partícula do nucleossomo
+
+# Slide 69:
+A modificação de histonas altera a transcrição
+A modificação covalente de histonas permite o recrutamento de enzimas e fatores de transcrição.
+Metilação de Lys-4 e Lys-36 na histona 3 (H3) e Arg de H3 e H4:
+resulta em ativação transcricional
+recruta histonas acetiltransferases (HATs) que então acetilam uma Lys particular
+revertida por histonas desacetilases (HDACs) que tornam a cromatina inativa
+A acetilação de Lys resulta em diminuição da afinidade da histona pelo DNA.
+
+# Slide 70:
+TABELA 28-2 Alguns complexos enzimáticos que catalisam mudanças estruturais da cromatina associadas à transcrição
+Complexo enzimático a	Estrutura oligomérica (número de polipeptídeos)	Fonte	Atividades
+Movimento, substituição ou edição de histonas, requerendo ATP
+Família SWI/SNF	8–17
+Mr > 106	Eucariotos	Remodelação de nucleossomos; ativação transcricional
+Família ISWI	2–4	Eucariotos	Remodelação de nucleossomos; repressão transcricional; ativação transcricional em alguns casos
+Família CHD	1–10	Eucariotos	Remodelação de nucleossomos; ejeção de nucleossomos para ativação transcricional; alguns têm papéis repressivos
+Família INO80	>10	Eucariotos	Remodelação de nucleossomos e ativação transcricional; membro da família SWR1 engaja na substituição de H2A-H2B por H2AZ-H2B
+Modificação de histonas
+GCN5-ADA2-ADA3	3	Levedura	GCN5 tem atividade HAT tipo A
+SAGA/PCAF	>20	Eucariotos	Inclui GCN5-ADA2-ADA3; acetila resíduos em H3, H2B, H2AZ
+NuA4	≥12	Eucariotos	Componente EsaI tem atividade HAT; acetila H4, H2A e H2AZ
+Chaperonas de histonas que não requerem ATP
+HIRA	1	Eucariotos	Deposição de H3.3 durante a transcrição
+aAs abreviações para genes e proteínas eucarióticos são frequentemente mais confusas ou obscuras do que as usadas para bactérias. SWI (switching) foi descoberta como uma proteína necessária para a expressão de certos genes envolvidos na troca de tipo de acasalamento em levedura, e SNF (sucrose nonfermenting) como um fator para a expressão do gene da sacarase de levedura. Estudos subsequentes revelaram múltiplas proteínas SWI e SNF que atuam em um complexo. O complexo SWI/SNF tem um papel na expressão de uma ampla gama de genes e foi encontrado em muitos eucariotos, incluindo humanos. ISWI é imitation SWI. CHD é chromodomain, helicase, DNA binding; INO80, inositol-requiring 80; e SWR1, SWi2/Snf2-related ATPase 1. O complexo das proteínas GCN5 (general control nonderepressible) e ADA (alteration/deficiency activation) foi descoberto durante a investigação da regulação de genes do metabolismo de nitrogênio em levedura. Essas proteínas podem ser parte do complexo maior SAGA (SPF, ADA2,3, GCN5, acetiltransferase) em leveduras. O equivalente de SAGA em humanos é PCAF (p300/CBP-associated factor). NuA4 é nucleosome acetyltransferase of H4; ESA1, essential SAS2-related acetyltransferase. HIRA é histone regulator A.
+
+# Slide 71:
+Ideia de um "código de nucleossomos" ou "código de histonas"
+Alguns especulam que os genomas codificam instruções para a organização dos nucleossomos.
+Os nucleossomos parecem ocorrer em sequências específicas.
+As modificações covalentes parecem ocorrer em regiões/sequências específicas.
+Um código de posicionamento de nucleossomos ou código de modificação de histonas explica essas observações.
+
+# Slide 72:
+Regulação positiva de promotores eucarióticos
+A transcrição gênica eucariótica é geralmente dependente de proteínas ativadoras, não da afinidade da RNA Pol.
+A maioria dos promotores é inacessível, tornando os repressores redundantes.
+O controle combinatório fornece um controle positivo mais preciso para a regulação gênica.
+A regulação negativa existe mas tipicamente envolve lncRNAs, não proteínas.
+
+# Slide 73:
+A RNA polimerase II requer
+cinco tipos de proteínas
+Ativadores de transcrição (enhancers)
+proteínas que se ligam a sequências ativadoras a montante (UASs)
+Reguladores arquiteturais para facilitar o looping do DNA
+Proteínas de modificação/remodelação da cromatina
+Co-ativadores
+agem indiretamente (com outras proteínas, não com o DNA)
+Fatores de transcrição basais (gerais)
+
+# Slide 74:
+As proteínas enhancer são diversas
+Podem se ligar a milhares de nucleotídeos de distância da caixa TATA do promotor
+Podem ter domínios de ligação ao DNA, de ligação a proteínas e/ou de ligação a moléculas sinalizadoras
+podem se ligar a múltiplas proteínas
+Alguns regulam alguns genes; alguns regulam muitas centenas de genes
+
+# Slide 75:
+Reguladores arquiteturais regulam o looping
+O looping do DNA permite que enhancers distantes modulem a montagem nos promotores.
+Exemplo: proteínas do grupo de alta mobilidade (HMG)
+têm múltiplas funções, incluindo regulação arquitetural
+
+# Slide 76:
+Co-ativadores auxiliam a RNA polimerase
+O complexo Mediator se liga ao domínio carboxi-terminal (CTD) da RNA Pol II
+necessário tanto para a transcrição basal quanto regulada em muitos promotores
+posteriormente fornece superfície de montagem para outros complexos
+A proteína de ligação à TATA é o primeiro componente do complexo de pré-iniciação (PIC) na típica caixa TATA de um promotor
+
+# Slide 77:
+Detalhes da regulação eucariótica que estão emergindo
+A ligação de ativadores desencadeia muitos promotores a ligar a RNA Pol II.
+A ligação de um ativador parece permitir a ligação de ativadores adicionais.
+Frequentemente, os componentes se ligam em uma ordem regular.
+As histonas são deslocadas à medida que os ativadores se ligam.
+O processo se coordena com a remodelação da cromatina.
+
+# Slide 78:
+Metabolismo da galactose em levedura
+A regulação dos genes para importar e metabolizar galactose em levedura ilustra princípios importantes.
+Os genes para o metabolismo da galactose (GAL) estão distribuídos por vários cromossomos.
+Mas todos têm promotores semelhantes.
+Caixa TATA, sequências Inr, sequência ativadora a montante (UASG) reconhecida pela proteína Gal4 (Gal4p)
+
+# Slide 79:
+Todos os genes GAL são regulados por um conjunto comum de proteínas
+A galactose se liga a Gal3p, então forma um complexo com Gal4p e Gal80p.
+Permite que Gal4p seja ativador.
+Gal4 também recruta os complexos SWI/NSF e mediador para abrir a cromatina.
+
+# Slide 80:
+TABELA 28-3 Genes do metabolismo da galactose em levedura
+Gene	Função da proteína	Localização cromossômica	Tamanho da proteína (número de resíduos)	Expressão relativa da proteína em diferentes fontes de carbono
+Glicose	Glicerol	Galactose
+Genes regulados
+GAL1	Galactoquinase	II	528	–	–	+++
+GAL2	Galactose permease	XII	574	–	–	+++
+PGM2	Fosfoglucomutase	XIII	569	+	+	++
+GAL7	Galactose 1-fosfato uridililtransferase	II	365	–	–	+++
+GAL10	UDP-glicose 4-epimerase	II	699	–	–	+++
+MEL1	α-Galactosidase	II	453	–	+	++
+Genes reguladores
+GAL3	Indutor	IV	520	–	+	++
+GAL4	Ativador transcricional	XVI	881	+/–	+	+
+GAL80	Inibidor transcricional	XIII	435	+	+	++
+Fonte: Informações de R. Reece e A. Platt, Bioessays 19:1001, 1997.
+
+# Slide 81:
+Características da regulação mediada por hormônios
+O complexo hormônio-receptor se liga a regiões do DNA chamadas elementos de resposta hormonal (HREs).
+Os receptores hormonais têm um domínio de ligação ao DNA com dedos de zinco.
+Os receptores hormonais também têm uma região de ligação ao ligante no C-terminal que é altamente variável entre diferentes receptores.
+
+# Slide 82:
+Dois tipos de receptores hormonais
+Tipo 1 monomérico (NR) ― receptores para hormônios sexuais e glicocorticoides
+encontrados no citoplasma em complexo com Hsp70
+quando o hormônio se liga, Hsp70 se dissocia
+o receptor dimeriza
+expõe a região de localização nuclear
+então o complexo hormônio-receptor viaja para o núcleo para ser ativador transcricional
+
+# Slide 83:
+Tipo II (inclui receptor de hormônio tireoidiano; TR)
+encontrado no núcleo ligado ao DNA e ao correpressor receptor retinoide X (RXR)
+o hormônio se liga, o correpressor se dissocia
+o complexo receptor-hormônio então ativa a transcrição
+
+Dois tipos de receptores hormonais
+
+# Slide 84:
+A expressão gênica eucariótica também é regulada por hormônios peptídicos
+2° mensageiros levam à ativação de fatores de transcrição
+Exemplo: via β-adrenérgica
+↑cAMP ativa a proteína quinase A (PKA).
+A PKA entra no núcleo e fosforila a proteína de ligação ao elemento de resposta ao cAMP (CREB).
+CREB é um ativador transcricional de genes que levam ao uso de combustível, em vez de armazenamento de combustível.
+
+# Slide 85:
+Quatro mecanismos de regulação da tradução
+Fosforilação de fatores de iniciação da tradução
+Repressores traducionais (tipicamente se ligam à UTR 3')
+Disrupção das interações eIF4E e eIF4G
+Regulação mediada por RNA (silenciamento gênico)
+
+# Slide 86:
+Micro-RNAs previnem a tradução do mRNA
+Micro-RNAs (miRNAs) silenciam genes ligando-se a mRNAs
+podem prevenir a transcrição do mRNA clivando-o (via endonucleases Drosha ou Dicer) ou bloqueando-o
+Alguns miRNAs são produzidos brevemente durante o desenvolvimento; são chamados de pequenos RNAs temporais (stRNAs).
+
+# Slide 87:
+Pesquisadores podem desligar genes artificialmente via interferência de RNA
+Qualquer dsRNA que corresponda a um mRNA e seja introduzido em uma célula será clivado por Dicer em segmentos curtos chamados pequenos RNAs interferentes (siRNAs).
+Estes se ligarão ao mRNA para silenciar sua tradução.
+O processo é chamado de interferência de RNA.
+
+# Slide 88:
+Silenciamento gênico por interferência de RNA
+
+# Slide 89:
+ncRNAs também regulam a expressão gênica
+Referidos como lncRNAs quando maiores que 200 nt
+exemplo: HSR1 – lncRNA (~600 nt) interage com eEF1a para regular a tradução em células sob estresse
+exemplo: 7SK – liga-se ao fator de transcrição pTEFb da RNA Pol II para reprimir a elongação
+Nosso conhecimento sobre ncRNAs está se expandindo rapidamente à medida que mais pesquisas continuam a explorar este campo.
+
+# Slide 90:
+Proteínas reguladoras controlam o desenvolvimento
+O desenvolvimento embrionário requer coordenação e regulação complexas e intrincadas da expressão gênica.
+Mais genes são expressos durante o desenvolvimento inicial do que em qualquer outra parte do ciclo de vida em um tecido diferenciado.
+exemplo: ouriço-do-mar com ~18.500 mRNAs diferentes no oócito versus ~6.000 mRNAs diferentes em um tecido diferenciado
+
+# Slide 91:
+Proteínas reguladoras controlam o desenvolvimento
+A polaridade deve ser estabelecida (anterior vs. posterior e dorsal vs. ventral).
+O corpo do embrião pode ter segmentos repetidos (Drosophila) (metamerismo) com características características.
+Morfógenos, proteínas que fazem os tecidos circundantes mudarem de forma, afetam o desenvolvimento.
+Genes tanto da mãe (genes maternos) quanto do embrião afetam o desenvolvimento e a segmentação adequada.
+
+# Slide 92:
+Genes homeóticos versus maternos
+Genes homeóticos – especificam o desenvolvimento de órgãos e apêndices em um segmento corporal particular
+Genes Hox – homeobox – contém uma sequência conservada presente em todos esses genes
+Genes maternos – genes expressos em células nutridoras e foliculares que afetam a polaridade inicial e o desenvolvimento dos eixos (bicoid e nanos)
+
+# Slide 93:
+Proteínas reguladoras controlam o desenvolvimento
+Bicoid – um fator de transcrição que ativa a expressão de vários genes de segmentação; repressor traducional que inativa certos mRNAs depositados no polo anterior
+A falta de Bicoid resulta em um embrião sem cabeça ou tórax e dois abdomens.
+Nanos – proteína repressora traducional depositada no posterior do ovo
+
+# Slide 94:
+Regulação traducional do desenvolvimento anteroposterior
+
+# Slide 95:
+Genes homeóticos
+Frequentemente encontrados em aglomerados e são altamente conservados entre animais
+
+# Slide 96:
+Potencial de desenvolvimento das
+células-tronco
+As células-tronco têm o potencial de se diferenciar em vários tecidos.
+Células totipotentes têm a capacidade de se diferenciar em QUALQUER tipo de tecido ou até mesmo um organismo completo.
+Células pluripotentes são capazes de se diferenciar em qualquer uma das três camadas germinativas e muitos tipos de tecidos, mas não podem formar um organismo completo.
+Células unipotentes podem se diferenciar em apenas um tipo de célula ou tecido.
+
+# Slide 97:
+Potencial de desenvolvimento das
+células-tronco
+Células-tronco embrionárias
+células pluripotentes do blastocisto
+usadas em pesquisa com células-tronco embrionárias
+Células-tronco adultas
+potencial limitado em comparação com as embrionárias
+células-tronco hematopoiéticas – podem dar origem a diferentes células no nicho ou microambiente
+consideradas multipotentes
+exemplo: células-tronco hematopoiéticas da medula óssea – dão origem a muitos tipos de células sanguíneas e àquelas que podem regenerar osso, mas não fígado, rim, e assim por diante
+
+# Slide 98:
+Potencial de desenvolvimento das
+células-tronco

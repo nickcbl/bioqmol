@@ -1,0 +1,388 @@
+Slide 1:
+
+16| The Citric Acid Cycle
+© 2017 W. H. Freeman and Company
+
+Slide 2:
+CHAPTER 16: 
+The Citric Acid Cycle
+Cellular respiration
+Conversion of pyruvate to activated acetate 
+Reactions of the citric acid cycle
+Regulation of the citric acid cycle
+Amphibolic nature of citric acid cycle intermediates
+Mechanisms of replenishing citric acid cycle intermediates
+Learning goals: 
+
+Slide 3:
+Only a Small Amount of Energy Available in Glucose Is Captured in Glycolysis
+2
+ΔG′° = –146 kJ/mol
+Glycolysis
+Full oxidation (+ 6 O2)
+ΔG′° = –2,840 kJ/mol
+6 CO2 + 6 H2O
+GLUCOSE
+
+Slide 4:
+Cellular Respiration
+Process in which cells consume O2 and produce CO2
+Provides more energy (ATP) from glucose than glycolysis
+Also captures energy stored in lipids and amino acids 
+Evolutionary origin: developed about 2.5 billion years ago
+Used by animals, plants, and many microorganisms
+Occurs in three major stages: 
+ acetyl CoA production
+ acetyl CoA oxidation
+ electron transfer and oxidative phosphorylation
+
+
+Slide 5:
+Respiration: Stage 1
+Acetyl-CoA Production
+Generates some   ATP, NADH, FADH2
+Carbohydrates release 1/3 of total potential CO2 during Stage 1.
+
+Slide 6:
+Respiration: Stage 2
+Acetyl-CoA Oxidation
+Generates more NADH, FADH2, and one GTP
+Remaining carbon atoms from carbohydrates, amino acids, and fatty acids are released during Stage 2.
+
+Slide 7:
+Respiration: Stage 3
+Oxidative Phosphorylation
+Generates the vast majority of ATP during catabolism
+
+
+Slide 8:
+In Eukaryotes, Stages 2 and 3 Are Localized to the Mitochondria
+Glycolysis occurs in the cytoplasm.
+Citric acid cycle occurs in the mitochondrial matrix†.
+Oxidative phosphorylation occurs in the inner membrane.
+†Except succinate dehydrogenase, which is located in the inner membrane
+
+Slide 9:
+Conversion of Pyruvate to Acetyl-CoA
+Net reaction:
+oxidative decarboxylation of pyruvate
+first carbons of glucose to be fully oxidized
+Catalyzed by the pyruvate dehydrogenase complex
+requires 5 coenzymes
+TPP, lipoyllysine, and FAD are prosthetic groups.
+NAD+ and CoA-SH are co-substrates.
+
+
+Slide 10:
+Structure of Coenzyme A
+Coenzymes are not a permanent part of the enzymes’ structure.
+They associate, fulfill a function, and dissociate.
+The function of CoA is to accept and carry acetyl groups.  
+
+Slide 11:
+Structure of Lipoyllysine
+Prosthetic groups are strongly bound to the protein.
+The lipoic acid is covalently linked to the enzyme via a lysine residue 
+
+Slide 12:
+Pyruvate Dehydrogenase Complex 
+(PDC)
+ PDC is a large (up to 10 MDa) multienzyme complex.
+pyruvate dehydrogenase (E1)
+dihydrolipoyl transacetylase (E2)
+dihydrolipoyl dehydrogenase (E3)
+
+Advantages of multienzyme complexes: 
+The short distance between catalytic sites allows channeling of  substrates from one catalytic site to another.
+Channeling minimizes side reactions.
+The regulation of activity of one subunit affects the entire complex.
+
+
+Slide 13:
+Cryoelectronmicroscopy of PDC
+Samples are in a near-native frozen hydrated state.
+Low temperature protects biological specimens against radiation damage.
+Electrons have a smaller de Broglie wavelength and produce much higher-resolution images than light.
+
+
+Slide 14:
+Overall Reaction of PDC
+
+Slide 15:
+Sequence of Events in 
+Oxidative Decarboxylation of Pyruvate
+Enzyme 1 
+ Step 1: Decarboxylation of pyruvate to an aldehyde 
+ Step 2: Oxidation of aldehyde to a carboxylic acid
+Electrons reduce lipoamide and form a thioester.
+Enzyme 2
+ Step 3: Formation of acetyl-CoA (product 1)
+Enzyme 3 
+ Step 4: Reoxidation of the lipoamide cofactor
+ Step 5: Regeneration of the oxidized FAD cofactor
+forming NADH (product 2)
+
+
+Slide 16:
+The Citric Acid Cycle (CAC)
+
+Slide 17:
+Sequence of Events in the Citric Acid Cycle 
+Step 1: C-C bond formation between acetate (2C) and oxaloacetate (4C) to make citrate (6C)
+Step 2: Isomerization via dehydration/rehydration
+Steps 3–4: Oxidative decarboxylations to give 2 NADH
+Step 5: Substrate-level phosphorylation to give GTP
+Step 6: Dehydrogenation to give FADH2 
+Step 7: Hydration
+Step 8: Dehydrogenation to give NADH
+
+
+Slide 18:
+C-C Bond Formation by Condensation of Acetyl-CoA and Oxaloacetate
+
+Slide 19:
+Citrate Synthase
+Condensation of acetyl-CoA and oxaloacetate
+The only reaction with C-C bond formation
+Uses acid/base catalysis
+Carbonyl of oxaloacetate is a good electrophile.
+Methyl of acetyl-CoA is not a good nucleophile… 
+…unless activated by deprotonation.
+Rate-limiting step of CAC
+Activity largely depends on [oxaloacetate].
+Highly thermodynamically favorable/irreversible
+regulated by substrate availability and product inhibition
+
+Slide 20:
+Induced Fit in the Citrate Synthase
+Conformational change occurs upon binding oxaloacetate.
+Avoids unnecessary hydrolysis of thioester in acetyl-CoA
+
+Open conformation:
+Free enzyme does not have a binding site for acetyl-CoA.
+
+Closed conformation:
+Binding of OAA creates binding for acetyl-CoA.
+Reactive carbanion is protected .
+
+Slide 21:
+Induced Fit in the Citrate Synthase
+
+Slide 22:
+Mechanism of Citrate Synthase:
+Acid/Base Catalysis
+
+Slide 23:
+Mechanism of Citrate Synthase:
+Acid/Base Catalysis
+
+Slide 24:
+Mechanism of Citrate Synthase:
+Hydrolysis of Thioester
+
+Slide 25:
+Isomerization by Dehydration/Rehydration
+
+Slide 26:
+Aconitase
+Elimination of H2O from citrate gives a cis C=C bond. 
+lyase
+Citrate, a tertiary alcohol, is a poor substrate for oxidation.
+Isocitrate, a secondary alcohol, is a good substrate for oxidation.
+Addition of H2O to cis-aconitate is stereospecific.
+Thermodynamically unfavorable/reversible
+product concentration kept low to pull forward
+
+Slide 27:
+Iron-Sulfur Center in Aconitase
+Water removal from citrate and subsequent addition to cis-aconitate are catalyzed by the iron-sulfur center: sensitive to oxidative stress. 
+
+Slide 28:
+Aconitase Is Stereospecific
+Only R-isocitrate is produced by aconitase. 
+
+Distinguished by three-point attachment to the active site
+
+Slide 29:
+Oxidative Decarboxylation by Isocitrate Dehydrogenase
+Isozymes are specific for NADP+ (cytosolic) or NAD+ (mitochondrial).
+Decarboxylation releases CO2.
+Highly favorable/irreversible and regulated by [ATP]
+
+Slide 30:
+Final Oxidative Decarboxylation by           α-Ketoglutarate Dehydrogenase
+
+Slide 31:
+α-Ketoglutarate Dehydrogenase
+Complex similar to pyruvate dehydrogenase
+same coenzymes, identical mechanisms
+active sites different to accommodate different-sized substrates
+
+Slide 32:
+α-Ketoglutarate Dehydrogenase
+Last oxidative decarboxylation
+net full oxidation of all carbons of glucose
+after two turns of the cycle
+carbons not directly from glucose because carbons lost came from oxaloacetate, not acetate  
+Succinyl-CoA is another higher-energy thioester bond.
+Highly thermodynamically favorable/irreversible
+regulated by product inhibition
+
+Slide 33:
+Origin of C-Atoms in CO2
+Carbons from acetate are red.
+All CO2 generated during the citric acid cycle is produced before succinyl-CoA is made.
+In one turn of the citric acid cycle, neither of the red carbons is lost.
+Both CO2 molecules lost were present on the oxaloacetate used to begin the cycle.
+
+Slide 34:
+Generation of GTP Through Thioester: Substrate-Level Phosphorylation by Succinyl-CoA Synthetase
+
+Slide 35:
+Succinyl-CoA Synthetase
+Substrate-level phosphorylation
+The energy of thioester allows for incorporation of inorganic phosphate.
+Goes through a phospho-enzyme intermediate
+Produces GTP, which can be converted to ATP
+Slightly thermodynamically favorable/reversible
+product concentration kept low to pull forward
+
+Slide 36:
+Mechanism of Succinyl-CoA Synthetase
+
+Slide 37:
+Oxidation of an Alkane to Alkene by Succinate Dehydrogenase
+
+Slide 38:
+Succinate Dehydrogenase
+Bound to mitochondrial inner membrane 
+acts as Complex II in the electron-transport chain
+Reduction of the alkane to alkene requires FADH2.
+Reduction potential of carbon-hydrogen bond is too low for production of NADH.
+FAD is covalently bound, unusual
+Near equilibrium/reversible
+product concentration kept low to pull forward
+
+Slide 39:
+Hydration Across a Double Bond: Fumarase
+
+Slide 40:
+Fumarase
+Stereospecific
+Addition of water is always trans and forms l-malate.
+OH− adds to fumarate… then H+ adds to the carbanion.
+Cannot distinguish between inner carbons, so either can gain –OH
+
+Slightly thermodynamically favorable/reversible
+product concentration kept low to pull reaction forward
+
+Slide 41:
+Stereospecificity of Fumarase
+
+Slide 42:
+Oxidation of Alcohol to a Ketone and Regeneration of Oxaloacetate by Malate Dehydrogenase
+
+Slide 43:
+Malate Dehydrogenase
+Final step of the cycle
+Regenerates oxaloacetate for citrate synthase
+Highly thermodynamically UNfavorable/reversible
+oxaloacetate concentration kept VERY low by citrate synthase 
+pulls the reaction forward
+
+Slide 44:
+One Turn of the Citric Acid Cycle
+
+Slide 45:
+Net Result of the Citric Acid Cycle
+Net oxidation of two carbons to CO2
+equivalent to two carbons of acetyl-CoA 
+but NOT the exact same carbons
+Energy captured by electron transfer to NADH and FADH2
+Generates 1 GTP, which can be converted to ATP
+Completion of cycle
+Acetyl-CoA + 3NAD+ + FAD + GDP + Pi + 2 H2O →
+		 2CO2 + 3NADH + FADH2 + GTP + CoA + 3H+
+
+Slide 46:
+Direct and Indirect ATP Yield
+TABLE 16-1	Stoichiometry of Coenzyme Reduction and ATP Formation in the Aerobic Oxidation of Glucose via Glycolysis, the Pyruvate Dehydrogenase Complex Reaction, the Citric Acid Cycle, and Oxidative Phosphorylation	
+Reaction	Number of ATP or reduced coenzyme directly formed	Number of ATP ultimately formeda	
+Glucose → glucose 6-phosphate	–1 ATP	–1	
+Fructose 6-phosphate → fructose 1,6-bisphosphate	–1 ATP	–1	
+2 Glyceraldehyde 3-phosphate → 2 1,3-bisphosphoglycerate	2 NADH	3 or 5b	
+2 1,3-Bisphosphoglycerate → 2 3-phosphoglycerate	2 ATP	2	
+2 Phosphoenolpyruvate → 2 pyruvate	2 ATP	2	
+2 Pyruvate → 2 acetyl-CoA	2 NADH	5	
+2 Isocitrate → 2 α-ketoglutarate	2 NADH	5	
+2 α-Ketoglutarate → 2 succinyl-CoA	2 NADH	5	
+2 Succinyl-CoA → 2 succinate	2 ATP (or 2 GTP)	2	
+2 Succinate → 2 fumarate	2 FADH2	3	
+2 Malate → 2 oxaloacetate	2 NADH	5	
+    Total		30-32	
+aThis is calculated as 2.5 ATP per NADH and 1.5 ATP per FADH2. A negative value indicates consumption.
+bThis number is either 3 or 5, depending on the mechanism used to shuttle NADH equivalents from the cytosol to the mitochondrial matrix; see Figures 19-30 and 19-31.	
+
+Slide 47:
+CAC Intermediates Are Amphibolic
+
+Slide 48:
+Anaplerotic Reactions
+Intermediates in the citric acid cycle can be used in biosynthetic pathways (removed from cycle).
+Must replenish the intermediates in order for the cycle and central metabolic pathway to continue
+4-carbon intermediates are formed by carboxylation of 3-carbon precursors.
+
+Slide 49:
+Biotin Is a CO2 Carrier
+
+Slide 50:
+Biological Tethers Allow Flexibility
+
+Slide 51:
+Regulation of the Citric Acid Cycle
+
+Slide 52:
+Regulation of the Citric Acid Cycle
+Regulated at highly thermodynamically favorable and irreversible steps
+PDH, citrate synthase, IDH, and KDH
+
+General regulatory mechanism
+activated by substrate availability
+inhibited by product accumulation
+Overall products of the pathway are NADH and ATP.
+affect all regulated enzymes in the cycle
+inhibitors: NADH and ATP
+activators: NAD+ and AMP
+
+Slide 53:
+Regulation of Pyruvate Dehydrogenase
+Also regulated by reversible phosphorylation of E1
+phosphorylation: inactive
+dephosphorylation: active
+PDH kinase and PDH phosphorylase are part of mammalian PDH complex.
+Kinase is activated by ATP. 
+high ATP → phosphorylated PDH → less acetyl-CoA
+low ATP → kinase is less active and phosphorylase removes phosphate from PDH → more acetyl-CoA
+Regulation of PDH is somewhat similar to regulation of the glycogen synthase/glycogen phosphorylase complex.
+
+Slide 54:
+Additional Regulatory Mechanisms
+Citrate synthase is also inhibited by succinyl-CoA.
+α-Ketoglutarate is an important branch point for amino acid metabolism.
+Succinyl-CoA communicates flow at this branch point to the start of the cycle.
+
+Regulation of isocitrate dehydrogenase controls citrate levels.
+Aconitase is reversible.
+Inhibition of IDH leads to accumulation of isocitrate and reverses acconitase.
+Accumulated citrate leaves mitochondria and inhibits phosphofructokinase in glycolysis.
+
+Slide 55:
+Chapter 16: Summary
+a large multi-subunit enzyme, pyruvate dehydrogenase complex, converts pyruvate into acetyl-CoA
+several cofactors are involved in reactions that harness the energy from pyruvate
+the citric acid cycle is an important catabolic process: it makes GTP and reduced cofactors that could yield ATP
+the citric acid cycle plays important anabolic roles in the cell 
+organisms have multiple ways to replenish intermediates that are used in other pathways
+the rules of organic chemistry help to rationalize reactions in the citric acid cycle  
+the citric acid cycle is largely regulated by availability of substrates and product inhibition (especially NADH and ATP)
+In this chapter, we learned that:

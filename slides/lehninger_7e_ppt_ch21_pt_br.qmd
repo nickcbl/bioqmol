@@ -1,0 +1,757 @@
+---
+title: "Capítulo"
+# author: Nicholas Costa & Nicholas Barroso
+lang: pt-BR
+date: today
+date-format: "DD/MM/YYYY"
+format:
+  revealjs:
+    pdf-separate-fragments: true
+#    width: 1600
+#    height: 900
+    width: 960
+    height: 720
+#    logo: imgs/logo.png
+    incremental: false
+    theme: tema_azul.scss
+    lightbox: true
+    slide-number: true
+    background-transition: fade
+    menu: true
+    progress: true
+    center: true
+    auto-stretch: true
+---
+
+# Slide 1:
+
+21 | Biossíntese de Lipídios
+© 2017 W. H. Freeman and Company
+
+# Slide 2:
+CAPÍTULO 21
+Biossíntese de Lipídios
+Biossíntese de ácidos graxos e eicosanoides
+Montagem de ácidos graxos e glicerol em triacilgliceróis
+Biossíntese de colesterol
+Tráfego e metabolismo do colesterol
+Regulação e papel do colesterol em doenças humanas
+Objetivos de aprendizagem:
+
+# Slide 3:
+Os lipídios desempenham uma variedade de funções biológicas
+Armazenamento de energia
+Constituintes de membranas
+Ancoragens para proteínas de membrana
+Cofatores para enzimas
+Moléculas de sinalização
+Pigmentos
+Detergentes
+Transportadores
+Antioxidantes
+
+# Slide 4:
+O catabolismo e o anabolismo de ácidos graxos ocorrem por vias diferentes
+Catabolismo de ácidos graxos
+produz acetil-CoA
+produz poder redutor (NADH, FADH2)
+ocorre nas mitocôndrias
+Anabolismo de ácidos graxos
+requer acetil-CoA e malonil-CoA
+requer poder redutor do NADPH
+ocorre no citosol em animais, cloroplasto em plantas
+
+# Slide 5:
+
+# Slide 6:
+Visão geral da síntese de ácidos graxos
+Os ácidos graxos são construídos em várias passagens, processando uma unidade de acetato por vez.
+O acetato vem do malonato ativado na forma de malonil-CoA.
+Cada passagem envolve a redução de um carbono carbonílico a um carbono metilênico.
+
+# Slide 7:
+A síntese de ácidos graxos ocorre em compartimentos celulares onde os níveis de NADPH são altos
+Citosol para animais, leveduras
+Cloroplasto para plantas
+
+Fontes de NADPH:
+em adipócitos: via das pentoses fosfato e enzima málica (Fig. 21-9)
+NADPH produzido quando o malato se converte em piruvato + CO2.
+em hepatócitos e glândula mamária: via das pentoses fosfato
+NADPH produzido quando a glicose-6-fosfato se converte em ribulose-6-fosfato.
+em plantas: fotossíntese
+
+# Slide 8:
+Vias para a produção de NADPH
+
+# Slide 9:
+Malonil-CoA é formado a partir de acetil-CoA e bicarbonato
+Reação carboxila o acetil-CoA
+Catalisada pela acetil-CoA carboxilase
+A enzima tem três subunidades:
+Uma unidade tem biotina covalentemente ligada à Lys.
+A biotina carrega CO2.
+Em animais, todas as três subunidades estão em uma única cadeia polipeptídica.
+HCO3− (bicarbonato) é a fonte solúvel de CO2.
+
+# Slide 10:
+A reação da acetil-CoA carboxilase: Parte 1
+Reação em duas etapas semelhante às carboxilações catalisadas pela piruvato carboxilase e propionil-CoA carboxilase
+O CO2 se liga à biotina.
+O CO2 é ativado pela ligação ao N no anel da biotina.
+A reação com ATP produz carbamoil.
+
+# Slide 11:
+A reação da acetil-CoA carboxilase: Parte 2
+A enzima sofre mudança conformacional para levar o carbamoil ao sítio de transcarboxilase
+O CO2 se liga ao acetil-CoA e sai do sítio ativo
+
+# Slide 12:
+A síntese de ácidos graxos é catalisada pela ácido graxo sintase (FAS)
+Catalisa uma sequência repetitiva de quatro etapas que alonga a cadeia acil graxa em dois carbonos a cada etapa
+Ver Fig. 21-2
+usa NADPH como doador de elétrons
+usa dois grupos -SH ligados à enzima como grupos ativadores
+FAS I em vertebrados e fungos
+FAS II em plantas e bactérias
+
+# Slide 13:
+FAS I vs. FAS II
+FAS I
+Cadeia polipeptídica única em vertebrados
+Leva a um único produto: palmitato 16:0
+C-15 e C-16 vêm do acetil-CoA usado para iniciar a reação
+FAS II
+Composta por enzimas separadas e difusíveis
+Produz muitos produtos (saturados, insaturados, ramificados, muitos comprimentos, etc.)
+Principalmente em plantas e bactérias
+
+# Slide 14:
+Sistemas de ácido graxo sintase tipo I
+
+# Slide 15:
+Síntese de ácidos graxos
+Objetivo geral: ligar uma unidade de acetato (2 carbonos) do malonil-CoA a uma cadeia em crescimento e depois reduzi-la
+A reação envolve ciclos de quatro etapas catalisadas por enzimas:
+condensação da cadeia em crescimento com acetato ativado
+redução do carbonil a hidroxil
+desidratação do álcool a trans-alceno
+redução do alceno a alcano
+A cadeia em crescimento está inicialmente ligada à enzima por meio de uma ligação tioéster.
+
+# Slide 16:
+A reação geral de quatro etapas da ácido graxo sintase I em mamíferos
+Preparação: Malonil-CoA e acetil-CoA (ou cadeia acil graxa mais longa) ligam-se à FAS I e perdem CoA.
+ligam-se via terminal tioéster ou uma Cys da FAS
+ativa o grupo acil
+Etapa 1: A reação de condensação liga dois C do grupo acetil (ou cadeia acil graxa mais longa) a dois C do grupo malonil.
+liberação de CO2 ativa o grupo malonil para ligação
+cria o intermediário β-ceto
+
+# Slide 17:
+Síntese de ácidos graxos em detalhe:
+Condensação e alongamento
+Grupos acetil e malonil ativados formam acetoacetil-ACP e CO2.
+Reação de condensação de Claisen
+Catalisada por β-cetoacil-ACP sintase
+Acoplar a condensação à descarboxilação do malonil-CoA torna a reação energeticamente favorável.
+
+# Slide 18:
+Etapa 1 da FAS I: Alongamento
+
+Observe que o malonil-CoA e o acetil-CoA já foram ligados ao complexo por meio de ligações tioéster à enzima e perderam suas ligações com CoA.
+
+# Slide 19:
+Etapa 2: Primeira redução: NADPH reduz o intermediário β-ceto a álcool.
+carbonil no C-3 reduzido para formar d-β-hidroxibutiril-ACP
+NADPH é doador de e−
+catalisada por β-cetoacil-ACP redutase (KR)
+A reação geral de quatro etapas da ácido graxo sintase I em mamíferos
+
+# Slide 20:
+Etapa 3: Desidratação: o grupo OH do C-2 e o H do CH2 vizinho são eliminados, criando uma ligação dupla (trans-alceno).
+OH e H removidos do C-2 e C-3 do β-hidroxibutiril-ACP para formar trans-Δ2-butenoil-ACP
+catalisada por β-hidroxiacil-ACP desidratase (DH)
+Etapa 4: Segunda redução: NADPH reduz a ligação dupla para produzir alcano saturado.
+A reação geral de quatro etapas da ácido graxo sintase I em mamíferos
+
+# Slide 21:
+Etapa 4: Segunda redução: NADPH reduz a ligação dupla para produzir alcano saturado.
+NADPH é o doador de elétrons para reduzir a ligação dupla do trans-Δ2-butenoil-ACP para formar butiril-ACP.
+catalisada por enoil-ACP redutase (ER)
+
+A reação geral de quatro etapas da ácido graxo sintase I em mamíferos
+
+# Slide 22:
+Etapas 2−4 da reação da FAS I
+
+# Slide 23:
+Síntese geral de palmitato (16C)
+
+# Slide 24:
+A proteína carreadora de acil (ACP) serve como transportadora na síntese de ácidos graxos
+Contém um grupo prostético covalentemente ligado, a 4'-fosfopanteteína
+braço flexível para ancorar a cadeia acil enquanto carrega intermediários de uma subunidade enzimática para a próxima
+Entrega acetato (na primeira etapa) ou malonato (em todas as etapas seguintes) à ácido graxo sintase
+Transporta a cadeia em crescimento de um sítio ativo para outro durante a reação de quatro etapas
+
+# Slide 25:
+O carregamento da ACP e da FAS I com grupos acil os ativa
+Dois tióis devem ser carregados com os grupos acil corretos antes que a reação de condensação possa começar.
+tiol da 4-fosfopanteteína na ACP
+tiol da Cys na ácido graxo sintase
+O grupo acetil do acetil-CoA é transferido para a ACP.
+catalisado por malonil/acetil-CoA transferase (MAT)
+A ACP passa esse acetato para a Cys da β-cetoacil-ACP sintase (KS) do domínio FAS 1.
+O grupo –SH da ACP é recarregado com malonil a partir do malonil-CoA.
+
+# Slide 26:
+Carregamento, ativação com ACP e a sequência de quatro etapas da síntese de ácidos graxos em mamíferos
+
+# Slide 27:
+Carregamento, ativação com ACP e a sequência de quatro etapas da síntese de ácidos graxos em mamíferos
+
+# Slide 28:
+Carregamento, ativação com ACP e a sequência de quatro etapas da síntese de ácidos graxos em mamíferos
+
+# Slide 29:
+Carregamento, ativação com ACP e a sequência de quatro etapas da síntese de ácidos graxos em mamíferos
+
+# Slide 30:
+Carregamento, ativação com ACP e a sequência de quatro etapas da síntese de ácidos graxos em mamíferos
+
+# Slide 31:
+Carregamento, ativação com ACP e a sequência de quatro etapas da síntese de ácidos graxos em mamíferos
+
+# Slide 32:
+Carregamento, ativação com ACP e a sequência de quatro etapas da síntese de ácidos graxos em mamíferos
+
+# Slide 33:
+Carregamento, ativação com ACP e a sequência de quatro etapas da síntese de ácidos graxos em mamíferos
+
+# Slide 34:
+Enzimas na ácido graxo sintase
+Condensação com acetato
+β-cetoacil-ACP sintase (KS)
+Redução do carbonil a hidroxil
+β-cetoacil-ACP redutase (KR)
+Desidratação do álcool a alceno
+β-hidroxiacil-ACP desidratase (DH)
+Redução do alceno a alcano
+enoil-ACP redutase (ER)
+Transferência/carregamento de cadeia
+malonil/acetil-CoA ACP transferase
+
+# Slide 35:
+Estequiometria da síntese de palmitato (16:0)
+7 acetil-CoAs são carboxilados para formar 7 malonil-CoAs… usando ATP.
+
+7 acetil-CoA + 7 CO2 + 7 ATP → 7 malonil-CoA + 7 ADP + 7 Pi
+
+Sete ciclos de condensação, redução, desidratação e redução… usando NADPH para reduzir o grupo β-ceto e a ligação dupla trans
+acetil-CoA + 7 malonil-CoA + 14 NADPH + 14 H+ → palmitato (16 carbonos) + 7 CO2 + 8 CoA + 14 NADP+ + 6 H2O
+
+# Slide 36:
+Acetil-CoA é transportado para o citosol para a síntese de ácidos graxos
+Em eucariotos não fotossintéticos…
+O acetil-CoA é produzido nas mitocôndrias
+Mas os ácidos graxos são produzidos no citosol
+Então o acetil-CoA é transportado para o citosol com um custo de 2 ATPs
+Portanto, o custo da síntese de AG é de 3 ATPs por unidade de 2 C
+
+# Slide 37:
+Transportador para transferência de grupos acetil das mitocôndrias para o citosol
+
+# Slide 38:
+A síntese de ácidos graxos é rigidamente regulada via ACC
+A acetil-CoA carboxilase (ACC) catalisa a etapa limitante da velocidade.
+A ACC é inibida por retroalimentação pelo palmitoil-CoA.
+A ACC é ativada pelo citrato.
+O citrato é produzido a partir do acetil-CoA nas mitocôndrias (acetil-CoAmit).
+O citrato sinaliza excesso de energia a ser convertido em gordura.
+Quando [acetil-CoA]mit ↑ é convertido em citrato… o citrato é exportado para o citosol.
+
+# Slide 39:
+A ACC também é regulada por modificação covalente
+Inibida quando há necessidade de energia
+Glucagon e epinefrina:
+reduzem a sensibilidade à ativação por citrato
+levam à fosforilação e inativação da ACC
+A ACC é ativa como monômeros desfosforilados.
+Quando desfosforilada, a ACC polimeriza em longos filamentos inativos.
+A fosforilação reverte a polimerização.
+
+# Slide 40:
+Regulação da síntese de ácidos graxos em vertebrados
+
+# Slide 41:
+Modos adicionais de regulação na síntese de ácidos graxos
+Alterações na expressão gênica
+exemplo: Ácidos graxos (e eicosanoides) ligam-se a fatores de transcrição chamados receptores ativados por proliferadores de peroxissomo (PPARs).
+Regulação recíproca
+O malonil-CoA inibe a importação de ácidos graxos para as mitocôndrias.
+uma das muitas maneiras de garantir que a síntese e a oxidação de gordura não ocorram simultaneamente
+
+# Slide 42:
+O palmitato pode ser alongado para ácidos graxos de cadeia mais longa
+Sistemas de alongamento no retículo endoplasmático e nas mitocôndrias criam ácidos graxos mais longos.
+
+Como na síntese de palmitato, cada etapa adiciona unidades de 2 C.
+
+O estearato (18:0) é o produto mais comum.
+
+# Slide 43:
+O palmitato e o estearato podem ser dessaturados
+Palmitato (16:0) → palmitoleato (16:1; Δ9)
+Estearato (18:0) → oleato (18:1; Δ9)
+catalisada por acil-CoA graxo desaturase em animais
+também conhecida como dessaturases de ácidos graxos
+requer NADPH; a enzima usa citocromo b5 e citocromo b5 redutase
+
+Observe que esta é uma Δ9-dessaturase!
+Ela reduz a ligação entre C-9 e C-10.
+
+# Slide 44:
+Dessaturação de um ácido graxo pela acil-CoA graxo desaturase
+O2 aceita quatro elétrons de dois substratos.
+Dois elétrons vêm do ácido graxo saturado.
+Dois elétrons vêm do estado ferroso do citocromo b5.
+
+# Slide 45:
+Plantas podem dessaturar posições além do C-9
+Humanos têm dessaturases Δ4, Δ5, Δ6 e Δ9, mas não conseguem dessaturar além do Δ9.
+Plantas podem produzir:
+linoleato 18:2(Δ9,12)
+α-linolenato 18:3 (Δ9,12,15)
+Esses ácidos graxos são "essenciais" para humanos.
+Ácidos graxos poli-insaturados (PUFAs) ajudam a controlar a fluidez da membrana.
+PUFAs são precursores de eicosanoides.
+
+# Slide 46:
+Dessaturases de plantas atuam sobre ácidos graxos em um fosfolipídio
+Diferentemente das dessaturases de mamíferos, as dessaturases de plantas não oxidam ácidos graxos livres.
+Elas oxidam ácidos graxos ligados ao glicerol na fosfatidilcolina.
+Ácidos graxos dessaturados livres podem então ser hidrolisados do esqueleto de glicerol.
+
+# Slide 47:
+Rotas de síntese de ácidos graxos alongados e insaturados
+
+# Slide 48:
+Eicosanoides são hormônios potentes de curto alcance feitos a partir de araquidonato
+Hormônios eicosanoides incluem prostaglandinas, leucotrienos, tromboxanos.
+Criados a partir do araquidonato incorporado aos fosfolipídios das membranas.
+Em resposta a estímulos (hormônio, etc.), a fosfolipase A2 é ativada e ataca o ácido graxo C-2, liberando araquidonato.
+
+# Slide 49:
+Conversão de araquidonato em prostaglandinas e outros eicosanoides
+A PGH2 sintase é uma enzima ciclo-oxigenase/peroxidase que funciona no RE liso.
+Etapa 1: A atividade ciclo-oxigenase da PGH2 adiciona 2 O2 para formar PGG2.
+Etapa 2: A atividade peroxidase da PGH2 converte peróxido em álcool, criando PGH2.
+
+# Slide 50:
+A PGH2 sintase tem duas isoformas
+COX-1 catalisa a síntese de prostaglandinas que regulam a secreção de mucina gástrica.
+COX-2 catalisa a síntese de prostaglandinas que medeiam dor, inflamação e febre.
+AINEs (aspirina, ibuprofeno, acetaminofeno) inibem a COX-2.
+
+# Slide 51:
+AINEs inibem a atividade da ciclo-oxigenase (COX)
+A aspirina (acetilsalicilato) é um inibidor irreversível.
+acetila uma Ser no sítio ativo
+bloqueia o sítio ativo em ambas as isoformas COX
+Ibuprofeno e naproxeno são inibidores competitivos.
+assemelham-se ao substrato; também bloqueiam o sítio ativo em ambas as isoformas
+
+# Slide 52:
+A síntese de leucotrienos também começa com araquidonato
+O2 adicionado ao araquidonato via lipoxigenases (oxidases de função mista)
+Cria espécies que diferem na posição do grupo OOH
+
+# Slide 53:
+Gordura (triacilglicerol) e fosfolipídios em animais, plantas e bactérias
+Animais e plantas armazenam gordura para combustível.
+plantas: em sementes, nozes
+humano típico de 70 kg tem ~15 kg de gordura
+suficiente para durar 12 semanas
+compare com 12 horas de glicogênio no fígado e músculo
+Animais, plantas e bactérias produzem fosfolipídios para membranas celulares.
+Ambas as moléculas contêm esqueleto de glicerol e 2 (por exemplo, fosfolipídios) ou 3 (por exemplo, triacilglicerídeos) ácidos graxos.
+
+# Slide 54:
+Síntese do esqueleto de TAGs e fosfolipídios
+A maior parte do glicerol-3-fosfato vem do desvio da di-hidroxiacetona fosfato (DHAP) da glicólise.
+via glicerol-3-fosfato desidrogenase
+Algum glicerol-3-fosfato é produzido a partir de glicerol.
+via glicerol quinase
+via menor no fígado e rins
+
+# Slide 55:
+A síntese de ácido fosfatídico ocorre antes dos TAGs
+O ácido fosfatídico é o precursor de TAGs e fosfolipídios.
+ácidos graxos ligados por acil transferases
+libera CoA
+Vantagem de produzir ácido fosfatídico:
+Ele pode então ser convertido em triacilglicerol OU fosfolipídio.
+
+# Slide 56:
+A fosfatase do ácido fosfatídico (lipina) remove o 3-fosfato do ácido fosfatídico.
+produz 1,2-diacilglicerol
+O terceiro carbono é então acilado com um terceiro ácido graxo.
+produz triacilglicerol
+
+O ácido fosfatídico pode ser modificado para formar fosfolipídios ou TAGs
+
+# Slide 57:
+Regulação da síntese de triacilglicerol pela insulina
+A insulina resulta em estimulação da síntese de triacilglicerol.
+A falta de insulina resulta em:
+aumento da lipólise
+aumento da oxidação de ácidos graxos
+às vezes em corpos cetônicos se os intermediários do ciclo do ácido cítrico (oxaloacetato) que reagem com acetil-CoA estiverem depletados
+falha na síntese de ácidos graxos
+
+# Slide 58:
+A degradação e a ressíntese de triacilglicerol criam um ciclo fútil
+Setenta e cinco por cento dos ácidos graxos livres (FFAs) liberados pela lipólise são reesterificados para formar TAGs, em vez de serem usados como combustível.
+Alguma reciclagem ocorre no tecido adiposo.
+Alguns FFAs das células adiposas são transportados para o fígado, refeitos em TAG e redepositados nas células adiposas.
+Embora a distribuição entre essas duas vias possa variar, no geral, a porcentagem de FFAs sendo esterificados permanece em ~75%.
+
+# Slide 59:
+O ciclo do triacilglicerol
+
+# Slide 60:
+Qual é a fonte do glicerol-3-fosfato necessário para a reesterificação de ácidos graxos?
+Durante a lipólise (estimulada por glucagon ou epinefrina), a glicólise é inibida.
+Portanto, o DHAP não está prontamente disponível para produzir glicerol-3-fosfato.
+E as células adiposas não têm glicerol quinase para produzir glicerol-3-fosfato no local.
+Então as células produzem DHAP via gliceroneogênese.
+Ver próximo slide.
+
+# Slide 61:
+A gliceroneogênese produz DHAP para a geração de glicerol-3-fosfato durante o ciclo do TAG
+Durante a lipólise (estimulada por glucagon ou epinefrina), a glicólise é inibida.
+Portanto, o DHAP não está prontamente disponível para produzir glicerol-3-fosfato.
+E as células adiposas não têm glicerol quinase para produzir glicerol-3-fosfato no local.
+A gliceroneogênese contém algumas das mesmas etapas da gliconeogênese.
+converte piruvato → DHAP
+basicamente, uma versão abreviada da gliconeogênese no fígado e tecido adiposo
+
+# Slide 62:
+Gliceroneogênese
+
+# Slide 63:
+Biossíntese de fosfolipídios de membrana
+Começa com ácido fosfatídico ou diacilglicerol
+Liga o grupo cabeça ao grupo OH do C-3
+O C-3 tem OH; o grupo cabeça tem OH
+novo grupo fosfo-cabeça criado quando o ácido fosfórico condensa com esses dois álcoois
+elimina duas H2O
+
+# Slide 64:
+A ligação do grupo cabeça do fosfolipídio requer ativação por CDP
+Qualquer um dos álcoois é ativado pela ligação ao CDP (citidina difosfato).
+
+O álcool livre (não ligado ao CDP) então realiza um ataque nucleofílico ao fosfato ativado por CDP.
+
+# Slide 65:
+Síntese de fosfolipídios em E. coli
+Duas vias principais:
+A fosfatidilserina é sintetizada e pode ser descarboxilada a fosfatidiletanolamina.
+O fosfatidilglicerol é sintetizado pela adição de um CDP-glicerol-3-fosfato.
+Modificação adicional para cardiolipina pode ser alcançada pela substituição do grupo cabeça de glicerol por outro fosfolipídio.
+
+# Slide 66:
+A síntese de fosfolipídios aniônicos em eucariotos usa estratégias semelhantes às de E. coli
+
+Ligeiramente diferente da estratégia de síntese bacteriana (por exemplo, substituição de CMP, em vez de glicerol)
+
+# Slide 67:
+Leveduras sintetizam fosfatidilcolina a partir de fosfatidiletanolamina
+A fosfatidilserina é descarboxilada a fosfatidiletanolamina.
+como em bactérias, mas a enzima é a fosfatidilserina descarboxilase
+A fosfatidiletanolamina é atuada pela S-adenosilmetionina (doadora de grupo metil) que adiciona três grupos metil ao grupo amino → fosfatidilcolina (lecitina).
+catalisada por metiltransferase
+
+# Slide 68:
+A síntese de fosfatidilserina e fosfatidilcolina em mamíferos constitui uma via de salvação
+A fosfatidilserina é produzida "ao contrário" a partir da fosfatidil-etanolamina ou fosfatidilcolina via reações de troca de grupo cabeça.
+catalisadas por sintases específicas
+a via "salva" a colina
+
+# Slide 69:
+Resumo das vias de biossíntese de fosfolipídios em eucariotos
+
+# Slide 70:
+A síntese de éter lipídios e plasmalogênios usa vias semelhantes
+
+# Slide 71:
+A síntese de esfingolipídios usa vias semelhantes
+
+# Slide 72:
+Síntese e transporte de colesterol, esteroides e isoprenos
+Os compostos são quimicamente relacionados e distintos de TAGs, fosfolipídios, esfingolipídios e plasmalogênios.
+A relação química é construída sobre a biossíntese usando a unidade de isopreno de 5 carbonos
+
+# Slide 73:
+Visão geral da biossíntese de colesterol em eucariotos
+Três acetatos condensam para formar mevalonato.
+O mevalonato se converte em isopreno de 5 C fosforilado.
+Seis isoprenos polimerizam para formar o esqualeno linear de 30 C.
+O esqualeno cicliza para formar os quatro anéis que são modificados para produzir colesterol.
+
+# Slide 74:
+Etapa 1: Formação de mevalonato a partir de acetil-CoA
+Três acetil-CoA são condensados para formar HMG-CoA.
+O HMG-CoA é reduzido para formar mevalonato.
+A HMG-CoA redutase é um alvo comum de medicamentos para reduzir o colesterol.
+
+# Slide 75:
+Etapa 2: Conversão de mevalonato em isoprenos ativados
+Três fosfatos são transferidos stepwise do ATP para o mevalonato.
+A descarboxilação e a hidrólise criam um produto de 5 C difosforilado (isopreno) com uma ligação dupla.
+Isomerização para um segundo isopreno
+Δ3-isopentenil pirofosfato (IPP)
+dimetilalilpirofosfato (DMAPP)
+
+# Slide 76:
+Etapa 3: Seis unidades de isopreno ativadas condensam para formar esqualeno
+Os dois isoprenos se unem cabeça-cauda, deslocando um conjunto de difosfatos.
+→ forma geranil pirofosfato
+O geranil pirofosfato se une a outro isopentenil pirofosfato.
+→ forma farnesil pirofosfato de 15 C
+Dois farnesil pirofosfatos se unem cabeça-cabeça para formar esqualeno sem fosfato.
+
+# Slide 77:
+Etapa 3: Formação de esqualeno
+Os dois isoprenos se unem cabeça-cauda, deslocando um conjunto de difosfatos, formando geranil pirofosfato (GPP) de 10 carbonos.
+O GPP se une a outro IPP para formar farnesil pirofosfato de 15 C.
+Dois farnesil pirofosfatos se unem cabeça-cabeça para formar esqualeno sem fosfato.
+
+# Slide 78:
+Etapa 4: Conversão de esqualeno em núcleo esteroide de quatro anéis
+A esqualeno mono-oxigenase adiciona um oxigênio ao final da cadeia de esqualeno.
+→ forma esqualeno-2,3-epóxido
+Aqui, as vias divergem em células animais versus células vegetais.
+O produto de ciclização em animais é o lanosterol, que se converte em colesterol.
+Em plantas, o epóxido cicliza para outros esteróis, como o ergosterol.
+
+# Slide 79:
+Conversão de esqualeno em colesterol
+
+# Slide 80:
+Destinos do colesterol após a síntese
+Em vertebrados, a maior parte do colesterol é sintetizada no fígado e depois exportada.
+Eles são exportados como ácidos biliares, colesterol biliar ou ésteres de colesterila.
+A bile é armazenada na vesícula biliar e secretada no intestino delgado após uma refeição gordurosa.
+Ácidos biliares como o ácido taurocólico emulsificam gorduras.
+Eles envolvem gotículas de gordura, aumentando a área de superfície para ataque pelas lipases.
+Outros tecidos convertem colesterol em hormônios esteroides e assim por diante.
+
+# Slide 81:
+Destinos do colesterol após a síntese
+
+# Slide 82:
+Colesterol e outros lipídios são transportados em partículas de lipoproteínas
+Os lipídios são transportados pelo plasma em partículas esféricas.
+a superfície é feita de proteína (chamada apolipoproteína) e uma monocamada de fosfolipídios
+o interior contém colesterol, TAGs e ésteres de colesterila, que são mais apolares que o colesterol
+
+# Slide 83:
+Quatro classes principais de partículas de lipoproteínas
+Nomeadas com base na posição de sedimentação (densidade) na centrífuga
+A composição varia entre as classes de lipoproteínas
+Inclui quatro classes principais:
+TABELA 21-1 Principais classes de lipoproteínas plasmáticas humanas: algumas propriedades
+Composição (% em peso)
+Lipoproteína	Densidade (g/ml)	Proteína	Fosfolipídios	Colesterol livre	Ésteres de colesterila	Triacilgliceróis
+Quilomícrons	<1,006	2	9	1	3	85
+VLDL	0,95–1,006	10	18	7	12	50
+LDL	1,006–1,063	23	20	8	37	10
+HDL	1,063–1,210	55	24	2	15	4
+Fonte: Dados de D. Kritchevsky, Nutr. Int. 2:290, 1986.
+
+# Slide 84:
+Fotografias de microscópio eletrônico de lipoproteínas
+
+# Slide 85:
+Apolipoproteínas em lipoproteínas
+"Apo" significa "sem"…
+Então "apolipoproteína" refere-se à parte proteica de uma partícula de lipoproteína.
+TABELA 21-2 Apolipoproteínas das lipoproteínas plasmáticas humanas
+Apolipoproteína	Peso molecular do polipeptídeo	Associação com lipoproteína	Função (se conhecida)
+ApoA-I	28.100	HDL	Ativa LCAT; interage com transportador ABC
+ApoA-II	17.400	HDL	Inibe LCAT
+ApoA-IV	44.500	Quilomícrons, HDL	Ativa LCAT; transporte/clearance de colesterol
+ApoB-48	242.000	Quilomícrons	Transporte/clearance de colesterol
+ApoB-100	512.000	VLDL, LDL	Liga-se ao receptor de LDL
+ApoC-I	7.000	VLDL, HDL
+ApoC-II	9.000	Quilomícrons, VLDL, HDL	Ativa lipase lipoproteica
+ApoC-III	9.000	Quilomícrons, VLDL, HDL	Inibe lipase lipoproteica
+ApoD	32.500	HDL
+ApoE	34.200	Quilomícrons, VLDL, HDL	Desencadeia clearance de VLDL e remanescentes de quilomícrons
+ApoH	50.000	Possivelmente VLDL, liga-se a fosfolipídios como cardiolipina	Papéis na coagulação, metabolismo lipídico, apoptose, inflamação
+Fonte: Informações de D. E. Vance e J. E. Vance (eds), Biochemistry of Lipids and Membranes, 5ª ed., Elsevier Science Publishing, 2008.
+
+# Slide 86:
+Papéis biológicos e características das lipoproteínas
+Quilomícrons
+Menos densos das lipoproteínas (contêm mais TAG)
+Têm apoB-48, apoE e apoC-II
+VLDL
+Contém TAG e ésteres de colesterila em altas concentrações
+Contêm apoB-100, apoC-I, apoC-II, apoC-III e apoE
+
+LDL
+Produzida pela remoção de TAG da VLDL
+A LDL é enriquecida em colesterol/ésteres de colesterila.
+A apoB-100 é a principal apolipoproteína.
+HDL
+Produzida a partir da conversão enzimática do colesterol de LDL e VLDL em ésteres de colesterila
+As HDLs são ricas em proteína, incluindo apoA-I.
+
+# Slide 87:
+Ativação e mobilização dos conteúdos de lipoproteínas (1)
+Quilomícrons
+A apoC-II ativa a lipase lipoproteica para permitir a liberação de ácidos graxos livres para combustível no tecido adiposo, coração e músculo esquelético.
+Quando as gorduras estão depletadas, os remanescentes vão para o fígado para absorção via endocitose mediada por apoE.
+
+VLDL
+Novamente, a apoC-II ativa a lipase lipoproteica para liberar ácidos graxos livres.
+Os adipócitos captam os FFAs, reconvertem-nos em TAGs e armazenam-nos em gotículas lipídicas.
+O músculo usa o TAG para energia.
+
+# Slide 88:
+Ativação e mobilização dos conteúdos de lipoproteínas (2)
+LDL
+Músculo e tecido adiposo têm receptores de LDL e reconhecem a apoB-100.
+Miócitos e adipócitos captam colesterol via endocitose mediada por receptor.
+
+HDL
+A HDL capta colesterol das células e retorna ao fígado, onde pode ser metabolizado (por exemplo, sais biliares).
+Também catalisa a conversão do colesterol remanescente de LDL e VLDL em ésteres de colesterila
+
+# Slide 89:
+A reação catalisada pela lecitina-colesterol acil transferase ocorre na HDL
+
+# Slide 90:
+Papéis biológicos das lipoproteínas no tráfego de colesterol e TAGs
+
+# Slide 91:
+Captação de colesterol por endocitose mediada por receptor
+
+# Slide 92:
+Cinco modos de regulação da síntese e transporte de colesterol
+Modificação covalente da HMG-CoA redutase
+Regulação transcricional do gene da HMG-CoA
+Degradação proteolítica da HMG-CoA redutase
+Ativação da ACAT, que aumenta a esterificação para armazenamento
+Regulação transcricional do receptor de LDL
+
+# Slide 93:
+A HMG-CoA redutase é mais ativa quando desfosforilada
+Proteína quinase dependente de AMP
+quando o AMP aumenta, a quinase fosforila a enzima → atividade ↓, síntese de colesterol ↓
+Glucagon, epinefrina
+cascatas levam à fosforilação, ↓ atividade
+Insulina
+cascatas levam à desfosforilação, ↑ atividade
+A modificação covalente fornece regulação de curto prazo.
+
+# Slide 94:
+Regulação do metabolismo do colesterol
+
+# Slide 95:
+Regulação de longo prazo da HMG-CoA redutase por meio do controle transcricional
+Proteínas de ligação ao elemento regulador de esterol (SREBPs)
+Quando os níveis de esterol estão baixos, as SREBPs estão na membrana do RE com outras proteínas.
+Quando os níveis de esterol aumentam, o complexo é clivado e se move para o núcleo.
+Ele ativa a transcrição da HMG-CoA redutase e do receptor de LDL, bem como de outros genes.
+
+# Slide 96:
+Regulação da síntese de colesterol por SREBP
+
+# Slide 97:
+Regulação da HMG-CoA redutase por degradação proteolítica
+Insig (proteína do gene induzido por insulina) detecta os níveis de colesterol.
+desencadeia ubiquitinação da HMG-CoA redutase
+direciona a enzima para degradação por proteassomos
+
+# Slide 98:
+Regulação pela transcrição mediada por LXR
+Receptor X do fígado (LXR) – um fator de transcrição ativado pelo colesterol
+Liga-se ao receptor retinoide X (RXR)
+O dímero LXR-RXR ativa a transcrição de uma série de genes.
+
+# Slide 99:
+Os genes ativados por LXR-RXR são em grande parte para o transporte de colesterol
+Acetil-CoA carboxilase
+primeira enzima na síntese de ácidos graxos
+Apoproteínas (C1, C2, D e E)
+para transporte de colesterol
+GLUT4
+Transportadores ABC
+para transporte reverso de colesterol
+
+# Slide 100:
+A doença cardiovascular (DCV) é multifatorial
+Níveis muito altos de LDL-colesterol tendem a se correlacionar com aterosclerose.
+embora muitas vítimas de ataque cardíaco tenham colesterol normal, e muitas pessoas com colesterol alto não tenham ataques cardíacos
+Níveis baixos de HDL-colesterol estão negativamente associados a doenças cardíacas.
+
+# Slide 101:
+Como as placas se formam
+
+# Slide 102:
+Hipercolesterolemia familiar
+Devido a mutação genética no receptor de LDL
+Prejudica a captação mediada por receptor de colesterol da LDL
+O colesterol se acumula no sangue e nas células espumosas.
+Os mecanismos de regulação baseados na detecção de colesterol dentro da célula não funcionam.
+Indivíduos homozigotos podem apresentar DCV grave na juventude.
+
+# Slide 103:
+Drogas estatinas inibem a HMG-CoA redutase para diminuir a síntese de colesterol
+As estatinas se assemelham ao mevalonato → inibidores competitivos da HMG-CoA redutase
+A primeira estatina, lovastatina, encontrada em fungos
+reduz o colesterol sérico em dezenas de por cento
+Também relatadas por melhorar a circulação, estabilizar placas removendo colesterol delas e reduzir a inflamação vascular
+
+# Slide 104:
+O transporte reverso de colesterol pela HDL explica por que a HDL é cardioprotetora
+A HDL capta colesterol de tecidos não hepáticos, incluindo células espumosas em placas em crescimento.
+A HDL transporta o colesterol de volta ao fígado.
+
+# Slide 105:
+Existem várias classes de esteroides derivados do colesterol
+Esteroides sintetizados pela glândula adrenal:
+mineralocorticoides
+controlam o equilíbrio eletrolítico, reabsorção de Na+, Cl−, HCO3− pelos rins
+glicocorticoides
+regulam a gliconeogênese, reduzem a inflamação
+Esteroides sintetizados pelas gônadas:
+progesterona, andrógenos, estrogênios
+
+# Slide 106:
+Hormônios esteroides derivados do colesterol
+
+# Slide 107:
+Clivagem da cadeia lateral na síntese de esteroides
+Ocorre nas mitocôndrias
+A "cadeia lateral" no C-17 do anel D é modificada ou clivada.
+Dois carbonos adjacentes são hidroxilados.
+Usa oxidases de função mista, NADPH e citocromo P450
+
+# Slide 108:
+Resumo do Capítulo 21
+Neste capítulo, aprendemos que:
+a síntese de ácidos graxos é um processo de múltiplas etapas começando com acetil-CoA e seu produto carboxilado, malonil-CoA
+os fosfolipídios são um precursor de TAGs
+fosfolipídios e TAGs são construídos sobre um esqueleto de glicerol que pode ser derivado da di-hidroxiacetona fosfato ou glicerol
+os grupos cabeça são ligados usando um de dois métodos, ambos os quais usam um marcador CDP
+as vias para a síntese de grupos cabeça específicos variam por organismo e podem usar vias de salvação
+o colesterol é derivado da unidade de isopreno
+a produção de isopreno para a biossíntese de colesterol ocorre via via do mevalonato e começa com múltiplos acetil-CoA
+o colesterol pode ser metabolizado e modificado de várias maneiras
+colesterol e TAGs são transportados em lipoproteínas que são classificadas por densidade
+o tráfego incorreto de colesterol e TAGs está correlacionado com múltiplas doenças humanas

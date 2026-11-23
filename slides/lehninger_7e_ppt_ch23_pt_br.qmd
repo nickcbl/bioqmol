@@ -1,0 +1,897 @@
+---
+title: "Capítulo"
+# author: Nicholas Costa & Nicholas Barroso
+lang: pt-BR
+date: today
+date-format: "DD/MM/YYYY"
+format:
+  revealjs:
+    pdf-separate-fragments: true
+#    width: 1600
+#    height: 900
+    width: 960
+    height: 720
+#    logo: imgs/logo.png
+    incremental: false
+    theme: tema_azul.scss
+    lightbox: true
+    slide-number: true
+    background-transition: fade
+    menu: true
+    progress: true
+    center: true
+    auto-stretch: true
+---
+
+# Slide 1:
+
+23 | Regulação Hormonal e Integração do Metabolismo de Mamíferos
+© 2017 W. H. Freeman and Company
+
+# Slide 2:
+CAPÍTULO 23
+Regulação Hormonal e Integração do Metabolismo de Mamíferos
+Fundamentos da sinalização endócrina
+Regulação hormonal do metabolismo de combustíveis: insulina
+Obesidade
+Objetivos de aprendizagem:
+
+# Slide 3:
+Metabolismo no nível do organismo
+Nas aulas anteriores, focamos no metabolismo no nível celular.
+papel e mecanismo de enzimas específicas
+fluxo de metabólitos pelas vias
+regulação por retroalimentação das vias metabólicas
+transporte de metabólitos através das membranas de organelas
+Neste capítulo, focaremos no metabolismo no nível do organismo inteiro.
+papel e estrutura de tecidos e órgãos específicos
+fluxo de metabólitos de órgão para órgão
+regulação hormonal do metabolismo
+controle da massa corporal
+
+# Slide 4:
+Sinalização neuronal versus hormonal
+Na sinalização neuronal, as células nervosas liberam neurotransmissores que atuam em células próximas. A distância pode ser pequena (<1 μm).
+Na sinalização hormonal, os hormônios são transportados pela corrente sanguínea para células próximas ou outros órgãos. A distância pode ser grande (1 m ou mais).
+
+# Slide 5:
+Desafios na detecção e quantificação de hormônios
+Produzidos em pequenas quantidades, então é difícil purificar em quantidade apreciável.
+A análise química do hormônio liberador de tireotropina (TRH) de porcos exigiu um milhão de hipotálamos (1.000.000 de porcos).
+O radioimunoensaio (RIA) foi desenvolvido para ser uma forma mais sensível de medir hormônios usando anticorpos radiomarcados.
+
+# Slide 6:
+Métodos na detecção e quantificação de hormônios
+O hormônio purificado é injetado em um animal.
+O animal produz um anticorpo contra o hormônio.
+O anticorpo é purificado e marcado com um marcador radioativo (para RIA) ou uma enzima que produz um produto colorido (para ELISA).
+Para um ensaio quantitativo, uma quantidade conhecida de anticorpo marcado é adicionada a uma amostra.
+A fração do anticorpo ligado é medida via fotometria (para ELISA) ou detecção de radiação (para RIA).
+
+# Slide 7:
+As interações hormônio-receptor são específicas e de alta afinidade
+Diferentes tipos de células têm diferentes conjuntos de receptores.
+Diferentes células com o mesmo receptor podem ter diferentes efeitos a jusante.
+Mesmo hormônios estruturalmente semelhantes podem ligar-se a receptores diferentes.
+As interações são de alta afinidade, de modo que apenas baixas quantidades de hormônio são necessárias.
+
+# Slide 8:
+Cinco tipos de eventos "a jusante" após a ligação do hormônio
+Um segundo mensageiro (cAMP; inositol trifosfato, IP3) é liberado dentro da célula.
+regula alostericamente enzimas
+Um receptor tirosina quinase é ativado.
+Um canal iônico regulado por hormônio é aberto ou fechado.
+resultando em mudanças no potencial de membrana
+Um receptor de adesão envia informações ao citoesqueleto.
+Um esteroide ligado à proteína receptora no núcleo altera a expressão gênica.
+resultando em mudanças no potencial de membrana
+
+# Slide 9:
+Hormônios podem ser extracelulares ou intracelulares
+
+# Slide 10:
+Hormônios peptídicos e amínicos ligam-se extracelularmente
+A insulina é um hormônio peptídico; a epinefrina (adrenalina) é um hormônio amínico.
+Eles se ligam a receptores que atravessam a membrana e induzem mudança conformacional que produz um segundo mensageiro.
+Isso resulta em amplificação do sinal e muitos alvos.
+
+# Slide 11:
+Três classes
+de hormônios de mamíferos
+Esta classificação é baseada no trajeto da liberação ao alvo.
+Parácrino: liberado no espaço extracelular, difunde-se para o alvo vizinho
+exemplo: eicosanoides
+Endócrino: liberado no sangue, transportado para células-alvo
+exemplo: insulina, glucagon
+Autócrino: afeta a célula onde é produzido (mas liga-se a receptores de superfície)
+
+# Slide 12:
+Classificação adicional de hormônios baseada na estrutura química
+
+# Slide 13:
+A insulina é um hormônio peptídico
+Hormônios peptídicos incluem insulina, glucagon, somatostatina, e assim por diante.
+A insulina é:
+sintetizada no ribossomo das células β como pré-proinsulina e processada na forma ativa de 5,8 kDa
+armazenada em vesículas secretoras nas células β
+
+# Slide 14:
+Conversão de pré-proinsulina em proinsulina e insulina madura
+
+# Slide 15:
+Hormônio peptídico insulina
+É secretada em resposta ao aumento dos níveis de glicose no sangue.
+Liga-se a receptores no músculo, cérebro, fígado, tecido adiposo e outros tecidos metabolizadores de combustíveis.
+No músculo, a insulina facilita a captação de glicose.
+No fígado, a insulina promove a síntese de glicogênio.
+Nos adipócitos, a insulina promove a síntese de glicerol e inibe a degradação de gorduras.
+
+# Slide 16:
+Alguns pró-hormônios peptídicos podem produzir múltiplos produtos
+Pró-opiomelanocortina (POMC)
+
+Tem pelo menos oito sítios de clivagem diferentes.
+Produz pelo menos 10 hormônios peptídicos diferentes.
+inclui β-endorfina, hormônios estimuladores de melanócitos
+Mutações no gene POMC estão associadas à obesidade.
+
+# Slide 17:
+Processamento proteolítico da POMC
+
+# Slide 18:
+Epinefrina e norepinefrina são hormônios catecolaminas
+Sintetizados nas glândulas adrenais
+Sintetizados a partir do aminoácido L-tirosina
+Concentrados em vesículas de armazenamento e liberados
+como hormônios peptídicos
+Ligam-se a receptores extracelulares para gerar segundos mensageiros
+como hormônios peptídicos
+
+Catecol
+Epinefrina
+Norepinefrina
+
+# Slide 19:
+Hormônios eicosanoides não são sintetizados antecipadamente
+Incluem prostaglandinas, tromboxanos e leucotrienos
+Produzidos quando necessário a partir do ácido araquidônico via fosfolipase A2
+Hormônios parácrinos (atuam nas proximidades)
+Desempenham um papel na inflamação, contração do músculo liso, função plaquetária
+
+# Slide 20:
+Hormônios esteroides são feitos a partir do colesterol
+Inclui cortisol, testosterona, estradiol
+Ligam-se a proteínas transportadoras para viajar pela corrente sanguínea
+Entram no núcleo celular; ligam-se ao receptor nuclear para alterar a expressão gênica
+Alguns também podem ligar-se a um receptor plasmático.
+
+# Slide 21:
+O hormônio vitamina D também se liga a um receptor nuclear
+É obtido dos alimentos ou da fotólise do 7-desidrocolesterol na pele exposta ao sol.
+O calcitriol (1α,25-di-hidroxicalcitriol) é a forma ativa.
+Afeta a transcrição de genes que regulam [Ca2+] e o equilíbrio entre deposição e remoção de Ca2+ do osso.
+
+# Slide 22:
+Hormônios retinoides também se ligam ao receptor nuclear
+Derivam da vitamina A1 (retinol), que deriva do β-caroteno.
+Todas as células têm pelo menos uma forma de receptor retinoide.
+O complexo hormônio-receptor regula genes que governam o crescimento e a diferenciação celular.
+São mais ativos em células que experimentam crescimento rápido (epitélios pulmonares, pele, sistema imunológico, córnea, etc.).
+
+# Slide 23:
+Hormônios tireoidianos também se ligam a receptores nucleares
+T3 (triiodotironina) tem três iodos em resíduos de Tyr.
+T4 (tiroxina) tem quatro iodos.
+Precursor tireoglobulina → produz T4, que é convertido em T3.
+O complexo receptor-hormônio aumenta a expressão de enzimas que produzem energia.
+T4
+T3
+
+# Slide 24:
+O óxido nítrico interage com um receptor intracelular
+NO é um radical livre produzido a partir de arginina e O2 pela NO sintase.
+Atua próximo ao seu ponto de liberação.
+Entra na célula-alvo e ativa a guanilil ciclase para aumentar o cGMP.
+leva à ativação da proteína quinase dependente de cGMP
+leva ao relaxamento das proteínas contráteis no músculo liso dos vasos sanguíneos
+→ reduz a pressão arterial
+
+# Slide 25:
+As principais glândulas endócrinas
+Cérebro: hipotálamo, hipófise
+Tireoide, paratireoide
+Tecido adiposo (gordura)
+Adrenais (sobre os rins)
+Pâncreas
+Ovários/Testículos
+
+# Slide 26:
+Divisão do trabalho dos tecidos
+
+# Slide 27:
+Hormônios e tecidos-alvo
+
+# Slide 28:
+Sinalização hormonal de cima para baixo versus de baixo para cima
+De cima para baixo
+Alguns sinais se originam no cérebro, e o sinal é enviado ao corpo.
+exemplos: ocitocina, vasopressina, cortisol
+De baixo para cima
+Alguns sinais se originam em outro lugar do corpo e enviam mensagens ao cérebro.
+exemplos: epinefrina (adrenalina), insulina, leptina
+
+# Slide 29:
+O hipotálamo é o centro de coordenação do sistema endócrino
+O hipotálamo é uma pequena região do prosencéfalo em animais com crânio.
+Recebe e integra sinais nervosos do sistema nervoso central.
+Sintetiza os pequenos hormônios peptídicos ocitocina e vasopressina.
+Sintetiza vários fatores que regulam a função da hipófise anterior.
+
+# Slide 30:
+A liberação de hormônios pela hipófise tem como alvo outras glândulas
+A hipófise posterior (neuro-hipófise) contém o final dos axônios do hipotálamo.
+produz hormônios peptídicos curtos feitos no hipotálamo (vasopressina, ocitocina)
+A hipófise anterior (adeno-hipófise) é o órgão endócrino que recebe fatores liberadores do hipotálamo via vasos sanguíneos.
+produz hormônios peptídicos longos chamados tropinas
+ativa segundos alvos: córtex adrenal, tireoide, ovários/testículos
+
+# Slide 31:
+
+# Slide 32:
+Hormônios da hipófise posterior: ocitocina e vasopressina
+A ocitocina promove:
+contração do músculo liso do útero durante o parto
+liberação de leite da glândula mamária
+A vasopressina promove:
+reabsorção de água nos rins para manter o equilíbrio de sal
+constrição dos vasos sanguíneos; aumenta a pressão arterial
+
+Ambos os hormônios:
+desempenham papéis no comportamento social, como vínculo de pares; esses efeitos no SNC não envolvem secreção pela hipófise
+
+# Slide 33:
+Dois hormônios da glândula hipófise posterior: ocitocina e vasopressina
+
+# Slide 34:
+Cascata hipotalâmica do cortisol
+Medo, infecção, hipoglicemia, e assim por diante enviam sinal elétrico ao hipotálamo.
+→ ~ng de hormônio liberador de corticotropina
+→ hipófise anterior libera μg de corticotropina
+→ glândula adrenal libera mg de cortisol
+O produto final cortisol retroalimenta e pode inibir essas etapas.
+
+# Slide 35:
+A sinalização de baixo para cima requer respostas tecido-específicas aos combustíveis
+A veia porta transporta nutrientes para o fígado.
+Os hepatócitos transformam nutrientes em combustível.
+As enzimas dos hepatócitos se renovam rapidamente.
+As enzimas aumentam ou diminuem com mudanças na dieta e nas necessidades de outros tecidos.
+
+# Slide 36:
+O fígado se adapta às mudanças nas condições metabólicas
+A veia porta transporta nutrientes para o fígado.
+Os hepatócitos transformam nutrientes em combustível.
+As enzimas dos hepatócitos se renovam rapidamente.
+As enzimas aumentam ou diminuem com mudanças na dieta e nas necessidades de outros tecidos.
+
+# Slide 37:
+Sensoriamento e processamento de carboidratos no fígado
+Glicose, frutose, galactose e manose se convertem em glicose-6-fosfato (G6p).
+G6p é a "estação de transferência" no fígado.
+pode ser produzida por múltiplas vias
+pode ter múltiplos destinos metabólicos
+Os hepatócitos têm o transportador GLUT2.
+permite a difusão passiva de glicose para dentro e para fora
+Os hepatócitos têm glicoquinase (hexoquinase IV).
+tem Km maior que outras hexoquinases
+10 mM versus 4 mM
+Assim, G6p não é produzida quando a glicose está baixa (outros tecidos precisam dela).
+não é inibida por G6p
+Assim, G6p pode ser produzida continuamente.
+
+# Slide 38:
+Destinos disponíveis para G6p no fígado
+Desfosforilar para produzir glicose livre e enviar a outros tecidos
+Transformar em glicogênio hepático
+Entrar na glicólise, produzir acetil-CoA e então ATP para os próprios hepatócitos
+Entrar na glicólise, produzir acetil-CoA para ser transformado em ácidos graxos e então TAGs
+Entrar na via das pentoses fosfato para produzir NADPH e ribose-5-fosfato
+
+# Slide 39:
+Destinos para glicose-6-fosfato no fígado
+
+Desfosforilar para produzir glicose livre e enviar a outros tecidos
+Transformar em glicogênio hepático
+Entrar na glicólise, produzir acetil-CoA e então ATP para os próprios hepatócitos
+Entrar na glicólise, produzir acetil-CoA para ser transformado em ácidos graxos e então TAGs
+Entrar na via das pentoses fosfato para produzir NADPH e ribose-5-fosfato
+
+# Slide 40:
+Metabolismo de aminoácidos no fígado
+
+Transformar em proteínas para o fígado e outros tecidos
+Transformar em hormônios, nucleotídeos
+Transformar em intermediários do CAC ou piruvato:
+para gliconeogênese
+converter piruvato em acetil-CoA para:
+energia da célula hepática
+conversão em lipídios
+
+# Slide 41:
+Destinos disponíveis para ácidos graxos (AG) no fígado
+Usar AG para sintetizar lipídios hepáticos
+Oxidar AG em acetil-CoA e NADH
+→ CAC e fosforilação oxidativa → ATP
+AG são o combustível primário para o fígado
+excesso de acetil-CoA → corpos cetônicos para cérebro, coração, e assim por diante em restrição de carboidratos, jejum
+algum acetil-CoA → colesterol
+Converter AG em fosfolipídios
+Converter AG em TAGs para armazenamento
+Transportar AG para o coração e músculo para oxidação
+
+# Slide 42:
+Metabolismo de ácidos graxos no fígado
+
+# Slide 43:
+Corpos cetônicos são produzidos a partir de acetil-CoA
+Incluem β-hidroxibutirato, acetoacetato e acetona
+Produzidos quando os pools de oxaloacetato são insuficientes para condensar com acetil-CoA
+Podem entrar no cérebro (diferentemente da maioria dos AG, que estão ligados à albumina sérica)
+São oxidados para energia no lugar de ou para suplementar a glicose
+Podem fornecer até 70% da energia para o coração durante jejum prolongado
+
+# Slide 44:
+Composição de dois tipos de tecido adiposo
+Tecido adiposo branco (WAT)
+feito de grandes células esféricas (30–70 μm) preenchidas com uma gotícula lipídica
+mitocôndrias e núcleo são comprimidos para uma camada próxima à membrana
+Tecido adiposo marrom (BAT)
+menores (20−40 μm), não redondas
+têm várias gotículas lipídicas
+têm mais mitocôndrias
+Mais conteúdo de citocromo lhe dá a cor marrom.
+
+# Slide 45:
+Adipócitos de WAT e BAT
+
+# Slide 46:
+Dois tipos de função da gordura
+WAT serve como armazenamento de combustível
+BAT expressa a proteína desacopladora UCP1 (termogenina)
+permite que o gradiente de H+ na mitocôndria seja dissipado
+energia liberada como calor → processo chamado termogênese
+mantém os órgãos aquecidos em ambientes de baixa temperatura
+BAT principalmente em recém-nascidos, ao redor dos rins, coluna, e assim por diante
+
+# Slide 47:
+Distribuição de BAT
+
+# Slide 48:
+O tecido adiposo marrom pode ser sintetizado — mesmo em adultos
+Ao nascer, o BAT é abundante.
+cerca os órgãos, fornece calor durante a adaptação à temperatura ambiente
+O BAT declina na infância.
+Mas os pré-adipócitos, mesmo em adultos, podem ser induzidos a se tornarem BAT.
+via exposição ao frio
+
+# Slide 49:
+Funções dos adipócitos
+Realizam glicólise até a fosforilação oxidativa
+Convertem acetil-CoA em ácidos graxos
+Mas em humanos, o fígado é o local preferido para a síntese de AG.
+Usam AG para produzir TAGs
+a partir de lipídios intestinais via quilomícrons
+a partir do fígado via VLDL
+Liberam AG quando outros tecidos precisam deles
+músculo esquelético, coração
+
+# Slide 50:
+Os hormônios agem rapidamente nos adipócitos
+Acelerado pela epinefrina
+Ela dá à lipase sensível a hormônio (HSL) acesso às gotículas lipídicas.
+As lipases hidrolisam TAGs para liberar AG.
+A insulina inibe o acesso da lipase.
+
+# Slide 51:
+Músculo (miócitos) — dois tipos
+Contração lenta (músculo vermelho)
+irrigado por muitos vasos sanguíneos
+rico em mitocôndrias
+para fornecer energia via fosforilação oxidativa lenta e constante
+Contração rápida (músculo branco)
+menos mitocôndrias e menor entrega de O2
+usa ATP mais rapidamente e fatiga mais rapidamente devido a maiores demandas (mais tensão, etc.) combinadas com entrega reduzida de O2
+O treinamento de resistência pode aumentar as mitocôndrias.
+
+# Slide 52:
+Fontes de energia para a contração muscular
+
+# Slide 53:
+Fontes de ATP para o músculo esquelético
+Glicogênio muscular → glicose-6-fosfato
+produz 3 ATPs, não 2 (como na glicólise)
+a degradação do glicogênio pula a reação da hexoquinase dependente de ATP
+piruvato → lactato para criar NAD+ e permitir que a glicólise continue
+Fosfocreatina
+atuada pela creatina quinase para liberar ATP
+
+# Slide 54:
+A fosfocreatina tampona a concentração de ATP durante o exercício
+
+# Slide 55:
+Controle hormonal da mobilização de glicogênio
+A cascata da epinefrina estimula a glicogênio fosforilase
+degrada glicogênio no músculo e no fígado
+
+# Slide 56:
+Débito de O2
+Após exercício vigoroso, a respiração rápida continua.
+usada para fosforilação oxidativa para construir gradiente de prótons e repor ATP
+ATP usado para gliconeogênese para consumir lactato e restaurar as concentrações de glicogênio muscular (ou seja, ciclo de Cori)
+
+# Slide 57:
+O ciclo de Cori
+
+# Slide 58:
+Músculo cardíaco versus músculo esquelético
+O músculo cardíaco tem mais mitocôndrias.
+~50% do volume celular
+É alimentado principalmente por ácidos graxos.
+alguns corpos cetônicos, alguma glicose, alguma fosfocreatina
+É um órgão aeróbio; se o suprimento de O2 for cortado, o músculo morre.
+→ infarto do miocárdio
+
+# Slide 59:
+Micrografia eletrônica do músculo cardíaco
+
+# Slide 60:
+O cérebro de mamíferos consome cerca de 20% do suprimento de O2 disponível em repouso
+O cérebro é feito de neurônios e células gliais.
+O metabolismo usa ~130 g de glicose/dia.
+É altamente dependente de glicose.
+pode usar β-hidroxibutirato (corpo cetônico)
+astrócitos podem usar ácidos graxos
+O ATP é usado para manter o potencial elétrico através das membranas dos neurônios.
+especialmente a Na+-K+-ATPase
+
+# Slide 61:
+Combustíveis para o cérebro
+
+# Slide 62:
+Composição do sangue
+
+Adulto médio tem 5−6 L
+~50% do volume são eritrócitos
+perdem mitocôndrias, dependem da glicólise
+Isotônico e mantém gradiente de concentração (homeostase)
+~140 mM Na+, 5 mM K+, 2,5 mM Ca2+
+
+# Slide 63:
+Efeitos fisiológicos da baixa glicose no sangue em humanos
+
+A glicose no sangue é idealmente mantida em ~4,5 mM (60−90 mg/dL), com alguma flutuação ocorrendo após uma refeição.
+
+# Slide 64:
+A insulina estimula a conversão do excesso de glicose em glicogênio e/ou TAGs
+A insulina estimula a captação de glicose no músculo e na gordura.
+glicose → G6p
+A glicólise começa quando as concentrações de G6p aumentam e produzem acetil-CoA.
+No fígado, a insulina estimula a glicogênio sintase e inativa a glicogênio fosforilase.
+G6p → G1p → UDP-glicose → glicogênio
+Também no fígado, a insulina estimula a síntese de ácidos graxos a partir do excesso de acetil-CoA.
+acetil-CoA → TAG, exportado por VLDL
+Na gordura, a insulina estimula a montagem de TAGs.
+Glicose-6-fosfato → glicogênio
+
+# Slide 65:
+
+TABELA 23-3 Vias do metabolismo de carboidratos, aminoácidos e gorduras ilustradas em capítulos anteriores
+Via	Referência(s) de figura
+Ciclo do ácido cítrico: acetil-CoA → 2CO2	16-7
+Fosforilação oxidativa: síntese de ATP	19-19
+Catabolismo de carboidratos
+Glicogenólise: glicogênio → glicose-1-fosfato → glicose sanguínea	15-27; 15-28
+Entrada de hexoses na glicólise: frutose, manose, galactose → glicose-6-fosfato	14-11
+Glicólise: glicose → piruvato	14-2
+Reação da piruvato desidrogenase: piruvato → acetil-CoA	16-2
+Fermentação láctica: glicose → lactato + 2ATP	14-4
+Via das pentoses fosfato: glicose-6-fosfato → pentoses fosfato + NADPH	4-22
+Anabolismo de carboidratos
+Gliconeogênese: intermediários do ciclo do ácido cítrico → glicose	14-17
+Ciclo glicose-alanina: glicose → piruvato → alanina → glicose	18-9
+Síntese de glicogênio: glicose-6-fosfato → glicose-1-fosfato → glicogênio	15-32
+
+# Slide 66:
+TABELA 23-3 Vias do metabolismo de carboidratos, aminoácidos e gorduras ilustradas em capítulos anteriores
+Via	Referência(s) de figura
+Metabolismo de aminoácidos e nucleotídeos
+Degradação de aminoácidos: aminoácidos → acetil-CoA, intermediários do ciclo do ácido cítrico	18-15
+Síntese de aminoácidos	22-11
+Ciclo da ureia: NH3 → ureia	18-10
+Ciclo glicose-alanina: alanina → glicose	18-9
+Síntese de nucleotídeos: aminoácidos → purinas, pirimidinas	22-35; 22-38
+Síntese de hormônios e neurotransmissores	22-31
+Catabolismo de gorduras
+β-Oxidação de ácidos graxos: ácidos graxos → acetil-CoA	17-8
+Oxidação de corpos cetônicos: β-hidroxibutirato → acetil-CoA → CO2 via ciclo do ácido cítrico	17-19
+Anabolismo de gorduras
+Síntese de ácidos graxos: acetil-CoA → ácidos graxos	21-6
+Síntese de triacilglicerol: acetil-CoA → ácidos graxos → triacilglicerol	21-17 a 21-19
+Formação de corpos cetônicos: acetil-CoA → acetoacetato, β-hidroxibutirato	17-18
+Síntese de colesterol e ésteres de colesterila: acetil-CoA → colesterol → ésteres de colesterila	21-33 a 21-38
+Síntese de fosfolipídios: ácidos graxos → fosfolipídios	21-17; 21-23 a 21-28
+
+# Slide 67:
+O fígado lipogênico bem alimentado
+
+# Slide 68:
+Células pancreáticas especializadas secretam hormônios importantes
+Células α − secretam glucagon
+Células β − secretam insulina
+Células δ – secretam somatostatina
+Essas células são encontradas nas ilhotas de Langerhans no pâncreas.
+
+# Slide 69:
+Regulação da secreção de insulina pela glicose
+
+A glicose entra nas células β via GLUT2.
+entra na glicólise, [ATP] aumenta
+O ATP se liga aos canais de K+ regulados por ATP.
+Os canais de K+ fecham, despolarizam a membrana plasmática
+Desencadeia a abertura de canais de Ca2+ regulados por voltagem
+↑Ca2+ no citosol desencadeia a liberação de insulina por exocitose
+
+# Slide 70:
+Canais de K+ regulados por ATP são o alvo das drogas sulfonilureias
+O canal de K+ é um octâmero de 4 subunidades SUR1 e 4 subunidades Kir6.2.
+SUR = receptor de sulfonilureia)
+Ver Figura 23-28.
+As drogas sulfonilureias fecham o canal de K+ artificialmente e estimulam a secreção de insulina.
+usadas para tratar diabetes tipo 2
+superam a resistência à insulina via mais secreção de insulina
+
+# Slide 71:
+Drogas sulfonilureias inibem as Na+K+-ATPases
+Fórmula geral de uma sulfonilureia
+
+# Slide 72:
+O glucagon eleva a glicose no sangue
+Funciona via cascatas mediadas por cAMP
+no fígado, ativa a glicogênio fosforilase, inativa a glicogênio sintase
+no fígado, reduz [F2,6BP] então inibe a glicólise, estimula a gliconeogênese
+inibe a piruvato quinase
+impede que o fosfoenolpiruvato seja convertido em acetil-CoA
+o acúmulo de fosfoenolpiruvato favorece a gliconeogênese
+estimula a PEPCK para a gliconeogênese
+
+# Slide 73:
+O glucagon afeta o tecido adiposo para poupar glicose para o cérebro
+Também via cascatas de cAMP
+No tecido adiposo, ativa a hidrólise de TAGs
+fosforila a perilipina para expor a gotícula lipídica às lipases
+ativa a lipase sensível a hormônio
+Resulta no transporte de ácidos graxos para outros tecidos, de modo que a glicose é poupada para o cérebro
+
+# Slide 74:
+O fígado glicogênico em jejum
+
+# Slide 75:
+
+TABELA 23-4 Efeitos da insulina na glicose sanguínea: captação de glicose pelas células e armazenamento como triacilgliceróis e glicogênio
+Efeito metabólico	Enzima-alvo
+↑ Captação de glicose (músculo, tecido adiposo)	↑ Transportador de glicose (GLUT4)
+↑ Captação de glicose (fígado)	↑ Glicoquinase (expressão aumentada)
+↑ Síntese de glicogênio (fígado, músculo)	↑ Glicogênio sintase
+↓ Degradação de glicogênio (fígado, músculo)	↓ Glicogênio fosforilase
+↑ Glicólise, produção de acetil-CoA
+(fígado, músculo)	↑ PFK-1 (por PFK-2)
+↑ Complexo piruvato desidrogenase
+↑ Síntese de ácidos graxos (fígado)	↑ Acetil-CoA carboxilase
+↑ Síntese de triacilglicerol (tecido adiposo)	↑ Lipase lipoproteica
+
+# Slide 76:
+Epinefrina versus glucagon
+A epinefrina estimula as mesmas cascatas de cAMP que o glucagon na gordura e no fígado, mas…
+também estimula a secreção de glucagon e inibe a secreção de insulina
+degrada glicogênio muscular, bem como glicogênio hepático
+estimula a glicólise e, portanto, a formação de lactato
+eleva [F26BP] para estimular a PFK-1
+
+# Slide 77:
+Uso de combustível ao longo de quatro horas de metabolismo humano normal
+Imediatamente após uma refeição, a glicose aumenta.
+A insulina estimula a glicólise e a síntese de glicogênio.
+Duas ou mais horas após a refeição, a glicose no sangue começa a cair.
+O glucagon é secretado, e o glicogênio hepático libera glicose.
+Quatro horas após a refeição, mais glucagon, mais hidrólise de TAGs, e os AG se tornam combustível para o músculo e o fígado.
+
+# Slide 78:
+Efeitos do jejum prolongado
+O músculo começa a ser usado como combustível.
+O fígado desamina ou transamina aminoácidos.
+converte grupos amino em ureia
+Esqueletos de carbono de aminoácidos glicogênicos convertidos em piruvato, depois glicose via gliconeogênese
+fornece glicose para o cérebro
+AG é oxidado em acetil-CoA, mas o oxaloacetato é depletado para produzir glicose, então corpos cetônicos são formados.
+exportados para outros tecidos
+redução do pH sanguíneo (por exemplo, cetoacidose)
+
+# Slide 79:
+Metabolismo de combustíveis no jejum prolongado ou diabetes tipo 1
+
+# Slide 80:
+Níveis plasmáticos de ácidos graxos, glicose e corpos cetônicos durante um jejum de uma semana
+
+# Slide 81:
+O cortisol (um hormônio do estresse) atua no fígado, gordura e músculo
+Promove a liberação de AG e glicose em resposta a dor, ansiedade, medo, infecção, baixa glicose no sangue, e assim por diante
+Altera o tipo e os níveis de enzimas, em vez de ativar enzimas existentes
+na gordura, aumenta a liberação de AG e glicerol
+no fígado, estimula a síntese de PEPCK para a gliconeogênese
+no músculo, degrada proteínas para exportar aa para o fígado para a gliconeogênese
+
+# Slide 82:
+Mais efeitos do cortisol
+Contrapõe os efeitos da insulina
+A liberação contínua de cortisol leva à "fadiga adrenal"
+os efeitos do cortisol são reduzidos
+a liberação de cortisol pode ser comprometida
+pode, em última análise, danificar osso, músculo, sistema imunológico e outras funções hormonais
+
+# Slide 83:
+Duas formas de diabetes mellitus
+Tipo 1: produção insuficiente de insulina
+geralmente devido à destruição autoimune das células β
+geralmente se desenvolve no início da vida
+costumava ser chamada de diabetes insulinodependente ou juvenil
+Tipo 2: resistência à insulina
+geralmente se desenvolve na idade adulta tardia
+geralmente associada à obesidade
+as células não respondem adequadamente à insulina
+
+# Slide 84:
+Sintomas do diabetes
+Em ambas as formas de diabetes, o açúcar no sangue torna-se elevado.
+O corpo tenta diluir a glicose, levando à micção excessiva e sede.
+No tipo 1, a degradação de gordura é acelerada, o que leva à alta produção de corpos cetônicos.
+Alguns dos corpos cetônicos são cetoácidos, que elevam o [H+] sanguíneo, levando à cetoacidose.
+O sistema tampão de bicarbonato é ativado, levando à respiração alterada.
+A degradação do corpo cetônico acetoacetato produz acetona, que é expelida pela respiração.
+O diabetes não tratado leva à perda dramática de peso.
+
+# Slide 85:
+Efeitos fisiológicos dos níveis de glicose no sangue
+A glicose no sangue é normalmente determinada após várias horas de jejum.
+Um nível alto de glicose no sangue em jejum (126 ou mais) é um sinal de alerta para diabetes.
+Um nível baixo de glicose no sangue em jejum abaixo de 50 (em homens) ou 40 são sinais de alerta de várias condições hipoglicêmicas.
+Os níveis de glicose no sangue após uma refeição (pós-prandial) são tipicamente mais altos (até 145 mg/100 mL é normal).
+
+# Slide 86:
+Efeitos de longo prazo do açúcar elevado no sangue
+As proteínas podem ser glicosiladas, especialmente nos grupos amino livres.
+A hemoglobina é abundante, tem muitos grupos amino expostos durante a formação, e a entrada de glicose nos eritrócitos não é regulada.
+portanto, a Hb é facilmente glicosilada
+compromete a entrega de O2, especialmente nas extremidades (pés, etc.)
+Aumenta o risco de doença cardiovascular, insuficiência renal e danos a pequenos vasos sanguíneos e nervos.
+
+# Slide 87:
+O tecido adiposo libera adipocinas
+O tecido adiposo também é um órgão endócrino.
+Libera hormônios peptídicos chamados adipocinas.
+carregam informações sobre as reservas de combustível para o cérebro
+incluem leptina, adiponectina
+
+# Slide 88:
+A leptina é um supressor do apetite
+Enviada do tecido adiposo para o cérebro
+reduz o apetite
+Identificada pela primeira vez em camundongos obesos, produto do gene OB
+Camundongos ob/ob homozigotos comiam continuamente, tinham cortisol elevado, tremiam, não se reproduziam, tinham resistência à insulina e eram obesos.
+Quando a leptina foi injetada, os camundongos perderam peso, a temperatura voltou ao normal
+
+# Slide 89:
+Camundongos deficientes em leptina: não tratados versus tratados com leptina
+
+# Slide 90:
+Defeitos no receptor de leptina também produziram camundongos obesos
+O gene DB codifica o receptor de leptina no cérebro.
+detecta a leptina enviada do tecido adiposo
+Camundongos Db/db (heterozigotos) eram obesos e diabéticos.
+expresso principalmente no hipotálamo
+associado ao comportamento alimentar
+
+# Slide 91:
+A leptina afeta dois tipos de hormônios relacionados ao apetite
+O neuropeptídeo Y (NPY) é um hormônio orexigênico (estimulador do apetite).
+envia sinal para comer
+os níveis aumentam na inanição
+os níveis aumentam em camundongos ob/ob e db/db
+inibido pela leptina e insulina
+O hormônio estimulador de melanócitos α (α-MSH) é um hormônio anorexigênico (supressor do apetite).
+envia sinal para parar de comer
+liberação estimulada pela leptina
+
+# Slide 92:
+Regulação hipotalâmica da ingestão alimentar e gasto energético
+
+# Slide 93:
+A leptina aumenta a transcrição do gene que produz α-MSH
+
+O receptor de leptina dimeriza quando a leptina se liga.
+Uma Janus quinase (JAK) fosforila 2 Tyr no dímero do receptor.
+o receptor se torna sítio de ancoragem para STAT3, STAT5, STAT6 (Transdutores de Sinal e Ativadores de Transcrição)
+STATs fosforilados pela mesma JAK
+STATs dimerizam, movem-se para o núcleo e estimulam a transcrição.
+A leptina aumenta a transcrição do gene do precursor da α-MSH anorexigênica.
+
+# Slide 94:
+O mecanismo JAK-STAT de transdução do sinal da leptina
+
+# Slide 95:
+A leptina, via sistema nervoso simpático, aumenta a termogênese
+Neurônios no hipotálamo enviam sinais para o tecido adiposo e assim por diante.
+Estimula a liberação de norepinefrina.
+Uma cascata via receptores β3-adrenérgicos aumenta a transcrição do gene UCP1.
+Aumenta a termogênese.
+→ A energia do gradiente de H+ na mitocôndria é liberada como calor sem produzir ATP.
+aumento da perda de gordura para compensar
+
+# Slide 96:
+A resistência à leptina ocorre em indivíduos obesos
+Restaurar a leptina em camundongos ob/ob resulta na restauração da massa corporal normal.
+MAS, a administração de leptina à maioria das pessoas obesas NÃO restaura a massa corporal normal.
+Isso foi uma grande decepção para a indústria farmacêutica.
+A leptina está de fato elevada em muitos casos de obesidade.
+
+Algo a jusante na resposta à leptina deve estar defeituoso ("resistência à leptina").
+
+# Slide 96:
+A insulina também inibe o apetite interagindo com o hipotálamo
+Os neurônios orexigênicos têm receptores de insulina.
+Ligação da insulina:
+inibe a liberação de NPY estimulador do apetite
+estimula a α-MSH supressora do apetite
+Pode haver comunicação cruzada entre as vias da insulina e da leptina!
+A leptina torna o fígado e o músculo mais sensíveis à insulina.
+Um 2° mensageiro comum pode permitir que a leptina e a insulina disparem as mesmas vias a jusante.
+
+# Slide 98:
+Hormônios que controlam a alimentação
+
+# Slide 99:
+A adiponectina é produzida pelo tecido adiposo e tem receptores no cérebro
+Circula e torna outros órgãos sensíveis à insulina.
+Embora incompletamente compreendida, parece funcionar via via da quinase ativada por AMP.
+A AMPK fosforila e inativa a acetil-CoA carboxilase.
+A enzima normalmente produz malonil-CoA.
+O malonil-CoA inibe a importação de ácidos graxos para as mitocôndrias.
+A redução da acetil-CoA carboxilase significa que os ácidos graxos estão livres para entrar nas mitocôndrias para oxidação.
+A via da AMPK também inibe a síntese de colesterol.
+
+# Slide 100:
+O papel da AMPK na regulação do metabolismo de ATP
+
+# Slide 101:
+Formação de adiponectina e suas ações através da AMPK
+
+# Slide 102:
+Receptores ativados por proliferadores de peroxissomo (PPARs) alteram a expressão de genes para o metabolismo de gordura
+e carboidratos
+PPARs assim chamados porque descobertos em peroxissomos
+Ligam ácidos graxos ou derivados
+Então se ligam ao receptor retinoide X (RXR) e se tornam poderosos fatores de transcrição
+Inclui PPARγ, PPARα e PPARδ
+
+# Slide 103:
+Função dos PPARs
+PPARγ
+no fígado e tecido adiposo
+ativa genes para síntese e armazenamento de lipídios
+ativado por tiazolidinedionas
+PPARα
+no fígado, coração, músculo esquelético, e assim por diante
+ativado por AG e eicosanoides
+ativa genes para captação e oxidação de AG e para formação de corpos cetônicos
+PPARδ
+no fígado e músculo
+ativa genes para oxidação de AG e desacoplamento mitocondrial
+
+# Slide 104:
+Modo de ação dos PPARs
+
+# Slide 105:
+PPARδ é um regulador-chave do metabolismo de gordura
+Camundongos superalimentados não se tornam obesos se PPARδ estiver constitutivamente ativo.
+A ativação de PPARδ até previne a obesidade em camundongos db/db.
+O principal alvo parece ser o desacoplamento mitocondrial.
+
+# Slide 106:
+Integração metabólica pelos PPARs
+
+# Slide 107:
+mTORC ativa o crescimento e desenvolvimento durante nutrição adequada
+A quinase Ser/Thr atua para manter unidos e ativar múltiplos fatores.
+A estimulação contínua via excesso de alimentação aumentará o tecido adiposo.
+
+# Slide 108:
+Drogas tiazolidinedionas ativam as vias AMPK e PPAR e aumentam a expressão de genes de adiponectina
+As tiazolidinedionas são usadas para tratar diabetes tipo 2.
+inclui Avandia (rosiglitazona), Actos (pioglitazona)
+Alvos incluem:
+receptores que levam à ativação da transcrição do gene da adiponectina
+via AMPK
+PPARγ
+Avandia limitada devido ao aumento do risco de doença cardíaca
+
+# Slide 109:
+A grelina é um peptídeo orexigênico de curto prazo secretado no estômago
+Os receptores de grelina aparecem no cérebro, no coração e no tecido adiposo.
+A grelina não é bem compreendida.
+Funciona via receptores acoplados à proteína G para aumentar a sensação de fome.
+Injeções de grelina aumentam imediatamente o apetite.
+A síndrome de Prader-Willi está associada a altos níveis de grelina e apetite insaciável.
+
+# Slide 110:
+Variações na glicose, grelina e insulina em relação aos horários das refeições
+
+# Slide 111:
+PYY3-36 é um hormônio supressor do apetite secretado pelo intestino delgado e cólon
+PYY3-36 assim chamado porque é um peptídeo de 36 aa e dois resíduos de Tyr (Y) no final
+Secretado em resposta ao alimento que entra no estômago
+Transportado para o hipotálamo
+Inibe a liberação de NPY orexigênico
+O resultado é a redução da fome
+
+# Slide 112:
+Micróbios no intestino influenciam a obesidade
+Pessoas obesas e magras têm flora microbiana intestinal diferente.
+Alguns microrganismos criam produtos de fermentação que afetam o tecido adiposo.
+A maioria dos produtos são AG de cadeia curta: acetato, propionato, butirato, e assim por diante.
+Sabe-se que o propionato atua em GPCRs de células precursoras, induzindo-as a se tornarem adipócitos e inibindo a lipólise.
+
+# Slide 113:
+
+# Slide 114:
+Diabetes tipo 2 e síndrome metabólica
+Acredita-se que afete 27% da população adulta dos EUA (90% dos diabéticos são tipo 2)
+característica é a resistência à insulina
+Conjunto de sintomas junto com resistência à insulina:
+obesidade abdominal
+triglicerídeos altos (TAGs)
+HDL baixo
+pressão alta
+glicose no sangue elevada (mas pode não ser diabetes plena)
+frequentemente inclui outros sinais de inflamação
+
+# Slide 115:
+A hipótese da "carga lipídica" para explicar o caminho da obesidade ao diabetes tipo 2
+80% dos diabéticos tipo 2 são obesos, mas a minoria dos indivíduos obesos desenvolve diabetes.
+Os adipócitos ficam lotados e incapazes de acomodar mais TAG.
+A incapacidade de depositar TAG leva a AG no sangue.
+O excesso de AG entra no músculo e no fígado, cria gotículas lipídicas de TAG e faz com que esses órgãos percam a sensibilidade à insulina.
+→ Em última análise, os níveis de glicose no sangue aumentam.
+
+# Slide 116:
+Sobrecarregando os adipócitos
+
+# Slide 117:
+Tratamentos para diabetes tipo 2
+Dieta e exercício para reduzir a obesidade, controlar a glicose no sangue, aumentar a sensibilidade à insulina dos músculos
+Insulina, se a secreção endógena de insulina for inadequada
+Ativador de AMPK: Metformina (glucophage)
+Ativadores de PPAR para aumentar a adiponectina, estimular a diferenciação de adipócitos e aumentar a capacidade de armazenamento de TAG: tiazolidinedionas
+Estimulação da insulina pela ligação a canais de K+ regulados por ATP: sulfonilureias
+Prevenção da degradação proteolítica do peptídeo semelhante ao glucagon-1 (GLP-1), um peptídeo que estimula a secreção de insulina (inibidores da dipeptidil protease-4 como Januvia)
+
+# Slide 118:
+
+# Slide 119:
+Capítulo 23: Resumo
+
+o sistema nervoso controla a produção de hormônios específicos via sistema hipotálamo-hipófise
+os hormônios da hipófise estimulam outras glândulas sintetizadoras de hormônios ou atuam diretamente nos tecidos-alvo
+os tecidos detectam estados metabólicos e mobilizam hormônios para outros tecidos, incluindo sangue e cérebro, para responder
+o nível de glicose no sangue é controlado pelo hormônio peptídico insulina
+a produção defeituosa de insulina pelo pâncreas ou a detecção inadequada de insulina pelas células-alvo leva ao diabetes
+os adipócitos influenciam a tomada de decisão do cérebro sobre a ingestão alimentar e o gasto energético via o hormônio proteico leptina
+Neste capítulo, aprendemos que:

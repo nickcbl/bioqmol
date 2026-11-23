@@ -1,0 +1,431 @@
+Slide 1:
+
+15| Principles of Metabolic Regulation
+© 2017 W. H. Freeman and Company
+
+Slide 2:
+CHAPTER 15 
+Principles of Metabolic Regulation
+Principles of regulation in biological systems 
+What determines activity of glycolysis versus gluconeogenesis?
+Chemistry and regulation of glycogen metabolism 
+Learning goals: 
+
+Slide 3:
+Metabolic Pathways
+The biochemical reactions in the living cell― metabolism―are organized into metabolic pathways.
+The pathways have dedicated purposes:
+extraction of energy
+storage of fuels
+synthesis of important building blocks
+elimination of waste materials
+The pathways can be represented as a map:
+follow the fate of metabolites and building blocks
+identify enzymes that act on these metabolites
+identify points and agents of regulation
+identify sources of metabolic diseases
+
+Slide 4:
+Map of Metabolic Pathways
+
+Slide 5:
+Principles of Regulation
+The flow of metabolites through the pathways is regulated to maintain homeostasis.
+Homeostasis occurs when concentrations of metabolites are kept at a steady state in the body.
+When perturbed, a new steady state is achieved.
+Sometimes, the levels of required metabolites must be altered very rapidly.
+need to increase the capacity of glycolysis during action
+need to reduce the capacity of glycolysis after the action
+need to increase the capacity of gluconeogenesis after successful action 
+
+
+Slide 6:
+Feedback Inhibition 
+In many cases, the ultimate products of metabolic pathways directly or indirectly inhibit their own biosynthetic pathways.
+Example: High ATP inhibits the committed step of glycolysis to prevent excess glucose degradation.
+
+Slide 7:
+Rates of a Biochemical Reactions
+Rates of a biochemical reactions depend on many factors:
+Concentration of reactants versus products
+Activity of the catalyst
+concentration of the enzyme
+rate of translation versus rate of degradation
+intrinsic activity of the enzyme
+could depend on substrate, effectors, or phosphorylation state 
+Concentrations of effectors
+allosteric regulators
+competing substrates
+pH, ionic environment
+Temperature
+
+Slide 8:
+Factors That Determine 
+the Activity of Enzymes
+
+Slide 9:
+Rate of Reaction Depends on the Concentration of Substrates
+The rate is more sensitive to concentration at low concentrations.
+Chemical kinetics: Frequency of substrate meeting the enzyme matters.
+
+The rate becomes insensitive at high substrate concentrations.
+The enzyme is nearly saturated with substrate .
+
+Slide 10:
+Effect of [Substrate] on Enzyme Activity
+At low concentrations, slope (i.e., change in velocity over concentration) increases drastically.
+At high concentrations, slope increases more slowly.
+
+Slide 11:
+Km versus [Metabolite]
+Many enzymes have a Km that is near or greater than the physiological concentration of their substrate.
+especially those utilizing ATP, or NAD(H)
+
+Slide 12:
+Phosphorylation of Enzymes 
+Affects Their Activity
+Phosphorylation is catalyzed by protein kinases.
+Dephosphorylation is catalyzed by protein phosphatases, or can be spontaneous.
+Typically, proteins are phosphorylated on the hydroxyl groups of Ser, Thr, or Tyr.
+
+Slide 13:
+Enzymes Are Also Regulated 
+by Regulatory Proteins
+Binding of regulatory protein subunits affects specificity.
+
+
+Slide 14:
+Proteins Have a Finite Life Span
+Different proteins in the same tissue have very different half-lives.
+less than an hour to about a week for liver enzymes
+stability correlates with sequence at N-terminus
+Some proteins are as old as you are.
+crystallins in the eye lens
+TABLE 15-1	Average Half-Life of Proteins in Mammalian Tissues	
+Tissue	Average half-life (days)	
+Liver	0.9	
+Kidney	1.7	
+Heart	4.1	
+Brain	4.6	
+Muscle	10.7	
+
+Slide 15:
+Reactions Far from Equilibrium Are Common Points of Regulation
+Within a metabolic pathway, most reactions operate near to, but not at, equilibrium (e.g., “2” and “3”).
+Key enzymes operate far from equilibrium (e.g., “1”).
+These are the sites of regulation.
+They control flow through the pathway.
+To maintain steady state, all enzymes operate at the same rate.
+
+Slide 16:
+TABLE 15-3	Equilibrium Constants, Mass-Action Ratios, and Free-Energy Changes for Enzymes of Carbohydrate Metabolism	
+Enzyme	K'eq	Mass-action ratio, Q	Reaction near equilibrium in vivo?a	ΔG'˚
+(kJ/mol)	ΔG
+(kJ/mol)
+in heart	
+Liver	Heart	
+Hexokinase	1 × 103	2 × 10–2	8 × 10–2	No	–17	-27	
+PFK-1	1.0 × 103	9 × 10–2	3 × 10–2	No	–14	–23	
+Aldolase	1.0 × 10–4	1.2 × 10–6	9 × 10–6	Yes	+24	–6.0	
+Triose phosphate isomerase	4 × 10–2	—b	2.4 × 10–1	Yes	+7.5	+3.8	
+Glyceraldehyde 3-phosphate dehydrogenase + phosphoglycerate kinase	2 × 103	6 × 102	9.0	Yes	–13	+3.5	
+Phosphoglycerate mutase	1 × 10–1	1 × 10–1	1.2 × 10–1	Yes	+4.4	+0.6	
+Enolase	3	2.9	1.4	Yes	–3.2	≠0.5	
+Pyruvate kinase	2 × 104	7 × 10–1	40	No	–31	–17	
+Phosphoglucose isomerase	4 × 10–1	3.1 × 10–1	2.4 × 10–1	Yes	+2.2	–1.4	
+Pyruvate carboxylase + PEP carboxykinase	7	1 × 10–3	—b	No	–5.0	–23	
+Glucose 6-phosphatase	8.5 × 102	1.2 × 102	—b	Yes	–17	–5.0	
+Source: K'eq and Q from E. A. Newsholme and C. Start, Regulation in Metabolism, pp. 97, 263, Wiley Press, 1973. ΔG and ΔG'˚ were calculated from these data.
+aFor simplicity, any reaction for which the absolute value of the calculated ΔG is less than 6 is considered near equilibrium.
+bData not available.	
+
+Slide 17:
+ATP and AMP Are Key Cellular Regulators
+A 10% decrease in [ATP] can greatly affect the activity of ATP utilizing enzymes.
+A 10% decrease in [ATP] leads to a dramatic increase in [AMP].
+AMP can be a more potent allosteric regulator.
+TABLE 15-4	Relative Changes in [ATP] and [AMP] When ATP Is Consumed	
+Adenine nucleotide	Concentration before ATP depletion (MM)	Concentration after ATP depletion (MM)	Relative change	
+ATP	5.0	4.5	10%	
+ADP	1.0	1.0	0	
+AMP	0.1	0.6	600%	
+
+Slide 18:
+AMP Differentially Affects Pathways in Different Tissues via AMPK
+
+Slide 19:
+Some Enzymes in the Pathway Limit the Flux of Metabolites More Than Others
+Enzymes that are far from equilibrium (regulated)
+Not all regulated enzymes have the same affect on the entire pathway.
+Some control flux through the pathway.
+Others regulate steady state concentrations of metabolites in response to changes in flux.
+Hexokinase and phosphofructokinase are appropriate targets for regulation of glycolytic flux.
+Increased hexokinase activity enables activation of glucose.
+Increased phosphofructokinase-1 activity enables catabolism of activated glucose via glycolysis.
+
+Slide 20:
+Hexokinase Affects Flux Through Glycolysis More Than Phosphofructokinase
+
+Slide 21:
+Elasticity Coefficient Measures the Responsiveness to Substrate 
+
+Slide 22:
+Glycolysis versus Gluconeogenesis
+Regulated enzymes often correspond to points in the pathways that have the same substrate and product, but a different enzyme. 
+
+Can you name those enzymes? 
+
+Slide 23:
+There Are Four Isozymes of Hexokinase (I-IV)
+HK I is expressed in all tissues, to different levels.
+HK IV (e.g., glucokinase) is only expressed in the liver.
+has higher Km, so responsive to higher [glucose]
+not inhibited by glucose-6-phosphate, so can function at higher [glucose]
+functions to clear blood glucose at higher [glucose] for storage as glycogen
+Isozymes are different enzymes that catalyze the same reaction.
+typically share similar sequences
+may have different kinetic properties
+can be regulated differently
+
+Slide 24:
+Kinetic Properties of HK I versus HK IV
+
+Slide 25:
+Hexokinase IV Is Regulated by Sequestration (and Transcription)
+
+Slide 26:
+Regulation of Phosphofructokinase-1
+Fructose-6-phosphate → fructose 1,6-bisphosphate is the commitment step in glycolysis.
+While ATP is a substrate, ATP is also a negative effector.
+Do not spend glucose in glycolysis if there is plenty of ATP.
+
+Slide 27:
+Affect of ATP on Phosphofructokinase-1
+
+Slide 28:
+Regulation of Phosphofructokinase 1 
+and Fructose 1,6-Bisphosphatase
+Go glycolysis if AMP is high and ATP is low.
+Go gluconeogenesis if AMP is low.
+
+Slide 29:
+Fructose 2,6-Bisphosphate
+NOT a glycolytic intermediate, only a regulator
+Produced specifically to regulate glycolysis and gluconeogenesis
+activates phosphofructokinase (glycolysis)
+inhibits fructose 1,6-bisphosphatase (gluconeogenesis)
+
+
+Slide 30:
+Glycolysis and Gluconeogenesis Are Differentially Regulated by F-2,6-bP
+
+Slide 31:
+F-2,6-bP Is Produced
+from Fructose-6-phosphate
+Enzymes for synthesis and degradation of F-2,6-bP function similarly to those in glycolysis and gluconeogenesis.
+
+Slide 32:
+Regulation of F-2,6-bP Levels
+Structurally, these two enzymes are different than those in glycolysis and gluconeogenesis (i.e., they are conjoined, rather than independent) and are regulated via phosphorylation. 
+
+Slide 33:
+Regulation of Pyruvate Kinase
+Allosterically activated by fructose-1,6-bisphosphate
+increase flow through glycolysis
+Allosterically inhibited by signs of abundant energy supply (all tissues)
+ATP 
+acetyl-CoA and long-chain fatty acids
+alanine (enough amino acids)
+Inactivated by phosphorylation in response to signs of glucose depletion (glucagon) (liver only)
+Glucose from liver is exported to the brain and other vital organs.
+
+Slide 34:
+Regulation of Pyruvate Kinase
+
+Slide 35:
+Two Alternative Fates for Pyruvate
+Pyruvate can be a source of new glucose.
+store energy as glycogen
+generate NADPH via pentose phosphate pathway
+Pyruvate can be a source of acetyl-CoA.
+store energy as body fat
+make ATP via citric acid cycle
+Acetyl-CoA stimulates glucose synthesis via gluconeogenesis by activating pyruvate carboxylase.
+
+Slide 36:
+Two Alternative Fates for Pyruvate
+
+Slide 37:
+The Amount of Many Metabolic Enzymes Is Controlled by Transcription
+TABLE 15-5	Some of the Many Genes Regulated by Insulin	
+Change in gene expression	Role in glucose metabolism	
+Increased expression
+Hexokinase II
+Hexokinase IV
+Phosphofructokinase-1 (PFK-1)
+PFK-2/FBPase-2
+Pyruvate kinase	Essential for glycolysis, which consumes glucose for energy	
+Glucose 6-phosphate dehydrogenase
+6-Phosphogluconate dehydrogenase
+Malic enzyme	Produce NADPH, which is essential for conversion of glucose to lipids	
+ATP-citrate lyase
+Pyruvate dehydrogenase	Produce acetyl-CoA, which is essential for conversion of glucose to lipids	
+Acetyl-CoA carboxylase
+Fatty acid synthase complex
+Stearoyl-CoA dehydrogenase
+Acyl-CoA–glycerol transferases	Essential for conversion of glucose to lipids	
+Decreased expression
+PEP carboxykinase
+Glucose 6-phosphatase (catalytic subunit)	Essential for glucose production by gluconeogenesis	
+
+Slide 38:
+ChREBP Activates Transcription in Response to Glucose
+
+Slide 39:
+FOXO1 Activates Transcription in Response to Insulin (High Blood Glucose)
+
+Slide 40:
+The Transcription of Many Genes Is Controlled by Many Different Factors
+
+Slide 41:
+Glucose Can Be Stored for Later Use as Glycogen
+Glycogen is a branched polymer of α(1→4)-linked glucose with α(1→6) linkages every 12 to 14 glucose units.  
+Glycogen storage occurs mainly in the liver and muscle. 
+Glycogen is degraded to glucose units for use in energy production.
+Glycogen can be made from excess blood glucose or recycling of glucogenic metabolites like lactate or certain amino acids.
+
+Slide 42:
+Glucose Residues Are Removed from Glycogen by Glycogen Phosphorylase
+
+Slide 43:
+Dealing with Branch Points in Glycogen
+Glycogen phosphorylase works on nonreducing ends until it reaches four residues from an (α1→ 6) branch point.
+Debranching enzyme transfers a block of three residues to the nonreducing end of the chain.
+Debranching enzyme cleaves the single remaining (α1→6)-linked glucose, which becomes a free glucose unit (i.e., NOT glucose-1-phosphate).
+
+Slide 44:
+Glucose-1-Phosphate Must Be Isomerized to Glucose-6-Phosphate for Metabolism
+Phosphoglucomutase performs this reaction via a mechanism similar to phosphoglycerate mutase.
+
+Slide 45:
+Glucose-6-Phosphate Is Dephosphorylated in the Liver for Transport Out of the Liver
+Glucose-6-phosphatase is sequestered in the ER lumen, which allows use of concentration gradients for glucose and glucose-6-phosphate) to control flux out of the liver.
+
+Slide 46:
+Glycogen Synthesis from Glucose Occurs in Multiple Steps
+Synthesis of glycogen requires more enzymes and metabolic intermediates than glycogen degradation.
+
+Blood glucose must be: 
+phosphorylated
+labeled with UDP
+added to glycogen
+
+Multiple steps allow for multiple points in regulation.
+
+
+
+Slide 47:
+Glycogen Is Synthesized by 
+Glycogen Synthase
+
+Slide 48:
+UDP-Glucose Is the Substrate 
+for Glycogen Synthase
+
+Slide 49:
+Glucose-1-Phosphate Is the Substrate 
+for NDP-Sugar Pyrophosphorylase
+Phosphoglucomutase is reversible.
+In glycogen degradation, glucose-1-phosphate is converted to glucose-6-phosphate.
+In glycogen synthesis, glucose-6-phosphate is converted to glucose-1-phosphate.
+
+Slide 50:
+Synthesis of Branches in Glycogen
+
+Slide 51:
+Glycogenin Starts a New Glycogen Chain
+
+Slide 52:
+General Structure of a Glycogen Particle
+
+Slide 53:
+Integration of Glycogen Synthesis and Degradation
+Glucose
+
+Glucose-6-phosphate
+
+
+Glucose-1-phosphate
+
+Glycogen
+UDP-glucose
+Glucose-6-phosphatase
+Hexokinase
+Phosphoglucomutase
+Glycogen phosphorylase
+UDP-glucose pyrophosphorylase
+Glycogen synthase
+Like Glycolysis and Gluconeogenesis, regulation occurs at irreversible points in the pathway
+
+Slide 54:
+Control of Glycogen Breakdown
+Glucogon/epinephrine signaling pathway
+starts phosphorylation cascade vis cAMP
+activates glycogen phosphorylase
+Glycogen phosphorylase cleaves glucose residues off glycogen, generating glucose-1-phosphate.
+
+
+
+Slide 55:
+Epinephrine and Glucagon Stimulate Breakdown of Glycogen
+
+Slide 56:
+Control of Glycogen Synthesis
+Insulin-signaling pathway
+increases glucose import into muscle
+stimulates the activity of muscle hexokinase 
+activates glycogen synthase
+Increased hexokinase activity enables activation of glucose.
+Glycogen synthase makes glycogen for energy storage.
+
+
+
+Slide 57:
+Flow to Glycogen Synthase Is Controlled by Glucose Uptake and Phosphorylation
+
+Slide 58:
+Glycogen Synthase Is Controlled 
+by Phosphorylation
+
+Slide 59:
+Control of Carbohydrate Metabolism in the Liver
+
+Slide 60:
+Control of Carbohydrate Metabolism 
+in the Liver versus the Muscle
+
+Slide 61:
+TABLE 1	Glycogen Storage Diseases of Humans	
+Type (name)	Enzyme affected	Primary organ/cells affected	Symptoms	
+Type 0	Glycogen synthase	Liver	Low blood glucose, high ketone bodies, early death	
+Type Ia (von Gierke) 	Glucose 6-phosphatase	Liver	Enlarged liver, kidney failure	
+Type Ib	Microsomal glucose 6-phosphate translocase	Liver	As in type Ia; also high susceptibility to bacterial infections	
+Type Ic	Microsomal Pi transporter	Liver	As in type Ia	
+Type II (Pompe)	Lysosomal glucosidase	Skeletal and cardiac muscle	Infantile form: death by age 2; juvenile form: muscle defects (myopathy); adult form: as in muscular dystrophy	
+Type IIIa (Cori or Forbes)	Debranching enzyme	Liver, skeletal and cardiac muscle	Enlarged liver in infants; myopathy	
+Type IIIb	Liver debranching enzyme (muscle enzyme normal)	Liver	Enlarged liver in infants	
+Type IV (Andersen)	Branching enzyme 	Liver, skeletal muscle	Enlarged liver and spleen, myoglobin in urine	
+Type V (McArdle)	Muscle phosphorylase	Skeletal muscle	Exercise-induced cramps and pain; myoglobin in urine	
+Type VI (Hers)	Liver phosphorylase	Liver	Enlarged liver	
+Type VII (Tarui)	Muscle PFK-1	Muscle, erythrocytes	As in type V; also hemolytic anemia	
+Type VIb, VIII, or IX	Phosphorylase kinase	Liver, leukocytes, muscle	Enlarged liver	
+Type XI (Fanconi-Bickel)	Glucose transporter (GLUT2)	Liver	Failure to thrive, enlarged liver, rickets, kidney dysfunction	
+
+Slide 62:
+Chapter 15: Summary
+living organisms regulate the flux of metabolites through metabolic pathways by
+increasing or decreasing enzyme concentrations
+activating or inactivating key enzymes in the pathway
+the activity of key enzymes in glycolysis and gluconeogenesis is tightly and coordinately regulated via various activating and inhibiting metabolites
+glycogen synthesis and degradation is regulated by hormones insulin, epinephrine, and glucagon that report on the levels of glucose in the body  
+In this chapter, we learned that:

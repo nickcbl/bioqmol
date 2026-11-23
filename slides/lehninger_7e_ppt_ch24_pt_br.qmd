@@ -1,0 +1,617 @@
+---
+title: "Capítulo"
+# author: Nicholas Costa & Nicholas Barroso
+lang: pt-BR
+date: today
+date-format: "DD/MM/YYYY"
+format:
+  revealjs:
+    pdf-separate-fragments: true
+#    width: 1600
+#    height: 900
+    width: 960
+    height: 720
+#    logo: imgs/logo.png
+    incremental: false
+    theme: tema_azul.scss
+    lightbox: true
+    slide-number: true
+    background-transition: fade
+    menu: true
+    progress: true
+    center: true
+    auto-stretch: true
+---
+
+# Slide 1:
+
+24 | Genes e Cromossomos
+© 2017 W. H. Freeman and Company
+
+# Slide 2:
+Gerenciamento e expressão da informação genética
+Os capítulos anteriores trataram de:
+vias metabólicas, nas quais as estruturas químicas de pequenas moléculas foram modificadas por enzimas
+vias de transdução de sinal, nas quais interações de ligantes com proteínas receptoras causaram respostas fisiológicas
+Os capítulos seguintes tratam de:
+vias de informação, nas quais a informação genética armazenada como sequência de nucleotídeos é mantida e expressa, produzindo muitas das macromoléculas discutidas anteriormente ou enzimas necessárias para sua síntese
+
+# Slide 3:
+O "Dogma Central" de como a informação flui nos sistemas biológicos
+
+# Slide 4:
+O Dogma Central da Biologia Molecular
+A descoberta da estrutura em dupla hélice do DNA em 1953 lançou a base para pensar nas biomoléculas como portadoras de informação.
+Por volta de 1950, entendia-se que as proteínas são catalisadores, mas seu papel na transferência de informação era incerto.
+Francis Crick propôs em 1956 que "Uma vez que a informação entrou em uma proteína, ela não pode sair novamente."
+O dogma central foi proposto por Francis Crick na época em que havia poucas evidências para apoiá-lo, daí o "dogma".
+
+# Slide 5:
+Fluxo de informação segundo o dogma central
+A informação do DNA parental é copiada para o DNA filho com alta fidelidade via replicação do DNA.
+O RNA é sintetizado usando o DNA como molde durante a transcrição.
+As proteínas são sintetizadas com base na informação armazenada em tripletos de ribonucleotídeos no RNA durante a tradução.
+
+Ressalva: Os vírus são capazes de produzir RNA e DNA usando o RNA como molde na transcrição reversa.
+
+# Slide 6:
+O "Dogma Central" de como a informação flui nos sistemas biológicos
+
+# Slide 7:
+O entendimento dos genes evoluiu
+Historicamente, um gene era "algo" responsável por uma característica, ou fenótipo.
+Beadle e Tatum, por meio de estudos de mutação, definiram um gene como algo que codificava uma enzima (um gene → uma enzima).
+Agora os genes são definidos como segmentos de DNA que codificam peptídeos e RNA.
+diferentes de sequências reguladoras
+O DNA pode ser expresso de forma diferente para produzir produtos diferentes (um gene → produtos diferentes).
+
+# Slide 8:
+CAPÍTULO 24
+Genes e Cromossomos
+Organização da informação nos cromossomos
+Superenovelamento do DNA
+Estrutura do cromossomo
+Objetivos de aprendizagem:
+
+# Slide 9:
+O DNA é uma macromolécula muito grande
+As dimensões lineares do DNA são muito maiores que os virions ou células que os contêm.
+bacteriófago T4: ~0,2 μm de comprimento e 0,1 μm de largura
+DNA do T4: ~60 μm de comprimento
+Assim, o DNA em um virion ou célula é organizado em formas compactas, tipicamente via enrolamento e associação com proteínas.
+
+# Slide 10:
+DNA linearizado do bacteriófago T2
+
+# Slide 11:
+Codificação molecular da informação de sequência proteica
+Na transcrição, uma fita do DNA de dupla fita atua como molde molecular para a síntese de RNA (DNA → RNA mensageiro).
+Três nucleotídeos codificam um "códon".
+Na tradução, os tripletos de nucleotídeos no mRNA se ligam a tripletos complementares no tRNA.
+As moléculas de tRNA carregam um aminoácido associado ao tripleto particular.
+Os aminoácidos são então montados em cadeias peptídicas.
+A sequência da proteína determina sua função biológica.
+
+# Slide 12:
+Como o DNA codifica o mRNA que então codifica a sequência de aminoácidos
+
+# Slide 13:
+Quantos genes por organismo?
+E. coli (cromossomo circular único) – 4.639.675 pb → ~4300 genes para proteínas e ~157 genes para RNAs catalíticos ou estruturais
+
+Humano (24 cromossomos discretos) – 3,1 bilhões de pb → ~20.000 genes
+
+# Slide 14:
+Muitos genomas virais são de RNA
+Muitos vírus: apenas RNA ou DNA cercado por capsídeo proteico
+Eles usam os genes do hospedeiro quando infectam uma planta, animal ou bactéria.
+Genomas de RNA podem ser pequenos e de fita simples.
+HIV: 9000 pb
+fago Qβ: 4220 pb
+Os genomas podem mudar de forma de circular para linear, e assim por diante, durante o ciclo de vida.
+
+# Slide 15:
+Genomas bacterianos são círculos de dupla fita
+E. coli: 4.639.675 pb
+850× mais longo que a célula!
+Bactérias também contêm plasmídeos extracromossômicos, círculos de dupla fita.
+geralmente ~2000–10.000 pb, mas podem ter 400.000 pb
+trocados facilmente entre bactérias
+sem genes essenciais, mas frequentemente codificam genes que degradam antibióticos
+troca de plasmídeos: uma forma de as bactérias adquirirem resistência a antibióticos
+TABELA 24-1 Os tamanhos de DNA e partículas virais para alguns vírus bacterianos (bacteriófagos)
+Vírus	Tamanho do DNA viral (pb)	Comprimento do DNA viral (nm)	Dimensão longa das partículas virais (nm)
+φX174	5.386	1.939	25
+T7	39.936	14.377	78
+λ (lambda)	48.502	17.460	190
+T4	168.889	60.800	210
+Nota: Os dados sobre o tamanho do DNA são para a forma replicativa (dupla fita). O comprimento de contorno é calculado assumindo que cada par de bases ocupa um comprimento de 3,4 Å (ver Fig. 8-13).
+
+# Slide 16:
+Comprimento do DNA de E. coli em relação ao comprimento da célula
+
+# Slide 17:
+DNA de célula de E. coli lisada contendo plasmídeos
+
+# Slide 18:
+O DNA de eucariotos está em múltiplos cromossomos discretos
+O número varia com a espécie.
+Células somáticas humanas (não sexuais) têm 46 cromossomos.
+22 pares (diploides) mais X e Y
+totaliza ~2 m de DNA
+o comprimento de cada par varia
+
+# Slide 19:
+Cromossomo eucariótico
+
+# Slide 20:
+Conjunto completo de cromossomos humanos (masculino)
+
+# Slide 21:
+TABELA 24-2 Conteúdo de DNA, genes e cromossomos em alguns genomas
+	DNA total (pb)	Número de cromossomosa	Número aproximado de genes
+Escherichia coli K12 (bactéria)	4.641.652	1	4.494b
+Saccharomyces cerevisiae (levedura)	12.157.105	16c	6.340b
+Caenorhabditis elegans (nematódeo)	90.269.800	12d	23.000
+Arabidopsis thaliana (planta)	119.186.200	10	33.000
+Drosophila melanogaster (mosca-das-frutas)	120.367.260	18	20.000
+Oryza sativa (arroz)	480.000.000	24	57.000
+Mus musculus (camundongo)	2.634.266.500	40	27.000
+Homo sapiens (humano)	3.070.128.600	46	20.000
+Nota: Esta informação está constantemente sendo refinada. Para as informações mais atuais, consulte os sites dos projetos genoma individuais.
+aO número diploide de cromossomos é dado para todos os eucariotos, exceto levedura.
+bInclui genes conhecidos que codificam RNA.
+cNúmero haploide de cromossomos. Linhagens selvagens de levedura geralmente têm oito (octoploides) ou mais conjuntos desses cromossomos.
+dNúmero para fêmeas, com dois cromossomos X. Machos têm um X mas nenhum Y, portanto 11 cromossomos no total.
+
+# Slide 22:
+Mitocôndrias e cloroplastos também têm DNA
+Círculos de dupla fita
+DNA mitocondrial humano (mtDNA)
+16.569 pb
+~2–10 cópias por mitocôndria
+mtDNA de plantas
+200.000–2.500.000 pb
+DNA de cloroplasto (cpDNA)
+120.000–160.000 pb
+
+# Slide 23:
+DNA mitocondrial
+Codifica rRNAs mitocondriais, tRNAs e algumas das proteínas específicas da mitocôndria.
+
+A maioria das proteínas mitocondriais (pelo menos 95%) é codificada por genes nucleares.
+
+# Slide 24:
+Mitocôndria
+
+# Slide 25:
+DNA, cromossomos, genes e complexidade
+Nem o comprimento total do DNA nem o número de cromossomos se correlacionam fortemente com a complexidade de um organismo.
+Cães e coiotes têm 78 cromossomos.
+Anfíbios têm muito mais DNA que os humanos.
+Plantas têm mais genes que os humanos.
+A correlação entre tamanho do genoma e complexidade é fraca porque a maior parte do DNA eucariótico é não codificante.
+
+Trabalho experimental recente de Craig Venter sugere que um organismo vivo poderia se contentar com menos de 400 genes.
+
+# Slide 26:
+O DNA é empacotado com proteínas
+O DNA genômico viral pode estar associado a proteínas do capsídeo.
+O DNA procariótico está associado a proteínas no nucleoide.
+O DNA eucariótico é organizado com proteínas em um complexo chamado cromatina.
+
+# Slide 27:
+Composição do genoma humano
+Observe que apenas uma pequena fração (1,5%) do genoma total codifica proteínas.
+O significado biológico das sequências não codificantes não é totalmente claro.
+Algumas regiões de DNA participam diretamente da regulação da expressão gênica (promotores, sinais de terminação, etc.).
+Algum DNA codifica pequenos RNAs reguladores com funções pouco compreendidas.
+Algum DNA pode ser lixo (pedaços de genes indesejados, remanescentes de infecções virais).
+
+# Slide 28:
+Genes eucarióticos contêm sequências intercaladas (íntrons)
+Éxons são sequências expressas (traduzidas em sequência de aminoácidos).
+Éxons representam apenas 1,5% do DNA humano!
+Íntrons são regiões de genes que são transcritas mas não traduzidas.
+Eles não codificam sequência polipeptídica.
+Os íntrons são removidos após a transcrição e as sequências de mRNA dos éxons são unidas por splicing.
+→ cria "transcritos maduros"
+
+# Slide 29:
+Íntrons em dois genes eucarióticos
+
+# Slide 30:
+Alguns genomas bacterianos também contêm íntrons
+Até 1993, os cientistas pensavam que os íntrons apareciam apenas em eucariotos.
+Cerca de 25% dos genomas bacterianos sequenciados mostram presença de íntrons.
+Íntrons no cromossomo bacteriano não interrompem sequências codificantes de proteínas; eles interrompem principalmente sequências de tRNA.
+Íntrons em genomas de fagos dentro de bactérias interrompem sequências codificantes de proteínas.
+Muitos íntrons bacterianos codificam sequências de RNA catalítico que têm a capacidade de se inserir e se retrotranscrever no DNA genômico.
+
+# Slide 31:
+Transposons são sequências que podem se mover dentro do genoma
+O genoma eucariótico não é completamente estático.
+Sequências chamadas transposons podem se mover dentro do genoma de uma única célula.
+As extremidades dos transposons contêm repetições terminais.
+Essas repetições hibridizam com regiões complementares do DNA alvo durante a inserção.
+Os transposons representam ~50% do genoma humano.
+
+# Slide 32:
+Eucariotos também contêm DNA altamente repetitivo ou repetições de sequência simples (SSRs)
+Sequências curtas de ~10 pb ou menos
+Repetidas milhões de vezes
+Também conhecidas como DNA "satélite"
+porque quando fragmentado e centrifugado, o DNA se separa em uma banda "satélite" discreta
+Associadas a centrômeros e telômeros
+
+# Slide 33:
+Telômeros e centrômeros em um cromossomo de levedura
+
+# Slide 34:
+As sequências do centrômero são onde as proteínas se ligam durante a mitose
+Região onde os dois cromossomos filhos são mantidos juntos durante a mitose
+isto é, após a replicação do DNA mas antes da divisão celular
+Essencial para a distribuição igual dos conjuntos de cromossomos para as células filhas
+Têm sequências repetidas ricas em AT de ~130 pb
+
+# Slide 35:
+As sequências dos telômeros capeiam as extremidades dos cromossomos eucarióticos
+Podem formar estruturas de alça especiais para evitar que as extremidades do DNA se desenrolem
+contêm múltiplas repetições com sequência geral
+(TxGy)n
+(AxCy)n , onde n = 1500 ou mais em mamíferos
+
+adicionadas pela enzima telomerase
+
+# Slide 36:
+TABELA 24-3 Sequências de telômeros
+Organismo	Sequência de repetição do telômero
+Homo sapiens (humano)	(TTAGGG)n
+Tetrahymena thermophila (protozoário ciliado)	(TTGGGG)n
+Saccharomyces cerevisiae (levedura)	((TG)1–3(TG)2–3)n
+Arabidopsis thaliana (planta)	(TTTAGGG)n
+
+# Slide 37:
+Os telômeros estão associados ao envelhecimento celular
+Em muitos tecidos, os telômeros são encurtados após cada rodada de replicação.
+Assim, o DNA celular "envelhece".
+Células humanas normais se dividem cerca de 52 vezes antes de perder a capacidade de se dividir novamente (limite de Hayflick).
+
+# Slide 38:
+Superenovelamento do DNA
+O DNA na célula deve ser organizado para permitir:
+empacotamento de grandes moléculas de DNA dentro das células
+acesso de proteínas para ler a informação na sequência de DNA
+Existem vários níveis de organização, um dos quais é o superenovelamento da hélice de DNA de dupla fita.
+
+# Slide 39:
+Superenovelamentos helicoidais
+
+# Slide 40:
+Superenovelamento é o enrolamento de uma espiral
+O DNA não superenovelado é chamado de relaxado.
+Muitos DNAs circulares são superenovelados.
+O superenovelamento tem grande influência na transcrição e replicação do DNA.
+O superenovelamento pode ser altamente regulado.
+
+# Slide 41:
+Fechar o DNA em uma alça introduz superenovelamento
+
+# Slide 42:
+Os efeitos da replicação e transcrição no superenovelamento do DNA
+
+# Slide 43:
+A maior parte do DNA celular está subenrolada
+DNA normal em forma B, relaxado: 10,5 pb/volta
+DNA circular fechado raramente está relaxado.
+A tensão induz superenovelamento.
+A tensão é devida a menos voltas helicoidais (subenrolamento).
+O subenrolamento torna mais fácil a separação posterior das fitas.
+O DNA linear é subenrolado com a ajuda de proteínas para evitar que as fitas girem
+
+# Slide 44:
+DNA plasmidial relaxado e cada vez mais superenovelado
+
+# Slide 45:
+Efeitos do subenrolamento do DNA
+
+# Slide 46:
+O número de ligação (Lk) descreve o superenovelamento
+No DNA circular, mudar as voltas helicoidais requer quebrar uma fita transitoriamente.
+Número de ligação em DNA relaxado:
+Lk = #pb ÷ #pb/volta
+
+Exemplo: DNA circular de dupla fita relaxado de 2100 pb na forma B (10,5 pb/volta) tem
+Lk = 2100 pb ÷ 10,5/volta = 200
+
+Lk é um número inteiro para DNA circular fechado e é (+), refletindo uma hélice dextrógira.
+
+# Slide 47:
+Lk é o número de vezes que uma fita penetra uma superfície
+
+# Slide 48:
+Lk aplicado ao DNA circular fechado
+
+# Slide 49:
+Mudanças em Lk são úteis para descrever o superenovelamento
+Considere um DNA relaxado de 2100 pb:
+Lk0 = 200
+
+Subenrole removendo duas voltas helicoidais:
+Lk = 198
+ΔLk = 198 – 200 = –2
+
+# Slide 50:
+Densidade super-helicoidal, σ
+
+# Slide 51:
+Superenovelamentos negativos e positivos
+
+# Slide 52:
+O número de ligação pode ser decomposto em torção (Tw) e enrolamento (Wr)
+Lk = Tw + Wr
+Torção (Tw) é o # de torções ou voltas da hélice
+Enrolamento (Wr) é o # de espirais
+tipicamente um valor negativo
+
+# Slide 53:
+O subenrolamento facilita mudanças estruturais adicionais no DNA
+Ajuda a manter a estrutura de cruciformes em palíndromos (próximo slide)
+
+Cruciformes raramente ocorrem em DNA relaxado.
+
+Facilita a formação de trechos da forma Z canhota
+
+# Slide 54:
+Cruciformes
+
+# Slide 55:
+Topoisômeros são DNAs que diferem apenas no número de ligação
+Mesmo # pb, mesma sequência mas diferente grau de superenovelamento
+
+A conversão entre topoisômeros requer uma quebra na fita de DNA.
+
+Observe que o DNA superenovelado negativamente (mais compacto) migra mais rápido em um experimento de eletroforese em gel de agarose do que o DNA relaxado ou com corte.
+
+# Slide 56:
+Topoisômeros em eletroforese
+
+# Slide 57:
+Topoisomerases são enzimas que mudam Lk
+Essas enzimas são necessárias para o desenrolamento e reenrolamento do DNA durante a transcrição e replicação.
+Dois tipos principais:
+Tipo I – fazem um corte transiente em uma fita de DNA, mudam Lk em 1
+Tipo II – fazem um corte transiente em ambas as fitas de DNA, mudam Lk em passos de 2
+
+# Slide 58:
+As topoisomerases I–IV de
+E. coli
+Topo I e III são Tipo I.
+removem superenovelamentos negativos para relaxar o DNA
+aumentam Lk
+usam quebras de fita simples
+Topo II é chamada de DNA girase.
+introduz superenovelamentos negativos
+diminui Lk
+usa ATP e quebras de dupla fita
+
+# Slide 59:
+Topoisomerase Tipo 1
+
+# Slide 60:
+
+# Slide 61:
+
+# Slide 62:
+Topoisomerases eucarióticas incluem Topo I, IIα, IIβ, IV
+Topo I e III são Tipo I (como em E. coli).
+As topoisomerases Tipo II incluem duas subfamílias—Tipo IIA e Tipo IIB.
+podem relaxar tanto superenovelamentos positivos quanto negativos
+
+# Slide 63:
+Diversidade de DNA topoisomerases
+TABELA 24-4 Diversidade em DNA topoisomerases
+Tipo	Mecanismo	Família (definida por classe estrutural)	Domínio(s)	Notas
+IA	Passagem de fitaa	Topoisomerase I
+Topoisomerase III
+Girase reversa	Bactérias, eucariotos
+Bactérias, eucariotos
+Archaea, bactérias	Relaxa (–)
+Relaxa (–)
+Usa ATP para introduzir superenovelamentos positivos; apenas bactérias e archaea termofílicas
+IB	Swivelaseb	Topoisomerase IB	Bactérias, eucariotos	Algumas bactérias; todos os eucariotos
+IC	Swivelase	Topoisomerase V	Archaea	Apenas Methanopyrus
+IIA	Passagem de fitac	Topoisomerase II (DNA girase)
+Topoisomerase IIα
+Topoisomerase IIβ
+Topoisomerase IV	Archaea, bactérias
+
+Eucariotos
+Eucariotos
+Bactérias	Introduz superenovelamentos negativos (ATPase)
+Relaxa (+ ou –)
+Relaxa (+ ou –)
+Decatenased
+IIB	Passagem de fita	Topoisomerase VI	Archaea, bactérias, eucariotos	Entre eucariotos, apenas plantas, algas e protistas
+aVer Figura 24-19.
+bUm corte é feito em uma fita, e a outra fita pode girar para aliviar a tensão topológica.
+cVer Figura 24-20a.
+dVer Figura 24-20b.
+
+# Slide 64:
+Mecanismo de uma topoisomerase
+Tipo IIα eucariótica
+
+# Slide 65:
+Topoisomerases são alvos para antibióticos
+Cumarinas (novobiocina, cumermicina A1)
+inibem topoisomerases Tipo II bacterianas de se ligarem ao ATP
+
+Quinolonas (ácido nalidíxico; ciprofloxacino, Cipro)
+inibem a última etapa, que é o resealamento das quebras de fita do DNA
+amplo espectro e principalmente seletivas para enzimas bacterianas
+
+# Slide 66:
+Inibidores de topoisomerase usados como antibióticos
+
+# Slide 67:
+Inibidores de topoisomerase usados como agentes quimioterápicos
+Visam o câncer porque a maioria das células de crescimento rápido (tumores, outras) expressam topoisomerases
+Inibidores de topoisomerase Tipo I eucariótica
+captotecina, irinotecano (Campto), topotecano (Hycamtin)
+aprisionam o complexo enzima-DNA em seu estado clivado
+Inibidores de topoisomerase Tipo II eucariótica
+doxorrubicina (Adriamicina), etoposídeo (Etopophos), ellepticina
+
+# Slide 68:
+Inibidores de topoisomerase usados como drogas quimioterápicas
+
+# Slide 69:
+O DNA superenovelado forma estruturas plectonômicas ou toroidais/solenoidais
+(ou uma combinação)
+Plectonômica
+vista em plasmídeos
+envolve uma super-hélice dextrógira com alças terminais
+Toroidal/solenoidal
+usada na cromatina
+envolve voltas sinistrógiras apertadas
+pode assemelhar-se a uma mangueira de jardim em um carretel
+proporciona mais compactação
+
+# Slide 70:
+Superenovelamento plectonêmico
+
+# Slide 71:
+Superenovelamento plectonêmico e solenoidal
+
+# Slide 72:
+A estrutura do cromossomo eucariótico muda ao longo do ciclo celular
+Estado não dividido (G0) e interfase (Gap1, G1; síntese, S; e Gap2, G2):
+A cromatina é amorfa e dispersa aleatoriamente.
+Prófase da mitose
+Os cromossomos se condensam, e pares de cromátides irmãs se formam.
+
+# Slide 73:
+Mudanças na estrutura do cromossomo durante o ciclo celular
+
+# Slide 74:
+Empacotamento do DNA na cromatina
+A cromatina consiste em fibras de proteína e DNA e uma pequena quantidade de RNA.
+O DNA se associa firmemente a proteínas chamadas histonas.
+pequenas proteínas com muitos resíduos básicos (Lys, Arg)
+modificadas por metilação, acetilação, ADP-ribosilação, fosforilação, glicosilação, sumoilação, ubiquitinação
+O DNA e a proteína são empacotados em unidades discretas chamadas nucleossomos.
+
+# Slide 75:
+Nucleossomos
+
+# Slide 76:
+Os nucleossomos consistem em DNA enrolado em torno de histonas
+DNA de comprimento 105 μm → cabe em um núcleo de diâmetro 5–10 μm.
+O desdobramento parcial revela "contas em um fio".
+As contas são ~146 pb de DNA enrolados em torno de oito histonas (o "núcleo"); há duas de cada: H2A, H2B, H3, H4.
+Forma um solenoide sinistro.
+O fio é um DNA "ligante" de ~54 pb ligado à histona H1.
+As caudas amino-terminais das histonas se projetam, formam sítios para modificação covalente e formam contatos importantes entre nucleossomos.
+
+# Slide 77:
+TABELA 24-5 Tipos e propriedades das histonas comuns
+Histonas	Peso molecular	Número de resíduos de aminoácidos	Conteúdo de aminoácidos básicos (% do total)
+Lys	Arg
+H1a	21.130	223	29,5	11,3
+H2Aa	13.960	129	10,9	19,3
+H2Ba	13.774	125	16,0	16,4
+H3	15.273	135	19,6	13,3
+H4	11.236	102	10,8	13,7
+aOs tamanhos dessas histonas variam um pouco de espécie para espécie. Os números dados aqui são para histonas bovinas.
+
+# Slide 78:
+DNA enrolado em torno de um núcleo de histonas
+
+# Slide 79:
+
+# Slide 80:
+Vistas frontal e lateral das caudas amino-terminais das histonas
+
+# Slide 81:
+Como as caudas amino-terminais interagem entre os nucleossomos
+
+# Slide 82:
+O DNA nucleossomal está subenrolado
+Enrolar o DNA em torno do núcleo de histonas requer a remoção de uma volta helicoidal.
+O subenrolamento ocorre sem uma quebra de fita, então um superenovelamento (+) compensatório se forma.
+Este superenovelamento (+) é relaxado por uma topoisomerase, deixando o DNA com superenovelamento negativo líquido.
+
+# Slide 83:
+A ligação de histonas depende da sequência de DNA
+A ligação de histonas não é aleatória.
+Ocorre mais frequentemente em regiões ricas em A-T.
+Escalonar AA, AT ou TT em intervalos de 10 pb (em fase com o passo da hélice) estreita o sulco menor e dobra o DNA.
+→ facilita sua ligação em torno do núcleo de histonas
+
+# Slide 84:
+Efeito da sequência de DNA na ligação de nucleossomos
+
+# Slide 85:
+Os nucleossomos então se montam em estruturas de ordem superior
+A formação de nucleossomos compacta o DNA sete vezes… mas a compactação total é >10.000 vezes!
+Próximo nível de estrutura: fibra de 30 nm
+Ocorre em regiões onde proteínas não histonas específicas de sequência se ligam (conhecidas como território).
+Cromossomos com grandes quantidades de heterocromatina são tipicamente encontrados na periferia nuclear.
+
+# Slide 86:
+A fibra de 30 nm
+
+# Slide 87:
+Estruturas de nível superior dependem do arcabouço cromossômico
+Estruturas de ordem superior não são bem compreendidas.
+Podem variar entre cromossomos, regiões e até mesmo momento de tempo.
+Parece envolver uma alça de DNA (talvez com genes relacionados) associando-se a um arcabouço de proteínas
+inclui Topo II e proteínas SMC
+SMC = Manutenção Estrutural dos Cromossomos
+
+# Slide 88:
+Alças de DNA ligadas a um arcabouço cromossômico
+
+# Slide 89:
+A estrutura condensada do cromossomo é mantida por proteínas SMC
+As proteínas SMC têm cinco domínios.
+Os domínios N e C formam um sítio de ligação de ATP.
+Dois tipos principais:
+coesinas – ajudam a ligar cromátides irmãs
+condensinas – ajudam os cromossomos a se condensarem; criam superenovelamentos positivos
+Ver Figura 24-31.
+
+# Slide 90:
+Estrutura das proteínas SMC
+
+# Slide 91:
+O DNA bacteriano é organizado em nucleoides
+Pode ocupar grande parte do volume celular.
+O DNA se liga à membrana plasmática.
+Uma estrutura semelhante a um arcabouço organiza o DNA circular em ~500 domínios em alça
+O DNA se liga a proteínas transitoriamente.
+exemplo: proteína HU
+
+# Slide 92:
+Possível papel das condensinas
+
+# Slide 93:
+Papéis das coesinas e condensinas no ciclo celular
+
+# Slide 94:
+Nucleoides de E. coli
+
+# Slide 95:
+Domínios em alça do cromossomo de E. coli
+
+# Slide 96:
+Capítulo 24: Resumo
+
+a informação genética da célula é codificada na sequência de nucleotídeos de uma ou várias moléculas de DNA
+as regiões codificantes de proteínas representam apenas uma pequena fração do DNA total
+telômeros e centrômeros regulam a divisão celular
+o DNA bacteriano é geralmente superenovelado para empacotamento eficiente
+o DNA eucariótico é enrolado em torno de histonas carregadas positivamente
+a organização de ordem superior da cromatina provavelmente envolve espirais sobre espirais sobre espirais
+Neste capítulo, aprendemos que:

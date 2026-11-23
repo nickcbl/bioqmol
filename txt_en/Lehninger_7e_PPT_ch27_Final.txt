@@ -1,0 +1,613 @@
+Slide 1:
+
+27 | Protein Metabolism
+© 2017 W. H. Freeman and Company
+
+Slide 2:
+CHAPTER 27 
+Protein Metabolism
+The genetic code
+Synthesis of aminoacyl-tRNA
+Translation: RNA-dependent protein synthesis
+Protein targeting and degradation
+Learning goals: 
+
+Slide 3:
+Regulation of Protein Synthesis
+Protein synthesis is highly energy demanding, so it is highly coordinated.
+Protein synthesis can use 90% of the chemical energy of a cell.
+Number of copies of protein produced corresponds to number of copies needed.
+Proteins are targeted to cellular locations.
+Degradation keeps pace with synthesis.
+
+
+Slide 4:
+Protein Synthesis Is a 
+Very Complex Process
+In eukaryotes, requires >300 biomolecules:
+>70 ribosomal proteins
+~20 aa activation enzymes
+~20 protein factors for initiation, elongation, and termination of peptides
+~100 additional enzymes for final processing
+~40 kinds of tRNAs and rRNAs
+
+
+Slide 5:
+Three Early Advances in Understanding Protein Synthesis
+Proteins synthesized at ribosomes
+Amino acids activated for synthesis by attachment to tRNA via aminoacyl-tRNA synthetases
+tRNA acts as an “adapter” to translate mRNA into protein
+
+
+Slide 6:
+Rough Endoplasmic Reticulum
+
+Slide 7:
+Early History of Protein Synthesis Research
+1955: Paul Zamenick’s group identifies ribosome as the site of protein synthesis.
+1956: Volkin and Astrachan find RNA that is like DNA but do not realize the importance of this finding.
+1958: Zamenick and Hoagland find that amino acids became attached to what is now known as tRNA.
+1960: Sydney Brenner realizes at a Good Friday meeting with Crick and Francois Jacob that the DNA-like RNA of Volkin and Astrachan is the messenger RNA.
+
+Slide 8:
+The Genetic Code for Proteins Consists of Triplets of Nucleotides
+There are 20 common, genetically encoded amino acids.
+A four-letter code in groups of two is insufficient (16).
+A four-letter code in groups of three IS sufficient (64).
+Living organisms use nonoverlapping mRNA code with no punctuation.
+
+Slide 9:
+Adapter (tRNA) Brings Amino Acid to mRNA
+
+Slide 10:
+Overlapping versus Nonoveralapping Code
+
+Slide 11:
+Breaking the Genetic Code 
+One of the greatest scientific developments of the twentieth century
+First clue from Nirenberg and Matthaei:
+poly(U) and 20 radiolabeled amino acids fed to E.coli →only *Phe produced
+Hence, UUU codes for Phe.
+Another step forward from Khorana:
+used defined mRNAs in planned patterns
+that is, (AC)n (alternating ACA and CAC codons → His and Thr)
+
+
+Slide 12:
+Features of the Genetic Code
+The code is written in the 5’ → 3’ direction.
+Third base is less important in binding to tRNA.
+The first codon establishes the reading frame.
+If reading frame is thrown off by a base or two, all subsequent codons are out of order
+61/64 codons code for amino acids.
+There are three are termination codons:
+UAA, UGA, UAG
+AUG = initiation codon (as well as Met codon)
+
+
+Slide 13:
+Nucleotide Code Dictionary
+
+Slide 14:
+Most Amino Acids Have More Than One Codon
+Some codons are less subject to causing a mutation in an amino acid sequence because of degeneracy or because of the abundance of such tRNAs.
+There are 20 amino acids with 61 possible codons.
+Only Met and Trp have a single codon.
+
+
+Slide 15:
+Codon Correlation with Amino Acids
+TABLE 27-3	Degeneracy of the Genetic Code	
+Amino acid	Number of codons	Amino acid	Number of  codons	
+Met	1	Tyr	2	
+Trp	1	Ile	3	
+Asn	2	Ala	4	
+Asp	2	Gly	4	
+Cys	2	Pro	4	
+Gln	2	Thr	4	
+Glu	2	Val	4	
+His	2	Arg	6	
+Lys	2	Leu	6	
+Phe	2	Ser	6	
+
+Slide 16:
+The Genetic Code Is Universal,
+ With a Few Exceptions
+It is used by prokaryotes and eukaryotes, across species.
+Mitochondria contain DNA and use a slightly different code.
+UGA encodes Trp in vertebrate mtDNA (instead of STOP).
+AGA/AGG encodes STOP in vertebrate mtNDA (instead of Arg).
+Mitochondria encode their own tRNAs, using 22 instead of 32.
+
+Slide 17:
+“Wobble” Pairings in tRNA with mRNA Can Occur in the Third Base
+The third base of a codon can form noncanonical base pairs with its complement (anticodon) in tRNA.
+Some tRNAs contain Inosinate (I), which can H-bond with U,C, and A.
+These H-bonds are weaker and were named by Crick as “wobble” base pairs.
+Example: In yeast, CGA, GCU, and CGC all bind to tRNAArg, which has the anticodon 3’-GCI-5’.
+Although sequences are usually written 5’→3’, the anticodon here is written 3’→5’ to illustrate its bonding to the mRNA codons.
+
+
+Slide 18:
+Molecular Recognition of Codons in mRNA by tRNA
+The codon sequence is complementary with the anticodon sequence.
+The codon in mRNA base pairs with the anticodon in mRNA via hydrogen bonding.
+The alignment of two RNA segments is antiparallel.
+
+Slide 19:
+
+Slide 20:
+The Genetic Code Is Resistant to Mutations
+Degenerate code allows certain mutations to still code for the same amino acid.
+“silent” mutations―different nucleotide in DNA but same amino acid in protein
+Mutation in the first base of a codon usually produces a conservative substitution.
+Example: GUU → Val but AUU →Leu
+
+Slide 21:
+Some mRNAs Are Edited Before Protein Synthesis
+Editing involves alteration, addition, or deletion of nucleotides in mRNA.
+Editing uses guide RNAs (gRNAs) that temporarily hybridize with the mRNA and act as templates for editing.
+
+Slide 22:
+Deamination Reactions Yield
+RNA editing by alteration of nucleotides most commonly involves the enzymatic deamination of adenosine or cytidine residues.
+
+
+
+Slide 23:
+Five Stages of Protein Synthesis 
+Activation of amino acids
+tRNA aminoacylated
+Initiation of translation
+mRNA and aminoacylated tRNA bind to ribosome
+Elongation
+cycles of aminoacyl-tRNA binding and peptide bond formation…until a STOP codon is reached
+Termination and ribosome recycling
+mRNA and protein dissociate, ribosome recycled
+Folding and posttranslational processing
+catalyzed by a variety of enzymes
+
+Slide 24:
+Overview of Protein Synthesis
+
+Slide 25:
+TABLE 27-5	Components Required for the Five Major Stages of Protein Synthesis in E. Coli	
+Stage	Essential components	
+1. Activation of amino acids	20 amino acids
+20 aminoacyl-tRNA syntheses
+32 or more tRNAs
+ATP
+Mg2+	
+2. Initiation	mRNA
+N-Formylmethionyl-tRNAfMet
+Initiation codon in mRNA (AUG)
+30S ribosomal subunit
+50S ribosomal subunit
+Initiation factors (IF1, IF2, IF3)
+GTP
+Mg2+	
+3. Elongation	Functional 70S ribosomes (initiation complex)
+Aminoacyl-tRNAs specified by codons
+Elongation factors (EF-Tu, EF-Ts, EF-G)
+GTP
+Mg2+	
+4. Termination and ribosome recycling	Termination codon in mRNA
+Release factors (RF1, RF2, RF3, RRF)
+EF-G
+IF3	
+5. Folding and posttranslational processing	Chaperones and folding enzymes (PPI, PDI); specific enzymes, cofactors, and other components for removal of initiating residues and signal sequences, additional proteolytic processing, modification of terminal residues, and attachment of acetyl, phosporyl, methyl, carboxyl, carbohydrate, or prosthetic groups	
+
+Slide 26:
+The Ribosome Is a Key Player in Protein Synthesis
+Make up ~25% of dry weight of bacteria
+~65% rRNA, 35% protein
+rRNA forms the core.
+RNA does the catalysis of peptide bond formation.
+Made of two subunits bound together (30S and 50S) in bacteria, with mRNA running through them
+TABLE 27-6	RNA and Protein Components of the E. Coli Ribosome	
+Subunit	Number of different proteins	Total number of proteins	Protein designations	Number and type of rRNAs	
+30S	21	21	S1–S21	1 (16S rRNA)	
+50S	33	36	L1–L36a	2 (5S and 23S rRNAs)	
+aThe L1 to L36 protein designations do not correspond to 36 different proteins. The protein originally designated L7 is a modified form of L12, and L8 is a complex of three other proteins. Also, L26 proved to be the same protein as S20 (and not part of the 50S subunit). This gives 33 different proteins in the large subunit. There are four copies of the L7/L12 protein, with the three extra copies bringing the total protein count to 36.	
+
+Slide 27:
+Structure of Ribosomes in Bacteria and Yeast
+
+Slide 28:
+rRNAs Have Complex Secondary Structures
+The three ss rRNAs of E.coli have specific 3-D structure with extensive intrachain base pairs.
+Shape of rRNAs are highly conserved.
+
+Slide 29:
+Ribosomes in Bacteria and Eukaryotes
+Overall, very similar
+Still two subunits with mRNA running between
+In eukaryotes, larger (80S), more complex, contain > 80 proteins
+Chloroplasts and mitochondria have ribosomes simpler than those in bacteria.
+
+Slide 30:
+Characteristics of tRNAs
+ssRNA of 73–93 nucleotides in both bacteria and eukaryotes
+Cloverleaf structure in 2-D
+“Twisted L” shape in 3-D
+Most have G at 5’-end; all have CAA at 3’-end
+Have modified bases
+methylated bases, and so on
+
+
+Slide 31:
+Amino acid arm
+has amino acid esterified via carboxyl group to the 2’-OH or 3’-OH of the A of the terminal CAA codon
+Anticodon arm
+D arm 
+contains dihydrouridine (D)
+contributes to folding
+TψC arm
+contains pseudouridine (ψ)―has bonding between base and ribose
+helps in folding
+
+Characteristics of tRNAs
+
+Slide 32:
+3-D Structure of Yeast tRNAPhe
+
+Slide 33:
+Recall: 5 Stages of Protein Synthesis 
+Activation of amino acids
+tRNA aminoacylated
+Initiation of translation
+mRNA and aminoacylated tRNA bind to ribosome
+Elongation
+cycles of aminoacyl-tRNA binding and peptide bond formation…until a STOP codon is reached
+Termination and ribosome recycling
+mRNA and protein dissociate, ribosome recycled
+Folding and posttranslational processing
+catalyzed by a variety of enzymes
+
+Slide 34:
+Step 1 − creation of aminoacyl intermediate
+Aminoacyl-tRNA synthetases esterify 20 amino acids to corresponding tRNAs.
+COO– of amino acid attacks phosphate of ATP → creates aminoacyladenylate intermediate
+Pyrophosphate (PPi) is also cleaved, so the reaction is driven forward by two phosphoanhydride bond cleavages.
+The fate of the aminoacyladenylate varies.
+Five Stages of Protein Synthesis 
+Stage 1 – Activation of Amino Acids
+
+Slide 35:
+Aminoacylation of tRNA
+
+Slide 36:
+Step 2 – transfer of aminoacyl to tRNA
+Aminoacyl-tRNA synthetases (two classes) transfer aminoacyl group from enzyme to tRNA.
+2’-OH or 3’-OH of tRNA attacks phosphate of aminoacyl intermediate, creating phosphodiester bond between amino acid and tRNA
+
+Five Stages of Protein Synthesis 
+Stage 1 – Activation of Amino Acids
+
+Slide 37:
+Aminoacylation of tRNA
+
+Slide 38:
+Aminoacyl-tRNA Synthetases 
+Each enzyme binds a specific amino acid and the matching tRNA.
+Most cells contain 20 different aminoacyl-tRNA synthetases, one for each amino acid.
+Some cells contain fewer than 20 synthetases; in this case, one amino acid is converted to another after charging the tRNA.
+
+Slide 39:
+The Second Genetic Code
+Aminoacyl-tRNA synthetases must be specific for both amino acid and tRNA.
+Matching each amino acid with correct tRNA can be viewed as the “second genetic code.”
+The “code” is in molecular recognition of a specific tRNA molecule by a specific synthetase.
+Only a few nucleotides in tRNA confer the binding specificity.
+anticodon region
+The primary determinant in Ala-tRNA is a single G=U in the amino acid arm.
+
+
+Slide 40:
+Nucleotide Positions in tRNAs That Are Recognized by Aminoacyl-tRNA Synthetases:
+(Orange and Green Points)
+
+Slide 41:
+The G-U Pair of tRNAAla Required for Recognition by Ala-tRNA Synthetase and the Synthetic Helix That Is Also Aminoacylated Specifically with Ala
+
+Slide 42:
+Five Stages of Protein Synthesis
+Stage 2: Initiation (Prokaryotes)
+The first tRNA is unique.
+The first codon of any peptide is AUG (Met).
+All organisms have two tRNAs for Met.
+In bacteria, plus chloroplasts and mitochondria, initiation tRNA inserts N-formylmethionine (uses a special tRNAfMet).
+Interior Met is inserted with normal tRNAMet.
+Eukaryotic protein begins with Met, not fMet, but a special tRNA is still used for peptide initiation.
+
+Slide 43:
+Five Stages of Protein Synthesis
+Stage 2: Initiation
+Unusual Amino Acids Found in Peptides
+Twenty genetically encoded amino acids are common in all organisms.
+But two additional amino acids are also found in a few proteins and are genetically coded.
+Selenocysteine 
+formed after charging an UGA(stop)-recognizing tRNA with serine in both bacteria and eukaryotes
+this unique tRNA found at low levels in the cell
+Pyrrolysine 
+directly attached to its tRNA that recognizes UAG(stop) codon by some archae
+
+Slide 44:
+Unusual Amino Acids Found in Peptides
+
+Slide 45:
+Initiation requires a large assembly.
+In bacteria, initiation requires:
+30S ribosomal subunit
+mRNA
+fMet-tRNA
+initiation factors IF-1, IF-2, and IF-3
+GTP
+50S ribosomal subunit
+GTP
+Mg2+
+Five Stages of Protein Synthesis
+Stage 2: Initiation (Prokaryotic)
+
+
+Slide 46:
+Five Stages of Protein Synthesis
+Stage 2: Initiation (Prokaryotic)
+
+Step 1: The 30S ribosomal subunit binds IF-1, IF-2, and IF-3 and mRNA.
+Initiation factor IF-3 keeps 30S and 50S subunits apart.
+The initiating (5’)-AUG codon of mRNA is  guided to its correct position by the Shine−Dalgarno sequence (region in mRNA that is complementary to a sequence in ribosomal RNA). 
+
+Slide 47:
+Five Stages of Protein Synthesis
+Stage 2: Initiation
+Step 2: fMet-tRNAfMet joins the complex.
+Formylmethionine tRNA binds to the peptidyl (P) site along with initiating(5’)AUG.
+
+
+Slide 48:
+Five Stages of Protein Synthesis
+Stage 2: Initiation
+Step 3: 50S subunit associates
+Large 50S subunit combines with the 30S subunit forming the initiation complex.
+IF-2 hydrolyzes GTP.
+
+
+Slide 49:
+mRNA Sequences That Serve as Signals for Initiation of Protein Synthesis in Bacteria
+
+Slide 50:
+Five Stages of Protein Synthesis
+Stage 2: Initiation (Eukaryotes)
+Use more initiation factors
+over 12, including eIFIA and eIF3 (functional homologs of IF-1 and IF-3)
+Has different mechanistic details
+Has a step that circularizes the mRNA during initiation
+
+Slide 51:
+Five Stages of Protein Synthesis
+Stage 2: Initiation (Eukaryotes)
+Step 1: 40S subunit joins with eIF1A and eIF3 
+eIF1 binds to the E site, eIF1A binds to the A site, EIF3 blocks the A site preventing tRNA binding
+Step 2: eIF2 and the charged tRNAMet with bound GTP join the 40S 
+creating the 43S preinitiation complex
+
+Slide 52:
+Five Stages of Protein Synthesis
+Stage 2: Initiation (Eukaryotes)
+Step 3: mRNA binds with eIF4F
+eIF4F includes 
+eIF4E (binds the 5’cap)
+eIF4A (an ATPase and RNA helicase)
+eIF4G (linker protein which binds to PABP – poly(A) binding protein at the 3’ poly (A) tail)
+
+Slide 53:
+Five Stages of Protein Synthesis
+Stage 2: Initiation (Eukaryotes)
+Step 4: scanning of the mRNA until an AUG codon is found
+Step 5: 60S subunit associates and many of the initiation factors are released.
+
+Slide 54:
+Five Stages of Protein Synthesis
+Stage 3: Elongation (Prokaryotic)
+Step 1: binding of the incoming aminoacyl-tRNA
+Incoming aminoacyl-tRNA binds first to an EF-Tu –GTP complex.
+The aminoacyl-EF-Tu-GTP complex binds to the aminoacyl (A) site of the 70S initiation complex.
+After GTP hydrolysis, EF-Tu-GDP leaves the ribosome.
+
+
+Slide 55:
+Five Stages of Protein Synthesis
+Stage 3: Elongation (Prokaryotic)
+Step 2: peptide bond forms
+There are now two amino acids bound to tRNAs positioned for joining.
+One is on the A site, the other on the P site.
+N-formylmethionyl group is transferred from its tRNA in the P site to the amino acid in the A site.
+The reaction is catalyzed by the 23S rRNA (ribozyme).
+“Uncharged” (deacetylated) tRNAfMet is now in the P site.
+
+Slide 56:
+Formation of the First Peptide Bond
+
+Slide 57:
+Five Stages of Protein Synthesis
+Stage 3: Elongation (Prokaryotic)
+Step 3: translocation of the ribosome
+The ribosome moves one codon toward the 3’-end of the mRNA.
+uses energy from GTP hydrolysis
+GTP is part of EF-G (translocase)
+leaves A site open for new aminoacyl-tRNA
+
+Slide 58:
+Five Stages of Protein Synthesis
+Stage 3: Elongation (Eukaryotic)
+Steps are similar to bacteria
+Elongation factors – eEF1α (EF-Tu), eEF1βγ (EF-Ts), eEF2 (EF-G)
+Difference: Eukaryotic ribosomes do NOT have an E site; the uncharged tRNAs are released from the P site.
+
+
+Slide 59:
+Five Stages of Protein Synthesis
+Stage 4: Termination
+Signaled by a stop codon 
+UAA, UAG, or UGA in the A site will trigger the action of termination factors (release factors) RF-1, RF-2, RF-3.
+These help to:
+hydrolyze terminal peptide-tRNA bond
+release peptide and tRNA from ribosome
+cause subunits of ribosome to dissociate so that initiation can begin again
+
+Slide 60:
+Ribosome Rescue
+Damaged mRNA lead to the formation of an incomplete or peptide and a “nonstop complex.”
+The ribosome is rescued by trans-translation.
+A transfer-messenger RNA (tmRNA) and small protein B (SmpB) bind to the stalled complex in the empty A site.
+Translation continues until a stop codon is found in the tmRNA.
+The defective mRNA and polypeptide are both degraded.
+
+Slide 61:
+Features of Protein Synthesis
+Large energy cost
+Can be rapid when accomplished on clusters of ribosomes called a polysome
+In bacteria, tightly coupled to transcription
+Translation can begin before transcription is finished.
+
+Slide 62:
+Five Stages of Protein Synthesis
+Stage 5: Posttranslational Modifications
+Some proteins require modification before the fully active conformation is achieved.
+Posttranslational modifications include:
+enzymatic removal of formyl group from first residue, or removal of Met and sometimes additional residues
+acetylation of N-terminal residue
+Removal of signal sequences or other regions
+Attaching carbohydrates
+Removing sequence to activate an enzyme
+
+
+Slide 63:
+Modifying amino acids with additional phosphates, carboxylic acid groups, and so on
+Addition of isoprenyl groups (such as farnesyl pyrophosphate) from intermediates of cholesterol synthesis pathway
+Isoprene or derived group helps anchor proteins in membranes.
+Adding prosthetic groups
+Forming disulfide links
+Posttranslational Modifications
+
+Slide 64:
+More Modified Amino Acids
+
+Slide 65:
+Ribosome Profiling 
+It is a method in which a researcher is able to isolate mRNA currently being transcribed. 
+mRNA is isolated and subjected to RNase; only transcripts bound to ribosomes will survive.
+RT-PCR is done and the resultant cDNA is sequenced.
+The data are both quantitative and qualitative.  
+
+Slide 66:
+Antibiotics and Toxins Targeting Translation
+Almost every step in translation can be inhibited with an antibiotic.
+Example: puromycin
+made by the mold Streptomyces alboniger
+similar structure to 3’-end of aminoacyl-tRNA
+so it binds to the A site of ribosomes, forming bond with growing peptide
+but can’t participate in translocation and dissociation
+Thus, puromycin terminates protein synthesis.
+
+Slide 67:
+Tetracyclines 
+They block the A site on the ribosome.
+Chloramphenicol and cycloheximide
+They block peptidyl transfer.
+Chloramphenicol inhibits mitochondrial and chloroplast ribosomes as well as bacterial.
+Streptomycin
+It causes code to be misread and inhibits initiation at high concentrations.
+Antibiotics and Toxins Targeting Translation
+
+Slide 68:
+Diptheria toxin
+catalyzes ADP-ribosylation of dipthamide (modified histidine) residue of eEF2 and inactivating it
+
+Ricin  
+toxic protein from castor bean
+inactivates the 60S subunit by depurinating a specific adenosine residue of the 28S rRNA
+
+Antibiotics and Toxins Targeting Translation
+
+Slide 69:
+Protein Targeting and Degradation
+Proteins move from site of synthesis to: 
+exit a cell
+become part of the membrane
+enter a subcellular compartment, and so on
+Most have a signal sequence at or near N-terminus
+13−36 amino acid residues in length
+This takes place in eukaryotic cells, where subcellular organization aids in compartmentalizing metabolic pathways.
+
+
+Slide 70:
+Peptides Directed to the ER
+As peptide emerges from the ribosome, the signal sequence is bound by signal recognition particle (SRP).
+SRP/ribosome/RNA complex is delivered to the ER lumen.
+Some modification takes place here (glycosylation, etc.).
+Transport vesicles then take proteins to Golgi apparatus.
+Proteins are sorted here in ways poorly understood.
+Proteins enter the biosynthetic/secretory pathway.
+Proteins for mitochondria and chloroplast bind chaperone proteins in the cytosol and are delivered to receptors on the exterior of the organelle.
+
+Slide 71:
+Directing Peptides to the ER and Beyond
+
+Slide 72:
+Glycosylation of Proteins
+Glycoproteins form by linking an oligosaccharide to a side group on the peptide. 
+N-linked (nitrogen of Asn or Arg) 
+begins in the RER
+O-linked (oxygen of Ser, Thr, Tyr)
+typically occurs in the golgi or cytosol for proteins not entering the ER
+Proteins are sorted in the Golgi and sent on to their final destinations.
+
+Slide 73:
+Glycosylation of Proteins
+
+Slide 74:
+How Proteins Are Targeted for and Imported into the Nucleus
+Proteins for the nucleus have a nuclear localization sequence (NLS).
+An NLS is not cleaved after the protein is targeted.
+The nuclear envelope can degrade and proteins will need to re-enter the nucleus.
+It binds importin α and β and a GTPase called Ran.
+The complex docks at a pore and is imported.
+Ribosomal proteins are synthesized in the cytosol, imported back into the nuclease, assembled into subunits in the nucleolus, and then exported back to the cytosol.
+
+Slide 75:
+Targeting of Nuclear Proteins
+
+Slide 76:
+Protein Degradation Is Inevitable
+Half-lives of proteins range from seconds to days to even months.
+Hemoglobin is long lived.
+Defective proteins are short lived, as are many metabolism regulatory proteins that respond to rapidly changing needs.
+But all are eventually degraded.
+
+
+Slide 77:
+Mechanisms of Degradation
+In E. coli, Lon (for “long form,” an ATP-dependent protease) hydrolyzes defective or short-term peptides.
+In eukaryotes, proteins are linked to the protein ubiquitin.
+via activating enzyme E1, conjugating enzyme E2, and ligating enzyme E3
+Ubiquinated proteins are cleaved by the 26 proteasome complex.
+Ubiquitin is very highly conserved among all eukaryotes.
+
+Slide 78:
+Attachment of Ubiquitin to Target Proteins
+
+Slide 79:
+Chapter 27: Summary
+amino acids are coded for on mRNA, carried by charged tRNA, and linked together by rRNA/ribosomes
+the genetic code is universal
+there are five stages of protein biosynthesis
+ribosomes are composed of rRNA and proteins, and their sizes vary between eukaryotes and prokaryotes
+helper proteins aid in initiation, elongation, and termination of peptide synthesis
+polysomes are found only in prokaryotic organisms
+protein synthesis can be inhibited by antibiotics or toxins
+proteins are targeted to specific places through an N-terminal sequence
+proteins may be posttranslationally modified
+all proteins are eventually recycled
+In this chapter, we learned that:

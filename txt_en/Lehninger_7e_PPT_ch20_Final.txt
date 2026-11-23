@@ -1,0 +1,516 @@
+Slide 1:
+
+20| Photosynthesis and Carbohydrate Synthesis in Plants
+© 2017 W. H. Freeman and Company
+
+Slide 2:
+CHAPTER 20 
+Photosynthesis and Carbohydrate Synthesis in Plants
+Photosynthetic electron transfer and photophosphorylation
+CO2 assimilation in photosynthetic organisms
+Photorespiration in C3 plants
+Avoiding photorespiration in C4 plants
+Key topics: 
+
+Slide 3:
+Oxidative Phosphorylation
+Electrons from the reduced cofactors NADH and FADH2 are passed to proteins in the respiratory chain.
+In eukaryotes, oxygen is the ultimate electron acceptor for these electrons.
+Energy of oxidation is used to phosphorylate ADP.
+
+Photophosphorylation
+Water is the source of electrons that are passed via a chain of protein transporters to the ultimate electron acceptor, NADP+. 
+Light energy is used to separate charges on chlorophyll to generate NADPH and phosphorylate ADP.
+Oxygen is the byproduct of water oxidation.
+
+Oxidative Phosphorylation versus Photophosphorylation
+
+Slide 4:
+Oxidative Phosphorylation versus Photophosphorylation
+Oxidative Phosphorylation
+Photophosphorylation
+
+Slide 5:
+Light Energy Is Converted to ATP 
+in Plant Chloroplasts
+
+Slide 6:
+Various Pigments Harvest the Light Energy
+
+Slide 7:
+Photopigments Absorb Different Wavelengths of Light
+The energy is transferred to the photosynthetic reaction center.
+
+Slide 8:
+Organization of Light-Absorbing Molecules in Chloroplasts
+
+Slide 9:
+Harvested Light Energy Excites Electrons in the Reaction Center
+
+Slide 10:
+Bacterial Photosynthesis Involve One of Two Types of Reaction Centers
+
+Slide 11:
+In Plants, Two Reaction Centers Work Together
+
+Slide 12:
+Photosystem II Evolves Oxygen from Water
+
+Slide 13:
+Water Splitting Allows Single Electron Transfer to the Photosystem 
+The water-splitting complex donates single electrons to photosystem II but releases a single O2 after four electrons are freed from two waters. 
+
+Overall reaction: 
+2 H2O → 4 e− + 4 H+ + 1 O2
+
+Slide 14:
+Photosystem II Transfers Electrons to Plastoquinones
+Plastoquinones are structurally and functionally similar to ubiquinones found in the mitochondria.
+
+These lipid-soluble small molecules transport two electrons to the cytochrome b6f complex.
+
+Slide 15:
+Cytochrome b6f Complex Links PS II and I and Translocates Protons into the Lumen 
+Structurally and functionally similar to Complex III in the electron-transport chain
+Protons are removed from plastoquinones as plastoquinones are oxidized.
+The PQ cycle is similar to the Q cycle in the ETC.
+Electrons are funneled to plastocyanin, a single electron carrier, which carries the electron to PS1.
+
+Slide 16:
+Photosystem I Results in Reduced NADPH
+
+Slide 17:
+Light-Induced Redox Reactions
+ Cause Acidification of Lumen 
+In contrast to oxidative phosphorylation, protons are pumped into the lumen, building up a large concentration gradient quickly in the small space. 
+The proton-motive force across the thylakoid membrane drives the synthesis of ATP.
+Synthesis of ATP has the same 3H+ per 1 ATP cost as in oxidative phosphorylation
+
+Slide 18:
+Cyclic Photosynthesis Can Be Utilized to Generate Excess ATP
+
+Slide 19:
+Organization of Photosyntheic Machinery 
+in the Thylakoid Membrane
+
+Slide 20:
+Summary of Photosynthesis
+Photosynthetic organisms capture energy from light at a variety of wavelengths using accessory pigments and funnel it via excitons to reaction centers.
+In plants, electrons are freed from H2O, which generates O2 and H+. These electrons are excited and moved through the photosynthetic electron chain. 
+Per water, 6 H+ are mobilized into the lumen.
+The final electron acceptor for linear photosynthesis is NADP+, which requires two electrons for conversion to NADPH.
+When ATP stores are low, the electrons can be transported to cytochrome b6f and cycled through the second half of photosynthesis, resulting in an increased proton gradient.
+
+Slide 21:
+Introduction to Anabolic Pathways
+The previous chapters were mainly concerned with catabolism: how to extract energy from biomolecules.
+
+This chapter and those that follow are concerned with anabolism: how to build biomolecules.
+
+Slide 22:
+Assimilation of CO2 by Plants
+Animal cells: use 3-C intermediates (pyruvate, lactate, etc.) for synthesis of carbohydrates, amino acids, and lipids, but the 3-C intermediates must be made from degradation of a larger molecule
+Plant cells: can also make 3-C intermediates for further synthesis 
+Glyceraldehyde 3-phosphate (G3P) is an important one.
+made from CO2, H2O, plus ATP and NADPH from photosynthesis
+Making CO2 into intermediates is CO2 assimilation.
+
+Slide 23:
+Assimilation of CO2 into Biomass
+
+Slide 24:
+CO2 Assimilation Occurs in Plastids
+Organelles in plants and algae
+includes chloroplasts (for photosynthesis), amyloplasts (for starch storage), and so on
+Enclosed by a double membrane
+As in mitochondria, the inner membrane is impermeable to ions and polar molecules.
+Have their own small genome
+again, like mitochondria
+
+Slide 25:
+Amyloplasts―Filled with Starch
+(and Stained with Iodine)
+
+Slide 26:
+CO2 Assimilation
+It occurs in the stroma of chloroplasts via a cyclic process known as the Calvin cycle.
+Key intermediate ribulose 1,5-bisphosphate is constantly regenerated using energy of ATP.
+It produces 3-phosphoglycerate, then glyceraldehyde 3-phosphate (G3P) in eq with dihydroxyacetone phosphate (DHAP)
+The net result is the reduction of CO2 with NADPH that was generated in the light reactions of photosynthesis.
+
+Slide 27:
+The Three Stages of the Calvin Cycle of CO2 Assimilation
+
+Slide 28:
+Three Stages of the Calvin Cycle
+CO2 fixation: 3 ribulose 1,5-bisphosphate + 3 CO2 →                    6 3-phosphoglycerate 
+catalyzed by rubisco
+3-phosphoglycerate reduced to glyceraldehyde 3-phosphate using NADPH and ATP from photosynthesis
+Catalyzed by chloroplast isoforms of  3-phosphoglycerate kinase and glyceraldehyde 3-phosphate dehydrogenase from glycolysis
+Regeneration of ribulose 1,5-bisphosphate
+Overall:  3 CO2 + 6 NADPH + 5 H2O + 9 ATP → glyceraldehyde   3-phosphate (G3P) + 2 H+ + 6 NADP+ + 9 ADP + 8 Pi 
+
+Slide 29:
+ The First Stage (CO2 Fixation) Is Catalyzed by Rubisco
+Most plentiful enzyme on Earth
+Rubisco = ribulose 1,5-bisphosphate carboxylase/oxygenase (also RuBisCo)
+Large Mg2+ dependent enzyme 
+Catalyzes the reaction:
+ribulose 1,5-bisphosphate + CO2 → 2 3-phosphoglycerate
+
+Slide 30:
+ Rubisco Exists in Two Major Forms and Is Abundant
+Form 1:  plants, algae, cyanobacteria
+8 large catalytic subunits (encoded by plastid genome) + 8 small subunits (encoded by nucleus)
+Form II:  photosynthetic bacteria only
+only 2 catalytic subunits; resemble plant subunits
+
+Low turnover # of 3 sec–1 @ 25°C →means a LOT of the enzyme needed!
+50% of plant enzymes are rubisco.
+
+Slide 31:
+Structure of Form II Rubisco
+
+Slide 32:
+Mg2+ in Rubisco
+
+Slide 33:
+Rubisco
+Carboxylase
+Mechanism―
+Overview
+
+Slide 34:
+1.  Creation of Enediolate Intermediate
+Mg2+ facilitates interaction of carbamoylated Lys to ribulose 1,5-bisphosphate → forms enediolate intermediate
+
+Slide 35:
+2.  Nucleophilic Attack to Create β-Keto Acid Intermediate
+Mg2+ polarizes CO2 to accept nucleophilic attack from enediolate, forming 6-C β-keto acid intermediate
+
+
+Slide 36:
+3.  Hydroxylation at C-3
+Hydroxylation at C-3 of ribulose-1,5-bisphosphate by water
+
+Slide 37:
+4.  Cleavage to Yield First 3-Phosphoglycerate
+
+Slide 38:
+5.  Protonation and Release of Second 3-Phosphoglycerate
+Deprotonation of Lys175 is easily reversed at physiological pH, allowing complete reset of the active site.
+
+Slide 39:
+Catalytic Role of Mg2+ in Rubisco’s Carboxylase Activity
+Notice that Mg2+ is held by negatively charged side chains of:
+Glu, Asp, and carbamoylated Lys 
+Mg2+ brings together the reactants in a correct orientation and stabilizes the negative charge that forms upon the nucleophilic attack of enediolate to CO2.
+
+Slide 40:
+Rubisco Is Activated via Covalent Modification of the Active Site Lysine
+Rubisco is highly regulated (as first step of CO2 assimilation).
+Inactive until Lys201 is carbamoylated by CO2 (Lys201 inaccessible).
+Rubisco activase (an enzyme sometimes triggered by light) changes rubisco conformation to expose Lys201.
+Rubisco activase requires ATP.
+
+Slide 41:
+How Rubisco Activase Exposes Lys201
+
+Slide 42:
+Rubisco Is also Inhibited by a “Noctural” Inhibitor
+2-carboxyarabinitol 1-phosphate inhibits carbamoylated rubisco.
+transition state analog of β-keto acid intermediate
+synthesized in the dark in some plants
+
+Slide 43:
+Stage 2:  3-phosphoglycerate Reduced to Glyceraldehyde 3-Phosphate
+Six 3-phosphoglycerate + 6 ATP + 6 NADPH + 6 H+ → 6 glyceraldehyde 3-phosphate + 6 ADP + 6 NADP+ + 6 Pi
+
+Requires NADPH and ATP from photosynthesis
+Part of gluconeogenesis (except NADPH used rather than NADH)
+uses enzymes 3-phosphoglycerate kinase and glyceraldehyde 3-phosphate dehydrogenase
+Driven forward by high concentration of NADPH and ATP in the chloroplast stroma
+
+
+Slide 44:
+Stage 3:  Regeneration of Ribulose 1,5-Bisphosphate
+Six glyceraldehyde-3-phosphate are produced during the Calvin cycle.
+Ribulose-1,5-bisphosphate must be regenerated in order to restart the cycle.
+5/6 glyceraldehyde-3-phosphate products are regenerated into ribulose-1,5-bisphosphate.
+1/6 glyceraldehyde-3-phosphate products are pulled out of the cycle and used for building carbohydrates.
+
+Slide 45:
+Stage 3: Fate of One Glyceraldehyde-3-Phosphate in Carbohydrate Biosynthesis
+Glyceraldehyde-3-phosphate is an intermediate in glycolysis and gluconeogenesis and can be used in anabolic processes to create starch and sucrose as well as catabolic processes to create pyruvate and acetyl-CoA.
+
+Slide 46:
+Stage 3: Regeneration Steps for 5/6 of Glyceraldehyde-3-Phosphate Products of the Calvin Cycle
+G3P converted to DHAP by triose phosphate isomerase
+G3P and DHAP converted to fructose 6-phosphate (F6, 6C) via aldolase and fructose 1,6-bisphosphatase
+2C removed from F6P to yield erythrose 4-phosphate (E4P, 4C); catalyzed by transketolase  
+Transketolase transfers 2C from step 3 to G3P, yielding xylulose 5-phosphate (Xu5P, 5C)
+
+Slide 47:
+E4P and DHAP combine to sedoheptulose 1,7-bisphosphate (S1,7BP; 7C) by aldolase.
+Sedoheptulose 1,7-bisphosphate dephosphorylated to sedoheptulose 7-phosphate (S7P) via sedoheptulose 1,7-bisphosphatase  
+ This enzyme is unique to plants. 
+S7P has 2C removed by transketolase to yield ribose 5-phosphate (R5P); 2C on transketolase transferred to G3P to yield another Xu5P 
+
+Slide 48:
+R5P converted into ribulose 5-phosphate (Ru5P) by phosphopentose isomerase
+Also, from step 7, Xu5P converted to RuP by phosphopentose epimerase
+Finally, RuP phosphorylated to ribulose 1,5-bisphosphate by phosphoribulokinase
+This enzyme is also unique to plants.
+
+Slide 49:
+Stage 3: Regeneration Steps for 5/6 of Glyceraldehyde-3-phosphate Products of the Calvin Cycle (Overview)
+
+Slide 50:
+
+Slide 51:
+
+Slide 52:
+Stage 3: Addition of Phosphate from ATP to Ribulose-5-Phosphate Commits Product to Calvin Cycle
+
+Slide 53:
+Transketolase Uses Thiamine Pyrophosphate as the Cofactor
+Contains thiazolium anion for nucleophilic attack on carbonyls
+Also used by:
+pyruvate dehydrogenase in acetyl CoA formation
+pyruvate decarboxylase in ethanol metabolism
+α-ketoglutarate dehydrogenase in CAC
+transketolase in pentose phosphate pathway
+
+Slide 54:
+
+Slide 55:
+Stoichiometry of CO2 Assimilation in the Calvin Cycle
+Fixation of three CO2 molecules yields one glyceraldehyde 3-phosphate for use in anabolic processes.
+Nine ATP molecules and six NADPH molecules are consumed.
+
+Slide 56:
+Fate of the Pi from ATP Hydrolysis in Stage 2
+Eight of the nine Pi combine with ADP to regenerate ATP.
+The ninth is incorporated into G3P.
+requires that Pi be transferred from cytosol
+uses a special Pi-triose antiport
+
+Slide 57:
+The Pi-Triose Phosphate Antiporter Is Needed for Sucrose Synthesis 
+Unlike starch (made in the chloroplast stroma), sucrose is made in the cytosol!
+used for transport to distant plant tissues
+But the inner chloroplast membrane is impermeable to phosphorylated compounds.
+So, the antiporter exchanges G3P or DHAP for one phosphate (Pi), thus sending the triose phosphates to the cytosol for sucrose synthesis.
+
+Slide 58:
+
+Slide 59:
+Photosynthesis: From Light and CO2 to Glyceraldehyde 3-Phosphate
+The assembly of one molecule of glyceraldehyde 3-phosphate requires the capture of roughly 24 photons.
+H+ move from the stroma to the thylakoid
+creates alkaline conditions in the stroma
+Accompanied by Mg2+ transport from thylakoid to stroma
+Enzyme for photosynthesis and CO2 assimilation more active in the alkaline, high [Mg2+] conditions of the stroma
+
+Slide 60:
+How H+ and Mg2+ Movement Assist in Activation of Photosynthesis and CO2 Assimilation
+
+Slide 61:
+
+Slide 62:
+Light Activates Four Enzymes via Electron-Driven Reduction of Cys-Cys Crosslinks
+Target enzymes are:
+ribulose 5-phosphate kinase  
+fructose 1,6-bisphosphatase   
+seduloheptose 1,7-bisphosphatase   
+glyceraldehyde 3-phosphate dehydrogenase
+If oxidized (Cys residues in Cys-Cys disulfide form) → enzymes are inactive.
+In light, photosystem I sends e– to ferredoxin, which sends them to thioredoxin (Fig. 20-19), which donates them to disulfide bonds to reduce them to free Cys.
+
+Slide 63:
+Light Activation of Calvin Cycle Enzymes
+
+Slide 64:
+Mitochondrial Respiration and Photorespiration
+So far, we have seen that plants oxidize water to O2 and reduce CO2 to carbohydrates.
+                 CO2 + H2O → O2 + (CH2O)
+Plants also carry out the reverse in mitochondria: O2 is oxidized to water, whereas substrates are reduced to CO2.
+In addition, a wasteful side reaction catalyzed by rubisco occurs in mitochondria that consume O2 and yield CO2.
+This photorespiration reaction is driven by light and is coupled with a costly salvage pathway.
+Unlike mitochondrial respiration, it does not yield energy.
+
+Slide 65:
+Oxygenase Activity of Rubisco
+O2 competes with CO2 for the active site.
+~1 in every 3 or 4 turnovers, O2 binds
+The reactive nucleophile in the rubisco reaction is the electron-rich enediol form of ribulose 1,5-bisphosphate.
+The nucleophile adds to O2 to form 3-phosphoglycerate (same as in Calvin cycle) and                   2-phosphoglycerate (Fig. 20-12).
+2-PG is metabolically useless.
+Salvaging its C requires energy.
+
+Slide 66:
+The Glycolate Pathway 
+Complex ATP-consuming process for the recovery of C2 fragments from photorespiration.
+Uses three organelles 
+Loss of C as CO2 by mitochondrial decarboxylation of glycine
+Ultimately, two 2PGs are converted to Ser + CO2.
+
+Slide 67:
+Mechanism of Glycine Decarboxylase
+
+Slide 68:
+Glycine Decarboxylase Is Abundant in Photosynthetic Parts of Plants 
+Flux through rubisco reaction and glycolate pathway can be high in bright sun, so plants need a lot of glycine decarboxylase.
+makes up 50% of protein in some plant leaves
+but nonphotosynthetic parts of plants (tubers, etc.) have little glycine decarboxylase
+
+Slide 69:
+C4 versus C3 Plants
+Most crop plants are C3.
+as discussed, first step in Calvin cycle is CO2 fixation into 3-C product, 3-phosphoglycerate
+for example: wheat, barley, potatoes
+ C4 plants have an earlier step (before rubisco).
+bypass the C-3 fixation step by fixing CO2 into a 4-C compound (oxaloacetate from acetyl CoA)
+tend to grow in hotter, sunnier climates
+have high rates of growth, photosynthesis, low water loss, special leaf structure
+for example: sugar cane, corn/maize, sorghum
+
+
+
+Slide 70:
+Benefits of C4 Plants: Heat and Drought Resistance
+Physical separation of reactions: 
+CO2 is captured into oxaloacetate (4C) in mesophyll cells of the leaf.
+Oxaloacetate is derived from pyruvate.
+Oxaloacetate then passes into bundle-sheath cells (where rubisco is located) and releases CO2.  
+The C4 pathway has a higher energy cost, but also has increased efficiency in heat.
+As temperature increases, rubisco affinity for CO2 increases.
+
+Slide 71:
+
+Slide 72:
+C4 Pathway
+C4 plants spatially separate CO2 fixation from rubisco activity, resulting in less reaction of rubisco with oxygen and avoidance of the costly glycolate pathway.
+
+Slide 73:
+CAM Plants Separate CO2 Trapping and Fixation in Time
+Another pathway to avoid the rubisco reaction with oxygen
+First discovered in Crassulacae, so called Crassulacean Acid Metabolism (CAM)
+Found in plants that grow at high temps, dry conditions
+for example: pineapple, cacti
+minimize loss of water vapor during heat of the day
+
+
+Slide 74:
+CAM Plants Open Gas-absorbing Stomata Only at Night
+At night, air is cooler and moister.
+potential loss of water by the plant is lower
+CO2 absorbed at night is fixed to make oxaloacetate (4C) via PEP carboxykinase.
+Oxaloacetate is reduced to malate and stored in vacuoles.
+In daytime, malate releases CO2 via NADP-linked malic enzyme, and CO2 fixation proceeds.
+Since stomata are closed, [O2] is low.
+
+Slide 75:
+Excess Triose Phosphate Is Converted to Starch and Sucrose
+Regardless of whether a plant is C3, C4, or CAM, glyceraldehyde-3-phosphate can be used to build larger carbohydrates.
+Starch is made in chloroplasts for short-term storage.
+or made in amyloplasts of nonphotosynthetic tubers, seeds, roots, and so on, for long-term storage
+provides the bulk of stored energy for the plant
+Sucrose is made in cytosol for transport.
+Sucrose is the “blood glucose” of the plant.
+
+
+Slide 76:
+Starch Synthesis Proceeds Similarly to Glycogen Synthesis
+Gluconeogenesis of two glyceraldehyde-3-phosphates will result in glucose-6-phosphate.
+Phosphoglucomutase then converts glucose-6-phosphate to glucose-1-phosphate.
+But unlike glycogen, glucose monomers in starch come from ADP-glucose (not UDP-glucose), which is made by ADP-glucose pyrophosphorylase.
+Starch synthase is similar to glycogen synthase. It creates α(1→4) bonds (amylose).
+amylopectin: α(1→6) branches added by branching enzyme
+
+Slide 77:
+Starch Synthesis Is Regulated at ADP-Glucose Pyrophosphorylase
+Activated by 3-phosphoglycerate
+Inhibited by Pi 
+
+Slide 78:
+Sucrose Synthesis Uses UDP-Glucose and Creates an α1→β2 Bond
+Synthesis of sucrose occurs in the cytosol.
+DHAP is transported out of the chloroplast using Pi-triose phosphate transporter.
+Once in the cytosol, DHAP undergoes gluconeogenesis to synthesize glucose-6-phosphate and fructose-6-phosphate.
+Glucose-6-phosphate is converted to UDP-glucose by UDP-glucose pyrophosphorylase.
+
+
+Slide 79:
+Sucrose Synthesis Involves Conversion of DHAP + G3P to Fructose Followed by Addition of UDP-Glucose
+Aldolase combines DHAP + G3P to form fructose 1,6-bisphosphate (F1,6BP).
+F1,6BP is dephosphorylated by F1,6-bisphosphatase to form fructose 6-phosphate (F6P).
+Sucrose 6-phosphate synthase adds UDP-glucose to F6P to yield sucrose 6-phosphate.
+Sucrose 6-phosphatase cleaves a PO43− to yield sucrose.
+
+Slide 80:
+Sucrose Synthesis Occurs in Two Enzymatic Steps
+
+Slide 81:
+Regulation of Sucrose Synthesis Occurs at Interconversion of F1,6BP and F6P
+Isoforms of PFK-1 andfFructose-6-phosphatase have specific regulation in plants.
+Specific isoform of PFK-1 is pyrophosphate-dependent PFK-1 (PP-PFK-1).
+
+Slide 82:
+FBPase-1 and PP-PFK-1 Are Regulated by Light and Dark
+In the dark, there is no photosynthesis to fuel the Calvin cycle, and therefore no triose phosphates, so no sucrose synthesis… but sucrose breakdown is needed for energy. 
+FBPase-1 inhibited (like gluconeogenesis)
+PP-PFK-1 active (like glycolysis)
+In the light, triose phosphate is made, so sucrose is synthesized.
+FBPase-1 active
+PP-PFK-1 inhibited
+
+Slide 83:
+FBPase-1 and PP-PFK-1 Are Also Regulated by F26BP
+Remember that F26BP is the important glycolysis/gluconeogenesis regulator in animal cells.
+made and broken down by bifunctional enzyme
+
+
+Slide 84:
+Regulation of Sucrose Phosphate Synthesis by Phosphorylation
+Activated by glucose 6-phosphate
+G6P also inhibits the kinase that makes SPS less active.
+
+SPS is inhibited by Pi.   
+Pi also inhibits the phosphatase that makes SPS more active.
+
+Slide 85:
+Cell Walls Are Strong Due to Cellulose
+More than 1011 metric tons made every yearr!
+Glucose polymer with β(1→4) linkages	
+Straight shape allows chains to crosslink via H-bonds → strong microfibrils.
+Synthesized from intracellular precursors but assembled outside plasma membrane
+
+Slide 86:
+Cellulose Structure
+
+Slide 87:
+Steps in One Model of Cellulose Synthesis
+Glucose attaches to lipid in the cell membrane.
+Sucrose synthase generates UDP-glucose, and with the help of cellulose synthase, six chains are created.
+The cellulose-protein complexes form “rosettes” (seen by electron microsopy).
+3.  Cellulose synthase extends the chain.
+Growth and laying down of the polymer appear to be directed by micotubules.
+Chains crystallize to form fibrils.
+
+Slide 88:
+A Model for Cellulose Synthesis
+
+Slide 89:
+Plants Also Use Fats and Proteins
+ for Carbohydrate Synthesis: Glyoxylate Cycle
+
+Slide 90:
+Chapter 20: Summary
+In this chapter, we learned that:
+ATP and NADPH from photosynthesis are needed in order to assimilate CO2 into carbohydrates 
+assimilations of three CO2 molecules via the Calvin cycle lead to the formation of one molecule of glyceraldehyde-3-phosphate for use in anabolic reactions
+the key enzyme of the Calvin cycle, rubisco, fixes carbon dioxide as well as oxygen
+low selectivity of rubisco causes a wasteful incorporation of molecular oxygen in C3 plants. C4 and CAM plants have evolved separate methods for reducing this waste.
+plants can assemble starch for energy storage, sucrose for transport, or cellulose for structure. Each uses unique enzymes and has specific regulation
+plants can convert acetyl-CoA into carbohydrates via the glyoxylate cycle

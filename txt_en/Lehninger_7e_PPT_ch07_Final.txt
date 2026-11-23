@@ -1,0 +1,412 @@
+Slide 1:
+
+7 | Carbohydrates and Glycobiology
+© 2017 W. H. Freeman and Company
+
+Slide 2:
+CHAPTER 7 
+Carbohydrates and Glycobiology
+Structures and names of monosaccharides
+Open-chain and ring forms of monosaccharides
+Structures and properties of disaccharides
+Biological function of polysaccharides
+Biological function of glycoconjugates
+Learning goals: 
+
+Slide 3:
+Carbohydrates
+
+Named so because many have formula Cn(H2O)n
+Produced from CO2 and H2O via photosynthesis in plants 
+Range from as small as glyceraldehyde (Mw = 90 g/mol) to as large as amylopectin (Mw > 200,000,000 g/mol) 
+Fulfill a variety of functions, including:
+energy source and energy storage
+structural component of cell walls and exoskeletons
+informational molecules in cell-cell signaling
+Can be covalently linked with proteins and lipids
+
+Slide 4:
+Basic nomenclature: 
+number of carbon atoms in the carbohydrate + -ose
+example: three carbons = triose
+Common functional groups: 
+All carbohydrates initially had a carbonyl functional group.
+aldehydes = aldose
+ketones = ketose
+
+Carbohydrates
+
+Slide 5:
+Carbohydrates Can Be Constitutional Isomers
+An aldose is a carbohydrate with aldehyde functionality. 
+A ketose is a carbohydrate with ketone functionality.
+
+Slide 6:
+Carbohydrates Can Be Stereoisomers
+Enantiomers 
+stereoisomers that are nonsuperimposable mirror images 
+In sugars that contain many chiral centers, only the one that is most distant from the carbonyl carbon is designated as D (right) or L (left).
+D and L isomers of a sugar are enantiomers.
+For example, L- and D-glucose have the same water solubility.
+Most hexoses in living organisms are D stereoisomers.
+Some simple sugars occur in the L form, such as               L-arabinose.
+
+Slide 7:
+Enantiomers Are Mirror Images
+
+Slide 8:
+Drawing  Monosaccharides
+Chiral compounds can be drawn using perspective formulas.
+However, chiral carbohydrates are usually represented by Fischer projections.
+Horizontal bonds are pointing toward you; vertical bonds are projecting away from you.
+
+
+Slide 9:
+Carbohydrates Can Be Stereoisomers
+Epimers are stereoisomers that differ at only one chiral center.
+Epimers are NOT mirror images, and therefore are NOT enantiomers.
+Epimers are diastereomers; diastereomers have different physical properties (i.e., water solubility, melting temp).
+example: D-Threose is the C-2 epimer of D-erythrose.
+Both are D sugars because they both have the same orientation around the last chiral carbon in the chain.
+
+Slide 10:
+Diastereomers
+Diastereomers: stereoisomers that are not mirror images
+Diastereomers have different physical properties.
+For example, water solubilities of threose and erythrose are different.
+
+Slide 11:
+Epimers
+D-Mannose and D-galactose are both epimers of          D-glucose.
+D-Mannose and D-galactose vary at more than one chiral center and are diastereomers, but not epimers.
+
+Slide 12:
+Common Carbohydrates in Biochemistry
+Ribose is the standard five-carbon sugar.
+Glucose is the standard six-carbon sugar.
+Galactose is an epimer of glucose.
+Mannose is an epimer of glucose.
+Fructose is the ketose form of glucose.
+
+Slide 13:
+
+Slide 14:
+
+Slide 15:
+
+Slide 16:
+
+Slide 17:
+
+Slide 18:
+Reactivity of Carbohydrates: Hemiacetals and Hemiketals
+Aldehyde and ketone carbons are electrophilic.
+Alcohol oxygen atom is nucleophilic.
+When aldehydes are attacked by alcohols, hemiacetals form.
+When ketones are attacked by alcohols, hemiketals form.
+These reactions form the basis of cyclization of sugars.
+
+Slide 19:
+Cyclization of Monosaccharides
+The nucleophilic alcohol attacks the electrophilic carbonyl carbon, allowing formation of a hemiacetal.
+As a result, the linear carbohydrate forms a ring structure.
+At the completion of this structure, the carbonyl carbon is reduced to an alcohol
+The orientation of the alcohol around the carbon is variable and transient.
+
+Slide 20:
+Cyclization of Monosaccharides
+Pentoses and hexoses readily undergo intramolecular cyclization.
+The former carbonyl carbon becomes a new chiral center, called the anomeric carbon.
+When the former carbonyl oxygen becomes a hydroxyl group, the position of this group determines if the anomer is α or β.
+If the hydroxyl group is on the opposite side (trans) of the ring as the CH2OH moiety, the configuration is α. 
+If the hydroxyl group is on the same side (cis) of the ring as the CH2OH moiety, the configuration is β.
+
+Slide 21:
+Cyclization of Monosaccharides: Pyranoses and Furanoses
+Six-membered oxygen-containing rings are called pyranoses after the pyran ring structure.
+Five-membered oxygen-containing rings are called furanoses after the furan ring structure.
+The anomeric carbon is usually drawn on the right side.
+
+
+
+Slide 22:
+
+Slide 23:
+Conformational Formulas of Cyclized Monosaccharides
+Cyclohexane rings have “chair” or “boat” conformations.
+Pyranose rings favor “chair” conformations.
+Multiple “chair” conformations are possible but require energy for interconversion (~46 kJ/mole).
+
+
+Slide 24:
+Important Hexose Derivatives
+
+Slide 25:
+Reducing Sugars
+Reducing sugars have a free anomeric carbon.
+Aldehyde can reduce Cu2+ to Cu+ (Fehling’s test).
+Aldehyde can reduce Ag+ to Ag0 (Tollens’ test).
+It allows detection of reducing sugars, such as glucose.
+Modern detection techniques use colorimetric and electrochemical tests.
+
+Slide 26:
+Colorimetric Glucose Analysis
+Enzymatic methods are used to quantify reducing sugars such as glucose.
+The enzyme glucose oxidase catalyzes the conversion of glucose to glucono-δ-lactone and hydrogen peroxide.
+Hydrogen peroxide oxidizes organic molecules into highly colored compounds.
+Concentrations of such compounds is measured colorimetrically. 
+
+
+Electrochemical detection is used in portable glucose sensors.
+
+Slide 27:
+The Glycosidic Bond
+Two sugar molecules can be joined via a glycosidic bond between an anomeric carbon and a hydroxyl carbon.  
+The glycosidic bond (an acetal) between monomers is more stable and less reactive than the hemiacetal at the second monomer.
+The second monomer, with the hemiacetal, is reducing.
+The anomeric carbon involved in the glycosidic linkage is nonreducing.
+Disacharides can be named by the organization and linkage or a common name.
+The disaccharide formed upon condensation of two glucose molecules via a 1 → 4 bond is described as α-d-glucopyranosyl-(1→4)-d-glucopyranose.
+The common name for this disaccharide is maltose.
+
+Slide 28:
+
+Slide 29:
+Nonreducing Disaccharides
+Two sugar molecules can be also joined via a glycosidic bond between two anomeric carbons. 
+The product has two acetal groups and no hemiacetals.
+There are no reducing ends; this is a nonreducing sugar.
+
+Slide 30:
+Polysaccharides
+Natural carbohydrates are usually found as polymers.
+These polysaccharides can be:
+homopolysaccharides (one monomer unit)
+heteropolysaccharides (multiple monomer units)
+linear (one type of glycosidic bond)
+branched (multiple types of glycosidic bonds)
+Polysaccharides do not have a defined molecular weight.
+This is in contrast to proteins because, unlike proteins, no template is used to make polysaccharides.
+Polysaccharides are often in a state of flux; monomer units are added and removed as needed by the organism.
+
+Slide 31:
+
+Slide 32:
+Homopolymers of Glucose: Glycogen
+Glycogen is a branched homopolysaccharide of glucose.
+Glucose monomers form (α1 → 4) linked chains.
+There are branch points with (α1 → 6) linkers every 8–12 residues.
+Molecular weight reaches several millions.
+It functions as the main storage polysaccharide in animals.
+
+
+Slide 33:
+Homopolymers of Glucose: 
+Starch
+Starch is a mixture of two homopolysaccharides of glucose.
+Amylose is an unbranched polymer of (α1 → 4) linked residues.
+Amylopectin is branched like glycogen, but the branch points with (α1 → 6) linkers occur every 24–30 residues.
+Molecular weight of amylopectin is up to 200 million.
+Starch is the main storage polysaccharide in plants.
+
+Slide 34:
+Glycosidic Linkages in Glycogen and Starch
+
+Slide 35:
+Mixture of Amylose and Amylopectin in Starch
+
+Slide 36:
+Metabolism of Glycogen and Starch
+Glycogen and starch are insoluble due to their high molecular weight and often form granules in cells.
+Granules contain enzymes that synthesize and degrade these polymers.
+Glycogen and amylopectin have one reducing end but many nonreducing ends. 
+Enzymatic processing occurs simultaneously in many nonreducing ends. 
+
+Slide 37:
+Homopolymers of Glucose: Cellulose
+Cellulose is a linear homopolysaccharide of glucose.
+Glucose monomers form (β1 → 4) linked chains.
+Hydrogen bonds form between adjacent monomers.
+There are additional H-bonds between chains.
+Structure is now tough and water insoluble.
+It is the most abundant polysaccharide in nature.
+Cotton is nearly pure fibrous cellulose.
+
+
+Slide 38:
+Hydrogen Bonding in Cellulose
+
+Slide 39:
+Cellulose Metabolism
+The fibrous structure and water insolubility make cellulose a difficult substrate to act upon.
+Most animals cannot use cellulose as a fuel source because they lack the enzyme to hydrolyze (β1 →4) linkages.
+Fungi, bacteria, and protozoa secrete cellulase, which allows them to use wood as source of glucose.
+Ruminants and termites live symbiotically with microorganisms that produce cellulase and are able to absorb the freed glucose into their bloodstreams.
+Cellulases hold promise in the fermentation of biomass into biofuels.
+
+
+Slide 40:
+Chitin Is a Homopolysaccharide
+Chitin is a linear homopolysaccharide of N-acetylglucosamine.
+N-acetylglucosamine monomers form (β1 → 4)-linked chains.
+forms extended fibers that are similar to those of cellulose
+hard, insoluble, cannot be digested by vertebrates
+structure is tough but flexible, and water insoluble
+found in cell walls in mushrooms and in exoskeletons of insects, spiders, crabs, and other arthropods
+
+
+Slide 41:
+
+Slide 42:
+Agar and Agarose
+Agar is a branched heteropolysaccharide composed of agarose and agaropectin.
+Agar serves as a component of cell wall in some seaweeds.
+Agar solutions form gels that are commonly used in the laboratory as a surface for growing bacteria.
+Agarose solutions form gels that are commonly used in the laboratory for separation DNA by electrophoresis.
+
+Slide 43:
+Agarose Is a Heteropolysaccharide
+
+Slide 44:
+Glycosaminoglycans
+Linear polymers of repeating disaccharide units
+One monomer is either: 
+N-acetyl-glucosamine or
+N-acetyl-galactosamine
+Negatively charged
+uronic acids (C6 oxidation)
+sulfate esters
+Extended hydrated molecule
+minimizes charge repulsion
+Forms meshwork with fibrous proteins to form extracellular matrix
+connective tissue
+lubrication of joints
+
+Slide 45:
+
+Slide 46:
+
+Slide 47:
+
+Slide 48:
+Heparin and Heparan Sulfate 
+Heparin is linear polymer, 3–40 kDa.
+Heparan sulfate is heparin-like polysaccharide but attached to proteins.
+Highest negative-charge density biomolecules
+Prevent blood clotting by activating protease inhibitor antithrombin
+Binding to various cells regulates development and formation of blood vessels.
+Can also bind to viruses and bacteria and decrease their virulence
+
+Slide 49:
+
+Slide 50:
+TABLE 7-2	Structures and Roles of Some Polysaccharides	
+Primer	Typea	Repeating unitb	Size (number of monosaccharide units)	Roles/significance	
+Starch				Energy storage: in plants	
+Amylose
+Amylopectin	Homo-
+Homo-	(α1➔S4) Glc, linear 
+(α1➔S4) Glc, with (α1➔S6) Glc branches every 24–30 residues	50–5,000
+Up to 106		
+Glycogen	Homo-	(α1➔S4) Glc, with (α1➔S6) Glc branches every 8–12 residues	Up to 50,000	Energy storage: in bacteria and animal cells	
+Cellulose	Homo-	(β1➔S4) Glc	Up to 15,000	Structural: in plants, gives rigidity and strength to cell walls	
+Chitin	Homo-	(β1➔S4) GlcNAc	Very large	Structural: in insects, spiders, crustaceans, gives rigidity and strength to exoskeletons	
+Dextran	Homo-	(α1➔S6) Glc, with (α1➔S3) branches	Wide range	Structural: in bacteria, extracellular adhesive	
+Peptidoglycan	Hetero-; peptides attached	4)Mur2Ac(β1➔S4) GlcNAc(β1	Very large	Structural: in bacteria, gives rigidity and strength to cell envelope	
+Agarose	Hetero-	3)D-Gal (β1➔S4)3,6- anhydro-L-Gal(α1	1,000	Structural: in algae, cell wall material	
+Hyaluronan (a glycosaminoglycan)	Hetero-; acidic	4)GlcA (β1➔S3) GlcNAc(β1	Up to 100,000	Structural: in vertebrates, extracellular matrix of skin and connective tissue; viscosity and lubrication in joints	
+aEach polymer is classified as a homopolysaccharide (homo-) or heteropolysaccharide (hetero-).
+bThe abbreviated names for the peptidoglycan, agarose, and hyaluronan repeating units indicate that the polymer contains repeats of this disaccharide unit. For example, in peptidoglycan, the GlcNAc of one disaccharide unit is (β1➔S4)-linked to the first residue of the next disaccharide unit.	
+
+Slide 51:
+Glycoconjugates: Glycoprotein
+A protein with small oligosaccharides attached
+Carbohydrate ia attached via its anomeric carbon to amino acids on the protein.
+Common connections occur at Ser, Thr, and Asn.
+About half of mammalian proteins are glycoproteins.
+Only some bacteria glycosylate a few of their proteins.
+Carbohydrates play role in protein-protein recognition.
+Viral proteins are heavily glycosylated; this helps evade the immune system.
+
+Slide 52:
+
+Slide 53:
+Glycoconjugates: Glycolipids
+Lipids with covalently bound oligosaccharide
+They are parts of plant and animal cell membranes.
+In vertebrates, ganglioside carbohydrate composition determines blood groups.
+In gram-negative bacteria, lipopolysaccharides cover the peptidoglycan layer.
+
+Slide 54:
+
+Slide 55:
+Glycoconjugates: Proteoglycans
+Sulfated glucoseaminoglycans attached to a large rod-shaped protein in cell membrane
+syndecans: protein has a single transmembrane domain
+glypicans: protein is anchored to a lipid membrane
+interact with a variety of receptors from neighboring cells and regulate cell growth
+
+
+Slide 56:
+
+Slide 57:
+
+Slide 58:
+Proteoglycans
+Different glycosaminoglycans are linked to the core protein.
+Linkage from anomeric carbon of xylose to serine hydroxyl
+Our tissues have many different core proteins; aggrecan is the best studied.
+
+Slide 59:
+
+Slide 60:
+Proteoglycan Aggregates
+Hyaluronan and aggrecan form huge (Mr > 2 • 108) noncovalent aggregates.
+They hold a lot of water (1000× its weight) and provide lubrication.
+Very low friction material
+Covers joint surfaces: articular cartilage
+reduced friction
+load balancing
+
+Slide 61:
+
+Slide 62:
+Extracellular Matrix (ECM)
+Material outside the cell
+Strength, elasticity, and physical barrier in tissues
+Main components
+proteoglycan aggregates
+collagen fibers
+elastin (a fibrous protein)
+ECM is a barrier for tumor cells seeking to invade new tissues.
+Some tumor cells secrete heparinase that degrades ECM.
+
+Slide 63:
+Interaction of the Cells with ECM
+Some integral membrane proteins are proteoglycans.
+syndecans
+Other integral membrane proteins are receptors for extracellular proteoglycans.
+integrins 
+These proteins link cellular cytoskeleton to the ECM and transmit signals into the cell to regulate:
+cell growth
+cell mobility
+apoptosis
+wound healing
+
+Slide 64:
+
+Slide 65:
+Oligosaccharides in Recognition 
+
+Slide 66:
+Glycoconjugates: Analysis
+
+Slide 67:
+Chapter 7: Summary
+structures of some important monosaccharides
+structures and properties of disaccharides
+structures and biological roles of polysaccharides   
+functions of glycosylaminoglycans as structural components of the extracellular matrix
+functions glycoconjugates in regulating a variety of biological functions
+
+In this chapter, we learned about:

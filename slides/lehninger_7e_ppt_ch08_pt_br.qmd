@@ -1,0 +1,513 @@
+---
+title: "Capítulo"
+# author: Nicholas Costa & Nicholas Barroso
+lang: pt-BR
+date: today
+date-format: "DD/MM/YYYY"
+format:
+  revealjs:
+    pdf-separate-fragments: true
+#    width: 1600
+#    height: 900
+    width: 960
+    height: 720
+#    logo: imgs/logo.png
+    incremental: false
+    theme: tema_azul.scss
+    lightbox: true
+    slide-number: true
+    background-transition: fade
+    menu: true
+    progress: true
+    center: true
+    auto-stretch: true
+---
+# Slide 1:
+
+8 | Nucleotídeos e Ácidos Nucleicos
+© 2017 W. H. Freeman and Company
+
+# Slide 2:
+CAPÍTULO 8 
+ Nucleotídeos e Ácidos Nucleicos
+Função biológica dos nucleotídeos e ácidos nucleicos
+Estruturas dos nucleotídeos comuns
+Estrutura do DNA de fita dupla
+Estruturas dos ácidos ribonucleicos
+Desnaturação e anelamento do DNA
+Química dos ácidos nucleicos; mutagênese
+Objetivos de aprendizagem: 
+
+# Slide 3:
+Ácidos nucleicos são polímeros de nucleotídeos usados para:
+armazenamento de informação genética (DNA)
+transmissão de informação genética (mRNA)
+processamento de informação genética (ribozimas)
+síntese proteica (tRNA e rRNA)
+Nucleotídeos também são usados na forma monomérica para funções celulares:
+energia para o metabolismo (ATP)
+cofatores enzimáticos (NAD+)
+transdução de sinal (cAMP)
+
+Funções dos
+Nucleotídeos e Ácidos Nucleicos
+
+# Slide 4:
+Nucleotídeos e Nucleosídeos
+Nucleotídeo = 
+base nitrogenada
+pentose
+fosfato
+Nucleosídeo = 
+base nitrogenada
+pentose
+Os átomos de carbono E nitrogênio na base nitrogenada são numerados em formato cíclico. 
+Os carbonos da pentose são designados como N’ para evitar confusão.
+
+# Slide 5:
+Grupo Fosfato
+Carregado negativamente em pH neutro 
+Tipicamente ligado à posição 5’
+Ácidos nucleicos são construídos usando a versão 5’-trifosfato do nucleotídeo.
+ATP, GTP, TTP, CTP
+Dois dos três fosfatos usados para construir ácidos nucleicos formam um grupo abandonador, e os ácidos nucleicos completos contêm uma porção fosfato por nucleotídeo.
+Pode estar ligado a outras posições para funções especializadas 
+
+
+# Slide 6:
+Outros Nucleotídeos:
+Grupo Monofosfato em Diferentes Posições
+
+# Slide 7:
+As Formas de Pentose Diferem em Alguns Ácidos Nucleicos e Nucleotídeos
+β-D-ribofuranose no RNA
+β-2’-desoxi-D-ribofuranose no DNA
+
+
+
+
+
+
+
+
+Diferentes conformações dobradas (*puckered*) do anel de açúcar são possíveis.
+
+# Slide 8:
+
+# Slide 9:
+Bases Nitrogenadas
+Derivadas de pirimidina ou purina
+Moléculas heteroaromáticas contendo nitrogênio
+Estruturas planares ou quase planares
+Absorvem luz UV em torno de 250–270 nm
+
+# Slide 10:
+Bases Pirimidínicas
+Citosina, adenina e guanina são encontradas tanto no DNA quanto no RNA.
+Timina é encontrada apenas no DNA.
+Uracila é encontrada apenas no RNA.
+Todas são boas doadoras e aceptoras de ligações de H.
+Moléculas neutras em pH 7
+
+# Slide 11:
+
+# Slide 12:
+
+# Slide 13:
+Nomenclatura
+TABELA 8-1	Nomenclatura de Nucleotídeos e Ácidos Nucleicos	
+Base	Nucleosídeo	Nucleotídeo	Ácido nucleico	
+Purinas				
+Adenina	Adenosina
+Desoxiadenosina	Adenilato
+Desoxiadenilato	RNA
+DNA	
+Guanina	Guanosina
+Desoxiguanosina	Guanilato
+Desoxiguanilato	RNA
+DNA	
+Pirimidinas				
+Citosina	Citidina
+Desoxicitidina	Citidilato
+Desoxicitidilato	RNA
+DNA	
+Timina	Timidina ou desoxitimidina	Timidilato ou desoxitimidilato	DNA	
+Uracila	Uridina	Uridilato	RNA	
+Nota: “Nucleosídeo” e “nucleotídeo” são termos genéricos que incluem tanto as formas ribo- quanto desoxirribo-. Além disso, ribonucleosídeos e ribonucleotídeos são aqui designados simplesmente como nucleosídeos e nucleotídeos (ex.: riboadenosina como adenosina), e desoxirribonucleosídeos e desoxirribonucleotídeos como desoxinucleosídeos e desoxinucleotídeos (ex.: desoxirriboadenosina como desoxiadenosina). Ambas as formas de nomenclatura são aceitáveis, mas os nomes abreviados são mais comumente usados. A timina é uma exceção; “ribotimidina” é usado para descrever sua ocorrência incomum no RNA.	
+
+# Slide 14:
+Nomenclatura: Desoxirribonucleotídeos
+Você precisa saber estruturas, nomes e símbolos (tanto os códigos de duas letras (dA) quanto de quatro letras (dAMP)).
+
+# Slide 15:
+Nomenclatura: Ribonucleotídeos
+Você precisa saber estruturas, nomes e símbolos (tanto os códigos de duas letras (dA) quanto de quatro letras (dAMP)).
+
+# Slide 16:
+Ligação β-N-Glicosídica
+Nos nucleotídeos, o anel da pentose está ligado à base nitrogenada por meio de uma ligação N-glicosídica.
+A ligação é formada com o carbono anomérico do açúcar na configuração β.
+A ligação é formada: 
+na posição N1 nas pirimidinas
+na posição N9 nas purinas 
+Essa ligação é bastante estável à hidrólise, especialmente nas pirimidinas.
+A clivagem da ligação é catalisada por ácido.
+
+# Slide 17:
+Conformação em Torno da Ligação N-Glicosídica 
+
+Pode ocorrer rotação relativamente livre em torno da ligação N-glicosídica em nucleotídeos livres.
+
+
+
+
+
+
+A sequência de átomos escolhida para definir esse ângulo é O4’-C1’-N9-C4 para purinas, e O4’-C1’-N1-C2 para derivados de pirimidina.
+Ângulo próximo a 0° corresponde à conformação syn.
+Ângulo próximo a 180° corresponde à conformação anti.
+A conformação anti é encontrada no B-DNA normal.
+
+# Slide 18:
+Conformação em Torno da Ligação N-Glicosídica 
+
+A dobra do anel (*ring pucker*) limita o ângulo de torção, χ, possível para a ligação N-glicosídica entre a base nitrogenada e a pentose.
+
+# Slide 19:
+Tautomerismo das Bases Nitrogenadas
+Tautômeros prototrópicos são isômeros estruturais que diferem na localização dos prótons.
+O tautomerismo ceto-enólico é comum em cetonas.
+O tautomerismo lactama-lactima ocorre em alguns heterociclos.
+Ambos os tautômeros existem em solução, mas as formas lactama são predominantes em pH neutro.
+
+# Slide 20:
+
+# Slide 21:
+Absorção UV das Nucleobases
+A absorção de luz UV em 250–270 nm deve-se a transições eletrônicas π → π*.
+Os estados excitados das nucleobases comuns decaem rapidamente por meio de transições não radiativas.
+fotoproteção eficaz do material genético
+ausência de fluorescência dos ácidos nucleicos
+
+
+# Slide 22:
+
+# Slide 23:
+Nucleosídeos Menores no DNA
+A modificação é feita após a síntese do DNA.
+A 5-metilcitosina é comum em eucariotos e também é encontrada em bactérias.
+A N6-metiladenosina é comum em bactérias, mas não é encontrada em eucariotos.
+Marcador epigenético:
+maneira de marcar o próprio DNA para que as células possam degradar DNA estranho (procariotos)
+maneira de marcar quais genes devem estar ativos (eucariotos)
+Poderia o ambiente ligar e desligar genes de maneira hereditária?
+
+# Slide 24:
+
+# Slide 25:
+Nucleosídeos Menores no RNA
+A inosina é às vezes encontrada na “posição oscilante” (*wobble position*) do anticódon no tRNA.
+produzida pela desaminação da adenosina
+fornece um código genético mais rico
+A pseudouridina (Ψ) é amplamente encontrada no tRNA e rRNA.
+mais comum em eucariotos, mas também encontrada em eubactérias
+produzida a partir da uridina por isomerização enzimática após a síntese do RNA
+pode estabilizar a estrutura do tRNA
+pode ajudar no enovelamento do rRNA
+
+# Slide 26:
+
+# Slide 27:
+Polinucleotídeos
+Ligações covalentes são formadas por meio de ligações fosfodiéster.
+cadeia principal (*backbone*) carregada negativamente
+A cadeia principal do DNA é bastante estável.
+DNA de mamutes?
+Hidrólise acelerada por enzimas (DNase)
+A cadeia principal do RNA é instável.
+Na água, o RNA dura alguns anos.
+Nas células, o mRNA é degradado em poucas horas.
+Polímeros lineares
+sem ramificações ou ligações cruzadas
+Direcionalidade
+A extremidade 5’ é diferente da extremidade 3’.
+Lemos a sequência de 5’ para 3’.
+
+# Slide 28:
+Hidrólise do RNA
+O RNA é instável sob condições alcalinas.
+A hidrólise também é catalisada por enzimas (RNase).
+Enzimas RNase são abundantes ao nosso redor.
+A S-RNase em plantas previne a endogamia.
+A RNase P é uma ribozima (enzima feita de RNA) que processa precursores de tRNA.
+Dicer é uma enzima que cliva RNA de fita dupla em oligonucleotídeos.
+proteção contra genomas virais
+tecnologia de interferência de RNA
+
+# Slide 29:
+Mecanismo da 
+Hidrólise do RNA Catalisada por Base
+
+# Slide 30:
+
+# Slide 31:
+Interações por Ligações de Hidrogênio
+Duas bases podem formar ligações de hidrogênio para constituir um par de bases.
+Para monômeros, um grande número de pares de bases é possível.
+Em polinucleotídeos, existem apenas algumas possibilidades.
+Os pares de bases de Watson-Crick predominam no DNA de fita dupla.
+A pareia com T.
+C pareia com G.
+Purina pareia com pirimidina.
+
+# Slide 32:
+Pares de Bases AT e GC
+
+# Slide 33:
+Descoberta da Estrutura do DNA
+Uma das descobertas mais importantes da biologia
+Por que isso é importante?
+ “Esta estrutura possui características inéditas que são de considerável interesse biológico.”
+―Watson e Crick, Nature, 1953
+Boa ilustração da ciência em ação
+ passos em falso no caminho para uma descoberta
+ valor do conhecimento
+ valor da colaboração
+ custo de compartilhar seus dados cedo demais
+
+# Slide 34:
+
+
+Estrutura Covalente do DNA (1868–1935)
+Friedrich Miescher isola a “nucleína” dos núcleos celulares
+
+Hidrólise da nucleína
+fosfato
+pentose
+e uma base nitrogenada
+
+Análise química
+ligações fosfodiéster
+a pentose é ribofuranosídeo
+Estrutura do DNA: 
+1929
+(Levene & London)
+Estrutura do DNA:
+1935
+(Levene & Tipson)
+
+# Slide 35:
+Caminho para a Dupla Hélice
+ Franklin e Wilkins  
+“Cruz” significa hélice
+“Losangos” significam
+   que a cadeia principal
+   açúcar-fosfato
+   está por fora
+ Parâmetros helicoidais
+   calculados
+   
+
+
+
+ Watson e Crick  
+ Camada ausente significa
+   padrão alternado 
+   (sulco maior e sulco menor)
+ Ligações de hidrogênio:
+   A pareia com T
+   G pareia com C
+A dupla hélice ajusta-se aos dados!
+   
+
+Watson, Crick e Wilkins compartilharam 
+o Prêmio Nobel de 1962.
+Franklin faleceu em 1958.
+
+# Slide 36:
+
+# Slide 37:
+
+# Slide 38:
+
+# Slide 39:
+Modelo de Watson-Crick do B-DNA 
+
+# Slide 40:
+Outras Formas de DNA
+
+# Slide 41:
+
+# Slide 42:
+Complementaridade das Fitas de DNA
+Duas cadeias diferem na sequência
+	 (a sequência é lida de 5’ para 3’).
+Duas cadeias são complementares.
+Duas cadeias correm de forma antiparalela.
+“Não escapou à nossa atenção que o pareamento específico 
+ que postulamos sugere imediatamente um possível 
+ mecanismo de cópia para o material genético.”  
+   		―Watson e Crick, Nature, 1953 
+
+
+
+# Slide 43:
+Replicação do Código Genético
+A separação das fitas ocorre primeiro.
+Cada fita serve como molde (*template*) para a síntese de uma nova fita.
+A síntese é catalisada por enzimas conhecidas como DNA polimerases.
+Uma molécula de DNA recém-sintetizada tem uma fita filha e uma fita parental.  
+
+# Slide 44:
+RNA Mensageiro: 
+Portador do Código para a Sequência de Proteínas
+É sintetizado usando um molde de DNA e geralmente ocorre como fita simples
+Contém ribose em vez de desoxirribose
+Contém uracila em vez de timina
+Um mRNA pode codificar mais de uma proteína
+Juntamente com o RNA transportador (tRNA), transfere a informação genética do DNA para as proteínas
+
+
+# Slide 45:
+
+# Slide 46:
+
+# Slide 47:
+Sequências Palindrômicas Podem Formar 
+Grampos (*Hairpins*) e Cruciformes
+Palíndromos: palavras ou frases que são iguais quando lidas de trás para frente ou de frente para trás.
+
+Civic
+Racecar
+Rotator
+Saippuakuppinippukauppias (palavra finlandesa para “comerciante de lotes de saboneteiras”) 
+Νίψον ἀνομήματα, μὴ μόναν ὄψιν (texto de fonte grega antiga: “Lave o pecado assim como o rosto”)
+  
+
+# Slide 48:
+
+# Slide 49:
+
+# Slide 50:
+Moléculas de RNA Têm Estruturas Bastante Complexas
+
+# Slide 51:
+Estruturas Complexas São Estabilizadas por Interações de Pareamento Não Watson-Crick
+
+# Slide 52:
+Desnaturação do DNA
+Ligações covalentes permanecem intactas.
+O código genético permanece intacto.
+Ligações de hidrogênio são quebradas.
+As duas fitas se separam.
+O empilhamento de bases é perdido.
+A absorbância UV aumenta.
+
+A desnaturação pode ser induzida por alta temperatura ou mudança de pH. 
+
+A desnaturação pode ser reversível: anelamento (*annealing*).
+
+
+# Slide 53:
+Desnaturação Térmica do DNA (*Melting*)
+O DNA existe como dupla hélice em temperaturas normais.
+As duas fitas de DNA dissociam-se em temperaturas elevadas.
+As duas fitas reanelam quando a temperatura é reduzida.
+A desnaturação térmica reversível e o anelamento formam a base para a reação em cadeia da polimerase (PCR).
+A desnaturação do DNA é comumente monitorada por espectrofotometria UV a 260 nm.
+
+# Slide 54:
+
+# Slide 55:
+Fatores que Afetam a Desnaturação do DNA
+O ponto médio de fusão (Tm) depende da composição de bases.
+Alto teor de CG aumenta a Tm.
+A Tm depende do comprimento do DNA.
+DNA mais longo tem Tm mais alta.
+É importante para DNAs curtos.
+A Tm depende do pH e da força iônica.
+Alta concentração salina aumenta a Tm.
+
+
+
+# Slide 56:
+
+# Slide 57:
+A Desnaturação de Grandes Moléculas de DNA 
+Não É Uniforme 
+Regiões ricas em AT desnaturam (*melt*) a uma temperatura mais baixa do que regiões ricas em GC.
+
+# Slide 58:
+Aplicações de Híbridos Quase Complementares em DNA e RNA
+Detecção de uma molécula específica de DNA em mistura complexa 
+	− detecção radioativa
+	− chips de DNA fluorescentes 
+Amplificação de DNA específico
+	− reação em cadeia da polimerase (PCR)
+	− mutagênese sítio-dirigida
+Relações evolutivas
+Terapia antissenso
+
+# Slide 59:
+ Desaminação
+reações muito lentas
+grande número de resíduos
+O efeito líquido é significativo: 100 eventos C → U/dia em uma célula de mamífero.
+Mecanismos Moleculares da 
+Mutagênese Espontânea: Desaminação
+
+# Slide 60:
+Mecanismos Moleculares da 
+Mutagênese Espontânea: Depurinação
+ Depurinação
+a ligação N-glicosídica é hidrolisada
+Significativa para purinas: 10.000 purinas perdidas/dia em uma célula de mamífero
+
+
+# Slide 61:
+Mecanismos Moleculares da Mutagênese 
+Oxidativa e Química
+Dano oxidativo
+hidroxilação da guanina
+o DNA mitocondrial é mais suscetível 
+
+Alquilação química
+metilação da guanina
+
+As células têm mecanismos para corrigir a maioria dessas modificações.
+
+# Slide 62:
+
+# Slide 63:
+
+A luz UV induz a dimerização de pirimidinas; este pode ser o principal mecanismo para cânceres de pele.
+A radiação ionizante (raios X e raios γ) causa abertura de anéis e quebra de fitas. 
+Estes danos são difíceis de consertar.
+As células podem reparar algumas dessas modificações, mas outras causam mutações. O acúmulo de mutações está ligado ao envelhecimento e à carcinogênese.
+
+Mecanismos Moleculares da 
+Mutagênese Induzida por Radiação
+
+# Slide 64:
+
+# Slide 65:
+Outras Funções dos Nucleotídeos:
+Fonte de Energia
+
+# Slide 66:
+Outras Funções dos Nucleotídeos:
+Coenzimas
+
+# Slide 67:
+Outras Funções dos Nucleotídeos:
+Moléculas Regulatórias
+
+# Slide 68:
+Capítulo 8: Resumo
+Função dos nucleotídeos e ácidos nucleicos
+Nomes e estruturas dos nucleotídeos comuns
+Base estrutural da função do DNA   
+Desnaturação reversível dos ácidos nucleicos
+Base química da mutagênese
+
+Neste capítulo, aprendemos sobre:

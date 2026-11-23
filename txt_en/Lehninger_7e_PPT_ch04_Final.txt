@@ -1,0 +1,432 @@
+Slide 1:
+
+4 | The Three-Dimensional Structure of Proteins
+© 2017 W. H. Freeman and Company
+
+Slide 2:
+CHAPTER 4 
+The Three-Dimensional Structure of Proteins
+Structure and properties of the peptide bond
+Structural hierarchy in proteins
+Structure and function of fibrous proteins
+Structure analysis of globular proteins
+Protein folding and denaturation
+Learning goals: 
+
+Slide 3:
+Structure of Proteins
+Unlike most organic polymers, protein molecules adopt a specific three-dimensional conformation.  
+This structure is able to fulfill a specific biological function.
+This structure is called the native fold.
+The native fold has a large number of favorable interactions within the protein.
+There is an entropy cost to folding the protein into one specific native fold.
+
+Slide 4:
+Favorable Interactions in Proteins
+Hydrophobic effect
+The release of water molecules from the structured solvation layer around the molecule as protein folds increases the net entropy.
+Hydrogen bonds
+Interaction of N−H and C=O of the peptide bond leads to local regular structures such as α helices and β sheets.  
+London dispersion 
+Medium-range weak attraction between all atoms contributes significantly to the stability in the interior of the protein.
+Electrostatic interactions
+long-range strong interactions between permanently charged groups
+Salt bridges, especially those buried in the hydrophobic environment, strongly stabilize the protein.
+
+
+Slide 5:
+Four Levels of Protein Structure
+
+Slide 6:
+Primary Structure: The Peptide Bond
+The structure of the protein is partially dictated by the properties of the peptide bond.
+The peptide bond is a resonance hybrid of two canonical structures.
+The resonance causes the peptide bonds:
+to be less reactive compared with esters, for example
+to be quite rigid and nearly planar 
+to exhibit a large dipole moment in the favored trans configuration
+
+Slide 7:
+Resonance in the Peptide Bond
+
+Slide 8:
+The Rigid Peptide Plane and 
+the Partially Free Rotations
+Rotation around the peptide bond is not permitted due to resonance structure.
+Rotation around bonds connected to the α carbon is permitted.
+ φ (phi): angle around the α carbon—amide nitrogen bond 
+ ψ (psi): angle around the α carbon—carbonyl carbon bond
+In a fully extended polypeptide, both ψ and φ are 180°.
+The organization around the peptide bond, paired with the identity of the R groups, determines the secondary structure of the protein.
+
+Slide 9:
+The Polypeptide Is Made Up of a Series of Planes Linked at α Carbons
+
+Slide 10:
+Some φ and ψ combinations are very unfavorable because of steric crowding of backbone atoms with other atoms in the backbone or side chains.
+Some φ and ψ combinations are more favorable because of chance to form favorable H-bonding interactions along the backbone.
+A Ramachandran plot shows the distribution of φ and ψ dihedral angles that are found in a protein:
+ shows the common secondary structure elements
+ reveals regions with unusual backbone structure 
+Distribution of φ and ψ Dihedral Angles 
+
+Slide 11:
+
+Slide 12:
+Ramachandran Plot
+
+Slide 13:
+Secondary Structures
+Secondary structure refers to a local spatial arrangement of the polypeptide backbone.
+Two regular arrangements are common: 
+the α helix
+stabilized by hydrogen bonds between nearby residues
+the β sheet
+stabilized by hydrogen bonds between adjacent segments that may not be nearby 
+Irregular arrangement of the polypeptide chain is called the random coil.
+
+Slide 14:
+TABLE 4.1	Idealized φ and ψ Angles for Common Secondary Structures in Proteins	
+Structure	φ	ψ	
+α Helix	–57˚	–47˚	
+β Conformation	
+    Antiparallel	–139˚	+135˚	
+    Parallel	–119˚	+113˚	
+Collagen triple helix	–51˚	+153˚	
+β Turn type I	
+    i + 1a	–60˚	–30˚	
+    i + 2a	–90˚	0˚	
+β Turn type II	
+    i + 1	–60˚	+120˚	
+    i + 2	+80˚	0˚	
+
+Slide 15:
+The α Helix
+Helical backbone is held together by hydrogen bonds between the backbone amides of an n and       n + 4 amino acids.
+It is a right-handed helix with 3.6 residues (5.4 Å) per turn.
+Peptide bonds are aligned roughly parallel with the helical axis.
+Side chains point out and are roughly perpendicular with the helical axis.
+
+
+n
+n + 4
+
+Slide 16:
+What Is a Right-Handed Helix?
+
+Slide 17:
+
+Slide 18:
+The α Helix: Top View
+The inner diameter of the helix (no side chains) is about 4–5 Å.
+too small for anything to fit “inside” 
+The outer diameter of the helix (with side chains) is  10–12 Å.
+happens to fit well into the major groove of dsDNA
+Amino acids #1 and #8 align nicely on top of each other.
+What kind of sequence gives an α helix with one hydrophobic face?
+
+Slide 19:
+Sequence Affects Helix Stability
+Not all polypeptide sequences adopt α-helical structures.
+Small hydrophobic residues such as Ala and Leu are strong helix formers.
+Pro acts as a helix breaker because the rotation around the N-Ca (φ-angle) bond is impossible.
+Gly acts as a helix breaker because the tiny R group supports other conformations.
+Attractive or repulsive interactions between side chains 3 to 4 amino acids apart will affect formation.
+
+Slide 20:
+TABLE 4-2	Propensity of Amino Acid Residues to Take Up an α-Helical Conformation	
+Amino acid	ΔΔG° (kJ/mol)a	Amino acid	ΔΔG° (kJ/mol)a	
+Ala	0	Leu	0.79	
+Arg	0.3	Lys	0.63	
+Asn	3	Met	0.88	
+Cys	3	Pro	>4	
+Gln	1.3	Ser	2.2	
+Glu	1.4	Thr	2.4	
+Gly	4.6	Tyr	2.0	
+His	2.6	Trp	2.0	
+Ile	1.4	Val	2.1	
+Sources: Data (except proline) from J. W. Bryson et al., Science 270:935, 1995. Proline data from J. K. Myers et al., Biochemistry 36:10,923, 1997.
+aΔΔG° is the difference in free-energy change, relative to that for alanine, required for the amino acid residue to take up the α-helical conformation. Larger numbers reflect greater difficulty taking up the α-helical structure. Data are a composite derived from multiple experiments and experimental systems.	
+
+Slide 21:
+The Helix Dipole
+Recall that the peptide bond has a strong dipole moment.
+C−O (carbonyl) negative
+N−H (amide) positive
+All peptide bonds in the α helix have a similar orientation.
+The α helix has a large macroscopic dipole moment that is enhanced by unpaired amides and carbonyls near the ends of the helix.
+Negatively charged residues often occur near the positive end of the helix dipole.
+
+
+Slide 22:
+
+Slide 23:
+β Sheets
+The planarity of the peptide bond and tetrahedral geometry of the α carbon create a pleated sheet-like structure.
+Sheet-like arrangement of the backbone is held together by hydrogen bonds between the backbone amides in different strands.
+Side chains protrude from the sheet, alternating in an up-and-down direction.
+
+Slide 24:
+Parallel and Antiparallel β Sheets
+Multi β-strand interactions are called sheets.
+Sheets are held together by the hydrogen bonding of amide and carbonyl groups of the peptide bond from opposite strands.
+Two major orientations of β sheets are determined by the directionality of the strands within: 
+Parallel sheets have strands that are oriented in the same direction.
+Antiparallel sheets have strands that are oriented in opposite directions.
+
+
+Slide 25:
+
+In parallel β sheets, the H-bonded strands run in the same direction.
+Hydrogen bonds between strands are bent (weaker).
+
+Slide 26:
+
+In antiparallel β sheets, the H-bonded strands run in opposite directions.
+Hydrogen bonds between strands are linear (stronger).
+
+Slide 27:
+ β Turns
+β turns occur frequently whenever strands in β sheets change the direction.
+The 180° turn is accomplished over four amino acids.
+The turn is stabilized by a hydrogen bond from a carbonyl oxygen to amide proton three residues down the sequence.
+Proline in position 2 or glycine in position 3 are common in β turns.
+
+Slide 28:
+
+Slide 29:
+Proline Isomers
+Most peptide bonds not involving proline are in the trans configuration (>99.95%).
+For peptide bonds involving proline, about 6% are in the cis configuration. Most of this 6% involve β turns.
+Proline isomerization is catalyzed by proline isomerases.
+
+Slide 30:
+
+Slide 31:
+Determination of Secondary Structure: Circular Dichroism (CD) Analysis
+CD measures the molar absorption difference Δε of left- and right-circularly polarized light: Δε = εL – εR.
+Chromophores in the chiral environment produce characteristic signals.
+CD signals from peptide bonds depend on the chain conformation.
+
+Slide 32:
+
+Slide 33:
+
+Tertiary structure refers to the overall spatial arrangement of atoms in a protein.
+Stabilized by numerous weak interactions between amino acid side chains
+largely hydrophobic and polar interactions
+can be stabilized by disulfide bonds
+Interacting amino acids are not necessarily next to each other in the primary sequence.  
+Two major classes:
+ fibrous and globular (water or lipid soluble)
+Protein Tertiary Structure
+
+Slide 34:
+Fibrous Proteins
+
+Slide 35:
+Fibrous Proteins: 
+From Structure to Function
+TABLE 4-3	Secondary Structures and Properties of Some Fibrous Proteins	
+Structure	Characteristics	Examples of occurrence	
+α Helix, cross-linked by disulfide bonds	Tough, insoluble protective structures of varying hardness and flexibility	α-Keratin of hair, feathers, nails	
+β Conformation	Soft, flexible filaments	Silk fibroin	
+Collagen triple helix	High tensile strength, without stretch	Collagen of tendons, bone matrix	
+
+Slide 36:
+
+Slide 37:
+Structure of α-Keratin in Hair
+
+Slide 38:
+Chemistry of Permanent Waving
+
+Slide 39:
+Structure of Collagen
+Collagen is an important constituent of connective tissue: tendons, cartilage, bones, cornea of the eye. 
+Each collagen chain is a long Gly- and Pro-rich left-handed helix.
+Three collagen chains intertwine into a right-handed superhelical triple helix.
+The triple helix has higher tensile strength than a steel wire of equal cross section.
+Many triple-helices assemble into a collagen fibril.
+
+Slide 40:
+
+Slide 41:
+Forces the proline ring into a favorable pucker
+Offers more hydrogen bonds between the three strands of collagen  
+The posttranslational processing is catalyzed by prolyl hydroxylase and requires α-ketoglutarate, molecular oxygen, and ascorbate (vitamin C).
+4-Hydroxyproline in Collagen
+
+Slide 42:
+
+Slide 43:
+Vitamin C in Prolyl 4-Hydroxylase Restores Fe2+ State
+
+Slide 44:
+Collagen Fibrils
+Collagen superstructures are formed by cross-linking of collagen triple-helices to form collagen fibrils.
+Crosslinks are covalent bonds between Lys or HyLys, or His amino acid residues.
+
+
+
+Slide 45:
+Silk Fibroin
+Fibroin is the main protein in silk from moths and spiders.
+Antiparallel β sheet structure  
+Small side chains (Ala and Gly) allow the close packing of sheets.
+Structure is stabilized by:
+hydrogen bonding within sheets
+London dispersion interactions between sheets
+
+Slide 46:
+
+Slide 47:
+Spider Silk
+Used for webs, egg sacks, and wrapping the prey
+Extremely strong material
+stronger than steel
+can stretch a lot before breaking
+A composite material
+crystalline parts (fibroin rich)
+rubber-like stretchy parts
+
+
+
+Slide 48:
+Water-Soluble Globular Proteins
+
+Slide 49:
+Motifs (folds)
+Specific arrangement of several secondary structure elements
+all α helix
+all  β sheet
+both
+Motifs can be found as recurring structures in numerous proteins.
+Globular proteins are composed of different motifs folded together.
+
+Slide 50:
+Motifs (folds)
+
+
+Slide 51:
+Repeated Motifs Contribute to Final Fold
+
+Slide 52:
+Intrinsically Disordered Proteins
+Contain protein segments that lack definable structure
+Composed of amino acids whose higher concentration forces less-defined structure 
+Lys, Arg, Glu, and Pro
+Disordered regions can conform to many different proteins, facilitating interaction with numerous different partner proteins.
+
+Slide 53:
+Intrinsically Disordered Proteins
+
+Slide 54:
+Quaternary Structure
+A quaternary structure is formed by the assembly of individual polypeptides into a larger functional cluster.
+
+Slide 55:
+Protein Structural Determination Methods: 
+X-Ray Crystallography
+Steps needed
+purify the protein
+crystallize the protein
+collect diffraction data
+calculate electron density
+fit known amino acid residues into density
+Pros
+no size limits
+well established
+Cons
+difficult for membrane proteins
+cannot resolve (see) hydrogens
+
+Slide 56:
+
+Slide 57:
+Protein Structural Determination Methods: 
+Biomolecular NMR
+Steps needed
+purify the protein
+dissolve the protein
+collect NMR data
+assign NMR signals
+calculate the structure
+Pros
+no need to crystallize the protein
+can see many hydrogens
+Cons
+difficult for insoluble proteins
+works best with small proteins
+
+
+Slide 58:
+
+Slide 59:
+Proteostasis: Synthesis, Assembly, and Degradation of Proteins in vivo
+Maintenance of cellular protein activity is accomplished by the coordination of many different pathways.
+
+Slide 60:
+Protein Stability and Folding
+A protein’s function depends on its 3D structure.
+Loss of structural integrity with accompanying loss of activity is called denaturation.
+Proteins can be denatured by: 
+heat or cold
+pH extremes 
+organic solvents
+chaotropic agents: urea and guanidinium hydrochloride
+
+
+Slide 61:
+
+Slide 62:
+Ribonuclease is a small protein that contains eight cysteines linked via four disulfide bonds.
+Urea in the presence of 2-mercaptoethanol fully denatures ribonuclease.
+When urea and 2-mercaptoethanol are removed, the protein spontaneously refolds, and the correct disulfide bonds are reformed.
+The sequence alone determines the native conformation.
+The experiment is quite “simple” but so important it earned Chris Anfinsen the 1972 Chemistry Nobel Prize.
+Ribonuclease Refolding Experiment
+
+Slide 63:
+
+Slide 64:
+Proteins Folding Follow a Distinct Path
+
+Slide 65:
+How Can Proteins Fold So Fast?
+Proteins fold to the lowest-energy fold in the microsecond to second time scales. How can they find the right fold so fast?
+It is mathematically impossible for protein folding to occur by randomly trying every conformation until the lowest-energy one is found (Levinthal’s paradox).
+Search for the minimum is not random because the direction toward the native structure is thermodynamically most favorable.
+
+Slide 66:
+Free-Energy Funnel Model of Protein Folding Is Dependent on the Stability of Motifs Within the Protein
+Multiple pathways leading to one stable outcome
+Immediate folding to
+one stable outcome
+Multiple stable intermediates leading to final fold
+Significantly stable intermediates to overcome before final fold
+
+Slide 67:
+Chaperones Prevent Misfolding and Aggregation of Unfolded Peptides
+
+Slide 68:
+Chaperonins Facilitate Folding
+
+Slide 69:
+
+Slide 70:
+Protein Misfolding Is the Basis of Numerous Human Diseases
+Native (correctly folded) β amyloid is a soluble globular protein,
+Misfolded β amyloid promotes aggregation at newly exposed protein-protein interface.
+Correctly folded helices are lost and peptides form β strands, β helices, and β sheets.
+
+Slide 71:
+Chapter 4: Summary
+the two most important secondary structures 
+α helices 
+β sheets
+how properties and function of fibrous proteins are related
+how to determine three-dimensional structures of proteins
+one of the largest unsolved puzzles in modern biochemistry: how proteins fold
+
+In this chapter, we learned about:

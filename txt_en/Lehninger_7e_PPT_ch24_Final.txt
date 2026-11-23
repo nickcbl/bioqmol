@@ -1,0 +1,607 @@
+Slide 1:
+
+24| Genes and Chromosomes
+© 2017 W. H. Freeman and Company
+
+Slide 2:
+Management and Expression of Genetic Information
+Previous chapters dealt with: 
+metabolic pathways, in which the chemical structures of small molecules were modified by enzymes 
+signal transduction pathways, in which interactions of ligands with receptor proteins caused physiological responses
+The following chapters deal with:
+information pathways, in which genetic information stored as the nucleotide sequence is maintained and expressed yielding many of the macromolecules previously discussed or enzymes needed for their synthesis
+
+Slide 3:
+The “Central Dogma” of How Information Flows in Biological Systems
+
+Slide 4:
+The Central Dogma of Molecular Biology
+The discovery of the double-helical structure of DNA in 1953 laid a foundation to thinking of biomolecules as carriers of information.
+It was understood by 1950 that proteins are catalysts, but their role in information transfer was unclear.
+Francis Crick proposed in 1956 that “Once information has got into a protein it can’t get out again.”
+The central dogma was proposed by Francis Crick at the time when there was little evidence to support it, hence the “dogma.”
+
+Slide 5:
+Information Flow According to the Central Dogma
+Information from parental DNA is copied to daughter DNA with high fidelity via DNA replication.
+RNA is synthesized using DNA as a template during transcription.
+Proteins are synthesized based on the information stored in ribonucleotide triplets in RNA during translation.
+
+Caveat: Viruses are able to make RNA and DNA using RNA as a template in reverse transcription.
+
+
+Slide 6:
+The “Central Dogma” of How Information Flows in Biological Systems
+
+Slide 7:
+Understanding of Genes Has Evolved
+Historically, a gene was “something” responsible for a characteristic, or phenotype.
+Beadle and Tatum, through mutation studies, defined a gene as something that coded for an enzyme (one gene → one enzyme).
+Now genes are defined as segments of DNA that code for peptides and RNA.
+different from regulatory sequences
+DNA can be expressed differently to yield different products (one gene → different products).
+
+Slide 8:
+CHAPTER 24 
+Genes and Chromosomes
+Organization of information in chromosomes
+DNA supercoiling
+Structure of the chromosome
+Learning goals: 
+
+Slide 9:
+DNA Is a Very Large Macromolecule
+The linear dimensions of DNA are much bigger than the virions or cells that contain them.
+bacteriophage T4: ~0.2 μm long and 0.1 μm wide 
+T4 DNA: ~60 μm long 
+So DNA in a virion or cell is organized into compact forms, typically via coiling and association with proteins.
+
+Slide 10:
+Linearized DNA from Bacteriophage T2
+
+Slide 11:
+Molecular Coding of Protein Sequence Information
+In transcription, one strand of double-stranded DNA acts as the molecular template for RNA synthesis  (DNA → messenger RNA).
+Three nucleotides code for one “codon.”
+In translation, the triplets of nucleotides in mRNA bind to complementary triplets in tRNA.
+The tRNA molecules carry an amino acid associated with the particular triplet.
+Amino acids are then assembled in peptide chains.
+Protein sequence determines its biological function.
+
+Slide 12:
+How DNA Codes for mRNA That Then Codes for the Amino Acid Sequence
+
+Slide 13:
+How Many Genes per Organism?
+E. coli (single circular chromosome) – 4,639,675 bp → ~4300 genes for proteins and ~157genes for catalytic or structural RNAs
+
+Human (24 discrete chromosomes) –  3.1 billion bp → ~20,000 genes
+
+Slide 14:
+Many Viral Genomes Are RNA
+Many viruses: only RNA or DNA surrounded by protein coat
+They use the host’s genes when they infect a plant, animal, or bacterium.
+RNA genomes may be small and single-stranded.
+HIV: 9000 bp 
+phage Qβ: 4220 bp
+Genomes may change form from circular to linear, and so on, during the life cycle.
+
+Slide 15:
+Bacterial Genomes Are Double-Stranded Circles
+E.coli:  4,639,675 bp
+850× longer than the cell!
+Bacteria also contain extra-chromosomal, double-stranded circular plasmids.
+usually ~2000–10,000 bp, but can be 400,000 bp
+swapped easily between bacteria
+no essential genes, but often encode genes that degrade antibiotics
+plasmid exchange: one way bacteria acquire antibiotic resistance
+TABLE 24-1	The Sizes of DNA and Viral Particles for Some Bacterial Viruses (Bacteriophages)	
+Virus	Size of viral DNA (bp)	Length of viral DNA (nm)	Long dimension of viral particles (nm)	
+φX174	5,386	1,939	25	
+T7	39,936	14,377	78	
+λ (lambda)	48,502	17,460	190	
+T4	168,889	60,800	210	
+Note: Data on size of DNA are for the replicative form (double-standard). The contour length is calculated assuming that each base pair occupies a length of 3.4 Å (see Fig. 8-13).	
+
+Slide 16:
+Length of E. Coli DNA Relative to Length of Cell
+
+Slide 17:
+DNA from Lysed E. Coli Cell Containing Plasmids
+
+Slide 18:
+Eukaryote DNA Is in Multiple Discrete Chromosomes
+The number varies with species.
+Human somatic (non-sex) cells have 46 chromosomes.
+22 pairs (diploid) plus X and Y
+amounts to ~2 m of DNA
+length of each pair varies
+
+
+
+Slide 19:
+Eukaryotic Chromosome
+
+Slide 20:
+Complete Set of Human Chromosomes (Male)
+
+Slide 21:
+TABLE 24-2	DNA, Gene, and Chromosome Content in Some Genomes	
+	Total DNA (bp)	Number of chromosomesa	Approximate number of genes	
+Escherichia coli K12 (bacterium)	4,641,652	1	4,494b	
+Saccharomyces cerevisiae (yeast)	12,157,105	16c	6,340b	
+Caenorhabditis elegans (nematode)	90,269,800 	12d	23,000	
+Arabidopsis thaliana (plant)	119,186,200	10	33,000	
+Drosophila melanogaster (fruit fly)	120,367,260	18	20,000	
+Oryza sativa (rice)	480,000,000	24	57,000	
+Mus musculus (mouse)	2,634,266,500	40	27,000	
+Homo sapiens (human)	3,070,128,600	46	20,000	
+Note: This information is constantly being refined. For the most current information, consult the websites for the individual genome projects.
+aThe diploid chromosomes number is given for all eukaryotes except yeast.
+bIncludes known RNA-coding genes.
+cHaploid chromosomes number. Wild yeast strains generally have eight (octoploid) or more sets of these chromosomes.
+dNumber for females, with two X chromosomes. Males have an X but no Y, thus 11 chromosomes in all.	
+
+Slide 22:
+Mitochondria and Chloroplasts Also Have DNA
+Double-stranded circles
+Human mitochondrial DNA (mtDNA)
+16,569 bp
+~2–10 copies per mitochondrion 
+Plant mtDNA
+200,000–2,500,000 bp
+Chloroplast DNA (cpDNA)
+120,000–160,000 bp
+
+
+Slide 23:
+Mitochondrial DNA
+It codes for mitochondrial rRNAs, tRNAs, and some of the mitochondrial specific proteins.
+
+Most mitochondrial proteins (at least 95%) are encoded by nuclear genes.
+
+
+
+Slide 24:
+Mitochondrion
+
+Slide 25:
+DNA, Chromosomes, Genes, and Complexity 
+Neither the total length of DNA nor the number of chromosomes correlates strongly with the complexity of an organism .
+Dogs and coyotes have 78 chromosomes.
+Amphibians have much more DNA than humans do.
+Plants have more genes than humans do.
+The correlation between genome size and complexity is poor because most of eukaryotic DNA is noncoding.
+
+Recent experimental work by Craig Venter suggests that a living organism could get by with less than 400 genes.
+
+Slide 26:
+DNA Is Packaged with Proteins
+Viral genomic DNA may be associated with capsid proteins.
+Prokaryotic DNA is associated with proteins in the nucleoid.
+Eukaryotic DNA is organized with proteins into a complex called chromatin.
+
+Slide 27:
+Composition of the Human Genome
+Notice that only a small fraction (1.5%) of the total genome encodes for proteins.
+The biological significance of noncoding sequences is not entirely clear.
+Some DNA regions directly participate in the regulation of gene expression (promoters, termination signals, etc.).
+Some DNA encodes for small regulatory RNA with poorly understood functions.
+Some DNA may be junk (pieces of unwanted genes, remnants of viral infections).
+
+Slide 28:
+Eukaryotic Genes Contain Intervening Sequences (Introns)
+Exons are expressed sequences (translated into amino acid sequence).
+Exons account for only 1.5% of human DNA!
+Introns are regions of genes that are transcribed but not translated.
+They do not encode polypeptide sequence.
+Introns are removed after transcription and the exon mRNA sequences are spliced together.
+→ creates “mature transcripts”
+
+Slide 29:
+Introns in Two Eukaryotic Genes
+
+Slide 30:
+Some Bacterial Genomes Also Contain Introns
+Until 1993, scientists thought that introns appeared only in eukaryotes.
+About 25% of sequenced bacterial genomes show presence of introns.
+Introns in bacterial chromosome do not interrupt protein-coding sequences; they interrupt mainly tRNA sequences.
+Introns in phage genomes within bacteria interrupt protein-coding sequences.
+Many bacterial introns encode catalytic RNA sequences that have the ability to insert and reverse transcribe themselves into the genomic DNA.
+
+Slide 31:
+Transposons Are Sequences That Can Move Within the Genome
+The eukaryotic genome is not completely static.
+Sequences called transposons can move around within the genome of a single cell.
+The ends of transposons contain terminal repeats.
+These repeats hybridize with complementary regions of target DNA during insertion.
+Transposons account for ~50% of the human genome.
+
+Slide 32:
+Eukaryotes Also Contain Highly Repetitive DNA or Simple Sequence Repeats (SSRs)
+Short sequences of ~10 bp or less
+Repeated millions of times
+Also known as “satellite” DNA 
+because when fragmented and centrifuged, the DNA separates into a discrete “satellite” band
+Associated with centromeres and telomeres
+
+Slide 33:
+Telomeres and Centromeres in a Yeast Chromosome
+
+Slide 34:
+Centromere Sequences Are Where Proteins Attach During Mitosis
+Region where the two daughter chromosomes are held together during mitosis 
+that is, after DNA replication but before cell division
+Essential for equal distribution of chromosome sets to daughter cells
+Have AT-rich repeated sequences of ~130 bp
+
+
+Slide 35:
+Telomere Sequences Cap the Ends of Eukaryotic Chromosomes 
+May form special loop structures to keep DNA ends from unraveling
+contain multiple repeats with general sequence
+(TxGy)n
+   (AxCy)n , where n = 1500 or more in mammals
+
+added by enzyme telomerase
+
+
+Slide 36:
+TABLE 24-3	Telomere Sequences	
+Organism	Telomere repeat sequence	
+Homo sapiens (human)	(TTAGGG)n	
+Tetrahymena thermophila (ciliated protozoan)	(TTGGGG)n	
+Saccharomyces cerevisiae (yeast)	((TG)1–3(TG)2–3)n	
+Arabidopsis thaliana (plant)	(TTTAGGG)n	
+
+Slide 37:
+Telomeres Are Associated with Cellular Aging
+In many tissues, telomeres are shortened after each round of replication.
+Thus, the cellular DNA “ages.”
+Normal human cells divide about 52 times before losing the ability to divide again (Hayflick limit).
+
+Slide 38:
+DNA Supercoiling
+DNA in the cell must be organized to allow:
+packing of large DNA molecules within the cells
+access of proteins to read the information in DNA sequence
+There are several levels of organization, one of which is the supercoiling of the double-stranded DNA helix.
+
+Slide 39:
+Helical Supercoils
+
+Slide 40:
+Supercoiling Is the Coiling of a Coil
+Nonsupercoiled DNA is called relaxed.
+Many circular DNAs are supercoiled.
+Supercoiling has great influence on transcription and replication of DNA.
+Supercoiling can be highly regulated.
+
+
+Slide 41:
+Closing DNA in a Loop Introduces Supercoiling
+
+Slide 42:
+The Effects of Replication and Transcription on DNA Supercoiling
+
+Slide 43:
+Most Cellular DNA Is Underwound
+Normal B-form, relaxed DNA: 10.5 bp/turn
+Closed circular DNA is rarely relaxed.
+The strain induces supercoiling.
+The strain is due to fewer helical turns (underwinding).
+Underwinding makes later separation of the strands easier.
+Linear DNA is underwound with the help of proteins to prevent strands from rotating
+
+Slide 44:
+Relaxed and Increasingly Supercoiled Plasmid DNA
+
+Slide 45:
+Effects of DNA Underwinding
+
+Slide 46:
+Linking Number (Lk) Describes Supercoiling
+In circular DNA, changing the helical turns requires breaking a strand transiently.
+Linking number in relaxed DNA:
+  Lk =  #bp ÷ #bp/turn 
+
+Example: Relaxed circular dsDNA of 2100 bp in the B form (10.5 bp/turn) has 
+	Lk = 2100 bp ÷ 10.5/turn = 200
+
+Lk is an integer for closed-circular DNA and is (+), reflecting a right-handed helix.
+
+Slide 47:
+Lk Is the Number of Times a Strand Penetrates a Surface
+
+Slide 48:
+Lk Applied to Closed-Circular DNA
+
+Slide 49:
+Changes in Lk Are Useful for Describing Supercoiling
+Consider a relaxed DNA of 2100 bp:
+Lk0 = 200
+
+Underwind by removing two helical turns:
+Lk = 198
+ΔLk = 198 – 200 = –2
+
+Slide 50:
+Superhelical Density, σ 
+ 
+
+Slide 51:
+Negative and Positive Supercoils
+
+Slide 52:
+Linking Number Can Be Broken Down into Twist (Tw) and Write (Wr)
+Lk = Tw + Wr
+Twist (Tw) is the # twists or turns of the helix
+Writhe (Wr) is the # coils
+typically a negative value
+
+
+
+Slide 53:
+Underwinding Facilitates Additional DNA Structural Changes
+Helps to maintain structure of cruciforms at palindromes (next slide)
+
+Cruciforms rarely occur in relaxed DNA.
+
+Facilitates formation of stretches of left-handed Z form  
+
+Slide 54:
+Cruciforms 
+
+Slide 55:
+Topoisomers Are DNAs That Differ Only in Linking Number
+Same # bp, same sequence but different degree of supercoiling
+
+Conversion between topoisomers requires a DNA strand break.
+
+Note that negatively supercoiled DNA (more compact) travels faster in an agarose gel electrophoresis experiment than relaxed or nicked DNA do.
+
+Slide 56:
+Topoisomers in Electrophoresis
+
+Slide 57:
+Topoisomerases Are Enzymes That Change Lk
+These enzymes are required for DNA unwinding and rewinding during transcription and replication.
+Two major types:  
+Type I – make a transient cut in one DNA strand, changes Lk by 1
+Type II – make a transient cut in both DNA strands, change Lk in steps of 2
+
+Slide 58:
+The Topoisomerases I–IV of 
+E. Coli
+Topo I and III are Type I.
+remove negative supercoils to relax DNA
+increase Lk
+use single-stranded breaks
+Topo II is called DNA gyrase.
+introduces negative supercoils 
+decreases Lk
+uses ATP and double-stranded breaks
+
+
+Slide 59:
+Type 1 Topoisomerase
+
+Slide 60:
+
+Slide 61:
+
+Slide 62:
+Eukaryotic Topoisomerases Include Topo I, IIα, IIβ, IV
+Topo I and III are Type I (as in E. coli). 
+Type II topoisomerases include two subfamilies—Type IIA and Type IIB.
+can relax both positive and negative supercoils 
+
+Slide 63:
+Diversity of DNA Topoisomerases
+TABLE 24-4	Diversity in DNA Topoisomerases	
+Type	Mechanism	Family (defined by structural class)	Domain(s)	Notes	
+IA	Strand passagea	Topoisomerase I
+Topoisomerase III
+Reverse gyrase	Bacteria, eukaryotes
+Bacteria, eukaryotes
+Archaea, bacteria	Relaxes (–)
+Relaxes (–)
+Uses ATP to introduce positive supercoils; thermophilic bacteria and archaea only	
+IB	Swivelaseb	Topoisomerase IB	Bacteria, eukaryotes	A few bacteria; all eukaryotes	
+IC	Swivelase	Topoisomerase V	Archaea	Methanopyrus only	
+IIA	Strand passagec	Topoisomerase II (DNA gyrase)
+Topoisomerase IIα
+Topoisomerase IIβ  
+Topoisomerase IV	Archaea, bacteria 
+
+Eukaryotes
+Eukaryotes
+Bacteria	Introduces negative supercoils (ATPase)
+Relaxes (+ or –)
+Relaxes (+ or –)
+Decatenased	
+IIB	Strand passage 	Topoisomerase VI	Archaea, bacteria, eukaryotes	Among eukaryotes, plants, algae, and protists only	
+aSee Figure 24-19.
+bA nick is made in one strand, and the other strand is allowed to rotate to relieve topological strain.
+cSee Figure 24-20a.
+dSee Figure 24-20b.	
+
+Slide 64:
+Mechanism of a Eukaryotic 
+Type IIα Topoisomerase
+
+Slide 65:
+Topoisomerases Are Targets for Antibiotics
+Coumarins (novobiocin, coumermycin A1) 
+inhibit bacterial Type II topoisomerases from binding ATP
+
+Quinolones (nalidixic acid; ciproflaoxadin, Cipro)
+inhibit the last step, which is resealing the DNA strand breaks
+wide-spectrum and mostly selective for bacterial enzymes
+
+Slide 66:
+Topoisomerase Inhibitors Used as Antibiotics
+
+Slide 67:
+Topoisomerase Inhibitors Used as Chemotherapy Agents
+Targets cancer because most rapidly growing cells (tumors, others) express topoisomerases
+Eukaryotic Type I topoisomerase inhibitors
+captothecin, irinotecan (Campto), topotecan (Hycamtin)
+trap the enzyme-DNA complex in its cleaved state
+Eukaryotic Type II topoisomerase inhibitors
+doxorubicin (Adriamycin), etoposide (Etopophos), ellepticine
+
+Slide 68:
+Topoisomerase Inhibitors Used as Chemotherapy Drugs
+
+Slide 69:
+Supercoiled DNA Forms Plectonomic or Toroid/Solenoid Structures 
+(or a Combination)
+Plectonomic
+seen in plasmids
+involves a right-hand superhelix with terminal loops
+Toroid/solenoid
+used in chromatin
+involves tight left-hand turns 
+can resemble a garden hose on a reel
+provides more compaction
+
+Slide 70:
+Plectonemic Supercoiling
+
+Slide 71:
+Plectonomic and Solenoidal Supercoiling
+
+Slide 72:
+Eukaryotic Chromosome Structure Changes over the Course of a Cell Cycle
+Nondividing state (G0) and interphase (Gap1, G1; synthesis, S; and Gap2, G2):
+Chromatin is amorphous and randomly dispersed.
+Prophase of mitosis  
+Chromosomes become condensed, and pairs of sister chromatids form.
+
+Slide 73:
+Changes in Chromosome Structure During the Cell Cycle
+
+Slide 74:
+DNA Packing into Chromatin
+Chromatin consists of fibers of protein and DNA and a small amount of RNA.
+DNA associates tightly with proteins called histones.
+small proteins with lots of basic (Lys, Arg) residues
+modified by methylation, acetylation, ADP-ribosylation, phosphorylation, glycosylation, sumoylation, ubiquination
+DNA and protein are packed into discrete units called nucleosomes.
+
+Slide 75:
+Nucleosomes
+
+Slide 76:
+Nucleosomes Consist of DNA Wrapped Around Histones
+DNA of length 105 μm → fits into a nucleus of diameter 5–10 μm.
+Partial unfolding reveals “beads on a string.”
+Beads are ~146 bp of DNA wrapped around eight histones (the “core”);there are two of each: H2A, H2B, H3, H4.
+It forms a left-hand solenoid.
+The string is a “linker” DNA of ~54 bp bound to histone H1.
+Amino-terminal tails of histones stick out, form sites for covalent modification, and form important contacts between nucleosomes.
+
+Slide 77:
+TABLE 24-5	Types and Properties of the Common Histones	
+Histones	Molecular weight	Number of amino acid residues	Content of basic amino acids (% of total)	
+Lys	Arg	
+H1a	21,130	223	29.5	11.3	
+H2Aa	13,960	129	10.9	19.3	
+H2Ba	13,774	125	16.0	16.4	
+H3	15,273	135	19.6	13.3	
+H4	11,236	102	10.8	13.7	
+aThe sizes of these histones vary somewhat from species to species. The numbers given here are for bovine histones.	
+
+Slide 78:
+DNA Wrapped Around a Histone Core
+
+Slide 79:
+
+Slide 80:
+Front and Side Views of Histone Amino-Terminal Tails 
+
+Slide 81:
+How Amino-Terminal Tails Interact Between Nucleosomes
+
+Slide 82:
+Nucleosomal DNA Is Underwound
+Wrapping DNA around the histone core requires removal of one helical turn.
+The underwinding occurs without a strand break, so a compensatory (+) supercoil forms.
+This (+) supercoil is relaxed by a topoisomerase, leaving DNA with net negative supercoil.
+
+
+Slide 83:
+Histone Binding Depends on DNA Sequence
+Histone binding is not random.
+It occurs more often at A-T–rich regions.
+Staggering AA, AT, or TT at 10 bp intervals (phased with pitch of helix) narrows the minor groove and bends the DNA.
+→ facilitates its binding around the histone core
+
+Slide 84:
+Effect of DNA Sequence on Nucleosome Binding
+
+Slide 85:
+Nucleosomes Then Assemble into Higher-Order Structures
+Nucleosome formation compacts DNA seven-fold…but overall compaction is >10K-fold!
+Next level of structure: 30 nm fiber
+It occurs in regions where sequence-specific, non-histone proteins bind (known as a territory).
+Chromosomes with large amounts of heterochromatin are typically found at the nuclear periphery.
+
+Slide 86:
+The 30 nm Fiber
+
+Slide 87:
+Higher-Level Structures Depend on Chromosomal Scaffold
+Higher-order structures are not well understood.
+May vary between chromosomes, regions, and even moment of time.
+Appears to involve a loop of DNA (maybe with related genes) associating with a scaffold of proteins
+includes Topo II and SMC proteins
+SMC = Structural Maintenance of Chromosomes
+
+Slide 88:
+Loops of DNA Attached to a Chromosomal Scaffold
+
+Slide 89:
+Condensed Chromosome Structure Is Maintained by SMC Proteins
+SMC proteins have five domains.
+N and C domains form an ATP-binding site.
+Two major types:
+cohesins – help link sister chromatids
+condensins – help chromosomes to condense; create positive supercoils
+See Figure 24-31.
+
+Slide 90:
+Structure of SMC Proteins
+
+Slide 91:
+Bacterial DNA Is Organized into Nucleoids
+It can occupy much of the cell volume.
+DNA attaches to the plasma membrane.
+A scaffold-like structure organizes the circular DNA into ~500 looped domains
+DNA binds to proteins transiently.
+example: protein HU
+
+
+Slide 92:
+Possible Role of Condensins
+
+Slide 93:
+Roles of Cohesins and Condensins in the Cell Cycle
+
+Slide 94:
+E. Coli Nucleoids
+
+Slide 95:
+Looped Domains of the E. Coli Chromosome
+
+Slide 96:
+Chapter 24: Summary
+
+genetic information of the cell is encoded in the nucleotide sequence of one or several DNA molecules
+the protein-coding regions represent only a small fraction of the total DNA
+telomeres and centromeres regulate cell division
+bacterial DNA is usually supercoiled for efficient packing
+eukaryotic DNA is wound around positively charged histones
+higher-order organization of chromatin likely involves coils upon coils upon coils
+In this chapter, we learned that:

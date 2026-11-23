@@ -1,0 +1,368 @@
+Slide 1:
+
+12| Biosignaling
+© 2017 W. H. Freeman and Company
+
+Slide 2:
+CHAPTER 12 
+Biosignaling
+General features of signal transduction  
+Structure and function of G protein−coupled receptors
+Structure and function of enzyme-linked receptors
+Structure and function of gated ion channels
+Physiological processes using signal transduction
+Learning goals: 
+
+Slide 3:
+Biological Role of Signal Transduction
+Cells receive signals from the environment beyond the plasma membrane. Types of signals include: 
+antigens
+hormones
+neurotransmitters
+light
+touch
+pheromones
+These signals cause changes in the cell’s composition and function, such as: 
+differentiation and antibody production
+growth in size or strength
+sexual versus asexual cell division
+
+
+Slide 4:
+Receptors Interact with Signals and Translate Message to Cell: 
+ Receptor: A membrane-bound or soluble protein or protein complex, which exerts a physiological effect (intrinsic effect) after binding its natural ligand.
+G protein−coupled receptors 
+epinephrine receptor
+Enzyme-linked receptors
+insulin receptor
+Ligand-gated ion channels
+nicotinic acetylcholine receptor
+Other membrane receptors 
+integrin receptors
+Nuclear receptors
+steroid receptors
+
+Slide 5:
+Receptors Bind Specific Ligands
+Typical ligands are:
+Small ions 
+ferric ion: bacterial ferric receptor
+Organic molecules
+adrenalin: epinephrine receptor
+Polysaccharides
+heparin: fibroblast growth factor
+Peptides
+insulin: insulin receptor
+Proteins
+vascular endothelial growth factor: VEGF receptor
+
+Slide 6:
+Five Features of 
+Signal-Transducing Systems
+
+Slide 7:
+Receptors Bind Specific Ligands
+R + S1 ↔ RS1
+Example Kd = 10−7
+
+Slide 8:
+Common Membrane Receptors
+
+Slide 9:
+G Protein−Coupled Signaling
+G protein−coupled receptors (GPCRs) are α-helical integral membrane proteins.
+G-proteins are heterotrimeric (αβγ) membrane-associated proteins that bind GTP.
+G-proteins mediate signal transduction from GPCRs to other target proteins.
+
+Slide 10:
+Prototypical G-protein: Ras
+
+Slide 11:
+Epinephrine Interacts with the Cell via a GPCR
+Epinephrine is a hormone made in adrenal glands (pair of organs on top of kidneys).
+Mediates stress response: mobilization of energy
+Binding to receptors in muscle or liver cells induces breakdown of glycogen.
+Binding to receptors in adipose cells induces lipid hydrolysis.
+Binding to receptors in heart cells increases heart rate.
+
+
+Slide 12:
+Epinephrine and Analogs
+
+
+Slide 13:
+Sensing the Epinephrine Signal via 
+a G Protein−Coupled Receptor 
+
+Slide 14:
+Synthesis of cAMP
+cAMP is a secondary messenger.
+Allosterically activates a variety of enzymes including cAMP-dependent protein kinase A (PKA).
+PKA activation leads to activation of enzymes that release glucose from glycogen.
+
+Slide 15:
+Signal Amplification 
+in Epinephrine Cascade
+The activation of a few GPCRs leads to the activation of few adenylyl cyclase enzymes.
+Every active adenylyl cyclase enzyme makes several cAMP molecules, thus activating several PKA enzymes.
+These activate thousands of glycogen-degrading enzymes in the liver tissue.
+At the end, tens of thousands of glucose molecules are released to the bloodstream.
+
+Slide 16:
+Signal Amplification 
+
+Slide 17:
+TABLE 12-2	Some Enzymes and Other Proteins Regulated by cAMP-Dependent Phosphorylation (by PKA)	
+Enzyme/protein	Sequence phosphorylateda	 Pathway/process regulated	
+Glycogen synthase	RASCTSSS	Glycogen synthesis	
+Phosphorylase b kinase
+   α subunit
+   β subunit	VEFRRLSI
+RTKRSGSV	Glycogen breakdown	
+Pyruvate kinase (rat liver)	GVLRRASVAZL	Glycolysis	
+Pyruvate dehydrogenase complex (type L)	GYLRRASV	Pyruvate to acetyl-CoA	
+Hormone-sensitive lipase	PMRRSV	Triacylglycerol mobilization and fatty acid oxidation	
+Phosphofructokinase-2/fructose 2,6-bisphosphatase	LQRRRGSSIPQ	Glycolysis/gluconeogenesis	
+Tyrosine hydroxylase	FIGRRQSL	Synthesis of L-dopa, dopamine, norepinephrine, and epinephrine	
+Histone H1	AKRKASGPPVS	DNA condensation	
+Histone H2B 	KKAKASRKESYSVYVYK	DNA condensation	
+Cardiac phospholamban (cardiac pump regulator)	AIRRAST	Intracellular [Ca2+]	
+Protein phosphatase-1 inhibitor-1	IRRRRPTP	Protein dephosphorylation	
+PKA consensus sequenceb	xR[RK]x[ST]B	Many	
+aThe phosphorylated S or T residue is shown in red. All residues are given as their one-letter abbreviations (See Table 3-1).
+bx is any amino acid; B is any hydrophobic amino acid. See Box 3-2 for conventions used in displaying consensus sequences.	
+
+Slide 18:
+Self-Inactivation Mediates Desensitization in G-protein Signaling
+Epinephrine is meant to be a short-acting signal.
+The organism must stop glucose synthesis if there is no more need to fight or flee.
+Down-regulation of cAMP occurs by the hydrolysis of GTP in the α subunit of the G-protein.
+
+Slide 19:
+Self-Inactivation in G-protein Signaling
+
+Slide 20:
+Desensitization of β-Adrenergic Receptors 
+
+Slide 21:
+cAMP Is a Common Secondary Messenger
+A large number of GPCRs mediate their effects via cAMP.
+both activating and inhibiting cAMP synthesis
+The human genome encodes about 1000 GPCRs.
+with ligands such as hormones, growth factors, and neurotransmitters 
+There are also hundreds of different GPCRs that can be responsible for similar processes.
+such as taste or smell
+Ligands for many GPCRs have yet to be identified.
+
+Slide 22:
+TABLE 12-3	Some Signals That Use cAMP as Second Messenger	
+Corticotropin (ACTH)	
+Corticotropin-releasing hormone (CRH)	
+Dopamine [D1, D2]	
+Epinephrine (β-adrenergic)	
+Follicle-stimulating hormone (FSH)	
+Glucagon	
+Histamine [H2]	
+Luteinizing hormone (LH)	
+Melanocyte-stimulating hormone (MSH)	
+Odorants (many)	
+Parathyroid hormone	
+Prostaglandins E1, E2 (PGE1, PGE2)	
+Serotonin [5-HT1, 5-HT4]	
+Somatostatin	
+Tastants (sweet, bitter)	
+Thyroid-stimulating hormone (TSH)	
+Note: Receptor subtypes in square brackets. Subtypes may have different transduction mechanisms. For example, serotonin is detected in some tissues by receptor subtypes 5-HT1 and 5-HT4, which act through adenylyl cyclase and cAMP, and in other tissues by receptor subtypes 5-HT2, acting through the phospholipase C-IP3 mechanism (see Table 12-4).	
+
+Slide 23:
+cAMP Is Able to Mediate Multiple Signals Due to Localization of Protein Kinase A 
+PKA is localized to particular structures by anchoring protein.
+Different anchors are expressed in different cell types to determine the downstream effect of cAMP.
+
+Slide 24:
+Some Bacterial Toxins Are 
+Enzymes That Inactivate G-Proteins
+Adenylate cyclase is now always (constitutively) active and produces too much cAMP from ATP.
+Cholera toxin and pertussis toxin function this way.
+
+Slide 25:
+GPCRs Can Use Other Secondary Messenger Molecules
+For example: cGMP, inositol-1,4,5-triphosphate (IP3) and/or calcium
+
+Slide 26:
+Secondary Messengers Can Activate Other Secondary Messenger Molecules
+GPCR activates IP3, which can activate a ligand-gated ion channel.
+A ligand-gated ion channel releases Ca2+, which acts as another secondary messenger by activating calcium-sensing proteins like protein kinase C or calmodulin.
+
+Slide 27:
+Calcium Modulates the Function of 
+Many Enzymes Through Calmodulin
+
+Slide 28:
+Calcium Modulates the Function of 
+Many Enzymes Through Calmodulin
+TABLE 12-5	Some Proteins Regulated by Ca2+ and Calmodulin	
+Adenylyl cyclase (brain)	
+Ca2+/calmodulin-dependent protein kinases (CaM kinases I to IV)	
+Ca2+-dependent Na+ channel (Paramecium)	
+Ca2+-release channel of sarcoplasmic reticulum	
+Calcineurin (phosphoprotein phosphatase 2B)	
+cAMP phosphodiesterase	
+cAMP-gated olfactory channel	
+cGMP-gated Na+, Ca2+ channels (rod and cone cells)	
+Glutamate decarboxylase	
+Myosin light-chain kinases	
+NAD+ kinase	
+Nitric oxide synthase	
+Phosphatidylinositol 3-kinase	
+Plasma membrane Ca2+ ATPase (Ca2+ pump)	
+RNA helicase (p68)	
+
+Slide 29:
+GPCRs Function in Vision and Olfaction
+
+Slide 30:
+Enzyme-Linked Membrane Receptors
+Many membrane receptors consists of: 
+an extracellular ligand-binding domain 
+an intracellular catalytic domain
+The most common catalytic domains have the tyrosine kinase activity.
+It adds a phosphate group to itself; auto-phosphorylation leads to a conformational change allowing binding and catalytic phosphorylation of specific target proteins.
+It adds a phosphate group to a tyrosine in specific target proteins.
+Some catalytic domains have guanylyl cyclase activity.
+convert GTP to cGMP, a secondary messenger
+
+Slide 31:
+Receptor Guanylyl Cyclases
+Catalytic domain converts GTP to cGMP
+Works through activation of protein kinase G
+
+Slide 32:
+Receptor Tyrosine Kinases
+
+Slide 33:
+Insulin Interacts with the Cell via a Receptor Tyrosine Kinase
+Insulin is a peptide hormone that is produced by the β-cells of islets of Langerhans in the pancreas.
+Insulin reaches target cells, such as liver, muscle, or fat tissue cells via bloodstream.
+Binding of insulin to the insulin receptor initiates a cascade of events that leads to increased glucose uptake and metabolism.
+Inability to make or sense insulin → diabetes
+
+Slide 34:
+Glucose Import in Myocytes
+
+Slide 35:
+Insulin Signaling Cascade: Ligand Binding
+Insulin binding to the extracellular domains of the receptor activates the catalytic domain inside the cell.
+The catalytic domain in one receptor phosphorylates Tyr residues in another receptor.
+Receptor autophosphorylation allows binding and phosphorylation of protein IRS-1.  
+
+Slide 36:
+Insulin Signaling Cascade
+Indirect interaction of phosphorylated IRS with protein Ras initiates a series of protein phosphorylations.
+ERK, one of the phosphorylated protein kinases, enters the nucleus.
+A transcription factor (Elk1) becomes phosphorylated and stimulates the expression of specific genes (e.g., glucose transporter (GLUT4)).
+
+Slide 37:
+Crosstalk Between a Tyrosine Kinase Receptor and a GPCR Is an Example of Integration of Signals
+
+Slide 38:
+The Insulin Receptor Activates a Multivalent Signalling Protein Cascade
+Phosphorylated Tyr residues are bound by proteins with SH2 domains, like Grb2. 
+SH2 domains have multiple protein binding domains and can bring two or more proteins into close proximity.
+
+Slide 39:
+Multivalent Adapter Proteins Allow Modular and Adaptable Signal Transduction 
+
+Slide 40:
+SH2 Domains Bind Proteins with Phosphotyrosine Residue
+
+Slide 41:
+Multivalent Adapter Proteins Assemble and Regulate Signalling Cascades
+
+Slide 42:
+Gated Ion Channels
+Regulate transport of ions across cell membranes 
+Respond to:
+changes in the membrane potential
+ligand binding to specific receptor sites
+
+Many important roles in the nervous system
+voltage-gated sodium channels
+nicotinic acetylcholine receptor
+ionotropic glutamate receptor
+gamma aminobutyric acid receptor A
+
+Slide 43:
+Membranes Are Electrically Polarized
+The inside of the cell is typically negatively charged compared with the outside: Vm –50 to –70 mV.
+The membrane potential is largely due to assymmetric transport of cations by Na+K+ ATPase.
+3 Na+ out
+2 K+ in 
+Flow of ionic species across the membrane depends on its concentration gradient and overall electrical potential.
+
+
+Slide 44:
+Membranes Are Electrically Polarized
+
+Slide 45:
+Voltage-Gated and Ligand-Gated 
+Ion Channels in Nerve Signaling
+Nerve signals within nerves propagate as electrical impulses.
+Propagation of the impulse involves opening of voltage-gated Na+ channels.
+Opening of voltage-gated Ca++ channels at the end of the axon triggers the release of neurotransmitter acetylcholine.
+Acetylcholine opens the ligand-gated ion channel on the receiving cell.
+
+Slide 46:
+Ion Channels in Nerve Signaling
+
+Slide 47:
+Integrins Mediate Cell Adhesion
+Extracellular domain interacts with Arg-Gly-Asp– containing proteins.
+collagen, fibrinogen, fibronectin, and others
+This triggers cytoskeleton rearrangement and gene expression.
+Newly expressed genes bind to intracellular domain, triggering extracellular response.
+
+Slide 48:
+Direct Regulation of Transcription 
+by Hormones
+
+Slide 49:
+Bacterial Chemotaxis Is Controlled by Enzyme-Coupled Receptors
+
+Slide 50:
+Cell Cycle Is Regulated Intracellularly 
+by Cyclin-Dependent Protein Kinases
+
+Slide 51:
+CDKs Are Regulated by 
+Phosphorylation and Proteolysis 
+
+Slide 52:
+Growth Factors Trigger 
+Transcriptional Regulation of CDKs
+
+Slide 53:
+Constitutive Activation of CDKs 
+Can Lead to Cancer
+
+Slide 54:
+Protein Kinase Inhibitors 
+May Be a Treatment for Cancer
+
+Slide 55:
+Damage to Macromolecules Can Trigger Programmed Cell Death (Apoptosis)
+
+Slide 56:
+Chapter 12: Summary
+Cell signaling is triggered by receptors that sense the extracellular environment.
+specific to ligands
+often amplify the signal
+can be modular
+desensitize to prevent excess signal
+GPCRs bind G-proteins, which activate interacting proteins.
+Receptor tyrosine kinases activate kinase domains with auto-phosphorylation.
+Receptor guanylyl cyclases generate the secondary messenger cGMP.
+Voltage-gated ion channels generate and propagate nerve impulses.
+Disregulation of intracellular signaling cascades can lead to cancer.
+
+In this chapter, we learned:

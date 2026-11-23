@@ -1,0 +1,379 @@
+Slide 1:
+
+13 | Bioenergetics and Biochemical Reaction Types
+© 2017 W. H. Freeman and Company
+
+Slide 2:
+CHAPTER 13 
+Bioenergetics and Biochemical Reaction Types
+Application of thermodynamics to biochemistry
+Common organic chemistry principles in biochemistry
+Some biomolecules are “high energy” with respect to their hydrolysis and group transfers. 
+Energy stored in reduced organic compounds can be used to reduce cofactors such as NAD+ and FAD, which serve as universal electron carriers. 
+Learning goals: 
+
+Slide 3:
+Life Needs Energy
+Recall that living organisms are built of complex structures.
+Building complex structures that are low in entropy is only possible when energy is spent in the process.
+The ultimate source of this energy on Earth is sunlight
+
+Slide 4:
+Metabolism Is the Sum of All Chemical Reactions in the Cell
+
+Slide 5:
+Laws of Thermodynamics 
+Apply to Living Organisms
+Living organisms cannot create energy from nothing.
+Living organisms cannot destroy energy into nothing.
+Living organism may transform energy from one form to another.
+In the process of transforming energy, living organisms must increase the entropy of the universe.
+In order to maintain organization within themselves, living systems must be able to extract useable energy from their surroundings and release useless energy (heat) back to their surroundings. 
+
+Slide 6:
+
+Slide 7:
+Free Energy, or the Equilibrium Constant, Determines the Spontaneity of Processes 
+TABLE 13-2	Relationship between Equilibrium Constants and Standard Free-Energy Changes of Chemical Reactions	
+ 	ΔG'°	
+K'eq	(kJ/mol)	(kcal/mol)a	
+103	–17.1	–4.1	
+102	–11.4	–2.7	
+101	–5.7	–1.4	
+1	0.0	0.0	
+10–1	5.7	1.4	
+10–2	11.4	2.7	
+10–3	17.1	4.1	
+10–4	22.8	5.5	
+10–5	28.5	6.8	
+10–6	34.2	8.2	
+a Although joules and kilojoules are the standard units of energy and are used throughout
+this text, biochemists and nutritionists sometimes express ΔG'˚ values in kilocalories
+per mole. We have therefore included values in both kilojoules and kilocalories in this
+table and in Tables 13-4 and 13-6. To convert kilojoules to kilocalories, divide the number
+of kilojoules by 4.184.	
+
+Slide 8:
+Free Energy, or the Equilibrium Constant, Determines the Spontaneity of Processes 
+TABLE 13-3	Relationships among K'eq, ΔG'˚, and the Direction of Chemical Reactions	
+When K'eq is . . .	ΔG'˚ is . . .	Starting with all components at 1 M, the reaction . . .	
+>1.0	negative	proceeds forward	
+1.0	zero	is at equilibrium	
+<1.0	positive	proceeds in reverse	
+
+Slide 9:
+TABLE 13-4	Standard Free-Energy Changes of Some Chemical Reactions	
+ 	ΔG'˚	
+Reaction type	(kJ/mol)	(kcal/mol)	
+Hydrolysis reactions
+Acid anhydrides
+   Acetic anhydride + H2O → 2 acetate
+   ATP + H2O → ADP + Pi
+   ATP + H2O → AMP + PPi
+   PPi + H2O → 2Pi
+   UDP-glucose + H2O → UMP + glucose 1-phosphate	
+
+–91.1
+–30.5
+–45.6
+–19.2
+–43.0	
+
+–21.8
+–7.3
+–10.9
+–4.6
+–10.3	
+Esters
+   Ethyl acetate + H2O → ethanol + acetate 
+   Glucose 6-phosphate + H2O → glucose + Pi	–19.6
+–13.8	–4.7
+–3.3	
+Amides and peptides
+   Glutamine + H2O → glutamate 1 NH4+
+   Glycylglycine + H2O → 2 glycine	–14.2
+–9.2	–3.4
+–2.2	
+Glycosides
+   Maltose + H2O → 2 glucose
+   Lactose + H2O → glucose + galactose	–15.5
+–15.9	–3.7
+–3.8	
+Rearrangements
+   Glucose 1-phosphate → glucose 6-phosphate 
+   Fructose 6-phosphate → glucose 6-phosphate	–7.3
+–1.7	–1.7
+–0.4	
+Elimination of water
+   Malate → fumarate + H2O	3.1	0.8	
+Oxidations with molecular oxygen
+   Glucose + 6O2 → 6CO2 + 6H2O
+   Palmitate + 23O2 → 16CO2 + 16H2O	–2,840
+–9,770	–686
+–2,338	
+
+Slide 10:
+Energetics of Some Chemical Reactions
+Hydrolysis reactions tend to be strongly favorable (spontaneous).
+Isomerization reactions have smaller free-energy changes.
+isomerization between enantiomers: ΔG° = 0
+Complete oxidation of reduced compounds is strongly favorable. 
+This is how chemotrophs obtain most of their energy.
+In biochemistry, the oxidation of reduced fuels with O2 is stepwise and controlled.
+Recall that being thermodynamically favorable is not the same as being kinetically rapid.
+
+Slide 11:
+Energetics Within the Cell are Not Standard
+The actual free-energy change of a reaction in the cell depends on:
+the standard change in free energy
+actual concentrations of products and reactants
+For the reaction aA + bB          cC + dD:
+
+		
+
+Standard free-energy changes are additive:
+	  (1)    A  →  B	ΔG1
+	  (2)    B  →  C	ΔG2
+	Sum:  A  →  C	ΔG1 + ΔG2
+
+
+
+Slide 12:
+Chemical Reactivity
+Most reactions fall within a few categories: 
+Cleavage and formation of C–C bonds
+Cleavage and formation of polar bonds
+nucleophilic substitution mechanism
+addition–elimination mechanism
+ hydrolysis and condensation reactions
+Internal rearrangements
+Eliminations (without cleavage)
+Group transfers (H+, CH3+, PO32–)
+Oxidations-reductions (e– transfers) 
+
+Slide 13:
+Chemistry at Carbon: Homolytic versus Heterolytic Cleavage
+Covalent bonds can be broken in two ways.
+Homolytic cleavage is very rare .
+Heterolytic cleavage is common, but the products are highly unstable, dictating the chemistry that occurs.
+
+
+Slide 14:
+Nucleophiles and Electrophiles 
+in Biochemistry
+Definition: -phile (suffix, Latin): to love, or demonstrate fondess towards 
+Nucleophiles love nuclei. The nuclei of an atom contains positively charged particles (protons), so nucleophiles love to react with positive charges and are electron rich.
+Electrophiles love electrons. Electrons are negatively charged, so electrophiles must be positively charged.
+
+Slide 15:
+Examples of Nucleophilic Carbon-Carbon Bond Formation Reactions
+
+Slide 16:
+Addition–Elimination Reactions
+Substitution from sp3 carbon proceeds normally via the nucleophilic substitution (SN1 or SN2) mechanism.
+Substitution from the sp2 carbon proceeds normally via the nucleophilic addition–elimination mechanism.
+nucleophile adds to the sp2 center, giving a tetrahedral intermediate 
+leaving group eliminates from the tetrahedral intermediate
+leaving group may pick up a proton
+
+Slide 17:
+Addition–Elimination Reactions
+
+Slide 18:
+Isomerizations and Eliminations:
+No Change in Oxidation State
+
+Slide 19:
+Group Transfer Reactions
+ Proton transfer, very common
+ Methyl transfer, various biosyntheses
+ Acyl transfer, biosynthesis of fatty acids
+ Glycosyl transfer, attachment of sugars 
+ Phosphoryl transfer, to activate metabolites
+  also important in signal transduction
+
+Slide 20:
+Nucleophilic Displacement
+Substitution from sp3 phosphorous proceeds via the nucleophilic substitution (usually associative, SN2-like) mechanism.
+The nucleophile forms a partial bond to the phosphorous center, giving a pentacovalent intermediate or a pentacoordinated transition state.
+
+Slide 21:
+Phosphoryl Transfer from ATP
+ATP is frequently the donor of the phosphate in the biosynthesis of phosphate esters.
+
+Slide 22:
+Hydrolysis of ATP Is Highly Favorable
+Under Standard Conditions
+Better charge separation in products
+Better solvation of products
+More favorable resonance stabilization of products
+
+
+Slide 23:
+ΔG° of ATP Hydrolysis Is 
+Mg++ Dependent
+
+Slide 24:
+Actual ΔG of ATP Hydrolysis 
+Differs from ΔG°’ 
+The actual free-energy change in a process depends on:
+the standard free energy
+the actual concentrations of reactants and products
+The free-energy change is more favorable if the reactant’s concentration exceeds its equilibrium concentration.
+The true reactant and the product are Mg-ATP and Mg-ADP, respectively.
+ΔG° also Mg++ dependent
+
+
+Slide 25:
+Cellular ATP concentration is usually far above the equilibrium concentration, making ATP a very potent source of chemical energy. 
+TABLE 13-5	Total Concentrations of Adenine Nucleotides, Inorganic Phosphate, and Phosphocreatine in Some Cells	
+	Concentration (MM)a	
+	ATP	ADPb	AMP	Pi	PCr	
+Rat hepatocyte	3.38	1.32	0.29	4.8	0	
+Rat myocyte	8.05	0.93	0.04	8.05	28	
+Rat neuron	2.59	0.73	0.06	2.72	4.7	
+Human erythrocyte	2.25	0.25	0.02	1.65	0	
+E. coli cell	7.90	1.04	0.82	7.9	0	
+a For erythrocytes the concentrations are those of the cytosol (human erythrocytes lack a nucleus and mitochondria). In the other types of cells the data are for the entire cell contents, although the cytosol and the mitochondria have very different concentrations of ADP. PCr is phosphocreatine, discussed on p. 516.
+b This value reflects total concentration; the true value for free ADP may be much lower (p. 509).	
+
+Slide 26:
+Several Phosphorylated Compounds Have Large ΔG°’ for Hydrolysis
+Again, electrostatic repulsion within the reactant molecule is relieved.
+The products are stabilized via resonance, or by more favorable solvation.
+The product undergoes further tautomerization.
+
+Slide 27:
+Phosphates: Ranking by the Standard Free Energy of Hydrolysis
+Reactions such as:
+
+PEP + ADP => Pyruvate + ATP
+
+are favorable and can be used to synthesize ATP.
+Phosphate can be transferred from compounds with higher ΔG°’ to those with lower ΔG°’.
+
+Slide 28:
+Two-Step Group Transfers Facilitate ATP-Dependent Reactions
+
+Slide 29:
+Hydrolysis of Thioesters
+Hydrolysis of thioesters is strongly favorable.
+such as acetyl-CoA
+Acetyl-CoA is an important donor of acyl groups.
+feeding two-carbon units into metabolic pathways
+synthesis of fatty acids
+In acyl transfers, molecules other than water accept the acyl group.
+
+Slide 30:
+Oxidation-Reduction Reactions
+Reduced organic compounds serve as fuels from which electrons can be stripped off during oxidation.
+
+Slide 31:
+Reversible Oxidation of 
+a Secondary Alcohol to a Ketone
+Many biochemical oxidation-reduction reactions involve transfer of two electrons.
+In order to keep charges in balance, proton transfer often accompanies electron transfer.
+In many dehydrogenases, the reaction proceeds by a stepwise transfers of proton (H+) and hydride (:H–).
+
+Slide 32:
+Reduction Potential Determines Flow of Electrons
+Reduction potential (E)
+affinity for electrons; higher E, higher affinity
+electrons transferred from lower to higher E
+
+ΔE°’ = −(RT/nF)ln (Keq) = ΔG°’/nF 
+
+∆E°’ = E°’(e− acceptor) – E°’(e− donor)
+
+∆G°’ = –nF∆E°’
+For negative ΔG, need positive ΔE
+E(acceptor) > E(donor)
+
+		
+
+Slide 33:
+TABLE 13-7a	Standard Reduction Potentials of Some Biologically Important Half-Reactions	
+Half-reaction	E'˚ (V)	
+1/2 O2 + 2H+ + 2e– → H2O	0.816	
+Fe3+ + e– → Fe2+	0.771	
+NO3– + 2H+ + 2e– → NO2– + H2O	0.421	
+Cytochrome f (Fe3+) + e– → cytochrome f (Fe2+)	0.365	
+Fe(CN)63– (ferricyanide) + e– → Fe(CN)64–	0.36	
+Cytochrome a3 (Fe3+) + e– → cytochrome a3 (Fe2+)	0.35	
+O2 + 2H+ + 2e– → H2O2	0.295	
+Cytochrome a (Fe3+) + e– → cytochrome a (Fe2+)	0.29	
+Cytochrome c (Fe3+) + e– → cytochrome c (Fe2+)	0.254	
+Cytochrome c1 (Fe3+) + e– → cytochrome c1 (Fe2+)	0.22	
+Cytochrome b (Fe3+) + e– → cytochrome b (Fe2+)	0.077	
+Ubiquinone + 2H+ + 2e– → ubiquinol	0.045	
+Fumarate2– + 2H+ + 2e– → succinate2–	0.031	
+2H+ + 2e– → H2 (at standard conditions, pH 0)	0.000	
+Crotonyl-CoA + 2H+ + 2e– → butyryl-CoA	–0.015	
+Oxaloacetate2– + 2H+ + 2e– → malate2–	–0.166	
+Source: Data mostly from R. A. Loach, in Handbook of Biochemistry and Molecular Biology, 3rd edn (G. D. Fasman, ed.), Physical and Chemical Data, Vol. 1, p. 122, CRC Press, 1976.
+aThis is the value for free FAD; FAD bound to a specific flavoprotein (e.g., succinate dehydrogenase) has a different E'˚ that depends on its protein environment.	
+
+Slide 34:
+TABLE 13-7b	Standard Reduction Potentials of Some Biologically Important Half-Reactions	
+Half-reaction	E'˚ (V)	
+Pyruvate– + 2H + 2e– → lactate–  	–0.185	
+Acetaldehyde + 2H+ + 2e– → ethanol	–0.197	
+FAD + 2H+ + 2e– → FADH2	–0.219a	
+Glutathione + 2H+ + 2e– → 2 reduced glutathione	–0.23	
+S + 2H+ + 2e– → H2S	–0.243	
+Lipoic acid + 2H+ + 2e– → dihydrolipoic acid	–0.29	
+NAD+ + H+ + 2e– → NADH	–0.320	
+NADP+ + H+ + 2e– → NADPH	–0.324	
+Acetoacetate + 2H+ + 2e– → β-hydroxybutyrate	–0.346	
+α-Ketoglutarate + CO2 + 2H+ + 2e– → isocitrate	–0.38	
+2H+ + 2e– → H2 (at pH 7)	–0.414	
+Ferredoxin (Fe3+) + e– → ferredoxin (Fe2+)	–0.432	
+Source: Data mostly from R. A. Loach, in Handbook of Biochemistry and Molecular Biology, 3rd edn (G. D. Fasman, ed.), Physical and Chemical Data, Vol. 1, p. 122, CRC Press, 1976.
+aThis is the value for free FAD; FAD bound to a specific flavoprotein (e.g., succinate dehydrogenase) has a different E'˚ that depends on its protein environment.	
+
+Slide 35:
+NAD and NADP Are 
+Common Redox Cofactors
+These are commonly called pyridine nucleotides.
+They can dissociate from the enzyme after the reaction.
+In a typical biological oxidation reaction, hydride from an alcohol is transferred to NAD+, giving NADH.
+
+Slide 36:
+NAD and NADP Are 
+Common Redox Cofactors
+
+Slide 37:
+Formation of NADH Can Be Monitored 
+by UV-Spectrophotometry 
+Measure the change of absorbance at 340 nm
+Very useful signal when studying the kinetics of 
+	NAD-dependent dehydrogenases
+
+Slide 38:
+Lesson in Quantum Chemistry
+Most organic molecules, including the reduced fuels, are in the singlet spin state.
+All electrons are paired into electron pairs.
+Molecular oxygen is in the triplet spin state.
+Two electrons are unpaired.
+Direct electron transfer from a singlet reduced species to a triplet-oxidizing species is quantum-mechanically unfavorable.
+This is why direct oxidation (spontaneous combustion) of biomolecules does not occur readily.
+Cofactors, such as transition metal ions and flavin adenine dinucleotide, are able to catalyze consecutive single-electron transfers needed for utilization of O2.
+
+Slide 39:
+Flavin Cofactors Allow 
+Single Electron Transfers
+Permits the use of molecular oxygen as an ultimate electron acceptor
+flavin-dependent oxidases
+Flavin cofactors are tightly bound to proteins.
+
+Slide 40:
+Chapter 13: Summary
+The rules of thermodynamics and organic chemistry still apply to living systems  
+Reactions are favorable when the free energy of products is much lower than the free energy of reactants  
+Biochemical phosphoryl transfer reactions are favorable when:
+the phosphate donors are destabilized by electrostatic repulsion 
+the reaction products are often stabilized by resonance
+Unfavorable reactions can be made possible by chemically coupling a highly favorable reaction to the unfavorable reaction
+Oxidation-reduction reactions commonly involve transfer of electrons from reduced organic compounds to specialized redox cofactors  
+Reduced cofactors can be used in biosynthesis, or may serve as a source of energy for ATP synthesis. 
+In this chapter, we learned that:

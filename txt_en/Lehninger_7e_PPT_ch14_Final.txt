@@ -1,0 +1,577 @@
+Slide 1:
+
+14| Glycolysis, Gluconeogenesis, and the Pentose Phosphate Pathway
+
+© 2017 W. H. Freeman and Company
+
+Slide 2:
+CHAPTER 14 
+Glycolysis, Gluconeogenesis, and the Pentose Phosphate Pathway
+Harnessing energy from glucose via glycolysis  
+Fermentation under anaerobic conditions 
+Synthesis of glucose from simpler compounds: gluconeogenesis
+Oxidation of glucose in pentose phosphate pathway  
+Learning goals: 
+
+Slide 3:
+Central Importance of Glucose
+Glucose is an excellent fuel.
+yields good amount of energy upon oxidation
+−2840 kJ/mol glucose
+can be efficiently stored in the polymeric form 
+Many organisms and tissues can meet their energy needs on glucose only.
+
+Glucose is a versatile biochemical precursor.
+Many organisms can use glucose to generate:
+all the amino acids
+membrane lipids
+nucleotides in DNA and RNA
+cofactors needed for the metabolism 
+
+Slide 4:
+Four Major Pathways 
+of Glucose Utilization
+Storage
+can be stored in the polymeric form (starch, glycogen)
+used for later energy needs
+Energy production
+generates energy via oxidation of glucose
+short-term energy needs
+Production of NADPH and pentoses
+generates NADPH for use in relieving oxidative stress and synthesizing fatty acids 
+generates pentose phosphates for use in DNA/RNA biosynthesis  
+Structural carbohydrate production
+used for generation of alternate carbohydrates used in cell walls of bacteria, fungi, and plants
+
+Slide 5:
+Four Major Pathways 
+of Glucose Utilization
+
+Slide 6:
+Glycolysis: Importance
+Sequence of enzyme-catalyzed reactions by which glucose is converted into pyruvate
+Pyruvate can be further aerobically oxidized.
+Pyruvate can be used as a precursor in biosynthesis.
+
+Some of the free energy is captured by the synthesis of ATP and NADH.
+
+Research of glycolysis played a large role in the development of modern biochemistry.
+understanding the role of coenzymes
+discovery of the pivotal role of ATP
+development of methods for enzyme purification
+inspiration for the next generations of biochemists
+
+Slide 7:
+Glycolysis: Overview
+In the evolution of life, glycolysis probably was one of the earliest energy-yielding pathways.
+It developed before photosynthesis, when the atmosphere was still anaerobic.
+Thus, the task upon early organisms was how to extract free energy from glucose anaerobically.
+The solution:
+First: Activate it by phosphorylation.
+Second: Collect energy from the high-energy metabolites.
+
+Slide 8:
+Glycolysis: Overview
+
+Slide 9:
+Glycolysis: The Preparatory Phase
+
+Slide 10:
+Glycolysis: The Payoff Phase 
+
+Slide 11:
+Step 1: Phosphorylation of Glucose
+
+Slide 12:
+Step 1: Phosphorylation of Glucose
+Rationale
+traps glucose inside the cell
+lowers intracellular (unphosphorylated) glucose concentration to allow further uptake
+This process uses the energy of ATP.
+Multiple isoforms of hexokinase exist in organisms (e.g., hexokinase I, II, III, and IV (glucokinase)).
+Nucleophilic oxygen at C6 of glucose attacks the last (γ) phosphate of ATP.
+ATP-bound Mg++ facilitates this process by shielding the negative charges on ATP.
+Highly thermodynamically favorable/irreversible
+regulated mainly by substrate inhibition
+
+
+Slide 13:
+Step 2: Phosphohexose Isomerization
+
+Slide 14:
+Step 2: Phosphohexose Isomerization
+Rationale
+makes next steps easier (less energy required):
+C1 of fructose is easier to phosphorylate by PFK
+allows for symmetrical cleavage by aldolase
+An aldose (glucose) can isomerize into a ketose (fructose) via an enediol intermediate.
+The isomerization is catalyzed by the active-site glutamate via general acid/base catalysis.
+Slightly thermodynamically unfavorable/reversible
+product concentration kept low by pairing with favorable next step to drive reaction forward
+
+Slide 15:
+Mechanism of Phosphohexose Isomerase
+
+Slide 16:
+Mechanism of Phosphohexose Isomerase: Base Catalysis
+
+Slide 17:
+Mechanism of Phosphohexose Isomerase: Acid Catalysis
+
+Slide 18:
+Step 3: 2nd Priming Phosphorylation
+
+Slide 19:
+Step 3: 2nd Priming Phosphorylation by Phosphofructokinase-1
+Rationale 
+further activation of glucose
+allows for 1 phosphate/3-carbon sugar after step 4
+First committed step of glycolysis
+fructose 1,6-bisphosphate is committed to become pyruvate and yield energy
+This process uses the energy of ATP.
+Highly thermodynamically favorable/irreversible
+Phosphofructokinase-1 is highly regulated.
+by ATP, fructose-2,6-bisphosphate, and other metabolites
+do not burn glucose if there is plenty of ATP 
+
+Slide 20:
+Step 4: Aldol Cleavage of F-1,6-bP
+
+Slide 21:
+Step 4: Aldol Cleavage of F-1,6-bP by Aldolase
+Rationale
+Six-carbon sugar is cleaved into two three-carbon sugars.
+High-energy phosphate sugars are three-carbon sugars.
+The reverse process is the familiar aldol condensation.
+Multiple mechanisms to result in same product (i.e., convergent evolution): 
+Animal and plant aldolases employ covalent catalysis.
+Fungal and bacterial aldolases employ metal ion catalysis.
+Thermodynamically unfavorable/reversible
+product (GAP) concentration kept low to pull reaction forward
+
+Slide 22:
+Mechanism of Class I Aldolases
+
+Slide 23:
+Mechanism of Class I Aldolases:
+Covalent Catalysis
+
+Slide 24:
+Mechanism of Class I Aldolases:
+Base Catalysis
+
+Slide 25:
+Mechanism of Class I Aldolases:
+Base Catalysis
+
+Slide 26:
+Mechanism of Class I Aldolases:
+Acid Catalysis
+
+Slide 27:
+Mechanism of Class I Aldolases:
+Release of Product
+
+Slide 28:
+Step 5: Triose Phosphate Interconversion
+
+Slide 29:
+Step 5: Triose Phosphate Interconversion by Triose Phosphate Isomerase
+Rationale:
+allows glycolysis to proceed to payoff phase by a single chemical pathway
+Aldolase creates two triose phosphates: 
+dihydroxyacetone phosphate (DHAP)
+glyceraldehyde-3-phosphate (GAP)
+Only GAP is the substrate for the next enzyme.
+DHAP must be converted to GAP by triose Phosphate isomerase.
+Completes preparatory phase of glycolysis
+Thermodynamically unfavorable/reversible
+GAP concentration kept low to pull reaction forward
+
+Slide 30:
+Glucose Carbons in GAP
+
+Slide 31:
+Step 6: Oxidation of GAP 
+
+Slide 32:
+Step 6: Oxidation of GAP by Glyceraldehyde-3-Phosphate Dehydrogenase 
+Rationale:
+generation of a high-energy phosphate compound
+incorporates inorganic phosphate
+which allows for net production of ATP via glycolysis!
+First energy-yielding step in glycolysis
+Oxidation of aldehyde with NAD+ gives NADH.
+Active-site cysteine
+forms high-energy thioester intermediate
+subject to inactivation by oxidative stress
+Thermodynamically unfavorable/reversible
+coupled to next reaction to pull forward
+
+
+Slide 33:
+Mechanism of GAPDH
+
+Slide 34:
+Mechanism of GAPDH:
+Substrate Binding
+
+Slide 35:
+Mechanism of GAPDH:
+Covalent Catalysis
+
+Slide 36:
+Mechanism of GAPDH:
+Oxidation by NAD+
+
+Slide 37:
+Mechanism of GAPDH:
+Replacement of Cosubstrate
+
+Slide 38:
+Mechanism of GAPDH:
+Incorporation of Pi
+
+Slide 39:
+Step 7: 1st Production of ATP 
+
+Slide 40:
+Step 7: 1st Production of ATP by Phosphoglycerate Kinase 
+Rationale:
+substrate-level phosphorylation to make ATP
+1,3-bisphosphoglycerate is a high-energy compound. 
+ can donate the phosphate group to ADP to make ATP
+Kinases are enzymes that transfer phosphate groups between ATP and various substrates.
+Highly thermodynamically favorable/reversible
+is reversible because of coupling to GAPDH reaction
+
+Slide 41:
+Step 8: Migration of the Phosphate
+
+Slide 42:
+Step 8: Migration of the Phosphate by Phosphoglycerate Mutase
+Rationale: 
+be able to form high-energy phosphate compound 
+Mutases catalyze the (apparent) migration of functional groups.
+One of the active-site histidines is posttranslationally modified to phosphohistidine.
+Phosphohistidine donates its phosphate to 3-phosphoglycerate at the 2-carbon oxygen before retrieving another phosphate from the 3-carbon oxygen.
+Note that the phosphate from the substrate ends up bound to the enzyme at the end of the reaction.
+Thermodynamically unfavorable/reversible
+reactant concentration kept high by PGK to push forward
+
+
+Slide 43:
+Mechanism of Phosphoglycerate Mutase:
+Base Catalyzed Phosphoryl Transfer
+
+Slide 44:
+Mechanism of Phosphoglycerate Mutase:
+Acid Catalyzed Phosphoryl Transfer
+
+Slide 45:
+Step 9: Dehydration of 2-PG to PEP
+
+Slide 46:
+Step 9: Dehydration of 2-PG to PEP
+Rationale:
+generate a high-energy phosphate compound
+2-Phosphoglycerate is not a good enough phosphate donor to generate ATP.
+two negative charges in 2-PG are fairly close
+but loss of phosphate from 2-PG would give a secondary alcohol with no further stabilization
+Slightly thermodynamically unfavorable/reversible
+product concentration kept low to pull forward
+
+Slide 47:
+Step 10: 2nd Production of ATP
+
+Slide 48:
+Step 10: 2nd Production of ATP by Pyruvate kinase
+Rationale:
+substrate-level phosphorylation to make ATP
+net production of 2 ATP/glucose
+Loss of phosphate from PEP yields an enol that tautomerizes into ketone.
+Tautomerization 
+effectively lowers the concentration of the reaction product
+drives the reaction toward ATP formation 
+Pyruvate kinase requires divalent metals (Mg++ or    Mn++) for activity.
+Highly thermodynamically favorable/irreversible
+regulated by ATP, divalent metals, and other metabolites
+
+
+Slide 49:
+Pyruvate Tautomerization 
+Drives ATP Production
+
+Slide 50:
+Summary of Glycolysis
+Used:
+1 glucose; 2 ATP; 2 NAD+
+Made:
+2 pyruvate
+various different fates
+4 ATP
+used for energy-requiring processes within the cell
+2 NADH
+must be reoxidized to NAD+ in order for glycolysis to continue
+Glycolysis is heavily regulated.
+ensure proper use of nutrients
+ensure production of ATP only when needed
+Glucose + 2 NAD+ + 2 ADP + 2 Pi → 2 Pyruvate + 2 NADH + 2 H+ + 2 ATP
+
+Slide 51:
+Chemical Logic of Glycolysis
+
+Slide 52:
+Feeder Pathways for Glycolysis
+Glucose molecules are cleaved from glycogen and starch by glycogen phosphorylase.
+yielding glucose-1-phosphate
+uses inorganic phosphate as phosphate source
+Disaccharides are hydrolyzed.
+lactose: glucose and galactose
+sucrose: glucose and fructose
+Monosaccharides fructose, galactose, and mannose enter glycolysis at different points.
+
+Slide 53:
+Oxidation of Multiple Carbohydrates Involves Glycolysis
+
+Slide 54:
+Fates of Pyruvate
+
+Slide 55:
+Anaerobic Glycolysis:
+Fermentation
+Generation of energy (ATP) without consuming oxygen or NAD+
+No net change in oxidation state of the sugars
+Reduction of pyruvate to another product
+Regenerates NAD+ for further glycolysis under anaerobic conditions
+The process is used in the production of food from beer to yogurt to soy sauce.
+
+Slide 56:
+Animals Undergo 
+Lactic Acid Fermentation
+Reduction of pyruvate to lactate, reversible
+During strenuous exercise, lactate builds up in the muscle.
+generally less than 1 minute
+The acidification of muscle prevents its continuous strenuous work.
+The lactate can be transported to the liver and converted to glucose there.
+Requires a recovery time
+high amount of oxygen consumption to fuel gluconeogenesis
+restores muscle glycogen stores
+
+Slide 57:
+Lactic Acid Fermentation
+
+Slide 58:
+Lactic Acid Fermentation
+
+Slide 59:
+Glycolysis Occurs at Elevated Rates
+ in Tumor Cells
+Tumor cells often grow faster than angiogenesis allows growth of capillaries to aerate them, resulting in anaerobic metabolism.
+Tumor cells increased expression of LDH.
+Compounds that inhibit key steps in glycolysis can kill cancer cells by limiting energy production.
+
+Slide 60:
+Yeast Undergo
+Ethanol Fermentation
+Two-step reduction of pyruvate to ethanol
+Humans do not have pyruvate decarboxylase. 
+We do express alcohol dehydrogenase for ethanol metabolism, but is largely used in the reverse reaction.
+CO2 produced in the first step is responsible for:
+carbonation in beer 
+dough rising when baking bread
+Both steps require cofactors.
+pyruvate decarboxylase: Mg++ and thiamine pyrophosphate
+alcohol dehydrogenase: Zn++ and NAD+
+
+Slide 61:
+Ethanol Fermentation
+
+Slide 62:
+TPP Is a Common Acetaldehyde Carrier
+TPP forms a covalent bond with carbonyl carbon, forming an alcohol, and resulting in release of CO2.
+
+TPP then allows rearrangement of and protonation of carbonyl carbon to release from complex.
+
+Slide 63:
+TPP Is a Common Acetaldehyde Carrier
+
+Slide 64:
+Gluconeogenesis: 
+Making “New” Glucose
+Notice that mammals cannot convert fatty acids to sugars. 
+
+Slide 65:
+Glycolysis versus Gluconeogenesis
+Gluconeogenesis occurs mainly in the liver. 
+Glycolysis occurs mainly in the muscle and brain.
+
+Slide 66:
+Glycolysis versus Gluconeogenesis
+Opposing pathways that are both thermodynamically favorable
+operate in opposite direction
+ end product of one is the starting compound of the other
+Reversible reactions are used by both pathways.
+Irreversible reaction of glycolysis must be bypassed in gluconeogenesis.
+no ATP generated during gluconeogenesis
+different enzymes in the different pathways
+differentially regulated to prevent a futile cycle
+
+Slide 67:
+Steps  1 and 2 : Pyruvate to Phosphoenolpyruvate
+Requires two energy-consuming steps
+The first step, pyruvate carboxylase converts pyruvate to oxaloacetate.
+carboxylation using a biotin cofactor
+requires transport into the mitochondria
+The second step, phosphoenolpyruvate carboxykinase converts oxaloacetate to PEP.
+phosphorylation from GTP and decarboxylation 
+occurs in mitochondria or cytosol depending on the organism
+During this conversion, the same carbon is added and immediately removed from the structure. 
+
+Slide 68:
+Synthesis of Oxaloacetate
+
+Slide 69:
+Biotin Is a CO2 Carrier
+
+Slide 70:
+Oxaloacetate to Phosphoenolpyruvate
+
+Slide 71:
+First Gluconeogenic Steps Travel Through Mitochondria
+The inner mitochondrial membrane is selectively permeable: Malate, PEP, and pyruvate are permeable, while oxaloacetate cannot escape.
+Oxaloacetate can be utilized in the citric acid cycle (Kreb’s cycle) if needed.
+Oxaloacetate can be converted to PEP or malate to allow transport to cytosol for gluconeogenesis.
+
+Slide 72:
+Additional Bypasses
+Catalyze reverse reaction of opposing step in glycolysis
+Are irreversible themselves
+
+Fructose 1,6-bisphosphate → fructose 6-phosphate
+by fructose bisphosphatase-1
+coordinately/oppositely regulated with PFK
+cleaves phosphate with water
+DOES NOT generate ATP
+
+Glucose 6-phosphate → glucose
+by glucose 6-phosphatase
+segregated in the endoplasmic reticulum
+vleaves phosphate with water
+DOES NOT generate ATP
+
+Slide 73:
+Gluconeogenesis Is Expensive
+Costs 4 ATP, 2 GTP, and 2 NADH
+Physiologically necessary: Brain, nervous system, and red blood cells generate ATP ONLY from glucose.
+Allows generation of glucose when glycogen stores are depleted:
+during starvation
+during vigorous exercise
+can generate glucose from amino acids, but not fatty acids
+2 Pyruvate + 4 ATP + 2 GTP + 2 NADH + 2 H+ + 4 H2O → 
+			Glucose + 4 ADP + 2 GDP + 6 Pi  + 2 NAD+
+
+Slide 74:
+Precursors for Gluconeogenesis
+Animals can produce glucose from sugars or proteins.
+sugars: pyruvate, lactate, or oxaloacetate
+protein: from amino acids that can be converted to citric acid cycle intermediates (or glucogenic amino acids) 
+
+Animals cannot produce glucose from fatty acids.
+product of fatty acid degradation is acetyl-CoA
+cannot have a net converstion of acetyl-CoA to oxaloacetate
+Plants, yeast, and many bacteria can do this, thus producing glucose from fatty acids.
+
+Slide 75:
+TABLE 14-4	Glucogenic Amino Acids, Grouped by Site of Entry	
+Pyruvate 
+Alanine 
+Cysteine 
+Glycine 
+Serine 
+Threonine 
+Tryptophana	Succinyl-CoA
+Isoleucinea
+Methionine
+Threonine
+Valine	
+Fumarate
+Phenylalaninea
+Tyrosinea	
+α-Ketoglutarate 
+Arginine 
+Glutamate 
+Glutamine 
+Histidine
+Proline		
+	Oxaloacetate
+Asparagine
+Aspartate	
+Note: All these amino acids are precursors of blood glucose or liver glycogen, because they can be converted to pyruvate or citric acid cycle intermediates. Of the 20 common amino acids, only leucine and lysine are unable to furnish carbon for net glucose synthesis.
+aThese amino acids are also ketogenic (see Fig. 18-15).	
+
+Slide 76:
+Two Phases of the Pentose Phosphate Pathway Simplified
+
+Slide 77:
+Pentose Phosphate Pathway
+The main products are NADPH and ribose 5-phosphate.
+NADPH is an electron donor.
+reductive biosynthesis of fatty acids and steroids
+repair of oxidative damage
+Ribose-5-phosphate is a biosynthetic precursor of nucleotides.
+used in DNA and RNA synthesis
+or synthesis of some coenzymes
+
+Slide 78:
+Oxidative Phase Generates NADPH and a Pentose 
+
+Slide 79:
+Oxidative Phase Generates NADPH and a Pentose 
+Ribulose-5-phosphate can be used to generate ribose-5-phosphate for DNA/RNA.
+
+
+
+
+
+
+
+
+
+
+Ribulose-5-phosphate can also be used to 
+generate xylulose-5-phosphate for 
+nonoxidative PPP.
+
+Slide 80:
+Nonoxidative Phase
+Regenerates G-6-P from R-5-P
+Used in tissues requiring more NADPH than R-5-P
+such as the liver and adipose tissue
+
+
+Slide 81:
+No ATP is used in the nonoxidative phase.
+Complete conversion of ribose-5-phosphate to glucose-6-phosphate requires 6 R5P to make 5 G6P.
+
+Nonoxidative Phase Results in Net Loss of Carbons, but Not Energy
+
+Slide 82:
+NADPH Regulates Partitioning into Glycolysis versus Pentose Phosphate Pathway
+
+Slide 83:
+Can be fatal in cases of high oxidative stress.
+certain drugs, herbicides, and some foods
+Resistance to malaria due to high oxidative stress in red blood cells
+G-6-P Dehydrogenase Deficiency
+
+Slide 84:
+Chapter 14: Summary
+Glycolysis, a process by which cells can extract a limited amount of energy from glucose 
+Fermentation, a process by which cells can continue using glycolysis to extract energy in anaerobic conditions
+Gluconeogenesis, a process by which cells can use a variety of metabolites for the synthesis of glucose
+The differences between glycolysis and gluconeogenesis 
+how they are both made thermodynamically favorable 
+how they are differentially regulated to avoid a futile cycle 
+The pentose phosphate pathway, a process by which cells can generate pentose phosphates and NADPH. The pentose phosphates can be regenerated into glucose-6-phosphate, which requires no ATP.
+In this chapter, we learned about:

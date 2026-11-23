@@ -1,0 +1,512 @@
+Slide 1:
+
+11| Biological Membranes and Transport
+© 2017 W. H. Freeman and Company
+
+Slide 2:
+CHAPTER 11 
+Biological Membranes and Transport
+The function of biological membranes 
+The structure and composition membranes
+Dynamics of membranes
+Structure and function of membrane proteins
+Transport across biological membranes
+
+Learning goals: 
+
+Slide 3:
+Lipids Aggregate into Structures in Water
+Three major structures are observed: 
+micelles
+bilayers
+liposomes
+Structures formed depend on:
+type of lipid
+concentration
+
+Slide 4:
+Micelle
+Forms in the solution of amphipathic molecules that have larger, more polar head than tail
+fatty acids
+sodium dodecyl sulfate
+Micelles are composed of a few dozen to a few thousand lipid molecules.
+Aggregation of individual lipids into micelles is concentration dependent.
+
+Slide 5:
+Membrane Bilayer
+Consists of two leaflets (e.g., layers) of lipid monolayers
+Forms when lipids with polar head groups and more than one lipid tail are in aqueous solution 
+phospholipids
+sphingolipids
+Hydrophilic head groups interact with water on both sides of the bilayer.
+Hydrophobic fatty acid tails are packed inside.
+
+
+Slide 6:
+Vesicle (Liposome)
+Small bilayers will spontaneously seal into spherical vesicles in a concentration-dependent manner.
+Synthetic vesicle membranes can be made in vitro and can contain artificially inserted proteins.
+The central aqueous cavity can enclose dissolved molecules.
+They are useful artificial carriers of molecules (e.g., drugs).
+Vesicles fuse readily with cell membranes or with each other.
+
+Slide 7:
+What Are Membranes?
+Complex lipid-based structures that form pliable sheets 
+Composed of a variety of lipids and proteins
+All cells have a cell membrane, which separates the cell from its surrounding.
+Eukaryotic cells have various internal membranes that divide the internal space into compartments (i.e., organelles).
+
+Slide 8:
+Electron Micrograph of 
+Biological Membranes
+
+Slide 9:
+Functions of Membranes
+Define the boundaries of the cell
+Allow import and export
+Selective import of nutrients (e.g. lactose)
+Selective export of waste and toxins (e.g. antibiotics)
+Retain metabolites and ions within the cell
+Sense external signals and transmit information into the cell
+Provide compartmentalization within the cell
+separate energy-producing reactions from energy-consuming ones
+keep proteolytic enzymes away from important cellular proteins 
+Produce and transmit nerve signals
+Store energy as a proton gradient 
+Support synthesis of ATP
+
+Slide 10:
+Common Features of Membranes
+Sheet-like flexible structure, 30–100 Å (3–10 nm) thick
+Main structure is composed of two leaflets of lipids (bilayer)
+with the exception of archaebacteria: monolayer of bifunctional lipids
+Form spontaneously in aqueous solution and are stabilized by noncovalent forces, especially hydrophobic effect
+Protein molecules span the lipid bilayer
+Asymmetric
+Some lipids are found more commonly “inside.”
+Some lipids are found more commonly “outside.”
+Carbohydrate moieties are attached on the outer leaflet.
+They can be electrically polarized. 
+Fluid structures: two-dimensional solution of oriented lipids
+
+
+Slide 11:
+Fluid Mosaic Model of Membranes
+Proposed in 1972 by Singer and Nicholson (UCSD)
+Lipids form a viscous, two-dimensional solvent into which proteins are inserted and integrated more or less deeply.
+Proteins can either be embedded in or associated with the membrane: 
+Integral proteins are firmly associated with the membrane, often spanning the bilayer.
+Peripheral proteins are weakly associated and can be removed easily.
+Some are noncovalently attached.
+Some are linked to membrane lipids.
+
+Slide 12:
+The Fluid Mosaic Model: Details
+
+Slide 13:
+The Composition of Membranes
+Lipid composition of membranes varies by:
+organisms
+tissues
+organelles
+Ratio of lipid to protein varies 
+type of phospholipid varies
+abundance and type of sterols varies 
+lack of sterols in prokaryotes
+cholesterol predominant in the plasma membrane, virtually absent in mitochondria
+galactolipids abundant in plant chloroplasts but almost absent in animals
+
+Slide 14:
+Membrane Composition Is 
+Highly Variable in Different Organisms
+TABLE 11-1	Major Components of Plasma Membranes in Various Organisms	
+	Components (% by weight)		
+	Protein	Phosphlipid	Sterol	Sterol type	Other lipids	
+Human myelin sheath	30	30	19	Cholesterol	Galactolipids, plasmalogens	
+Mouse liver	45	27	25	Cholesterol	—	
+Maize leaf	47	26	7	Sitosterol	Galactolipids	
+Yeast	52	7	4	Ergosterol	Triacylglycerols, steryl esters	
+Paramecium (ciliated protist)	56	40	4	Stigmasterol	—	
+E. coli	75	25	0	—	—	
+Note: Values do not add up to 100% in every case because there are components other than protein, phospholipids, and sterol; plants, for example, have high glycolipid content.	
+
+Slide 15:
+Membrane Composition Is 
+Highly Variable in Different Organelles
+
+Slide 16:
+Membrane Composition and Asymmetry
+
+Slide 17:
+Membrane Bilayers Are Asymmetric
+Two leaflets have different lipid compositions.
+The outer leaflet is often more positively charged.
+Phosphatidylserine outside has a special meaning:
+platelets: activates blood clotting
+other cells: marks the cell for destruction
+
+Slide 18:
+Archaea Have Multiple Unique Membrane Constituents
+Unique glycerol chirality in phospholipids
+L-glycerol in archaea
+D-glycerol in bacteria
+Unique fatty acids
+branched isoprene chains in archaea
+unbranched fatty acid chains in bacteria
+Unique linkages
+ether linkages in archaea
+ester linkages in bacteria
+Membrane topology
+monolayer in some archaea
+
+
+
+Slide 19:
+Lipid Monolayer in Archaea
+Sulfolobus solfataricus and relatives:
+volcanic hot springs
+temperatures 75–80°C
+acidic environment: pH 2–3
+Better membrane stability by:
+isoprenoid tetraethers with unique alcohols
+
+
+
+Slide 20:
+Functions of Proteins in Membranes
+Receptors: detecting signals from outside
+light (opsin)
+hormones (insulin receptor)
+neurotransmitters (acetylcholine receptor)
+pheromones (taste and smell receptors)
+Channels, gates, pumps
+nutrients (maltoporin)
+ions (K-channel) 
+neurotransmitters (serotonin reuptake protein)
+Enzymes
+lipid biosynthesis (some acyltransferases)
+ATP synthesis (F0F1 ATPase/ATP synthase)
+
+
+Slide 21:
+Three Types of Membrane Proteins
+Peripheral (non-GPI linked) membrane proteins can be dissociated from the membrane fairly easily during changes in ionic strength like pH changes.
+Amphitrophic and GPI-linked proteins are linked to the membrane during specific regulatory events and can be reversibly removed.
+In the presence of strong detergents, integral membrane proteins can be removed from the membrane.
+
+Slide 22:
+Peripheral Membrane Proteins
+Associate with the polar head groups of membranes
+Relatively loosely associated with membrane
+through ionic interactions with the lipids or aqueous domains of integral membrane proteins
+Removed by disrupting ionic interactions either with high salt or change in pH
+Purified peripheral membrane proteins are no longer associated with any lipids.
+
+Slide 23:
+Amphitrophic proteins can be conditionally attached to the membrane by covalent interaction with lipids or carbohydrates attached to lipids.
+Biological regulation results in attachment to, or cleavage from, lipids.
+
+Amphitrophic Membrane Proteins
+
+Slide 24:
+Lipid-linked Membrane Proteins
+
+Slide 25:
+Lipid Anchors
+Some membrane proteins are lipoproteins.
+They contain a covalently linked lipid molecule.
+long-chain fatty acids
+isoprenoids
+sterols
+glycosylated phosphatidylinositol (PGI)
+The lipid part can become part of the membrane.
+The protein is now anchored to the membrane.
+reversible process
+allows targeting of proteins
+Some, such as GPI anchors are found only on the outer face of plasma membrane.
+
+Slide 26:
+Farnesylation of Proteins
+Proteins can be targeted to the inner leaflet of the plasma membrane by farnesylation.
+Farnesylation can be an intermediate in the lipidation of proteins.
+Primary sequence of the protein contains a signature for farnesylation: CaaX.
+C is a conserved Cys.
+“a” is usually an aliphatic amino acid.
+“X” is Met, Ser, Glu, or Ala.
+This reaction is catalyzed by farnesyl transferase.
+Nonfarnesylated proteins do not go to the membrane and are inactive.
+promising cancer therapy (onco-Ras)
+
+Slide 27:
+Integral Membrane Proteins
+Span the entire membrane
+Have asymmetry like the membrane
+different domains in different compartments
+Tightly associated with membrane
+Hydrophobic stretches in the protein interact with the hydrophobic regions of the membrane.
+Removed by detergents that disrupt the membrane
+Purified integral membrane proteins still have phospholipids associated with them.
+
+Slide 28:
+Integral Membrane Proteins
+
+Slide 29:
+Amino Acids in Membrane Proteins 
+Cluster in Distinct Regions
+Transmembrane segments are predominantly hydrophobic.
+Tyr and Trp cluster at nonpolar/polar interface.
+Charged amino acids are only found in aqueous domains.
+
+Slide 30:
+Membrane Proteins Also Contain β-Sheets
+
+Slide 31:
+Integral Membrane Proteins Have Selectively Placed Nonpolar Amino Acids Within the Membrane
+
+Slide 32:
+Hydropathy Plots Can Predict Transmembrane Domains
+
+Slide 33:
+Physical Properties of Membranes
+Dynamic and flexible structures
+Can exist in various phases and undergo phase transitions
+Not permeable to large polar solutes and ions
+Permeable to small polar solutes and nonpolar compounds
+Permeability can be artificially increased by chemical treatment.
+when we want to get DNA into the cell
+
+Slide 34:
+Membrane Phases
+Depending on their composition and the temperature, the lipid bilayer can be in gel or fluid phase
+liquid-ordered state (i.e., “gel phase”): individual molecules do not move around
+liquid-disordered state (i.e., “fluid phase”): individual molecules can move around
+Heating causes phase transition from the gel to fluid.
+Under physiological conditions, membranes are more fluid-like than gel-like.
+must be fluid for proper function
+
+Slide 35:
+Membrane Phases
+
+Slide 36:
+Organisms Can Adjust 
+the Membrane Composition
+Membrane fluidity is determined mainly by the fatty acid composition and melting point.
+More fluid membranes require shorter and more unsaturated fatty acids.
+Melting temperature decreases as double bonds are added.
+Melting temperature increases with length of saturated fatty acids.
+At higher temperatures, cells need more long, saturated fatty acids.
+At lower temperatures, cells need more unsaturated fatty acids. 
+
+Slide 37:
+TABLE 11-2	Fatty Acid Composition of E. coli Cells Cultured at Different Temperatures	
+	Percentage of total fatty acidsa	
+	10 ˚C	20 ˚C	30 ˚C	40 ˚C	
+Myristic acid	4	4	4	8	
+Palmitic acid	18	25	29	48	
+Palmitoleic acid	26	24	23	9	
+Oleic acid	38	34	30	12	
+Hydroxymyristic acid	13	10	10	8	
+Ratio of unsaturated to saturatedb	2.9	2.0	1.6	0.38	
+SOURCE: Data from A. G. Marr and J. L. Ingraham, J. Bacteriol. 84:1260, 1962.
+aThe exact fatty acid composition depends not only on growth temperature but on growth stage and growth medium composition.
+bRatios calculated as the total percentage of 16:1 plus 18:1 divided by the total percentage of 14:0 plus 16:0. Hydroxymyristic acid was omitted from this calculation.	
+
+Slide 38:
+Sterols and Hopanols Increase Membrane Rigidity and Permeability
+Cell membranes of many eukaryotes contain sterols.
+cholesterol in animals
+phytosterols in plants
+ergosterol in fungi
+
+Cell membranes of aerobic prokaryotes contain hopanols.
+cholesterol
+ergosterol
+one particular hopanol
+
+Slide 39:
+Membrane Dynamics: 
+Lateral Diffusion
+Individual lipids undergo fast lateral diffusion within the leaflet.
+
+Slide 40:
+Study of Membrane Dynamics: FRAP
+Fluorescence recovery after photobleaching (FRAP) allows us to monitor lateral lipid diffusion by monitoring the rate of fluorescence return.
+From the rate of return of lipids, the diffusion coefficient of a lipid in the leaflet can be determined.
+Rates of lateral diffusion are high (up to 1 μm/sec). 
+A lipid can circumnavigate an E.coli cell in one second.
+
+Slide 41:
+FRAP Demonstrates Rapid Lateral Motion of Lipids
+
+Slide 42:
+FRAP Step 1: Label Outside of Cell
+
+Slide 43:
+FRAP Step 2: Photobleaching
+
+Slide 44:
+FRAP Step 3: Measure Recovery
+
+Slide 45:
+Movement of a Single Lipid in 56 ms
+
+Slide 46:
+Membrane Dynamics: 
+Transverse Diffusion
+Spontaneous flips from one leaflet to another are rare because the charged head group must transverse the hydrophobic tail region of the membrane.
+
+Slide 47:
+Membrane Diffusion: Flippases
+Special enzymes catalyze transverse diffusion.
+Though often referred to by category name “flippase,” there are unique unidirectional and bidirectional enzymes to catalyze lipid movement.
+Some flippases use energy of ATP to move lipids against the concentration gradient.
+
+Slide 48:
+Membrane Rafts
+Lipid distribution in a single leaflet is not random or uniform.
+Lipid rafts:
+contain clusters of glycosphingolipids with longer-than-usual tails
+are more ordered 
+contain specific doubly or triply acylated proteins
+allow segregation of proteins in the membrane
+
+Slide 49:
+Caveolin Forces Membrane Curvature
+
+Slide 50:
+Other Modes of Membrane Curvature
+
+Slide 51:
+Examples of Membrane Fusion
+Membranes can fuse with each other without exposure of lipids to aqueous solvent.
+Fusion can be spontaneous or protein mediated.
+
+Slide 52:
+Neurotransmitter Release Is Mediated by SNARE-Type Proteins
+Three types of SNARE proteins are involved: 
+T-SNARE assemble on the target membrane.
+V-SNARE assemble on the vesicle membrane.
+Q-SNARE (e.g., SNAP-25) are regulatory proteins that are Ca2+ induced.
+
+Slide 53:
+Neurotransmitter Release
+
+Slide 54:
+Neurotransmitter Release
+
+Slide 55:
+Transport Across Membranes
+Cell membranes are permeable to small nonpolar molecules that passively diffuse through the membrane.
+Passive diffusion of polar molecules involves desolvation and thus has a high activation barrier.
+Transport across the membrane can be facilitated by proteins that provide an alternative diffusion path.
+Such proteins are called transporters or permeases.
+
+Slide 56:
+Transport across a membrane must be energetically favorable.
+Concentration dependence: The solute moves toward equilibrium across the membrane.
+Electrochemical dependence: The solute moves toward charge equilibrium across the membrane.
+Transport Across Membranes
+
+Slide 57:
+Polar Solutes Need Alternative Paths to Cross Cell Membranes
+
+Slide 58:
+Types of Transport
+
+Slide 59:
+Three Classes of Transport Systems 
+
+Slide 60:
+Glucose Transporter in the Membrane
+
+Slide 61:
+Model for Glucose Transport
+
+Slide 62:
+Bicarbonate Transporter Is an Antiporter
+Maintains the electrochemical potential across the membrane
+
+Slide 63:
+Efficient Import of Glucose Uses Multiple Glucose Transporters
+A Na+-glucose symporter and a glucose uniporter operate on opposite sides of epithelial cells to facilitate movement of glucose from the intestine to the blood.
+
+
+Slide 64:
+Two Types of Active Transport
+
+Slide 65:
+ABC Transporters Use ATP Hydrolysis 
+to Drive Transport of Substrates
+
+Slide 66:
+ABC Transporters Use ATP Hydrolysis 
+to Drive Transport of Substrates
+
+Slide 67:
+Failure of ABC-Transporters Can Lead to Human Disease
+Mutations in the human CRTF transporter (an ABC-type transporter) result in the human disease cystic fibrosis.
+Single-amino-acid mutations can render the protein misfolded and/or unable to transport ions, resulting in an imbalance of water across the membrane.
+
+Slide 68:
+Proton Transport and 
+Chemical Energy of ATP
+Energy of ATP hydrolysis can be used to drive protons through the membrane.
+pH control in the cell by F-type ATPase
+Energy of the proton gradient can be used to synthesize ATP.
+in chloroplast and mitochondrial membranes by ATP synthase
+
+Slide 69:
+Proton Driven ATPases Can Function in Both Directions
+
+Slide 70:
+Aquaporins Allow Rapid Water Passage Through Membranes
+
+Slide 71:
+Ion Channels Maintain Gradients 
+for Active Transport
+
+Slide 72:
+Ion Channels Can Respond to Cellular Voltage Changes
+
+Slide 73:
+TABLE 11-7a	Transport Systems Described Elsewhere in This Text	
+Transport system and location	Figure	Role	
+IP3-gated Ca2+ channel of ER	12-11	Allows signaling via changes in cytosolic [Ca2+]	
+Glucose transporter of animal cell plasma membrane; regulated by insulin	12-20	Increases capacity of muscle and adipose tissue to take up excess glucose from blood	
+Voltage-gated Na+ channel of neuron	12-29	Creates action potentials in neuronal signal transmission	
+Fatty acid transporter of myocyte plasma membrane	17-3	Imports fatty acids for fuel	
+Acyl-carnitine/carnitine transporter of mitochondrial inner membrane	17-6	Imports fatty acids into matrix for β oxidation	
+Complex I, III, and IV proton transporters of mitochondrial inner membrane	19-16 	Act as energy-conserving mechanism in oxidative phosphorylation, converting electron flow into proton gradient	
+FoF1 ATPase/ATP synthase of mitochondrial inner membrane, chloroplast thylakoid, and bacterial plasma membrane	19-25, 20-20a, 20-24	Interconverts energy of proton gradient and ATP during oxidative phosphorylation and photophosphorylation	
+Adenine nucleotide antiporter of mitochondrial inner membrane	19-30	Imports substrate ADP for oxidative phosphorylation and exports product ATP	
+Pi-H+ symporter of mitochondrial inner membrane	19-30	Supplies Pi for oxidative phosphorylation	
+Malate-α-ketoglutarate transporter of mitochondrial inner membrane	19-31	Shuttles reducing equivalents (as malate) from
+matrix to cytosol	
+Glutamate-aspartate transporter of mitochondrial inner membrane	19-31	Completes shuttling begun by malate-α- ketoglutarate shuttle	
+
+Slide 74:
+TABLE 11-7b	Transport Systems Described Elsewhere in This Text	
+Transport system and location	Figure	Role	
+Uncoupling protein UCP1, a proton pore of mitochondrial inner membrane	19-36, 23-35	Allows dissipation of proton gradient in mitochondria as means of thermogenesis and/or disposal of excess fuel	
+Cytochrome bf complex, a proton transporter of chloroplast thylakoid	20-19	Acts as proton pump, driven by electron flow through the Z scheme; source of proton gradient for photosynthetic ATP synthesis	
+Bacterorhodopsin, a light-driven proton pump	20-27	Is light-driven source of proton gradient for ATP synthesis in halophilic bacterium	
+Pi-triose phosphate antiporter of chloroplast inner membrane	20-42, 20-43	Exports photosynthetic product from stroma; imports Pi for ATP synthesis	
+Citrate transporter of mitochondrial inner membrane	21-10	Provides cytosolic citrate as source of acetyl-CoA for lipid synthesis	
+Pyruvate transporter of mitochondrial inner membrane	21-10	Is part of mechanism for shuttling citrate from matrix to cytosol	
+LDL receptor in animal cell plasma membrane	21-41	Imports, by receptor-mediated endocytosis, lipid-carrying particles	
+Protein translocase of ER	27-40	Transports into ER proteins destined for plasma membrane, secretion, or organelles	
+Nuclear pore protein translocase	27-44a	Shuttles proteins between nucleus and cytoplasm	
+Bacterial protein transporter	27-46	Exports secreted proteins through plasma membrane	
+
+Slide 75:
+Chapter 11: Summary
+lipids can form micelles, bilayers, and liposomes
+membranes are composed of various lipids and proteins
+properties of the bilayer depend on the lipid composition, which varies strongly from:
+organism to organism 
+tissue to tissue
+organelle to organelle
+membrane proteins are found in three major classes and play a variety of structural and functional roles, especially in the transport of solutes across the membrane
+active transport of solutes across membranes requires ATP but can be accomplished in many different ways
+In this chapter, we learned that:

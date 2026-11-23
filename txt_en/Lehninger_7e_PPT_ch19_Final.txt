@@ -1,0 +1,401 @@
+Slide 1:
+
+19| Oxidative Phosphorylation
+© 2017 W. H. Freeman and Company
+
+Slide 2:
+CHAPTER 19 
+Oxidative Phosphorylation
+Function of electron-transport chain in mitochondria
+Capture of light energy in photosynthesis
+Building up the proton-motive force
+Synthesis of ATP in mitochondria and chloroplasts
+Learning goals: 
+
+Slide 3:
+Energy from Reduced Fuels Is Used to Synthesize ATP in Animals
+Carbohydrates, lipids, and amino acids are the main reduced fuels for the cell.
+Electrons from reduced fuels are transferred to reduced cofactors NADH or FADH2.
+In oxidative phosphorylation, energy from NADH and FADH2 is used to make ATP.
+
+Slide 4:
+Energy Flow in Cellular Respiration
+
+Slide 5:
+Chemiosmotic Theory
+   ADP + Pi → ATP is highly thermodynamically unfavorable.
+How do we make it possible?
+Phosphorylation of ADP is not a result of a direct reaction between ADP and some high-energy phosphate carrier.
+Energy needed to phosphorylate ADP is provided by the flow of protons down the electrochemical gradient.
+The energy released by electron transport is used to transport protons against the electrochemical gradient.
+
+
+Slide 6:
+Chemiosmotic Energy Coupling 
+Requires Membranes
+The proton gradient needed for ATP synthesis can be stably established across a membrane that is impermeable to ions.
+plasma membrane in bacteria
+inner membrane in mitochondria
+thylakoid membrane in chloroplasts 
+The membrane must contain proteins that couple the “downhill” flow of electrons in the electron-transfer chain with the “uphill” flow of protons across the membrane.
+The membrane must contain a protein that couples the “downhill” flow of protons to the phosphorylation of ADP.  
+
+Slide 7:
+Chemiosmotic Theory
+
+Slide 8:
+Structure of a Mitochondrion
+Double membrane leads to four distinct compartments:
+ Outer membrane: 
+relatively porous membrane; allows passage of metabolites
+ Intermembrane space (IMS): 
+similar environment to cytosol 
+higher proton concentration (lower pH)
+ Inner membrane
+relatively impermeable, with proton gradient across it
+location of electron transport chain complexes
+Convolutions called cristae serve to increase the surface area.
+ Matrix
+location of the citric acid cycle and parts of lipid and amino acid metabolism
+lower proton concentration (higher pH)
+
+Slide 9:
+Structure of a Mitochondrion
+
+Slide 10:
+Electron-Transport Chain Complexes Contain a Series of Electron Carriers
+Each complex contains multiple redox centers consisting of:
+flavin mononucleotide (FMN) or flavin adenine dinucleotide (FAD)
+cytochromes a, b, or c
+iron-sulfur cluster
+Order of transfer of electrons is dependent on reduction potential:
+
+Add Table 19-2
+
+Slide 11:
+FMN and FAD: Electron Funnels
+FMN and FAD can be covalently bound to proteins and act to funnel and distribute electrons.
+Accept two electrons from carrier that are unstable with single electrons
+Donate one electron at a time to acceptors that can only accept single electrons
+
+Slide 12:
+Cytochromes
+One-electron carriers
+Iron coordinating porphoryin ring derivatives
+a, b, or c differ by ring additions
+
+
+Slide 13:
+Iron-Sulfur Clusters
+One-electron carriers
+Coordinating by cysteines in the protein
+Containing equal number of iron and sulfur atoms
+
+
+Slide 14:
+Coenzyme Q or Ubiquinone
+Ubiquinone is a lipid-soluble conjugated dicarbonyl compound that readily accepts electrons.
+Upon accepting two electrons, it picks up two protons to give an alcohol, ubiquinol.
+Ubiquinol can freely diffuse in the membrane, carrying electrons with protons from one side of the membrane to another side.
+Coenzyme Q is a mobile electron carrier transporting electrons from Complexes I and II to Complex III.
+
+Slide 15:
+Coenzyme Q or Ubiquinone
+
+Slide 16:
+TABLE 19-3	The Protein Components of the Mitochondrial Respiratory Chain	
+Enzyme complex/protein	 Mass (kDa)	 Number of subunitsa	Prosthetic group(s)	
+I NADH dehydrogenase	850	45 (14)	FMN, Fe-S	
+II Succinate dehydrogenase	140	4	FAD, Fe-S	
+III Ubiquinone: cytochrome c oxidoreductaseb	250	11	Hemes, Fe-S	
+      Cytochrome cc	13	1	Heme	
+IV Cytochrome oxidaseb	204	13 (3–4)	Hemes; CuA, CuB	
+aNumber of subunits in the bacterial complexes in parentheses.
+bMass and subunit data are for the monomeric form.
+cCytochrome c is not part of an enzyme complex; it moves between Complexes III and IV as a freely soluble protein.	
+
+Slide 17:
+ NADH:Ubiquinone Oxidoreductase,
+a.k.a. Complex I
+One of the largest macro-molecular assemblies in the mammalian cell
+Over 40 different polypeptide chains, encoded by both nuclear and mitochondrial genes
+NADH binding site in the matrix side
+Noncovalently bound flavin mononucleotide (FMN) accepts two electrons from NADH.
+Several iron-sulfur centers pass one electron at a time toward the ubiquinone binding site.
+
+Slide 18:
+Complex I
+
+Slide 19:
+NADH:Ubiquinone Oxidoreducase Is a Proton Pump
+Transfer of two electrons from NADH to ubiquinone is accompanied by a transfer of protons from the matrix (N) to the intermembrane space (P) .
+Experiments suggest that about four protons are transported per one NADH.
+
+      NADH + Q + 5H+N = NAD+ + QH2 + 4 H+P
+
+Reduced coenzyme Q picks up two protons.
+Protons are transported by proton wires.
+a series of amino acids that undergo protonation and deprotonation to get a net transfer of a proton from one side of a membrane to another
+
+Slide 20:
+Succinate Dehydrogenase,
+a.k.a. Complex II
+FAD accepts two electrons from succinate.
+Electrons are passed, one at a time, via iron-sulfur centers to ubiquinone, which becomes reduced QH2.
+Does not transport protons
+Succinate dehydrogenase is a single enzyme with dual roles:
+convert succinate to fumarate in the citric acid cycle
+capture and donate electrons in the electron transport chain 
+	
+
+Slide 21:
+Complex II
+
+Slide 22:
+Ubiquinone:Cytochrome c Oxidoreductase, 
+a.k.a. Complex III
+Uses two electrons from QH2 to reduce two molecules of cytochrome c
+Additionally contains iron-sulfur clusters, cytochrome b, and cytochrome c
+Clearance of electrons from the reduced quinones via the Q-cycle results in translocation of four additional protons to the intermembrane space. 
+
+Slide 23:
+Complex III
+
+Slide 24:
+The Q Cycle
+Experimentally, four protons are transported across the membrane per two electrons that reach cyt c.
+Two of the four protons come from QH2.
+The Q cycle provides a good model that explains how two additional protons are picked up from the matrix.
+Two molecules of QH2 become oxidized, releasing protons into the IMS.
+One molecule becomes rereduced, thus a net transfer of four protons per reduced coenzyme Q.
+
+Slide 25:
+The Q Cycle: Cycle 1
+
+Slide 26:
+The Q Cycle: Cycle 2
+
+Slide 27:
+The Q Cycle: Overall Reaction
+
+Slide 28:
+The second mobile electron carrier
+Ubiquinone moves through the membrane.
+Cytochrome c moves through the intermembrane space.
+A soluble heme-containing protein in the intermembrane space
+Heme iron can be either ferrous (Fe3+, oxidized) or ferric (Fe2+, reduced).
+Cytochrome c carries a single electron from the cytochrome bc1 complex to cytochrome oxidase.
+Cytochrome c
+
+Slide 29:
+Cytochrome c Absorbs Visible Light
+Intense Soret band near   400 nm absorbs blue light and gives cytochrome c an intense red color.
+Cytochromes are named by the position of their longest-wavelength (α) peak. 
+
+Slide 30:
+Cytochrome Oxidase, 
+a.k.a. Complex IV
+Mammalian cytochrome oxidase is a membrane protein with 13 subunits.
+Contains two heme groups: a and a3
+Contains copper ions
+CuA: two ions that accept electrons from cyt c
+CuB: bonded to heme a3, forming a binuclear center that transfers four electrons to oxygen
+
+Slide 31:
+Complex IV
+
+Slide 32:
+Cytochrome Oxidase 
+Passes Electrons to O2
+Four electrons are used to reduce one oxygen molecule into two water molecules.
+Four protons are picked up from the matrix in this process.
+Four additional protons are passed from the matrix to the intermembrane space.
+
+Slide 33:
+Electron Flow Through Complex IV
+
+Slide 34:
+Summary of the Electron Flow 
+in the Respiratory Chain
+
+Slide 35:
+Summary of Electron Transport
+Complex I → Complex IV
+1NADH + 11H+(N) + ½O2  ——>  NAD+ + 10H+(P) + H2O
+
+Complex II → Complex IV
+FADH2 + 6H+(N) + ½O2  ——>  FAD + 6H+(P) + H2O
+
+Difference in number of protons transported reflects differences in ATP synthesized.
+
+
+Slide 36:
+Multiple Complexes Associate Together 
+to Form a Respirasome
+
+Slide 37:
+Reactive Oxygen Species Can Damage Biological Macromolecules
+Ubiquinone is naturally “leaky” and facilitates partial reduction of non-Complex III targets. 
+Single electron tranfers result in free radicals.
+One method by which the cell can correct free-radical production of reduced glutathione, which fuels the glutathione shuttle
+
+Slide 38:
+Proton-Motive Force
+The proteins in the electron-transport chain created the electrochemical proton gradient by one of three means:
+actively transporting protons across the membrane 
+Complex I and Complex IV
+chemically removing protons from the matrix 
+reduction of CoQ and reduction of oxygen
+releasing protons into the intermembrane space
+oxidation of QH2
+
+Slide 39:
+Proton-Motive Force
+
+Slide 40:
+Chemiosmotic Model for ATP Synthesis
+ Electron transport sets up a proton-motive force. 
+ Energy of proton-motive force drives synthesis of ATP.
+
+Slide 41:
+Inhibitors of the Electron Transport Chain Disrupt Oxidative Phosphorylation
+
+Slide 42:
+Relationship of ETC and ATP Synthesis
+As described, ATP synthesis requires electron transport.
+But electron transport does not requires ATP synthesis.
+
+
+Slide 43:
+Mitochondrial ATP Synthase Complex 
+Contains two functional units:
+F1
+soluble complex in the matrix
+individually catalyzes the hydrolysis of ATP
+F0
+integral membrane complex
+transports protons from IMS to matrix, dissipating the proton gradient
+energy transferred to F1 to catalyze phosphorylation of ADP
+
+
+Slide 44:
+The F1 catalyzes ADP + Pi      ATP
+Hexamer arranged in three αβ dimers 
+Dimers can exist in three different conformations:
+open: empty
+loose: binding ADP and Pi  
+tight: catalyzes ATP formation and binds product
+
+Slide 45:
+Binding-Change Model
+
+Translocation of three protons fuels synthesis of one ATP.
+
+
+
+Slide 46:
+Coupling Proton Translocation 
+to ATP Synthesis
+Proton translocation causes a rotation of the F0 subunit and the central shaft γ.
+This causes a conformational change within all the three αβ pairs.
+The conformational change in one of the three pairs promotes condensation of ADP and Pi into ATP.
+
+Slide 47:
+Evidence of Rotation
+
+Slide 48:
+Transport of ADP and Pi into the Matrix
+
+Translocation of a fourth proton per ATP is required to facilitate cotransport of substrates into and products out of the mitochondria.
+
+Slide 49:
+Net Production of ATP by Oxidation of Glucose (and Other Fuels) Varies 
+In prokaryotic systems, organelles do not segregate machinery, so all electron carriers can easily feed directly into the electron-transport chain.
+In eukaryotic systems, organellar segregation prevents NADH from the cytosol from directly entering the electron-transport chain at Complex I.
+NAD+ pools are kept segregated and cannot directly cross the mitochondrial inner membrane.
+Two methods are used to feed the electrons from NADH from the cytosol into the mitochondria:
+malate-aspartate shuttle
+glycerol-3-phosphate shuttle
+
+Slide 50:
+Malate-Aspartate Shuttle
+
+Slide 51:
+Glycerol-3-Phosphate Shuttle
+
+Slide 52:
+Net Production of ATP via Catabolic Pathways
+TABLE 19-5	ATP Yield from Complete Oxidation of Glucose	
+Process	Direct product	Final ATP	
+Glycolysis	2 NADH (cytosolic)
+2 ATP	3 or 5a
+2	
+Pyruvate oxidation (two per glucose)	2 NADH (mitochondrial matrix)	5	
+Acetyl-CoA oxidation in citric acid cycle (two per glucose)	6 NADH (mitochondrial matrix)
+2 FADH2
+2 ATP or 2 GTP	15
+3
+2	
+      Total yield per glucose		30 or 32	
+aIf the malate/aspartate shuttle is used to transfer reducing equivalents into the mitochondrion, yield is 5 ATP. If the glycerol 3-phosphate shuttle is used, the yield is 3 ATP.	
+
+Slide 53:
+Regulation of Oxidative Phosphorylation
+Primarily regulated by substrate availability
+NADH and ADP/Pi
+Inhibitor of F1 (IF1)
+prevents hydrolysis of ATP during low oxygen
+only active at lower pH, encountered when electron transport it stalled (i.e., low oxygen)
+Inhibition of OxPhos leads to accumulation of NADH.
+causes feedback inhibition cascade up to PFK-1 in glycoysis
+
+Slide 54:
+Regulation of Oxidative Phosphorylation
+
+Slide 55:
+ATP Synthesis Can Be Uncoupled from ETC to Generate Heat
+Uncoupling protein 1 (UCP-1) in babies
+Hibernating animals
+
+Slide 56:
+The Mitochondria Play an Initiating Role in Apoptosis
+
+Slide 57:
+Mitochondrial DNA is circular and well conserved.
+The mitochondrial genome has 37 genes and encodes rRNA, tRNA, and enzymes in central metabolism, including the citric acid cycle and oxidative phosphorylation.
+Mitochondria have their own ribosomes to allow synthesis of proteins within the organelle.
+However, the vast majority of mitochondrial proteins are encoded on nuclear DNA, synthesized in the cytosol, and imported into the mitochondria.
+Mitochondrial DNA is maternally inherited.
+The Mitochondria Contain a Separate Chromosome
+
+Slide 58:
+The Mitochondria Contains A Separate Chromosome
+
+Slide 59:
+Reactive oxygensSpecies (ROS) resulting from the electron-transport chain creates mutations.
+Mutations are assymetric: Some cells will have more mutations than others.
+When cells divide, daughter cells will have the same mutations as the parent cell.
+Some cell types divide often (e.g., epithelial), while others are stagnant during adulthood (e.g. myocytes).
+Mutations in the Mitochondrial Genome Accumulate
+
+Slide 60:
+Each cell contains multiple mitochondria with differing amounts of mutations.
+Cell division can result in heteroplasmy: a variation in the genetic makeup of mitochondria within a cell.
+Mutations in the Mitochondrial Genome Accumulate
+
+Slide 61:
+Mutations in the Mitochondrial Genome Result in Disorders
+
+Slide 62:
+Defects in oxidative phosphorylation result in low [ATP] in the cell.
+Insulin cannot be released from the cell.
+Mitochondrial Mutations Result in a Rare form of Diabetes
+
+Slide 63:
+Chapter 19: Summary
+the reduced cofactors pass electrons into the electron- transport chain in mitochondria
+stepwise electron transport is accompanied by the directional transport of protons across the membrane against their concentration gradient
+the energy in the electrochemical proton gradient drives synthesis of ATP by coupling the flow of protons via ATP synthase to conformational changes that favor formation of ATP in the active site  
+mitochondrial DNA is maternally inherited and forms a diverse genetic population in the body due to accumulated mutations and that these mutations can result in disorders associated with aging
+
+In this chapter, we learned that:

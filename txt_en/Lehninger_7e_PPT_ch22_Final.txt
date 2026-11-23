@@ -1,0 +1,726 @@
+Slide 1:
+
+22| Biosynthesis of Amino Acids, Nucleotides, and Related Molecules
+
+© 2017 W. H. Freeman and Company
+
+Slide 2:
+CHAPTER 22 
+Biosynthesis of Amino Acids, Nucleotides, and Related Molecules
+Nitrogen fixation
+Incorporation of ammonia into biomolecules
+Biosynthesis of amino acids
+Biosynthesis and degradation of heme
+Biosynthesis of nucleotides
+Catabolism of purines
+Learning goals: 
+
+Slide 3:
+Importance of Nitrogen in Biochemistry
+Nitrogen (with H, O, and C) is a major elemental constituent of living organisms.
+Mostly in nucleic acids and proteins
+But also found in:
+several cofactors (NAD, FAD, biotin … )
+many small hormones (epinephrine)
+many neurotransmitters (serotonin)
+many pigments (chlorophyll)
+many defense chemicals (amanitin)
+
+
+Slide 4:
+Biochemistry of Molecular Nitrogen
+Atmosphere is 80% N2 but nonuseful form
+N2 chemically inert
+need N2 + 3 H2 → 2 NH3 
+Even though ΔG′°= –33.5 kJ/mol… breaking a triple bond has high activation energy.
+can be accomplished using nonbiological processes: 
+N2 and O2 → NO via lightning
+N2 and H2 → NH3 via the industrial Haber process
+requires T>400°C, P>200 atm
+
+
+
+
+Slide 5:
+Some Organisms Can “Fix” N2 
+to Useful Forms
+
+Most are single-celled prokaryotes (archaea).
+Some live in symbiosis with plants. 
+(e.g., proteobacteria with legumes such as peanuts, beans)
+A few live in symbiosis with animals. 
+(e.g., spirochaete with termites)
+
+They have enzymes that overcome the high activation energy by binding and hydrolyzing ATP.
+
+Slide 6:
+Broader Impact of Understanding the Nitrogen Fixation
+Industrial synthesis of NH3 via the Haber process is one of mankind’s most significant chemical processes.
+made chemical fertilizer possible!
+yields over 100 million tons of fertilizer annually
+sustains life of over one-third of human population on Earth
+consumes nonrenewable energy (1–2% of total annual energy)
+Mimicking biological nitrogen fixation (biomimetic nitrogen fixation) may yield significant energy savings, or allow use of renewable energy sources.
+
+Slide 7:
+Review:  Oxidation States of Nitrogen Compounds
+Nitrogen
+NO3
+N+5 O3–
+Nitrate 
+“ate” is the higher oxidation state.
+
+
+Nitrate 
+Nitrite 
+Ammonia 
+NO2
+N+3 O2–  
+Nitrite
+“ite” is light on oxygen and oxidation state.
+
+N2
+Covalent triple bond
+
+
+NH3
+N3- H3+
+NH3:  N has oxidation state of  –3.
+
+
+Slide 8:
+The Nitrogen Cycle
+Chemical transformations maintain a balance between N2 and biologically useful forms of nitrogen.
+Fixation.  Bacteria reduce N2 to NH3/NH4+.   
+Nitrification.  Bacteria oxidize ammonia into nitrite (NO2–) and nitrate (NO3–).
+Assimilation.  Plants and microorganisms reduce NO2– and NO3– to NH3 via nitrite reductases and nitrate reductases.
+	NH3 is incorporated into amino acids, and so on.
+	Organisms die, returning NH3 to soil.
+	Nitrifying bacteria again convert NH3 to nitrite and nitrate.
+Denitrification.  Nitrate is reduced to N2 under anaerobic conditions.  
+	NO3– is the ultimate electron acceptor instead of O2.
+
+Slide 9:
+The Nitrogen Cycle
+
+Slide 10:
+Two Important Enzymes in Nitrogen Assimilation
+1. Nitrate reductase NO3– + 2 e– → NO2–  
+large, soluble protein
+contains novel Mo cofactor
+e–  from NADH
+
+Slide 11:
+Two Important Enzymes in Nitrogen Assimilation
+2. Nitrite reductase NO2– + 6 e– → NH4+ 
+found in chloroplasts in plants: e– comes from ferredoxin
+in nonphotosynthetic microbes: e– comes from NADPH
+
+Slide 12:
+Nitrogen Fixation Is Carried Out by the Nitrogenase Complex
+N2 + 3 H2 = 2 NH3 
+exergonic (ΔG° = –33.5 kJ/mol) but very slow due to the triple bond’s high activation energy 
+The nitrogenase complex uses ATP to overcome the activation energy.
+Passes electrons to N2 and catalyzes a step-wise reduction of N2 to NH3 
+		N2 + 8 H+ + 8 e– + nATP = 2 NH3 + H2 + nADP + nPi
+			    2 NH3 + 2 H+ = 2 NH4+ 
+		About 16 ADP molecules are consumed per one N2.
+
+Slide 13:
+Enzymes and Cofactors in the Nitrogenase Complex
+Source of e– varies between organisms.
+often pyruvate →ferredoxin
+ATP hydrolysis and ATP binding help overcome the high activation energy.
+Has regions homologous to GTP-binding proteins used in signaling
+Has novel FeMo cofactor (or V in some organisms)
+
+Slide 14:
+The Fe-Mo Cofactor in the Dinitrogenase Subunit 
+Consists of: 
+7 Fe atoms
+9 S atoms
+1 Mo atom
+1 bound homocitrate
+The nitrogen binds to the center of the Mo-FeS cage and is coordinated to the molybdenum atom.
+Electrons are passed to the molybdenum-bound nitrogen via the iron-sulfur complex.
+
+Slide 15:
+The Electron-Transfer Cofactors
+
+Slide 16:
+Nitrogen Fixation by the Nitrogenase Complex
+Pyruvate passes e– to ferredoxin or flavodoxin.
+Ferredoxin or flavodoxin pass e– to dinitrogenase reductase.
+The reductase passes e– to dinitrogenase.
+Dinitrogenase passes e– to nitrogen (or to protons) to make NH3.
+Formation of H2 appears an obligatory side reaction.
+
+Slide 17:
+Redox Reactions in Dinitrogenase
+The net reaction of the nitrogenase complex:
+      N2 + 8 H+ + 8 e– + 16 ATP = 2 NH3 + H2 + 16 ADP + 16 Pi
+Dinitrogenase reductase catalyzes: 
+transfer of 8 e– to dinitrogenase 
+hydrolysis of ATP with release of protons
+Dinitrogenase catalyzes: 
+transfer of 6 e– to nitrogen: formation of NH3 
+transfer of 2 e– to protons: formation of H2	
+Mechanism of dinitrogenase is poorly understood: 
+extremely complex redox reaction that involves several metal atoms as cofactors and/or electron transporters
+two plausible mechanisms that involve the Fe-Mo cofactor binding directly to N
+
+
+
+Slide 18:
+Two Hypotheses for the Intermediates of N2 Reduction
+
+Slide 19:
+Nitrogen-Fixing Bacteria in Root Nodules of Legumes
+Takes care of energy requirement and O2 lability
+Bacteria have access to plant’s carbohydrate and CAC intermediates for energy.
+Bacteria are covered with leghemoglobin to bind O2 and prevent corruption of the catalyst in dinitrogenase.
+Can produce more NH3 than plant needs; excess released to soil
+
+Slide 20:
+Nitrogen-Fixing Nodules
+
+Slide 21:
+Nitrogen Assimilation versus Nitrogen Fixation
+Both: 
+Are electron transfer processes
+Use Mo cofactor
+Involve multiple redox cofactors, such as Fe-S, NADH, NADPH, ferrodoxin, flavodoxin, and so on
+Converts N2 to NH3
+Requires multiple ATP
+Uses electrons from pyruvate
+
+Converts NO3 or NO2 to NH3
+Uses electrons from NADH, NADPH, or photosynthetic transfer from ferrodoxin
+
+
+Slide 22:
+The Anammox Reactions
+Anaerobic ammonia oxidation
+
+Newly discovered ability of some bacteria to oxidize NH3 and NO2– into N2 
+“Short-circuits” the nitrogen cycle (no denitrification)
+Used in waste treatment for cheaper ammonia removal
+
+Slide 23:
+Anammox Reactions
+
+Slide 24:
+Surprising Features of the Anammox Reactions
+Bacteria are of unusual phylum Planctomycetes
+have DNA enclosed in membrane 
+use hydrazine (N2H4) → (rocket fuel), toxic, reactive, nonpolar and diffuses across membranes 
+Phospholipids made of ladderanes
+Fatty acid chains contain cyclobutane rings that stack tightly and slow the diffusion of N2H2.
+
+Slide 25:
+Ladderane Lipids
+
+Slide 26:
+Ammonia Is Incorporated into Biomolecules Through Glu and Gln
+Glutamine is made from Glu by glutamine synthetase in a two-step process.
+
+Phosphorylation of Glu creates a good leaving group that can be easily displaced by ammonia.
+
+Slide 27:
+Structure of Gln Synthetase
+
+Slide 28:
+Adenylation of Glutamine Synthetase
+Adenylylation (attachment of AMP) to Tyr-397 assists in inhibition.
+Increases sensitivity to inhibitors
+Part of complex cascade that is dependent on [Glu],        [α-ketoglutarate], [ATP], and [Pi] 
+Activity of adenylyltransferase regulated by binding to regulatory protein PII
+
+Slide 29:
+PII Is Regulated by Uridylylation
+(Remember that PII regulates adenylyltransferase, which helps inhibit Gln synthetase.)
+When PII is uridylylated, adenylyltransferase stimulates deadenylylation of Gln synthetase (increasing the latter’s activity).
+ALSO, uridylylated PII upregulates transcription of Gln synthetase.
+
+Slide 30:
+Biosynthesis of Amino Acids and Nucleotides― MultipleTransaminations
+Transaminations and rearrangements using pyridoxal phosphate (PLP)
+PLP is active form of vitamin B6 
+Catalyzed by amidotransferases 
+PLP has aldehyde group that forms Schiff base with Lys of aminotransferase
+
+
+Slide 31:
+Proposed Mechanism for Glutamine Amidotransferases
+Two domains:
+one binds Gln
+other is amino group acceptor and binds substrate
+Cys acts as nucleophile to cleave amide bond of Gln
+→Forms glutamyl-enzyme intermediate
+Then second substrate binds to accept amino group from enzyme
+
+Slide 32:
+Amino Acid Synthesis Overview
+Source of N is Glu or Gln
+Derive from intermediates of:
+glycolysis
+citric acid cycle
+pentose phosphate pathway
+Bacteria can synthesize all 20.
+Mammals require some in diet.
+
+Slide 33:
+All Amino Acids Derive from One of Seven Precursors 
+
+CAC:
+α-ketoglutarate, oxaloacetate
+Glycolysis
+pyruvate, 3-phosphoglycerate, phosphoenolpyruvate
+Pentose phosphate pathway
+ribose 5-phosphate, erythrose 4-phosphate
+
+
+Slide 34:
+TABLE 22-1	Amino Acid Biosynthetic Families, Grouped by Metabolic Precursor	
+α-Ketoglutarate 
+Glutamate 
+Glutamine 
+Proline 
+Arginine 	Pyruvate
+Alanine
+Valinea
+Leucinea
+Isoleucinea	
+3-Phosphoglycerate 
+Serine
+Glycine
+Cysteine	Phosphoenolpyruvate and erythrose 4-phosphate
+Tryptophana
+Phenylalaninea
+Tyrosineb	
+Oxaloacetate 
+Aspartate 
+Asparagine 
+Methioninea 
+Threoninea
+Lysinea	Ribose 5-phosphate
+Histidinea	
+aEssential amino acids in mammals.
+bDerived from phenylalanine in mammals.	
+
+Slide 35:
+Proline and Arginine Derive from Glutamate
+Glutamate is derived from transamination of α-ketoglutarate, as seen in Chapter 18.
+
+
+
+
+
+Slide 36:
+Biosynthesis of Pro and Arg from Glu in Bacteria
+ATP reacts with γ-carboxyl group → acyl phosphate.
+NADPH or NADH reduces the acyl phosphate to a semialdehyde that rapidly cyclizes.
+Final reduction step yields proline.
+
+Slide 37:
+In Animals, Proline Can ALSO Be Synthesized from Arginine
+Ornithine is derived from the urea cycle or degradation of arginine.
+Ornithine δ-aminotransferase converts ornithine to glutamate γ-semialdehyde that cyclizes and converts to Pro.
+
+Slide 38:
+Arginine Is Synthesized from Ornithine in Animals
+Ornithine comes from the urea cycle.
+
+In bacteria, ornithine has a special synthesis pathway.
+
+
+Slide 39:
+Serine Derives from 3-Phosphoglycerate of Glycolysis
+Same pathway in all organisms so far
+Requires Glu as source of NH2 group
+Oxidation → transamination → dephosphorylation to yield serine
+
+Slide 40:
+Glycine Derives from Serine
+Carbon removed using tetrahydrofolate (H4 folate) to accept the C atom and pyridoxal phosphate (PLP)
+Reaction uses serine hydroxymethyltransferase
+
+Slide 41:
+Cysteine Also Derives from Serine
+In bacteria and plants, sulfates are the source of S.
+
+Slide 42:
+Biosynthesis of Cys from Homocysteine and Ser in Mammals
+In mammals, sulfur is recycled from methionine degradation. 
+
+Slide 43:
+Oxaloacetate Yields Asp, Which Yields Asn, Met, Lys, and Thr
+
+Slide 44:
+Oxaloacetate Yields Asp, Which Yields Asn, Met, Lys, and Thr
+Refer to Figure 22-17.
+Aspartate is formed from transamination of oxaloacetate.
+Aspartate is the root of the other amino acids.
+
+
+Slide 45:
+Pyruvate Yields Ala, Val, Leu, and Ile
+
+Slide 46:
+Aromatic Amino Acids Derive from Phosphoenolpyruvate and Erythrose 4-Phosphate
+Very complicated chemistry!
+Rings must be synthesized and closed and then oxidized to create double bonds.
+Chorismate is a common intermediate.
+
+Slide 47:
+Biosynthesis of Chorismate, a Key Intermediate in Aromatic Amino Acid Biosynthesis
+
+Slide 48:
+His Derives from PPP Metabolite Ribose 5-Phosphate
+
+Slide 49:
+Several Pathways Share 5-Phosphoribosyl-1-Pyrophosphate (PRPP) as an Intermediate
+Synthesized from ribose 5-phosphate of PPP via ribose phosphate pyrophosphokinase
+a highly regulated allosteric enzyme
+
+Slide 50:
+Regulation of Amino Acid Biosynthesis
+Multilayered approach: Often, more than one mechanism of regulation is utilized.
+feedback inhibition of products
+use of isozymes for regulation of specific pathways
+
+Slide 51:
+Feedback Inhibition in Ile Synthesis from Thr
+
+Slide 52:
+Use of Isozymes Is Another Important Means of Regulation
+Example: Asp can lead to Lys, Met, Thr, and Ile.  Use of isozymes, all regulated by different effectors, allows E. coli to produce the amino acids when needed.   
+Example: At step 1, isozyme A1 is inhibited if Ile is high, but not if Met or Thr are high.
+Only the A1 isozyme is inhibited by Ile at this step.
+
+
+Slide 53:
+Regulation of Aspartate-Derived Pathways
+
+Slide 54:
+Important Metabolites Are Derived From Amino Acids
+Porphyrin rings (e.g., heme)
+Phosphocreatine
+Glutathione
+Neurotransmitters and signaling molecules
+Cell-wall constituents
+
+
+
+
+Slide 55:
+Glycine or Glutamate Is the Precursor
+ to Porphyrins
+Porphyrin makes up the heme of hemoglobin, cytochromes, myoglobin.
+In higher animals, porphyrin arises from reaction of glycine with succinyl-CoA.
+In plants and bacteria, glutamate is the precursor.
+The pathway generates two molecules of the important intermediate δ-aminolevulinate.
+Porphobilinogen is another important intermediate.
+
+Slide 56:
+Synthesis of δ-Aminolevulinate in Higher Eukaryotes
+
+Slide 57:
+Synthesis of δ-Aminolevulinate in Plants and Bacteria
+
+Slide 58:
+Synthesis of Heme from 
+δ-Aminolevulinate 
+Two molecules of δ-aminolevulinate condense to form porphobilinogen.
+Four molecules of porphobilinogen combine to form protoporphyrin.
+Fe ion is inserted into protoporphyrin with the enzyme ferrochelatase.
+
+Slide 59:
+Defects in Heme Biosynthesis
+Most animals synthesize their own heme.
+Mutations or misregulaton of enzymes in the heme biosynthesis pathway lead to porphyrias.
+Precursors accumulate in red blood cells, body fluids, and liver.
+Accumulation of precursor uroporphyrinogen I
+Urine becomes discolored (pink to dark purplish depending on light, heat exposure).
+Teeth may show red fluorescence under UV light.
+Skin is sensitive to UV light.
+There is a craving for heme.
+Explored as possible biochemical basis for vampire myths
+
+Slide 60:
+Heme Is the Source of Bile Pigments
+Heme from degradation of erythrocytes is degraded to bilirubin in two steps:
+Heme oxygenase linearizes heme to create biliverdin, a green compound (seen in a bruise).
+Biliverdin reductase converts biliverdin to bilirubin, a yellow compound that travels bound to serum albumin in the bloodstream.
+major pigment of urine (degradation to urobilin)
+further degraded by intestinal microbiota to stercobilin
+
+
+
+
+Slide 61:
+Formation and Breakdown of Bilirubin
+
+Slide 62:
+Jaundice Is Caused by Bilirubin Accumulation
+Jaundice (yellowish pigmentation of skin, whites of eyes, etc.) can result from:
+impaired liver (in liver cancer, hepatitis)
+blocked bile secretion (due to gallstones, pancreatic cancer)
+insufficient glucouronyl bilirubin transferase to process bilirubin (occurs in infants)
+treated with UV to cause photochemical breakdown of bilirubin
+
+Slide 63:
+Gly and Arg Are Precursors of Creatine and Phosphocreatine
+Phosphocreatine is hydrolyzed for energy in muscle.
+
+
+
+
+
+Gly and Arg combine, then S-adenosyl-methionine (Ado-Met) acts as a methyl donor.
+
+Slide 64:
+Biosynthesis of Creatine and Phosphocreatine
+Requires glycine, arginine, and S-adenosyl-methionine
+
+Phosphocreatine can be phosphorylated by ATP for use as a stored energy source.
+
+Slide 65:
+Glutathione (GSH) Derives from Glu, Cys, and Gly
+GSH is present in most cells at high amounts.
+Reducing agent/antioxidant
+keeps proteins, metal cations reduced
+keeps redox enzymes in reduced state
+removes toxic peroxides
+Oxidized to a dimer using disulfide bond (GSSG)
+
+Slide 66:
+D-Amino Acids in Bacteria Arise from Racemases
+Bacterial peptidoglycans contain D-Al and D-Glu.
+Racemases act on D-amino acids and use PLP as a cofactor.
+Racemase inhibitors are used/studied as antibiotic targets.
+cycloserine for tuberculosis
+L-fluoroalanine as a general antibiotic
+
+
+Slide 67:
+Aromatic Amino Acids Are Precursors to Plant Lignins, Hormones, and Natural Products
+Lignin (rigid polymer in plants) from Phe and Tyr
+Auxin (growth hormone indole-3-acetate) from Trp
+Other natural products: spices (nutmeg, vanilla), alkaloids (morphine), and so on
+
+Slide 68:
+Biosynthesis of Auxin from Trp and Cinnamate from Phe
+
+Slide 69:
+Some Neurotransmitters Are Derived from Amino Acids
+All are decarboxylated using PLP dependent enzymes.
+
+Slide 70:
+Arg Is the Precursor for Nitric Oxide (NO)
+Mid-80’s discovery that pollutant NO played important role in blood pressure regulation, blood clotting, and so on
+Synthesized from Arg via nitric oxide synthase using NADPH
+enzyme similar to cyt P450 reductase
+stimulated by interaction with Ca2+ and calmodulin
+
+Slide 71:
+Nucleotide Biosynthesis 
+Nucleotides can be synthesized de novo (“from the beginning”) from amino acids, ribose-5-phosphate, CO2, and NH3.
+Nucleotides can be salvaged from RNA, DNA, and cofactor degradation.
+Many parasites (e.g., malaria) lack de novo biosynthesis pathways and rely exclusively on salvage.
+Compounds that inhibit salvage pathways are promising antiparasite drugs.
+
+Slide 72:
+De Novo Biosynthesis of Nucleotides
+Approximately the same in all organisms studied
+Bases synthesized while attached to ribose
+Glu provides most amino groups.
+Gly is precursor for purines
+Asp is precursor for pyrimidines
+Nucleotide pools are kept low, so cells must continually synthesize them.
+This synthesis may actually limit rates of transcription and replication.
+
+Slide 73:
+Origin of Ring Atoms in Purines
+
+Slide 74:
+
+De Novo Biosynthesis of Purines Begins with PRPP
+Adenine and guanine are synthesized as AMP and GMP.
+Synthesis begins with reaction of 5-phosphoribosyl 1-pyrophosphate (PRPP) with Glu.
+Purine ring builds up following the addition of three carbons from glycine.
+The first intermediate with a full purine ring is inosinate (IMP).
+
+Slide 75:
+Construction of IMP
+
+
+Slide 76:
+
+
+Slide 77:
+
+
+Slide 78:
+
+
+Slide 79:
+Synthesis of AMP and GMP from IMP
+Note that ATP is used to phosphorylate GMP precursor, while GTP is used to phosphorylate AMP precursor.
+
+Slide 80:
+Regulation of Purine Biosynthesis in E. coli Largely Consists of Feedback Inhibition
+Four Major Mechanisms
+Glutamine-PRPP amidotransferase is inhibited by end-products IMP, AMP, and GMP.
+Excess GMP inhibits formation of xanthylate from inosinate by IMP dehydrogenase.
+GMP and AMP concentrations inhibit phosphorylation steps.
+PRPP synthesis is inhibited by ADP and GDP.
+
+
+
+Slide 81:
+De Novo Synthesis of Pyrimidine Nucleotides (1)
+Unlike purine synthesis, pyrimidine synthesis proceeds by first making the pyrimidine ring (in the form of orotate) and then attaching it to ribose 5-phosphate.
+
+Aspartate and carbamoyl phosphate provide the atoms for the ring structure.
+
+Slide 82:
+De Novo Synthesis of Pyrimidine Nucleotides (2)
+After addition of ribose-5-phosphate via PRPP, the resulting nucleotide (orotidylate) is decarboxylated to form uridylate (UMP), the first possible pyrimidine.
+
+Slide 83:
+De Novo Synthesis of Pyrimidine Nucleotides (3)
+UMP is phosphorylated to UTP.
+
+After formation of UTP, amination can convert UTP to CTP.
+
+Slide 84:
+ATCase is inhibited by end-product CTP and is accelerated by ATP.
+Regulation of Pyrimidine Biosynthesis Is Also via Feedback Inhibition
+
+Slide 85:
+Ribonucleotides Are Precursors to Deoxyribonucleotides
+2’C-OH bond is directly reduced to 2’-H bond… without activating the carbon!
+catalyzed by ribonucleotide reductase
+Mechanism: Two H atoms are donated by NADPH and carried by proteins thioredoxin or glutaredoxin.
+
+Slide 86:
+Reduction of Ribonucleotides 
+by Ribonucleotide Reductase
+NADPH serves as the electron donor.
+
+Funneled through glutathione (a) or thioredoxin pathways (b)
+
+Slide 87:
+Structure of Ribonucleotide Reductase
+
+Slide 88:
+Proposed Ribonucleotide Reductase Mechanism Involves Free Radicals
+Most forms of enzyme have two catalytic/regulatory subunits and two radical-generating subunits.
+contain Fe3+ and dithiol groups
+enzyme creates stable Tyr radical to abstract H∙ from sugar
+A 3’-ribonucleotide radical forms.
+2’-OH is protonated to help eliminate H2O and form a radical-stabilized carbocation.
+Electrons are transferred to the 2’-C.
+
+Slide 89:
+Proposed Mechanism for Ribonucleotide Reductase
+
+Slide 90:
+Ribonucleotide Reductase Has Two Types of Regulatory Sites
+One type affects activity.
+ATP activates, dATP inhibits
+The other type affects substrate specificity in order to maintain balanced pools of nucleotides.
+If ATP or dATP high → less specificity for adenine and MORE specificity for UDP and CDP, and so on.
+Enzyme oligomerizes to accomplish this change.
+
+Slide 91:
+Regulation of Ribonucleotide Reductase by dNTPs
+
+Slide 92:
+dTMP Is Made from dUTP
+Roundabout pathway…
+dUTP is made. 
+dUTP → to dUMP by dUTPase
+dUMP → dTMP by thymidylate synthase
+	- adds a methyl group from tetrahydrofolate
+
+Thymidylate synthase is a target for some anticancer drugs.
+
+Slide 93:
+Biosynthesis of dTMP
+
+Slide 94:
+Conversion of dUMP to dTMP by Thymidylate Synthase
+
+Slide 95:
+Folic Acid Deficiency Leads to Reduced Thymidylate Synthesis
+Folic acid deficiency is widespread, especially in nutritionally poor populations.
+Reduced thymidylate synthesis causes uracil to be incorporated into DNA.
+Repair mechanisms remove the uracil by creating strand breaks that affect the structure and function of DNA.
+associated with cancer, heart disease, neurological impairment
+
+Slide 96:
+Catabolism of Purines
+Dephosphorylation (via 5’-nucleotidase)
+Deamination and hydrolysis of ribose lead to production of xanthine.
+Hypoxanthine and xanthine are then oxidized into uric acid by xanthine oxidase.
+
+Spiders and other arachnids lack xanthine oxidase.
+
+Slide 97:
+Conversion of Uric Acid to Allantoin, Allantoate, and Urea
+Degree of further oxidation of uric acid is organism dependent.
+
+Slide 98:
+Excess Uric Acid Seen in Gout
+Painful joints (often in toes) due to deposits of sodium urate crystals
+Primarily affects males
+May involve genetic under-excretion of urate and/or may involve overconsumption of fructose
+Treated with avoidance of purine-rich foods (seafood, liver) or avoidance of fructose
+Also treated with xanthine oxidase inhibitor allopurinol
+
+Slide 99:
+Allopurinol Inhibits Xanthine Oxidase
+
+Slide 100:
+Catabolism of Pyrimidines
+Leads to NH4+ and urea
+Can produce intermediates of CAC
+Example: Thymine is degraded to succinyl-CoA.
+
+Slide 101:
+Purine and Pyrimidine Bases Are Recycled by Salvage Pathways
+Free bases, released in metabolism, are reused.
+Example:  Adenine reacts with PRPP to form the adenine nucleotide AMP.
+catalyzed by adenosine phosphoribosyltransferase
+The brain is especially dependent on salvage pathways.
+The lack of hypoxanthine-guanine phosphoribosyltransferase leads to Lesch-Nyhan syndrome with neurological impairment and finger-and-toe-biting behavior.
+
+Slide 102:
+Many Chemotherapeutic Agents Target Nucleotide Biosynthesis
+Glutamine analogs:  azaserine, acivicin
+inhibit glutamine amidotransferases
+Fluorouracil
+converted by salvage pathway into FdUMP, which inhibits thymidylate synthase
+Methotrexate and aminopterin
+inhibit dihydrofolate reductase (competitive inhibitors)
+
+Slide 103:
+Antibiotics Also Target Nucleotide  Biosynthesis
+Allopurinol, and so on
+studied against African sleeping sickness (trypanosomiasis) because the trypanosomes lack enzymes for de novo nucleotide synthesis
+Trimethoprim
+inhibits bacterial dihydrofolate reductase but binds human enzyme several orders of magnitude less strongly
+
+Slide 104:
+Chapter Summary
+
+methods for activation of molecular nitrogen to nitrates, nitrates, and ammonia
+glutamine serves as the primary ammonia donor in amino acid biosynthesis
+the 20 common amino acids are synthesized from α-ketoglutarate, 3-phosphoglycerate, oxaloacetate, pyruvate, phosphoenolpyruvate, erythrose 4-phosphate, and ribose-5-phosphate
+nucleotides can be synthesized either de novo from simple precursors, or reassembled from scavenged nucleobases
+purines are synthesized on the ribose, while pyrimidine rings are assembled prior to attachment to ribose
+ribonucleotides are constructed prior to modification to product deoxyribonucleotides
+the purine degradation pathway in most organisms leads to uric acid, but the fate of uric acid is species-specific
+In this chapter, we learned:

@@ -1,0 +1,333 @@
+Slide 1:
+
+18| Amino Acid Oxidation and the Production of Urea
+© 2017 W. H. Freeman and Company
+
+Slide 2:
+CHAPTER 18 
+Amino Acid Oxidation and the Production of Urea
+How proteins are digested in animals
+How amino acids are oxidized for energy in animals
+How urea is made and excreted
+Learning goals: 
+
+Slide 3:
+The Use of Amino Acids as Fuel 
+Varies Greatly by Organism 
+About 90% of energy needs of carnivores can be met by amino acids immediately after a meal.
+Microorganisms scavenge amino acids from their environment for fuel when needed.
+Only a small fraction of energy needs of herbivores are met by amino acids.
+Plants do not use amino acids as a fuel source but can degrade amino acids to form other metabolites.
+
+Slide 4:
+Metabolic Circumstances 
+of Amino Acid Oxidation
+Leftover amino acids from normal protein turnover (e.g., proteolysis and regeneration of proteins)
+Dietary amino acids that exceed body’s protein synthesis needs
+Proteins in the body can be broken down to supply amino acids for energy when carbohydrates are scarce (starvation, diabetes mellitus).
+
+Slide 5:
+Dietary Proteins Are Enzymatically Hydrolyzed into Amino Acids
+Pepsin cuts protein into peptides in the stomach.
+Trypsin and chymotrypsin cut proteins and larger peptides into smaller peptides in the small intestine.
+Aminopeptidase and carboxypeptidases A and B degrade peptides into amino acids in the small intestine.
+
+Slide 6:
+Dietary Protein Is Enzymatically Degraded Through the Digestive Tract
+
+Slide 7:
+Overview of Amino Acid Catabolism
+Once broken down to amino acid, all types of protein are treated the same way dependent on the organism’s energy needs: 
+1. Recycled into new proteins
+2. Oxidized for energy 
+removal of amino group (urea cycle)
+entry into central metabolism (glycolysis, citric acid cycle)
+
+Slide 8:
+Overview of Amino Acid Catabolism
+
+Slide 9:
+Fates of Nitrogen in Organisms
+Plants conserve almost all the nitrogen.
+Many aquatic vertebrates release ammonia to their environment.
+passive diffusion from epithelial cells
+active transport via gills
+Many terrestrial vertebrates and sharks excrete nitrogen in the form of urea.
+Urea is far less toxic that ammonia.
+Urea has very high solubility.
+Some animals such as birds and reptiles excrete nitrogen as uric acid.
+Uric acid is rather insoluble.
+Excretion as paste allows the animals to conserve water.
+Humans and great apes excrete both urea (from amino acids) and uric acid (from purines).
+
+Slide 10:
+Excretory Forms of Nitrogen
+
+Slide 11:
+Step 1: Removal of the Amino Group
+Release of free ammonia is toxic.
+Ammonia is captured by a series of transaminations.
+Transaminations allow transfer of an amine to a common metabolite (e.g., α-ketoglutarate) and generate a traffickable amino acid (e.g., glutamate).
+
+Slide 12:
+Enzymatic Transamination
+Catalyzed by aminotransferases 
+Uses the pyridoxal phosphate cofactor
+Typically, α-ketoglutarate accepts amino groups.
+Transfer of one amine to α-ketoglutarate results in synthesis of glutamate (e.g., transamination).
+Transfer of a second amine results in synthesis of glutamine (e.g., glutamine synthetase).
+L-Glutamine acts as a temporary storage of nitrogen. 
+L-Glutamine can donate the amino group when needed for amino acid biosynthesis.
+
+Slide 13:
+Enzymatic Transamination to Glutamate
+
+Slide 14:
+Ammonia Is Safely Transported in the Bloodstream as Glutamine
+Excess glutamine is processed in the intestines, kidneys, and liver.
+
+Slide 15:
+Structure of Pyridoxal Phosphate and Pyridoxamine Phosphate
+Intermediate, enzyme-bound carrier of amino groups 
+Aldehyde form can react reversibly with amino groups.
+Aminated form can react reversibly with carbonyl groups.
+
+Slide 16:
+Pyridoxal Phosphate Is Covalently Linked to the Enzyme in the Resting Enzyme 
+By an internal aldimine
+
+The linkage is made via a nucleophilic attack of the amino group of an  active-site lysine.
+
+Slide 17:
+Internal Aldimine in Aminotransferases
+
+Slide 18:
+PLP Also Catalyzes 
+Racemization of Amino Acids 
+Deamination
+Racemization
+
+Slide 19:
+PLP Also Catalyzes 
+Decarboxylation of Amino Acids 
+Deamination
+Decarboxylation
+
+Slide 20:
+Oxidative deamination occurs within mitochondrial matrix.
+Can use either NAD+ or NADP+ as electron acceptor
+Ammonia is processed into urea for excretion.
+Pathway for ammonia excretion; transdeamination = transamination + oxidative deamination
+
+Ammonia Collected in Glutamate Is Removed by Glutamate Dehydrogenase
+
+Slide 21:
+The Glucose-Alanine Cycle
+Vigorously working muscles operate nearly anaerobically and rely on glycolysis for energy.
+Glycolysis yields pyruvate.
+ If not eliminated, lactic acid will build up.
+This pyruvate can be converted to alanine for transport into the liver. 
+
+Slide 22:
+Excess Glutamate Is Metabolized in the Mitochondria of Hepatocytes 
+
+Slide 23:
+Ammonia Is Recaptured via 
+Synthesis of Carbamoyl Phosphate
+The first nitrogen-acquiring reaction of the urea cycle
+
+Slide 24:
+Nitrogen From Carbamoyl Phosphate Enters the Urea Cycle 
+The majority of reactions within the urea cycle occur within the cytosol. 
+In order to move to the cytosol, carbamoyl phosphate must condense with ornithine to create citrullene. This reaction releases the phosphate of carbamoyl phosphate into the mitochondrial matrix. Citrullene can then be transported to the cytosol. 
+
+Slide 25:
+The Reactions in the Urea Cycle
+
+Slide 26:
+Entry of Aspartate into the Urea Cycle
+This is the second nitrogen-acquiring reaction.
+In the cytosol, citrullene reacts with ATP to produce citrullyl-AMP. 
+AMP acts as a good leaving group, as aspartate attracts the imide carbon to produce argininosuccinate. 
+
+Slide 27:
+Release of Urea and Regeneration of Ornithine
+Argininosuccinase cleaves fumarate from argininosuccinate, resulting in arginine. 
+Arginine can also enter the urea cycle at this point.
+Arginase cleaves both nitrogens added in the urea cycle from arginine, resulting in free urea. 
+Ornithine is able to serve as a substrate for the next round of the cycle. 
+
+Slide 28:
+Aspartate–Arginosuccinate Shunt Links 
+Urea Cycle and Citric Acid Cycle
+
+Slide 29:
+Regulation of the Urea Cycle
+Carbamoyl phosphate synthase I is activated by   	    N-acetylglutamate.
+Formed by N-acetylglutamate synthase 
+when glutatmate and acetyl-CoA concentrations are high
+activated by arginine
+Expression of urea cycle enzymes increases when needed.
+high-protein diet
+starvation, when protein is being broken down for energy
+
+
+Slide 30:
+Regulation of the Urea Cycle
+
+Slide 31:
+Essential vs. Nonessential and Conditionally Essential Amino Acids
+Essential amino acids must be obtained as dietary protein.
+Nonessential amino acids are easily made from central metabolites.
+Consumption of a variety of foods supplies all the essential amino acids. 
+TABLE 18-1	Nonessential and Essential Amino Acids for Humans and the Albino Rat	
+Nonessential	Conditionally essentiala	Essential	
+Alanine	Arginine	Histidine	
+Asparagine	Cysteine	Isoleucine	
+Aspartate	Glutamine	Leucine	
+Glutamate	Glycine	Lysine	
+Serine	Proline	Methionine	
+	Tyrosine	Phenylalanine	
+		Threonine	
+		Tryptophan	
+		Valine	
+aRequired to some degree in young, growing animals and/or sometimes during illness.	
+
+Slide 32:
+End Products of Amino Acid Degradation
+Intermediates of the central metabolic pathway
+Some amino acids result in more than one intermediate.
+Ketogenic amino acids can be converted to ketone bodies.
+
+
+Glucogenic amino acids can be converted to glucose.
+Six to pyruvate	Ala, Cys, Gly, Ser, Thr, Trp	
+Five to α-ketoglutarate	Arg, Glu, Gln, His, Pro	
+Four to succinyl-CoA	Ile, Met, Thr, Val	
+Two to fumarate	Phe, Tyr	
+Two to oxaloacetate	Asp, Asn	
+Seven to Acetyl-CoA	Leu, Ile, Thr, Lys, Phe, Tyr, Trp	
+
+Slide 33:
+Summary of Amino Acid Catabolism
+
+Slide 34:
+Degradation of Ketogenic Amino Acids
+
+Slide 35:
+Degradation Intermediates of Tryptophan Are to Synthesize Other Molecules
+
+Slide 36:
+Genetic Defects in Many Steps of Phe Degradation Lead to Disease
+
+Slide 37:
+Phenylketonuria Is Caused by a Defect in the First Step of Phe Degradation
+A buildup of phenylalanine and phenylpyruvate
+Impairs neurological development leading to intellectual deficits
+Controlled by limiting dietary intake of Phe
+
+Slide 38:
+Degradation of Amino Acids to Pyruvate
+
+Slide 39:
+Degradation of Glycine
+Pathway #1: hydroxylation to serine → pyruvate
+Pathway #2: glycine cleavage enzyme
+apparently major pathway in mammals
+separation of three central atoms
+releases CO2 and NH3
+methylene group is transferred to THF
+Pathway #3: D-amino oxidase
+relatively minor pathway
+ultimately oxidized to oxalate
+major component of kidney stones
+
+Slide 40:
+Degradation of Amino Acids to 
+α-Ketoglutarate
+Proline, arginine, histidine, and glutamine are all converted to glutamate. Glutamate is deaminated to α-ketoglutarate.
+
+Arginine degradation is part of the urea cycle.
+
+Slide 41:
+Degradation of Branched-Chain 
+Amino Acids Does Not Occur in the Liver
+Leucine, isoleucine, and valine are oxidized for fuel.
+In muscle, adipose tissue, the kidneys, and the brain
+
+
+Slide 42:
+Degradation of Branched-Chain 
+Amino Acids Does Not Occur in the Liver
+Branched-chain amino acids are degraded to succinyl-CoA, an important citric acid cycle intermediate.
+
+Slide 43:
+Sulfur Oxidation State Is Conserved in the Body
+
+
+Methionine degradation involves transfer of sulfur to serine, generating cysteine.
+The remaining methionine carbon skeleton joins the branched amino acid oxidation pathway to succinyl-CoA.
+
+Slide 44:
+Degradation of Asn and Asp to 
+Oxaloacetate
+
+Slide 45:
+TABLE 18-2	Some Human Genetic Disorders Affecting Amino Acid Catabolism	
+Medical condition	Approximate incidence (per 100,000 births)	Defective process	Defective enzyme	Symptoms and effects	
+Albinism	<3	Melanin synthesis from tyrosine	Tyrosine 3- monooxygenase (tyrosinase)	Lack of pigmentation; white hair, pink skin	
+Alkaptonuria	<0.4	Tyrosine degradation	Homogentisate 1,2-dioxygenase	Dark pigment in urine; late-developing arthritis	
+Argininemia	<0.5	Urea synthesis	Arginase	Mental retardation	
+Argininosuccinic acidemia	<1.5	Urea synthesis	Argininosuccinase	Vomiting; convulsions	
+Carbamoyl phosphate synthetase I deficiency	<0.5	Urea synthesis	Carbamoyl phosphate synthetase I 	Lethargy; convulsions; early death	
+Homocystinuria	<0.5	Methionine degradation	Cystathionine β-synthase	Faulty bone development; mental retardation	
+Maple syrup urine disease (branchedchain ketoaciduria)	<0.4	Isoleucine, leucine, and valine degradation	Branched-chain α-keto acid dehydrogenase complex	Vomiting; convulsions; mental retardation; early death	
+Methylmalonic acidemia	<0.5	Conversion of propionyl-CoA to succinyl-CoA	Methylmalonyl-CoA mutase	Vomiting; convulsions; mental retardation; early death 	
+Phenylketonuria	<8	Conversion of phenylalanine to tyrosine	Phenylalanine hydroxylase	Neonatal vomiting; mental retardation	
+
+Slide 46:
+Several Cofactors Are 
+Involved in Amino Acid Catabolism
+Important in one-carbon transfer reactions
+tetrahydrafolate (THF)
+S-adenosylmethionine (adoMet)
+biotin
+Biotin, as we saw in Chapter 16, transfers CO2.
+
+
+Slide 47:
+THF Is a Versatile Cofactor
+Tetrahydrofolate is formed from folate.
+an essential vitamin
+THF can transfer 1-carbon in different oxidation states.
+CH3, CH2OH, and CHO
+It is used in a wide variety of metabolic reactions.
+Carbon generally comes from serine.
+Forms are interconverted on THF before use.
+
+Slide 48:
+THF Is a Versatile Cofactor
+
+Slide 49:
+adoMet Is Better at Transferring CH3
+S-adenosylmethionine is the preferred cofactor for methyl transfer in biological reactions.
+Methyl is 1000 times more reactive than THF methyl group.
+It is synthesized from ATP and methionine.
+Regeneration uses N5-methyl THF.
+The only known use in mammals
+
+
+Transferable methyl
+
+Slide 50:
+Chapter 18: Summary
+amino acids from protein are an important energy source in carnivorous animals
+the first step of AA catabolism is transfer of the NH3 via PLP-dependent aminotransferase usually to α-ketoglutarate to yield     l-glutamate
+in most mammals, toxic ammonia is quickly recaptured into carbamoyl phosphate and passed into the urea cycle
+amino acids are degraded to pyruvate, acetyl-CoA, α-ketoglutarate, succinyl-CoA, and/or oxaloacetate
+amino acids yielding acetyl-CoA are ketogenic
+amino acids yielding other end products are glucogenic
+genetic defects in amino degradation pathways result in a number of human diseases
+amino acid catabolism is dependent on a variety of cofactors, including THF, ado-Met, and PLP
+
+In this chapter, we learned that:

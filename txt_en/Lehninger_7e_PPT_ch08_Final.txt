@@ -1,0 +1,489 @@
+Slide 1:
+
+8| Nucleotides and Nucleic Acids
+© 2017 W. H. Freeman and Company
+
+Slide 2:
+CHAPTER 8 
+ Nucleotides and Nucleic Acids
+Biological function of nucleotides and nucleic acids
+Structures of common nucleotides
+Structure of double-stranded DNA
+Structures of ribonucleic acids
+Denaturation and annealing of DNA
+Chemistry of nucleic acids; mutagenesis
+Learning goals: 
+
+Slide 3:
+Nucleic acids are polymers of nucleotides used for:
+storage of genetic info (DNA)
+transmission of genetic info (mRNA)
+processing of genetic information (ribozymes)
+protein synthesis (tRNA and rRNA)
+Nucleotides are also used in the monomer form for cellular functions:
+energy for metabolism (ATP)
+enzyme cofactors (NAD+)
+signal transduction (cAMP)
+
+Functions of
+Nucleotides and Nucleic Acids
+
+Slide 4:
+Nucleotides and Nucleosides
+Nucleotide = 
+nitrogeneous base
+pentose
+phosphate
+Nucleoside = 
+nitrogeneous base
+pentose
+Carbon AND nitrogen atoms on the nitrogenous base are numbered in cyclic format. 
+Carbons of the pentose are designated N’ to alleviate confusion.
+
+Slide 5:
+Phosphate Group
+Negatively charged at neutral pH 
+Typically attached to 5’ position
+Nucleic acids are built using the 5’-triphosphates version of the nucleotide.
+ATP, GTP, TTP, CTP
+Two of the three phosphates used for building nucleic acids form a leaving group, and completed nucleic acids contain one phosphate moiety per nucleotide.
+May be attached to other positions for specialized function 
+
+
+Slide 6:
+Other Nucleotides:
+Monophosphate Group in Different Positions
+
+Slide 7:
+Pentose Forms Differ in Some Nucleic acids and Nucleotides
+β-d-ribofuranose in RNA
+β-2’-deoxy-d-ribofuranose in DNA
+
+
+
+
+
+
+
+
+Different puckered conformations of the sugar ring are possible.
+
+Slide 8:
+
+Slide 9:
+Nitrogenous Bases
+Derivatives of pyrimidine or purine
+Nitrogen-containing heteroaromatic molecules
+Planar or almost planar structures
+Absorb UV light around 250–270 nm
+
+Slide 10:
+Pyrimidine Bases
+Cytosine, adenine, and guanine are found in both DNA and RNA.
+Thymine is found only in DNA.
+Uracil is found only in RNA.
+All are good H-bond donors and acceptors.
+Neutral molecules at pH 7
+
+Slide 11:
+
+Slide 12:
+
+Slide 13:
+Nomenclature
+TABLE 8-1	Nucleotide and Nucleic Acid Nomenclature	
+Base	Nucleoside	Nucleotide	Nucleic acid	
+Purines				
+Adenine	Adenosine
+Deoxyadenosine	Adenylate
+Deoxyadenylate	RNA
+DNA	
+Guanine	Guanosine
+Deoxyguanosine	Guanylate
+Deoxyguanylate	RNA
+DNA	
+Pyrimidines				
+Cytosine	Cytidine
+Deoxycytidine	Cytidylate
+Deoxycytidylate	RNA
+DNA	
+Thymine	Thymidine or deoxythymidine	Thymidylate or deoxythymidylate	DNA	
+Uracil	Uridine	Uridylate	RNA	
+Note: “Nucleoside” and “nucleotide” are generic terms that include both ribo- and deoxyribo- forms. Also, ribonucleosides and ribonucleotides are here designated simply as nucleosides and nucleotides (e.g., riboadenosine as adenosine), and deoxyribonucleosides and deoxyribonucleotides as deoxynucleosides and deoxynucleotides (e.g., deoxyriboadenosine as deoxyadenosine). Both forms of naming are acceptable, but the shortened names are more commonly used. Thymine is an exception; “ribothymidine” is used to describe its unusual occurrence in RNA.	
+
+Slide 14:
+Nomenclature: Deoxyribonucleotides
+You need to know structures, names, and symbols (both two-letter (dA) and four-letter (dAMP) codes).
+
+Slide 15:
+Nomenclature: Ribonucleotides
+You need to know structures, names, and symbols (both two-letter (dA) and four-letter (dAMP) codes).
+
+Slide 16:
+β−N-Glycosidic Bond
+In nucleotides, the pentose ring is attached to the nitrogenous base via a N-glycosidic bond.
+The bond is formed to the anomeric carbon of the sugar in β configuration.
+The bond is formed: 
+to position N1 in pyrimidines
+to position N9 in purines 
+This bond is quite stable toward hydrolysis, especially in pyrimidines.
+Bond cleavage is catalyzed by acid.
+
+Slide 17:
+Conformation around N-Glycosidic Bond 
+
+Relatively free rotation can occur around the N-glycosidic bond in free nucleotides.
+
+
+
+
+
+
+The sequence of atoms chosen to define this angle is O4’-C1’-N9-C4 for purine, and O4’-C1’-N1-C2 for pyrimidine derivatives.
+Angle near 0° corresponds to syn conformation.
+Angle near 180° corresponds to anti conformation.
+Anticonformation is found in normal B-DNA.
+
+Slide 18:
+Conformation Around N-Glycosidic Bond 
+
+Ring pucker limits the angle of torsion, c, possible for the N-glycosidic bond between the nitrogenous base and the pentose.
+
+Slide 19:
+Tautomerism of Nitrogenous Bases
+Prototropic tautomers are structural isomers that differ in the location of protons.
+Keto-enol tautomerism is common in ketones.
+Lactam-lactim tautomerism occurs in some heterocycles.
+Both tautomers exist in solution, but the lactam forms are predominant at neutral pH.
+
+Slide 20:
+
+Slide 21:
+UV Absorption of Nucleobases
+Absorption of UV light at 250–270 nm is due to π → π* electronic transitions.
+Excited states of common nucleobases decay rapidly via radiationless transitions.
+effective photoprotection of genetic material
+no fluorescence from nucleic acids
+
+
+Slide 22:
+
+Slide 23:
+Minor Nucleosides in DNA
+Modification is done after DNA synthesis.
+5-Methylcytosine is common in eukaryotes and is also found in bacteria.
+N6-Methyladenosine is common in bacteria but not found in eukaryotes.
+Epigenetic marker:
+way to mark own DNA so that cells can degrade foreign DNA (prokaryotes)
+way to mark which genes should be active (eukaryotes)
+Could the environment turn genes on and off in an inheritable manner?
+
+Slide 24:
+
+Slide 25:
+Minor Nucleosides in RNA
+Inosine is sometimes found in the “wobble position” of the anticodon in tRNA.
+made by de-aminating adenosine
+provides richer genetic code
+Pseudouridine (Ψ ) is found widely in tRNA and rRNA.
+more common in eukaryotes but found also in eubacteria
+made from uridine by enzymatic isomerization after RNA synthesis
+may stabilize the structure of tRNA
+may help in folding of rRNA
+
+Slide 26:
+
+Slide 27:
+Polynucleotides
+Covalent bonds are formed via phosphodiester linkages.
+negatively charged backbone
+DNA backbone is fairly stable.
+DNA from mammoths?
+Hydrolysis accelerated by enzymes (DNAse)
+RNA backbone is unstable.
+In water, RNA lasts for a few years.
+In cells, mRNA is degraded in a few hours.
+Linear polymers
+no branching or cross-links
+Directionality
+The 5’ end is different from the 3’ end.
+We read the sequence from 5’ to 3’.
+
+Slide 28:
+Hydrolysis of RNA
+RNA is unstable under alkaline conditions.
+Hydrolysis is also catalyzed by enzymes (RNase).
+RNase enzymes are abundant around us.
+S-RNase in plants prevents inbreeding.
+RNase P is a ribozyme (enzyme made of RNA) that processes tRNA precursors.
+Dicer is an enzyme that cleaves double-stranded RNA into oligonucleotides.
+protection from viral genomes
+RNA interference technology
+
+Slide 29:
+Mechanism of 
+Base-catalyzed RNA Hydrolysis
+
+Slide 30:
+
+Slide 31:
+Hydrogen-Bonding Interactions
+Two bases can hydrogen bond to form a base pair.
+For monomers, a large number of base pairs is possible.
+In polynucleotide, only a few possibilities exist.
+Watson-Crick base pairs predominate in double-stranded DNA.
+A pairs with T.
+C pairs with G.
+Purine pairs with pyrimidine.
+
+Slide 32:
+AT and GC Base Pairs
+
+Slide 33:
+Discovery of DNA Structure
+One of the most important discoveries in biology
+Why is this important?
+ “This structure has novel features which are of considerable biological interest.”
+―Watson and Crick, Nature, 1953
+Good illustration of science in action
+ missteps in the path to a discovery
+ value of knowledge
+ value of collaboration
+ cost of sharing your data too early
+
+Slide 34:
+
+
+Covalent Structure of DNA (1868–1935)
+Friedrich Miescher isolates “nuclein” from cell nuclei
+
+Hydrolysis of nuclein
+phosphate
+pentose
+and a nitrogenous base
+
+Chemical analysis
+phosphodiester linkages
+pentose is ribofuranoside
+Structure of DNA: 
+1929
+(Levene & London)
+Structure of DNA:
+1935
+(Levene & Tipson)
+
+Slide 35:
+Road to the Double Helix
+ Franklin and Wilkins  
+“Cross” means helix
+“Diamonds” mean
+   that the phosphate-
+   sugar backbone
+   is outside
+ Calculated helical
+   parameters
+   
+
+
+
+ Watson and Crick  
+ Missing layer means
+   alternating pattern 
+   (major and minor groove)
+ Hydrogen bonding:
+   A pairs with T
+   G pairs with C
+Double helix fits the data!
+   
+
+Watson, Crick, and Wilkins shared 
+the 1962 Nobel Prize.
+Franklin died in 1958.
+
+Slide 36:
+
+Slide 37:
+
+Slide 38:
+
+Slide 39:
+Watson-Crick Model of B-DNA 
+
+Slide 40:
+Other Forms of DNA
+
+Slide 41:
+
+Slide 42:
+Complementarity of DNA Strands
+Two chains differ in sequence
+	 (sequence is read from 5’ to 3’).
+Two chains are complementary.
+Two chains run antiparallel.
+“It has not escaped our notice that the specific pairing 
+ we have postulated immediately suggests a possible 
+ copying mechanism for the genetic material.”  
+   		―Watson and Crick, Nature, 1953 
+
+
+
+Slide 43:
+Replication of Genetic Code
+Strand separation occurs first.
+Each strand serves as a template for the synthesis of a new strand.
+Synthesis is catalyzed by enzymes known as DNA polymerases.
+A newly made DNA molecule has one daughter strand and one parent strand.  
+
+Slide 44:
+Messenger RNA: 
+Code Carrier for the Sequence of Proteins
+Is synthesized using DNA template and generally occurs as a single strand
+Contains ribose instead of deoxyribose
+Contains uracil instead of thymine
+One mRNA may code for more than one protein
+Together with transfer RNA (tRNA), transfers genetic  information from DNA to proteins
+
+
+Slide 45:
+
+Slide 46:
+
+Slide 47:
+Palindromic Sequences Can Form 
+Hairpins and Cruciforms
+Palindromes: words or phases that are the same when read backward or forward.
+
+Civic
+Racecar
+Rotator
+Saippuakuppinippukauppias (Finnish word for “soap cup batch trader”) 
+Νίψον ἀνομήματα, μὴ μόναν ὄψιν (ancient Greek fountain text: “Wash the sin as well as the face”)
+  
+
+Slide 48:
+
+Slide 49:
+
+Slide 50:
+RNA  Molecules Have Quite Complex Structures
+
+Slide 51:
+Complex Structures Are Stabilized by Non-Watson-Crick Base-Pair Interactions
+
+Slide 52:
+DNA Denaturation
+Covalent bonds remain intact.
+Genetic code remains intact.
+Hydrogen bonds are broken.
+Two strands separate.
+Base stacking is lost
+UV absorbance increases.
+
+Denaturation can be induced by high temperature, or change in pH. 
+
+Denaturation may be reversible: annealing.
+
+
+Slide 53:
+Thermal DNA Denaturation (Melting)
+DNA exists as double helix at normal temperatures.
+Two DNA strands dissociate at elevated temperatures.
+Two strands re-anneal when the temperature is lowered.
+The reversible thermal denaturation and annealing form the basis for the polymerase chain reaction.
+DNA denaturation is commonly monitored by UV spectrophotometry at 260 nm.
+
+Slide 54:
+
+Slide 55:
+Factors Affecting DNA Denaturation
+The midpoint of melting (Tm) depends on base composition.
+High CG increases Tm.
+Tm depends on DNA length.
+Longer DNA has higher Tm.
+It is important for short DNA.
+Tm depends on pH and ionic strength.
+High salt increases Tm.
+
+
+
+Slide 56:
+
+Slide 57:
+Denaturation of Large DNA Molecules 
+Is Not Iniform 
+AT-rich regions melt at a lower temperature than GC-rich regions.
+
+Slide 58:
+Applications of Near-Complementary Hybrids in DNA and RNA
+Detection of a specific DNA molecule in complex mixture 
+	− radioactive detection
+	− fluorescent DNA chips 
+Amplification of specific DNA
+	− polymerase chain reaction
+	− site-directed mutagenesis
+Evolutionary relationships
+Antisense therapy
+
+Slide 59:
+ Deamination
+very slow reactions
+large number of residues
+The net effect is significant: 100 C → U events/day in a mammalian cell.
+Molecular Mechanisms of 
+Spontaneous Mutagenesis: Deamination
+
+Slide 60:
+Molecular Mechanisms of 
+Spontaneous Mutagenesis: Depurination
+ Depurination
+N-glycosidic bond is hydrolyzed
+Significant for purines: 10,000 purines lost/day in a mammalian cell
+
+
+Slide 61:
+Molecular Mechanisms of Oxidative 
+and Chemical Mutagenesis
+Oxidative damage
+hydroxylation of guanine
+mitochondrial DNA is most susceptible 
+
+Chemical alkylation
+methylation of guanine
+
+Cells have mechanisms to correct most of these modifications.
+
+Slide 62:
+
+Slide 63:
+
+UV light induces dimerization of pyrimidines; this may be the main mechanism for skin cancers.
+Ionizing radiation (x rays and γ rays) causes ring opening and strand breaking. 
+These are difficult to fix.
+Cells can repair some of these modifications, but others cause mutations. Accumulation of mutations is linked to aging and carcinogenesis.
+
+Molecular Mechanisms of 
+Radiation-Induced Mutagenesis
+
+Slide 64:
+
+Slide 65:
+Other Functions of Nucleotides:
+Energy Source
+
+Slide 66:
+Other Functions of Nucleotides:
+Coenzymes
+
+Slide 67:
+Other Functions of Nucleotides:
+Regulatory Molecules
+
+Slide 68:
+Chapter 8: Summary
+Function of nucleotides and nucleic acids
+Names and structures of common nucleotides
+Structural basis of DNA function   
+Reversible denaturation of nucleic acids
+Chemical basis of mutagenesis
+
+In this chapter, we learned about:

@@ -1,0 +1,389 @@
+Slide 1:
+
+1 | The Foundations of Biochemistry
+© 2017 W. H. Freeman and Company
+
+Slide 2:
+Albert Lehninger (1917–1986)
+Citric acid cycle occurs in mitochondria
+Mechanism of oxidative phosphorylation
+Mitochondrial structure and function
+Bioenergetics
+
+Author of classic textbooks: 
+ Biochemistry (1970–1983)
+ The Mitochondrion (1964)
+ Bioenergetics (1965–1974)
+
+Slide 3:
+
+Slide 4:
+CHAPTER 1 
+The Foundations of Biochemistry
+Learning goals:
+Distinguishing features of living organisms
+Structure and function of the parts of the cell
+Roles of small and large biomolecules
+Energy transformation in living organisms
+Regulation of metabolism and catalysis
+Coding of genetic information in DNA
+Role of mutations and selection in evolution
+
+Slide 5:
+Biochemistry Is 
+the Chemistry of Living Matter
+Living matter is characterized by:
+a high degree of complexity and organization
+the extraction, transformation, and systematic use of energy to create and maintain structures and to do work
+the interactions of individual components being dynamic and coordinated
+the ability to sense and respond to changes in surroundings
+a capacity for fairly precise self-replication while allowing enough change for evolution 
+
+Slide 6:
+Complexity and Organization
+
+Slide 7:
+Living Organisms Must Intake and Transform Nutrients into Energy
+
+Slide 8:
+Living Organisms Must 
+Accurately Reproduce 
+
+Slide 9:
+Three Distinct Domains of Life Defined by Cellular and Molecular Differences That Evolved over Time
+
+Slide 10:
+Six Kingdoms of Life Defined by
+Organism, Cellular, and Molecular Differences
+Six kingdoms
+ Archaea
+ Bacteria
+ Protista
+ Fungi
+ Plantae
+ Animalia
+Cellular organization
+Unicellular prokaryote
+Unicellular prokaryote
+Unicellular eukaryote
+Uni- or Multicellular eukaryote
+Multicellular eukaryote
+Multicellular eukaryote
+
+Slide 11:
+Cell: The Universal Building Block 
+Living organisms are made of cells.
+The simplest living organisms are unicellular (single-celled). 
+Larger organisms are multicellular (many-celled), with different functions for different cells.
+Cells have some common features but can contain unique components for different organisms.
+
+Slide 12:
+All Cells Share Some Common Features
+
+Slide 13:
+Bacterial Cell Structure
+
+Slide 14:
+	Structure		Composition	Function
+
+	Cell wall		Carbohydrate + protein	Mechanical support
+	Cell membrane	Lipid + protein		Permeability barrier
+	Nucleoid		DNA + protein		Genetic information
+	Ribosomes		RNA + protein		Protein synthesis
+	Pili			Protein			Adhesion, conjugation
+	Flagella		Protein			Motility	
+	Cytoplasm		Aqueous solution		Site of metabolism	
+Components of Bacterial Cell
+
+Slide 15:
+Eukaryote Cells: More Complexity
+Have membrane-bound nucleus by definition:
+protection for DNA; site of DNA metabolism
+selective import and export via nuclear membrane pores
+Have membrane-enclosed organelles:
+mitochondria for energy in animals, plants, and fungi
+chloroplasts for energy in plant
+lysosomes for digestion of un-needed molecules
+Compartmental segregation of energy-yielding and energy-consuming reactions helps cells to maintain homeostasis and stay away from equilibrium.
+
+Slide 16:
+Animal and Plant Cells
+Contain Unique Components
+
+Slide 17:
+Animal and Plant Cells 
+Contain Unique Components
+
+Slide 18:
+Animal and Plant Cells 
+Contain Identical and Unique Components
+
+
+
+Membrane
+Nucleus and Nucleolus
+Mitochondria
+Rough and Smooth ER
+Ribosomes
+Golgi
+Cytoskeleton
+
+
+Lysosome
+
+Peroxisomes
+
+
+Chloroplast 
+
+Vacuole 
+
+Glyoxysome
+
+Plasmodesma
+
+Cell wall
+
+
+Plant		Both		Animal
+
+Slide 19:
+Cytoplasm and Cytoskeleton
+Cytoplasm is a highly viscous solution where many reactions take place.
+Cytoskeleton consists of microtubules, actin filaments, and intermediate filaments.
+cellular shape and division
+intracellular organization
+intracellular transport paths
+cellular mobility 
+
+Slide 20:
+The Cytosol Is Very Crowded
+Translated peptide
+
+
+
+Folded proteins
+
+
+Slide 21:
+Cytoskeleton Maintains 
+Cellular Organization
+
+Slide 22:
+Cellular Organization Is Dynamic, 
+Changing Drastically at Different Stages
+
+Slide 23:
+Biochemistry is 
+the Chemistry of Living Matter
+The basis of all life is the chemical reactions that take place within the cell.  
+
+Chemistry allows for:
+a high degree of complexity and organization
+the extraction, transformation, and systematic use of energy to create and maintain structures and to do work
+the interactions of individual components to be dynamic and coordinated
+the ability to sense and respond to changes in surrounding
+a capacity for fairly precise self-replication while allowing enough change for evolution 
+
+Slide 24:
+Organisms Can Also Be Classified by Different Energy and Carbon Sources
+
+Slide 25:
+Living Systems Extract Energy
+From sunlight
+plants
+green bacteria
+cyanobacteria
+From fuels
+animals
+most bacteria
+ Energy input is needed in order to maintain life.
+
+Slide 26:
+The Molecular Logic of Life
+We look at the chemistry that is behind the:
+
+initiation and acceleration of reactions
+organization and specificity of metabolism and signaling
+storage and transfer of information and energy
+
+Slide 27:
+The Molecular Hierarchy of Structure
+
+Slide 28:
+Biochemistry: Unique Role of Carbon
+
+Slide 29:
+30 Elements Essential for Life
+Other than carbon, elements H, O, N, P, and S are also common.
+Metal ions (e.g., K+, Na+, Ca++, Mg++, Zn++, Fe++) play important roles in metabolism.
+
+Slide 30:
+Common Functional Groups of Biological Molecules
+
+Slide 31:
+Biological Molecules Typically Have Several Functional Groups
+
+Slide 32:
+The ABCs of Life
+
+Slide 33:
+Stereoisomers 
+have different physical properties
+Geometric isomers (cis vs. trans)
+have different physical and chemical properties
+Enantiomers (mirror images)
+have identical physical properties (except with regard to polarized light) and react identically with achiral reagents
+Diastereomers 
+have different physical and chemical properties
+The Function of Molecules Strongly Depends on Three-Dimensional Structure
+
+Slide 34:
+Cis vs. Trans
+
+Slide 35:
+Cis vs. Trans
+
+Slide 36:
+Enantiomers and Diastereomers
+Diastereomers (non-mirror images)
+
+Slide 37:
+Enantiomers and Diastereomers
+
+Slide 38:
+Interactions Between 
+Biomolecules Are Specific
+Macromolecules fold into 3D structures with unique binding pockets.
+Only certain molecules fit in well and can bind.
+Binding of chiral biomolecules is stereospecific.
+
+Slide 39:
+Interactions Between 
+Biomolecules Are Specific
+
+Slide 40:
+Organisms Perform Energy Transductions to Accomplish Work to Stay Alive
+Living organisms exist in a dynamic steady state and are never at equilibrium with their surroundings.
+Energy coupling allows living organisms to transform matter into energy.
+Biological catalysts reduce energy requirement for reactions while offering specificity.
+As the entropy of the universe increases, creating and maintaining order requires work and energy.
+
+
+
+Slide 41:
+Organisms Perform Energy Transductions to Accomplish Work to Stay Alive
+
+Slide 42:
+How to Speed Reactions Up
+Higher temperatures
+	− stability of macromolecules is limiting
+
+Higher concentration of reactants
+	− costly, as more valuable starting material is needed
+
+Changing the reaction by coupling to a fast one
+	− universally used by living organisms
+
+Lower activation barrier by catalysis
+	− universally used by living organisms
+
+
+Slide 43:
+ 
+Equilibrium and ΔG°Measure Spontaneity of a Reaction
+
+Slide 44:
+Unfavorable and Favorable Reactions
+Synthesis of complex molecules and many other metabolic reactions requires energy (endergonic).
+A reaction might be thermodynamically unfavorable (ΔG°> 0).
+Creating order requires work and energy.
+A metabolic reaction might have too high an energy barrier (ΔG‡ > 0).
+Metabolite is kinetically stable.
+The breakdown of some metabolites releases a significant amount of energy (exergonic).
+Such metabolites (ATP, NADH, NADPH) can be synthesized using the energy from sunlight and fuels.
+Their cellular concentration is far higher than their equilibrium concentration.
+
+Slide 45:
+Energy Coupling
+Chemical coupling of exergonic and endergonic reactions allows otherwise unfavorable reactions.
+The “high-energy” molecule (ATP) reacts directly with the metabolite that needs “activation.”
+
+Slide 46:
+
+Slide 47:
+Catalysis
+A catalyst is a compound that increases the rate of a chemical  reaction.
+Catalysts lower the activation free energy ΔG‡.
+Catalysts do not alter ΔG°. 
+Enzymatic catalysis offers:
+acceleration under mild conditions
+high specificity
+possibility for regulation
+
+Slide 48:
+Enzymes Lower the Activation Energy to Increase the Reaction Rate
+
+Slide 49:
+Metabolic pathway
+produces energy or valuable materials
+
+Signal transduction pathway
+transmits information	
+Series of Related Enzymatically Catalyzed Reactions Forms a Pathway
+
+Slide 50:
+Example of a negative regulation:
+	Product of enzyme 5 inhibits enzyme 1 to prevent 	wasteful excess products.
+
+Pathways Are Controlled in Order to 
+Regulate Levels of Metabolites
+
+Slide 51:
+Genetic and Evolutionary Foundations
+Life on Earth arose 3.5–3.8 billion years ago.
+The formation of self-replicating molecules was a key step.
+Could it have been DNA?
+Could it have been proteins?
+
+Slide 52:
+
+Slide 53:
+RNA World?
+RNA can act both as the information carrier and biocatalyst.
+Some viruses use RNA as a primary means of genetic information.
+
+Slide 54:
+
+Slide 55:
+Complementarity in DNA Allows for Replication with Near-Perfect Fidelity
+
+Slide 56:
+
+The Central “Dogma” of Biochemistry:
+DNA → RNA → Protein
+
+Slide 57:
+Natural Selection
+Favors Some Mutations
+Mutations occur more or less randomly in DNA and RNA.
+Mutated polynucleotides may be transcribed and translated into molecular machinery like proteins.
+Mutations that give organisms an advantage in a given environment are more likely to be propagated.
+
+Slide 58:
+
+Natural Selection
+Favors Some Mutations
+
+Slide 59:
+Evolution of Eukaryotes Could Also Be Mediated Through Endosymbiosis
+
+Slide 60:
+Chapter 1: Summary
+In this chapter, we learned to:
+
+understand what defines living organisms 
+relate structure and function of the cell
+realize that the structure of biomolecules often gives them specific functions
+grasp principles of bioenergetics
+review the forces behind evolution

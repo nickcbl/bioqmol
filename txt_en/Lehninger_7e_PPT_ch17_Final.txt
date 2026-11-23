@@ -1,0 +1,303 @@
+Slide 1:
+
+17| Fatty Acid Catabolism
+© 2017 W. H. Freeman and Company
+
+Slide 2:
+CHAPTER 17: 
+Fatty Acid Catabolism
+How fats are digested in animals
+How fats are mobilized and transported in tissues
+How fats are oxidized
+How “ketone bodies” are produced 
+Learning goals: 
+
+Slide 3:
+Oxidation of Fatty Acids Is a Major Energy Source in Many Organisms
+About one-third of our energy needs comes from dietary triacylglycerols.
+About 80% of energy needs of mammalian heart and liver are met by oxidation of fatty acids.
+Many hibernating animals, such as grizzly bears, rely almost exclusively on fats as their source of energy.
+
+Slide 4:
+Hibernating Bears Get the Majority of Their Energy from Stored Fatty Acids
+
+Slide 5:
+Fats Provide Efficient Fuel Storage
+The advantage of fats over polysaccharides:
+Fatty acids carry more energy per carbon because they are more reduced.
+Fatty acids complex or carry less water because they are nonpolar.
+Glucose and glycogen are for short-term energy needs and quick delivery.
+Fats are for long-term (months) energy needs, good storage, and slow delivery.
+
+
+
+Slide 6:
+Fat Storage in White Adipose Tissue
+
+Slide 7:
+Dietary Fatty Acids Are Absorbed in the Vertebrate Small Intestine
+
+Slide 8:
+Lipids Are Transported 
+in the Blood as Chylomicrons
+
+Slide 9:
+Hormones Trigger Mobilization 
+of Stored Triacylglycerols
+Lipases are activated by hormones glucagon and epinepherine.
+
+Slide 10:
+Lipases Cleave Fatty Acids from Glycerol Backbone of Triacylglycerides
+
+Slide 11:
+Glycerol from Fats Enters Glycolysis
+Glycerol kinase activates glycerol at the expense of ATP.
+
+Subsequent reactions 
+recover more than enough 
+ATP to cover this cost.
+
+Allows limited anaerobic catabolism of fats
+
+Slide 12:
+Glycerol Is Activated by Phosphorylation
+
+Slide 13:
+Glycerol Is Oxidized to the Glycolytic Intermediate Dihydroxyacetonephosphate
+
+Slide 14:
+DHAP Continues Through Glycolysis
+
+Slide 15:
+Transport or Attachment to Phospholipids Requires Conversion to Fatty Acyl-CoA
+
+Slide 16:
+Fatty Acid Transport into Mitochondria
+Fats are degraded into fatty acids and glycerol in the cytoplasm of adipocytes.
+Fatty acids are transported to other tissues for fuel through the blood.
+β oxidation of fatty acids occurs in mitochondria.
+Small (< 12 carbons) fatty acids diffuse freely across mitochondrial membranes.
+Larger fatty acids (most free fatty acids) are transported via acyl-carnitine/carnitine transporter.
+
+Slide 17:
+Acyl-Carnitine/Carnitine Transport
+
+Slide 18:
+Fatty Acid Oxidation Occurs in the Mitochondria in Three Stages 
+Stage 1 consists of oxidative conversion of two-carbon units into acetyl-CoA via β oxidation with concomitant generation of NADH and FADH2.
+involves oxidation of β carbon to thioester of fatty acyl-CoA
+Stage 2 involves oxidation of acetyl-CoA into CO2 via citric acid cycle with concomitant generation NADH and FADH2.
+Stage 3 generates ATP from NADH and FADH2 via the respiratory chain.
+
+Slide 19:
+Stages of Fatty Acid Oxidation
+
+Slide 20:
+The β-Oxidation Pathway 
+Each pass removes one acetyl moiety in the form of acetyl-CoA.
+
+Slide 21:
+Step 1:
+Dehydrogenation of Alkane to Alkene
+Catalyzed by isoforms of acyl-CoA dehydrogenase (AD) on the inner-mitochondrial membrane
+very-long-chain AD (12–18 carbons)
+medium-chain AD (4–14 carbons)
+short-chain AD (4–8 carbons)
+Results in trans double bond, different from naturally occurring unsaturated fatty acids
+Analogous to succinate dehydrogenase reaction in the citric acid cycle
+electrons from bound FAD transferred directly to the electron- transport chain via electron-transferring flavoprotein (ETF)
+
+
+Slide 22:
+FAD Cofactor
+
+Slide 23:
+Steps 1 and 2
+
+Slide 24:
+Step 2:
+Hydration of Alkene
+Catalyzed by two isoforms of enoyl-CoA hydratase:
+soluble short-chain hydratase (crotonase)
+lembrane-bound long-chain hydratase, part of trifunctional complex
+Water adds across the double bond yielding alcohol on β carbon.
+Analogous to fumarase reaction in the citric acid cycle
+same stereospecificity
+
+Slide 25:
+Step 3:
+ Dehydrogenation of Alcohol
+Catalyzed by β-hydroxyacyl-CoA dehydrogenase
+The enzyme uses NAD cofactor as the hydride acceptor.
+Only L-isomers of hydroxyacyl CoA act as substrates.
+Analogous to malate dehydrogenase reaction in the citric acid cycle
+
+Slide 26:
+Steps 3 and 4
+
+Slide 27:
+Step 4:
+ Transfer of Fatty Acid Chain and Release of Acetyl-CoA
+Catalyzed by acyl-CoA acetyltransferase (thiolase) via covalent mechanism
+The carbonyl carbon in β-ketoacyl-CoA is electrophilic.
+Active-site thiolate acts as a nucleophile and releases acetyl-CoA.
+Terminal sulfur in CoA-SH acts as a nucleophile and picks up the fatty acid chain from the enzyme.
+The net reaction is thiolysis of the carbon-carbon bond.
+
+Slide 28:
+Fatty Acid Oxidation is Performed by a Single Trifunctional Protein
+Hetero-octamer
+four α subunits
+enoyl-CoA hydratase activity
+β-hydroxyacyl-CoA dehydrogenase activity
+responsible for binding to membrane
+four β subunits
+long-chain thiolase activity
+May allow substrate channeling between enzymes
+Associated with inner-mitochondrial membrane
+Processes fatty acid chains with 12 or more carbons
+Shorter chains processed by soluble enzymes in the matrix
+
+
+Slide 29:
+Fatty Acid Oxidation Is Performed by a Single Trifunctional Protein
+
+Slide 30:
+Each Round Produces an Acetyl-CoA and Shortens the Chain by Two Carbons
+
+Slide 31:
+Fatty Acid Catabolism for Energy
+For palmitic acid (C16)
+Repeating the previous four-step process six more times (seven total) results in eight molecules of acetyl-CoA.
+FADH2 is formed in each cycle (seven total).
+NADH is formed in each cycle (seven total).
+
+Acetyl-CoA enters citric acid cycle and further oxidizes into CO2.
+This makes more GTP, NADH, and FADH2.
+
+Electrons from all FADH2 and NADH enter ETF.
+
+Slide 32:
+NADH and FADH2 Serve as Sources of ATP
+TABLE 17-1	Yield of ATP during Oxidation of One Molecule of Palmitoyl-CoA to CO2 and H2O	
+Enzyme catalyzing the oxidation step	Number of NADH or FADH2 formed	Number of ATP ultimately formeda	
+β Oxidation			
+Acyl-CoA dehydrogenase	7 FADH2	10.5	
+β-Hydroxyacyl-CoA dehydrogenase	7 NADH	17.5	
+Citric acid cycle			
+Isocitrate dehydrogenase	8 NADH	20	
+α-Ketoglutarate dehydrogenase	8 NADH	20	
+Succinyl-CoA synthetase		8b	
+Succinate dehydrogenase	8 FADH2	12	
+Malate dehydrogenase	8 NADH	20	
+   Total		108	
+aThese calculations assume that mitochondrial oxidative phosphorylation produces 1.5 ATP per FADH2 oxidized and 2.5 ATP per NADH oxidized.
+bGTP produced directly in this step yields ATP in the reaction catalyzed by nucleoside diphosphate kinase (p. 516).	
+
+Slide 33:
+Similar Mechanisms Introduce Carbonyls in Other Metabolic Pathways
+
+Slide 34:
+Oxidation of Unsaturated Fatty Acids
+Naturally occurring unsaturated fatty acids contain cis double bonds.
+are NOT a substrate for enoyl-CoA hydratase
+Two additional enzymes are required.
+isomerase: converts cis double bonds  starting at carbon 3 to trans double bonds
+reductase: reduces cis double bonds not at carbon 3
+Monounsaturated fatty acids require the isomerase.
+Polyunsaturated fatty acids require both enzymes. 
+
+Slide 35:
+Oxidation of Monounsaturated Fatty Acids
+During first of five remaining cycles, acyl-CoA dehydrogenase step is skipped, resulting in 1 fewer FADH2.
+
+Slide 36:
+Oxidation of Polyunsaturated Fatty Acids
+Results in 1 fewer FADH2 after isomerization, but 1 FADH2 is produced during the first step of the next cycle.
+NADPH reduces the remaining unsaturated bond, resulting in no further loss of FADH2.
+
+Slide 37:
+First Double Bond Requires Isomerization
+
+Slide 38:
+Second Requires Reduction/Isomerization
+
+Slide 39:
+Oxidation of Odd-Numbered Fatty Acids
+Most dietary fatty acids are even-numbered.
+Many plants and some marine organisms also synthesize odd-numbered fatty acids.
+Propionyl-CoA (3-carbon compound) forms during final cycle of β oxidation of odd-numbered fatty acids. 
+Bacterial metabolism in the rumen of ruminants also produces propionyl-CoA.
+
+
+Slide 40:
+Oxidation of Propionyl-CoA
+
+Slide 41:
+Carboxylation of Propionyl-CoA
+
+Slide 42:
+Isomerization to Succinyl-CoA → CAC
+
+Slide 43:
+Isomerization in Propionate Oxidation Requires Coenzyme B12
+
+Slide 44:
+Complex Cobalt-Containing Compound: Coenzyme B12
+
+Slide 45:
+Coenzyme B12 Facillitates Functional Group Exchange  
+
+Slide 46:
+β Oxidation in Plants Occurs 
+Mainly in Peroxisomes
+Mitochondrial acyl-CoA dehydrogenase passes electrons into respiratory chain via electron-transferring flavoprotein.
+energy captured as ATP 
+Peroxisomal/glyoxysomal acyl-CoA dehydrogenase passes electrons directly to molecular oxygen.
+energy released as heat
+hydrogen peroxide eliminated by catalase
+
+Slide 47:
+β Oxidation in Mitochondria versus
+Peroxisomes or
+Glyoxysomes
+A peroxisome is also a glyoxysome when enzymes for glyoxylate cycle are present.
+
+Acetyl-CoA released from peroxisomal β oxidation can be used in glyoxylate cycle or exported to cytosol and then imported to mitochondria.
+
+Slide 48:
+Ketone Bodies
+Entry of acetyl-CoA into citric acid cycle requires oxaloacetate.
+When oxaloacetate is depleted, acetyl-CoA is converted into ketone bodies.
+frees coenzyme A for continued β oxidation
+Three forms of ketone bodies can leave the liver: acetone, acetoacetate, and β-hydroxybutyrate.
+
+
+
+Slide 49:
+The first step is reverse of the last step in the β oxidation: thiolase reaction joins two acetate units.
+A third acetyl-CoA is incorporated in the second step.
+Together, two CoA are freed from three acetyl-CoA.
+Formation of Ketone Bodies: Generating Free CoA
+
+Slide 50:
+Formation of Ketone Bodies: Degradation of HMG-CoA
+In order to traffic to other tissues, CoA must be removed. Acetone, acetoacetate, and              β-hydroxybutyrate can then travel through the blood. 
+Acetone is removed as a gas and exhaled, but acetoacetate and             β-hydroxybutyrate can traffic to the brain for use in energy production.
+
+Slide 51:
+The Liver Is the Source of Ketone Bodies
+
+Slide 52:
+Ketone Bodies as Fuel
+
+Slide 53:
+Chapter 17: Summary
+
+fats are an important energy source in animals
+two-carbon units in fatty acids are oxidized in a four-step β oxidation process into acetyl-CoA
+in the process, a lot of NADH and FADH2 forms; these can yield a lot of ATP in the electron-transport chain
+during peroxisomal oxidation, fats can be oxidized to generate heat 
+acetyl-CoA formed in the liver can be either oxidized via the citric acid cycle or converted to ketone bodies that serve as fuels for other tissues
+
+In this chapter, we learned that:

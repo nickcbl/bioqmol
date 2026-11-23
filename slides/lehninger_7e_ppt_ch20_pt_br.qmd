@@ -1,0 +1,541 @@
+---
+title: "Capítulo"
+# author: Nicholas Costa & Nicholas Barroso
+lang: pt-BR
+date: today
+date-format: "DD/MM/YYYY"
+format:
+  revealjs:
+    pdf-separate-fragments: true
+#    width: 1600
+#    height: 900
+    width: 960
+    height: 720
+#    logo: imgs/logo.png
+    incremental: false
+    theme: tema_azul.scss
+    lightbox: true
+    slide-number: true
+    background-transition: fade
+    menu: true
+    progress: true
+    center: true
+    auto-stretch: true
+---
+
+# Slide 1:
+
+20| Fotossíntese e Síntese de Carboidratos nas Plantas
+© 2017 W. H. Freeman and Company
+
+# Slide 2:
+CAPÍTULO 20 
+Fotossíntese e Síntese de Carboidratos nas Plantas
+Transferência de elétrons fotossintética e fotofosforilação
+Assimilação de CO2 em organismos fotossintetizantes
+Fotorrespiração em plantas C3
+Como evitar a fotorrespiração em plantas C4
+Tópicos-chave: 
+
+# Slide 3:
+Fosforilação Oxidativa
+Os elétrons dos cofatores reduzidos NADH e FADH2 são passados para proteínas da cadeia respiratória.
+Em eucariotos, o oxigênio é o aceptor final desses elétrons.
+A energia da oxidação é usada para fosforilar o ADP.
+
+Fotofosforilação
+A água é a fonte de elétrons, que são passados por uma cadeia de transportadores proteicos até o aceptor final de elétrons, o NADP+. 
+A energia luminosa é usada para separar cargas na clorofila, gerando NADPH e fosforilando o ADP.
+O oxigênio é o subproduto da oxidação da água.
+
+Fosforilação Oxidativa versus Fotofosforilação
+
+# Slide 4:
+Fosforilação Oxidativa versus Fotofosforilação
+Fosforilação Oxidativa
+Fotofosforilação
+
+# Slide 5:
+A Energia Luminosa É Convertida em ATP 
+nos Cloroplastos das Plantas
+
+# Slide 6:
+Vários Pigmentos Captam a Energia Luminosa
+
+# Slide 7:
+Os Fotopigmentos Absorvem Diferentes Comprimentos de Onda de Luz
+A energia é transferida para o centro de reação fotossintético.
+
+# Slide 8:
+Organização das Moléculas Absorvedoras de Luz nos Cloroplastos
+
+# Slide 9:
+A Energia Luminosa Captada Excita Elétrons no Centro de Reação
+
+# Slide 10:
+A Fotossíntese Bacteriana Envolve um de Dois Tipos de Centros de Reação
+
+# Slide 11:
+Nas Plantas, Dois Centros de Reação Trabalham em Conjunto
+
+# Slide 12:
+O Fotossistema II Produz Oxigênio a partir da Água
+
+# Slide 13:
+A Quebra da Água Permite a Transferência de Elétrons Isolados para o Fotossistema 
+O complexo de quebra da água doa elétrons isolados ao fotossistema II, mas libera um único O2 após quatro elétrons serem liberados de duas águas. 
+
+Reação global: 
+2 H2O → 4 e− + 4 H+ + 1 O2
+
+# Slide 14:
+O Fotossistema II Transfere Elétrons para as Plastoquinonas
+As plastoquinonas são estrutural e funcionalmente semelhantes às ubiquinonas encontradas nas mitocôndrias.
+
+Essas pequenas moléculas lipossolúveis transportam dois elétrons até o complexo citocromo b6f.
+
+# Slide 15:
+O Complexo Citocromo b6f Liga os Fotossistemas II e I e Transloca Prótons para o Lúmen 
+Estrutural e funcionalmente semelhante ao Complexo III da cadeia transportadora de elétrons
+Os prótons são removidos das plastoquinonas à medida que elas são oxidadas.
+O ciclo PQ é semelhante ao ciclo Q da CTE.
+Os elétrons são canalizados para a plastocianina, um carreador de um único elétron, que os leva ao PS I.
+
+# Slide 16:
+O Fotossistema I Resulta na Redução de NADPH
+
+# Slide 17:
+Reações Redox Induzidas pela Luz 
+Causam a Acidificação do Lúmen 
+Em contraste com a fosforilação oxidativa, os prótons são bombeados para o lúmen, formando rapidamente um grande gradiente de concentração em um espaço pequeno. 
+A força próton-motriz através da membrana tilacoide impulsiona a síntese de ATP.
+A síntese de ATP tem o mesmo custo de 3H+ por 1 ATP que na fosforilação oxidativa
+
+# Slide 18:
+A Fotossíntese Cíclica Pode Ser Utilizada para Gerar ATP em Excesso
+
+# Slide 19:
+Organização da Maquinaria Fotossintética 
+na Membrana Tilacoide
+
+# Slide 20:
+Resumo da Fotossíntese
+Os organismos fotossintetizantes captam energia luminosa em diversos comprimentos de onda usando pigmentos acessórios e a canalizam, por meio de éxcitons, até os centros de reação.
+Nas plantas, os elétrons são liberados da H2O, o que gera O2 e H+. Esses elétrons são excitados e movidos pela cadeia de transporte de elétrons fotossintética. 
+Por água, 6 H+ são mobilizados para o lúmen.
+O aceptor final de elétrons na fotossíntese linear é o NADP+, que requer dois elétrons para a conversão em NADPH.
+Quando os estoques de ATP estão baixos, os elétrons podem ser transportados ao citocromo b6f e ciclados pela segunda metade da fotossíntese, resultando em um gradiente de prótons aumentado.
+
+# Slide 21:
+Introdução às Vias Anabólicas
+Os capítulos anteriores trataram principalmente do catabolismo: como extrair energia de biomoléculas.
+
+Este capítulo e os seguintes tratam do anabolismo: como construir biomoléculas.
+
+# Slide 22:
+Assimilação de CO2 pelas Plantas
+Células animais: usam intermediários de 3 C (piruvato, lactato etc.) para a síntese de carboidratos, aminoácidos e lipídeos, mas os intermediários de 3 C precisam ser produzidos pela degradação de uma molécula maior
+Células vegetais: também podem produzir intermediários de 3 C para outras sínteses 
+O gliceraldeído 3-fosfato (G3P) é um dos mais importantes.
+produzido a partir de CO2, H2O, mais ATP e NADPH da fotossíntese
+Transformar CO2 em intermediários é a assimilação de CO2.
+
+# Slide 23:
+Assimilação de CO2 em Biomassa
+
+# Slide 24:
+A Assimilação de CO2 Ocorre nos Plastídios
+Organelas de plantas e algas
+incluem cloroplastos (para fotossíntese), amiloplastos (para armazenamento de amido) e assim por diante
+Envoltas por uma membrana dupla
+Como nas mitocôndrias, a membrana interna é impermeável a íons e moléculas polares.
+Possuem um pequeno genoma próprio
+novamente, como as mitocôndrias
+
+# Slide 25:
+Amiloplastos ― Cheios de Amido
+(e Corados com Iodo)
+
+# Slide 26:
+Assimilação de CO2
+Ocorre no estroma dos cloroplastos por meio de um processo cíclico conhecido como ciclo de Calvin.
+O intermediário-chave ribulose 1,5-bifosfato é constantemente regenerado usando a energia do ATP.
+Produz 3-fosfoglicerato e, em seguida, gliceraldeído 3-fosfato (G3P) em equilíbrio com di-hidroxiacetona-fosfato (DHAP)
+O resultado líquido é a redução do CO2 com o NADPH gerado nas reações luminosas da fotossíntese.
+
+# Slide 27:
+Os Três Estágios do Ciclo de Calvin de Assimilação de CO2
+
+# Slide 28:
+Três Estágios do Ciclo de Calvin
+Fixação do CO2: 3 ribulose 1,5-bifosfato + 3 CO2 →                    6 3-fosfoglicerato 
+catalisada pela rubisco
+o 3-fosfoglicerato é reduzido a gliceraldeído 3-fosfato usando NADPH e ATP da fotossíntese
+Catalisada por isoformas cloroplastidiais da 3-fosfoglicerato-cinase e da gliceraldeído 3-fosfato desidrogenase da glicólise
+Regeneração da ribulose 1,5-bifosfato
+Global:  3 CO2 + 6 NADPH + 5 H2O + 9 ATP → gliceraldeído   3-fosfato (G3P) + 2 H+ + 6 NADP+ + 9 ADP + 8 Pi 
+
+# Slide 29:
+ O Primeiro Estágio (Fixação do CO2) É Catalisado pela Rubisco
+A enzima mais abundante da Terra
+Rubisco = ribulose 1,5-bifosfato carboxilase/oxigenase (também RuBisCo)
+Grande enzima dependente de Mg2+ 
+Catalisa a reação:
+ribulose 1,5-bifosfato + CO2 → 2 3-fosfoglicerato
+
+# Slide 30:
+A Rubisco Existe em Duas Formas Principais e É Abundante
+Forma I:  plantas, algas, cianobactérias
+8 subunidades catalíticas grandes (codificadas pelo genoma plastidial) + 8 subunidades pequenas (codificadas pelo núcleo)
+Forma II:  somente bactérias fotossintetizantes
+apenas 2 subunidades catalíticas; semelhantes às subunidades vegetais
+
+Baixo número de renovação (turnover) de 3 s–1 a 25°C → significa que é necessária MUITA enzima!
+50% das enzimas das plantas são rubisco.
+
+# Slide 31:
+Estrutura da Rubisco Forma II
+
+# Slide 32:
+Mg2+ na Rubisco
+
+# Slide 33:
+Mecanismo da 
+Carboxilase 
+Rubisco ―
+Visão Geral
+
+# Slide 34:
+1.  Criação do Intermediário Enodiolato
+O Mg2+ facilita a interação da lisina carbamoilada com a ribulose 1,5-bifosfato → forma o intermediário enodiolato
+
+# Slide 35:
+2.  Ataque Nucleofílico para Criar o Intermediário β-Ceto Ácido
+O Mg2+ polariza o CO2 para receber o ataque nucleofílico do enodiolato, formando um intermediário β-ceto ácido de 6 C
+
+
+# Slide 36:
+3.  Hidroxilação em C-3
+Hidroxilação em C-3 da ribulose 1,5-bifosfato pela água
+
+# Slide 37:
+4.  Clivagem para Gerar o Primeiro 3-Fosfoglicerato
+
+# Slide 38:
+5.  Protonação e Liberação do Segundo 3-Fosfoglicerato
+A desprotonação da Lys175 é facilmente revertida em pH fisiológico, permitindo o reajuste completo do sítio ativo.
+
+# Slide 39:
+Papel Catalítico do Mg2+ na Atividade de Carboxilase da Rubisco
+Observe que o Mg2+ é mantido por cadeias laterais carregadas negativamente de:
+Glu, Asp e Lys carbamoilada 
+O Mg2+ aproxima os reagentes na orientação correta e estabiliza a carga negativa que se forma após o ataque nucleofílico do enodiolato ao CO2.
+
+# Slide 40:
+A Rubisco É Ativada por Modificação Covalente da Lisina do Sítio Ativo
+A rubisco é altamente regulada (por ser a primeira etapa da assimilação de CO2).
+Inativa até que a Lys201 seja carbamoilada pelo CO2 (Lys201 inacessível).
+A rubisco ativase (uma enzima às vezes desencadeada pela luz) altera a conformação da rubisco para expor a Lys201.
+A rubisco ativase requer ATP.
+
+# Slide 41:
+Como a Rubisco Ativase Expõe a Lys201
+
+# Slide 42:
+A Rubisco Também É Inibida por um Inibidor “Noturno”
+O 2-carboxiarabinitol 1-fosfato inibe a rubisco carbamoilada.
+análogo do estado de transição do intermediário β-ceto ácido
+sintetizado no escuro em algumas plantas
+
+# Slide 43:
+Estágio 2:  3-Fosfoglicerato Reduzido a Gliceraldeído 3-Fosfato
+Seis 3-fosfoglicerato + 6 ATP + 6 NADPH + 6 H+ → 6 gliceraldeído 3-fosfato + 6 ADP + 6 NADP+ + 6 Pi
+
+Requer NADPH e ATP da fotossíntese
+Parte da gliconeogênese (exceto que se usa NADPH em vez de NADH)
+utiliza as enzimas 3-fosfoglicerato-cinase e gliceraldeído 3-fosfato desidrogenase
+Impulsionada pela alta concentração de NADPH e ATP no estroma do cloroplasto
+
+
+# Slide 44:
+Estágio 3:  Regeneração da Ribulose 1,5-Bifosfato
+Seis gliceraldeído 3-fosfato são produzidos durante o ciclo de Calvin.
+A ribulose 1,5-bifosfato precisa ser regenerada para reiniciar o ciclo.
+5/6 dos produtos gliceraldeído 3-fosfato são regenerados em ribulose 1,5-bifosfato.
+1/6 dos produtos gliceraldeído 3-fosfato é retirado do ciclo e usado para a construção de carboidratos.
+
+# Slide 45:
+Estágio 3: Destino de Um Gliceraldeído 3-Fosfato na Biossíntese de Carboidratos
+O gliceraldeído 3-fosfato é um intermediário da glicólise e da gliconeogênese e pode ser usado em processos anabólicos para produzir amido e sacarose, bem como em processos catabólicos para produzir piruvato e acetil-CoA.
+
+# Slide 46:
+Estágio 3: Etapas de Regeneração para 5/6 dos Produtos Gliceraldeído 3-Fosfato do Ciclo de Calvin
+G3P convertido em DHAP pela triose-fosfato isomerase
+G3P e DHAP convertidos em frutose 6-fosfato (F6P, 6C) pela aldolase e pela frutose 1,6-bifosfatase
+2C removidos da F6P para gerar eritrose 4-fosfato (E4P, 4C); catalisado pela transcetolase  
+A transcetolase transfere os 2C da etapa 3 para o G3P, gerando xilulose 5-fosfato (Xu5P, 5C)
+
+# Slide 47:
+E4P e DHAP combinam-se para formar sedoeptulose 1,7-bifosfato (S1,7BP; 7C) pela aldolase.
+A sedoeptulose 1,7-bifosfato é desfosforilada a sedoeptulose 7-fosfato (S7P) pela sedoeptulose 1,7-bifosfatase  
+ Essa enzima é exclusiva das plantas. 
+A S7P tem 2C removidos pela transcetolase para gerar ribose 5-fosfato (R5P); os 2C na transcetolase são transferidos ao G3P para gerar outra Xu5P 
+
+# Slide 48:
+R5P convertida em ribulose 5-fosfato (Ru5P) pela fosfopentose isomerase
+Além disso, a partir da etapa 7, Xu5P convertida em Ru5P pela fosfopentose epimerase
+Por fim, Ru5P fosforilada a ribulose 1,5-bifosfato pela fosforribuloquinase
+Essa enzima também é exclusiva das plantas.
+
+# Slide 49:
+Estágio 3: Etapas de Regeneração para 5/6 dos Produtos Gliceraldeído 3-Fosfato do Ciclo de Calvin (Visão Geral)
+
+# Slide 50:
+
+# Slide 51:
+
+# Slide 52:
+Estágio 3: A Adição de Fosfato do ATP à Ribulose 5-Fosfato Compromete o Produto com o Ciclo de Calvin
+
+# Slide 53:
+A Transcetolase Usa Tiamina-Pirofosfato como Cofator
+Contém ânion tiazólio para ataque nucleofílico a carbonilas
+Também usado por:
+piruvato desidrogenase na formação de acetil-CoA
+piruvato descarboxilase no metabolismo do etanol
+α-cetoglutarato desidrogenase no CAC
+transcetolase na via das pentoses-fosfato
+
+# Slide 54:
+
+# Slide 55:
+Estequiometria da Assimilação de CO2 no Ciclo de Calvin
+A fixação de três moléculas de CO2 gera um gliceraldeído 3-fosfato para uso em processos anabólicos.
+Nove moléculas de ATP e seis moléculas de NADPH são consumidas.
+
+# Slide 56:
+Destino do Pi da Hidrólise de ATP no Estágio 2
+Oito dos nove Pi combinam-se com ADP para regenerar ATP.
+O nono é incorporado ao G3P.
+requer que o Pi seja transferido do citosol
+usa um antiporte especial Pi-triose
+
+# Slide 57:
+O Antiporte Pi-Triose Fosfato É Necessário para a Síntese de Sacarose 
+Ao contrário do amido (produzido no estroma do cloroplasto), a sacarose é produzida no citosol!
+usada para o transporte a tecidos distantes da planta
+Mas a membrana interna do cloroplasto é impermeável a compostos fosforilados.
+Assim, o antiporte troca G3P ou DHAP por um fosfato (Pi), enviando as trioses-fosfato ao citosol para a síntese de sacarose.
+
+# Slide 58:
+
+# Slide 59:
+Fotossíntese: da Luz e do CO2 ao Gliceraldeído 3-Fosfato
+A montagem de uma molécula de gliceraldeído 3-fosfato requer a captação de aproximadamente 24 fótons.
+Os H+ movem-se do estroma para o tilacoide
+cria condições alcalinas no estroma
+Acompanhado pelo transporte de Mg2+ do tilacoide para o estroma
+As enzimas da fotossíntese e da assimilação de CO2 são mais ativas nas condições alcalinas e de alta [Mg2+] do estroma
+
+# Slide 60:
+Como o Movimento de H+ e Mg2+ Auxilia na Ativação da Fotossíntese e da Assimilação de CO2
+
+# Slide 61:
+
+# Slide 62:
+A Luz Ativa Quatro Enzimas por meio da Redução, Impulsionada por Elétrons, de Ligações Cruzadas Cys-Cys
+As enzimas-alvo são:
+ribulose 5-fosfato cinase  
+frutose 1,6-bifosfatase   
+sedoeptulose 1,7-bifosfatase   
+gliceraldeído 3-fosfato desidrogenase
+Se oxidadas (resíduos de Cys na forma de dissulfeto Cys-Cys) → as enzimas estão inativas.
+Na luz, o fotossistema I envia e– à ferredoxina, que os envia à tiorredoxina (Fig. 20-19), que os doa às ligações dissulfeto, reduzindo-as a Cys livres.
+
+# Slide 63:
+Ativação pela Luz de Enzimas do Ciclo de Calvin
+
+# Slide 64:
+Respiração Mitocondrial e Fotorrespiração
+Até agora, vimos que as plantas oxidam água a O2 e reduzem CO2 a carboidratos.
+                 CO2 + H2O → O2 + (CH2O)
+As plantas também realizam o inverso nas mitocôndrias: O2 é reduzido a água, enquanto substratos são oxidados a CO2.
+Além disso, ocorre uma reação colateral dispendiosa, catalisada pela rubisco, que consome O2 e produz CO2.
+Essa reação de fotorrespiração é impulsionada pela luz e acoplada a uma via de recuperação custosa.
+Ao contrário da respiração mitocondrial, ela não produz energia.
+
+# Slide 65:
+Atividade de Oxigenase da Rubisco
+O O2 compete com o CO2 pelo sítio ativo.
+~1 a cada 3 ou 4 ciclos catalíticos, o O2 se liga
+O nucleófilo reativo na reação da rubisco é a forma enodiol, rica em elétrons, da ribulose 1,5-bifosfato.
+O nucleófilo adiciona-se ao O2 e forma 3-fosfoglicerato (igual ao do ciclo de Calvin) e                   2-fosfoglicerato (Fig. 20-12).
+O 2-PG é metabolicamente inútil.
+Recuperar seu C requer energia.
+
+# Slide 66:
+A Via do Glicolato 
+Processo complexo, que consome ATP, para a recuperação de fragmentos de C2 da fotorrespiração.
+Utiliza três organelas 
+Perda de C como CO2 pela descarboxilação mitocondrial da glicina
+Por fim, dois 2PG são convertidos em Ser + CO2.
+
+# Slide 67:
+Mecanismo da Glicina Descarboxilase
+
+# Slide 68:
+A Glicina Descarboxilase É Abundante nas Partes Fotossintetizantes das Plantas 
+O fluxo pela reação da rubisco e pela via do glicolato pode ser alto sob sol intenso, de modo que as plantas precisam de muita glicina descarboxilase.
+representa 50% da proteína em algumas folhas de plantas
+mas as partes não fotossintetizantes das plantas (tubérculos etc.) têm pouca glicina descarboxilase
+
+# Slide 69:
+Plantas C4 versus C3
+A maioria das plantas cultivadas é C3.
+como discutido, a primeira etapa do ciclo de Calvin é a fixação de CO2 em um produto de 3 C, o 3-fosfoglicerato
+por exemplo: trigo, cevada, batata
+ As plantas C4 têm uma etapa anterior (antes da rubisco).
+contornam a etapa de fixação em C3 fixando o CO2 em um composto de 4 C (oxaloacetato a partir de acetil-CoA)
+tendem a crescer em climas mais quentes e ensolarados
+têm altas taxas de crescimento e de fotossíntese, baixa perda de água e estrutura foliar especial
+por exemplo: cana-de-açúcar, milho, sorgo
+
+
+
+# Slide 70:
+Benefícios das Plantas C4: Resistência ao Calor e à Seca
+Separação física das reações: 
+O CO2 é capturado em oxaloacetato (4C) nas células do mesofilo da folha.
+O oxaloacetato é derivado do piruvato.
+O oxaloacetato passa então para as células da bainha do feixe (onde está a rubisco) e libera CO2.  
+A via C4 tem custo energético maior, mas também maior eficiência em temperaturas elevadas.
+À medida que a temperatura aumenta, a afinidade da rubisco pelo CO2 aumenta.
+
+# Slide 71:
+
+# Slide 72:
+Via C4
+As plantas C4 separam espacialmente a fixação de CO2 da atividade da rubisco, resultando em menor reação da rubisco com o oxigênio e na prevenção da dispendiosa via do glicolato.
+
+# Slide 73:
+As Plantas CAM Separam no Tempo a Captura e a Fixação de CO2
+Outra via para evitar a reação da rubisco com o oxigênio
+Descoberta pela primeira vez nas Crassuláceas, daí o nome Metabolismo Ácido das Crassuláceas (CAM)
+Encontrada em plantas que crescem em altas temperaturas e condições secas
+por exemplo: abacaxi, cactos
+minimizam a perda de vapor de água durante o calor do dia
+
+
+# Slide 74:
+As Plantas CAM Abrem os Estômatos de Absorção de Gases Apenas à Noite
+À noite, o ar é mais frio e mais úmido.
+a possível perda de água pela planta é menor
+O CO2 absorvido à noite é fixado para formar oxaloacetato (4C) por meio da PEP-carboxicinase.
+O oxaloacetato é reduzido a malato e armazenado nos vacúolos.
+Durante o dia, o malato libera CO2 por meio da enzima málica dependente de NADP, e a fixação de CO2 prossegue.
+Como os estômatos estão fechados, a [O2] é baixa.
+
+# Slide 75:
+O Excesso de Triose-Fosfato É Convertido em Amido e Sacarose
+Independentemente de a planta ser C3, C4 ou CAM, o gliceraldeído 3-fosfato pode ser usado para construir carboidratos maiores.
+O amido é produzido nos cloroplastos para armazenamento de curto prazo.
+ou produzido nos amiloplastos de tubérculos, sementes, raízes etc. não fotossintetizantes, para armazenamento de longo prazo
+fornece a maior parte da energia armazenada pela planta
+A sacarose é produzida no citosol para transporte.
+A sacarose é a “glicose sanguínea” da planta.
+
+
+# Slide 76:
+A Síntese de Amido Ocorre de Modo Semelhante à Síntese de Glicogênio
+A gliconeogênese a partir de dois gliceraldeído 3-fosfato resulta em glicose 6-fosfato.
+A fosfoglicomutase converte então a glicose 6-fosfato em glicose 1-fosfato.
+Mas, ao contrário do glicogênio, os monômeros de glicose do amido vêm da ADP-glicose (e não da UDP-glicose), produzida pela ADP-glicose pirofosforilase.
+A amido-sintase é semelhante à glicogênio-sintase. Ela cria ligações α(1→4) (amilose).
+amilopectina: ramificações α(1→6) adicionadas pela enzima ramificadora
+
+# Slide 77:
+A Síntese de Amido É Regulada na ADP-Glicose Pirofosforilase
+Ativada por 3-fosfoglicerato
+Inibida por Pi 
+
+# Slide 78:
+A Síntese de Sacarose Usa UDP-Glicose e Cria uma Ligação α1→β2
+A síntese de sacarose ocorre no citosol.
+A DHAP é transportada para fora do cloroplasto pelo transportador Pi-triose fosfato.
+Uma vez no citosol, a DHAP sofre gliconeogênese para sintetizar glicose 6-fosfato e frutose 6-fosfato.
+A glicose 6-fosfato é convertida em UDP-glicose pela UDP-glicose pirofosforilase.
+
+
+# Slide 79:
+A Síntese de Sacarose Envolve a Conversão de DHAP + G3P em Frutose, Seguida da Adição de UDP-Glicose
+A aldolase combina DHAP + G3P para formar frutose 1,6-bifosfato (F1,6BP).
+A F1,6BP é desfosforilada pela F1,6-bifosfatase, formando frutose 6-fosfato (F6P).
+A sacarose 6-fosfato sintase adiciona UDP-glicose à F6P, gerando sacarose 6-fosfato.
+A sacarose 6-fosfatase remove um PO43−, gerando sacarose.
+
+# Slide 80:
+A Síntese de Sacarose Ocorre em Duas Etapas Enzimáticas
+
+# Slide 81:
+A Regulação da Síntese de Sacarose Ocorre na Interconversão entre F1,6BP e F6P
+Isoformas da PFK-1 e da frutose 6-fosfatase têm regulação específica nas plantas.
+Uma isoforma específica da PFK-1 é a PFK-1 dependente de pirofosfato (PP-PFK-1).
+
+# Slide 82:
+FBPase-1 e PP-PFK-1 São Reguladas pela Luz e pelo Escuro
+No escuro, não há fotossíntese para alimentar o ciclo de Calvin e, portanto, não há trioses-fosfato, logo não há síntese de sacarose… mas a degradação da sacarose é necessária para obter energia. 
+FBPase-1 inibida (como na gliconeogênese)
+PP-PFK-1 ativa (como na glicólise)
+Na luz, a triose-fosfato é produzida e, portanto, a sacarose é sintetizada.
+FBPase-1 ativa
+PP-PFK-1 inibida
+
+# Slide 83:
+FBPase-1 e PP-PFK-1 Também São Reguladas pela F26BP
+Lembre-se de que a F26BP é o importante regulador da glicólise/gliconeogênese em células animais.
+produzida e degradada por uma enzima bifuncional
+
+
+# Slide 84:
+Regulação da Sacarose-Fosfato Sintase por Fosforilação
+Ativada pela glicose 6-fosfato
+A G6P também inibe a cinase que torna a SPS menos ativa.
+
+A SPS é inibida pelo Pi.   
+O Pi também inibe a fosfatase que torna a SPS mais ativa.
+
+# Slide 85:
+As Paredes Celulares São Resistentes Graças à Celulose
+Mais de 1011 toneladas métricas produzidas por ano!
+Polímero de glicose com ligações β(1→4)	
+O formato reto permite que as cadeias formem ligações cruzadas por ligações de hidrogênio → microfibrilas resistentes.
+Sintetizada a partir de precursores intracelulares, mas montada fora da membrana plasmática
+
+# Slide 86:
+Estrutura da Celulose
+
+# Slide 87:
+Etapas em um Modelo de Síntese de Celulose
+A glicose liga-se a um lipídeo na membrana celular.
+A sacarose-sintase gera UDP-glicose e, com a ajuda da celulose-sintase, seis cadeias são criadas.
+Os complexos celulose-proteína formam “rosetas” (observadas por microscopia eletrônica).
+3.  A celulose-sintase estende a cadeia.
+O crescimento e a deposição do polímero parecem ser direcionados por microtúbulos.
+As cadeias cristalizam-se para formar fibrilas.
+
+# Slide 88:
+Um Modelo para a Síntese de Celulose
+
+# Slide 89:
+As Plantas Também Usam Gorduras e Proteínas 
+ para a Síntese de Carboidratos: Ciclo do Glioxilato
+
+# Slide 90:
+Capítulo 20: Resumo
+Neste capítulo, aprendemos que:
+o ATP e o NADPH da fotossíntese são necessários para assimilar CO2 em carboidratos 
+a assimilação de três moléculas de CO2 pelo ciclo de Calvin leva à formação de uma molécula de gliceraldeído 3-fosfato para uso em reações anabólicas
+a enzima-chave do ciclo de Calvin, a rubisco, fixa tanto o dióxido de carbono quanto o oxigênio
+a baixa seletividade da rubisco causa uma incorporação desperdiçadora de oxigênio molecular em plantas C3. As plantas C4 e CAM evoluíram métodos distintos para reduzir esse desperdício.
+as plantas podem produzir amido para armazenamento de energia, sacarose para transporte ou celulose para sustentação estrutural. Cada um utiliza enzimas únicas e tem regulação específica
+as plantas podem converter acetil-CoA em carboidratos por meio do ciclo do glioxilato

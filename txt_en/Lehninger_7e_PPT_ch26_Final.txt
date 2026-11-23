@@ -1,0 +1,624 @@
+Slide 1:
+
+26| RNA Metabolism
+© 2017 W. H. Freeman and Company
+
+Slide 2:
+CHAPTER 26 
+RNA Metabolism
+Transcription: DNA-dependent synthesis of RNA
+Capping and splicing: RNA processing
+RNA-dependent synthesis of RNA and DNA
+Learning goals: 
+
+Slide 3:
+Overview of RNA Function
+Ribonucleic acids play three well-understood roles in living cells:
+Messenger RNAs encode the amino acid sequences of all the polypeptides found in the cell.
+Transfer RNAs match their anticodon to the mRNA while carrying a specific amino acid used for protein synthesis.
+Ribosomal RNAs are constituents of the large and small ribosomal subunits.
+Ribonucleic acids play several less-understood functions in eukaryotic cells:
+MicroRNAs regulate the expression of genes, possibly via binding to specific nucleotide sequences.
+Ribozymes are catalytic RNA molecules that act as enzymes.
+Ribonucleic acids act as genomic material in viruses.
+
+Slide 4:
+Overview of RNA Metabolism
+Transcribed from DNA
+Transcription is tightly regulated in order to control the concentration of each protein. 
+Ribozymes 
+Being mainly single stranded, many RNA molecules can fold into compact structures with specific functions.
+Some RNA molecules can act as catalysts (ribozymes), often using metal ions as cofactors such as the group I introns.
+Processing of mRNAs 
+Splicing - elimination of introns; joining of exons
+Poly-adenylation of the 3’ end
+Capping the 5’ end
+
+Slide 5:
+Transcription in E. Coli
+The nucleoside triphosphates add to the the 3’ end of the growing RNA strand.
+The growing chain is complementary to the template strand in DNA.
+The synthesis is catalyzed by enzyme (RNA polymerase) and involves 2 Mg2+ ions for catalysis.
+RNA polymerase unwinds ~17bp of DNA and covers about 35 bp of DNA.
+
+Slide 6:
+Transcription by RNA Polymerase in E. Coli
+
+Slide 7:
+Features of Transcription
+RNA polymerase binds to a sequence called promoter to begin transcription.
+primer not required
+The growing end of new RNA temporarily base-pairs with DNA template for ~8 bp and inserts 50-90nt/sec.
+The DNA duplex unwinds, forming a “bubble” of ~17 bp.
+The RNA Pol generates positive supercoils ahead, later relieved by topoisomerases.
+
+Slide 8:
+Transcription “Bubble”
+
+Slide 9:
+RNA Polymerase and Generation of Positive Supercoils
+
+Slide 10:
+Template versus Coding Strand
+DNA template strand – serves as template for RNA polymerase
+DNA coding strand – the nontemplate strand; has the same sequence as the RNA transcript 	
+
+***Regulatory sequences are listed by the coding strand sequence.
+
+Slide 11:
+Both DNA Strands Code for Proteins
+Coding information may be on either strand (“top” or “bottom”). 
+Adenovirus is one of the causative agents of the common cold.
+Adenovirus has a linear genome.
+Each strand codes for a number of proteins.
+
+
+Slide 12:
+RNA Polymerase Is a Large Enzyme with No Proofreading Capability
+RNA polymerase holoenzyme has five core subunits of α2ββ’ω plus a sixth called σ.
+See Figure 26-4.
+RNA Pol lacks 3’ → 5’-exonuclease, so it has a high error rate of 1/104–1/105.
+RNA binds to promoter regions to initiate transcription.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Slide 13:
+Bacterial RNA Polymerase Has at Least Six Subunits
+Two α subunits function in assembly and binding to UP (upstream promoter) elements.
+See slide on promoters and Fig. 26-5
+The β subunit is the main catalytic subunit.
+The β’ subunit is responsible for DNA binding.
+The σ subunit directs enzyme to the promoter.
+Each class of RNA pol holoenzymes has a different σ subunit.
+The ω appears to protect the polymerase from denaturation.
+
+Slide 14:
+Common Features of Promoters in E. Coli
+There are two consensus sequences at −10 (TATAAT) and −35 (TTGACA) for σ subunit binding.
+called TATA sequences
+An A-T−rich upstream promoter element between −40 and −60 binds the α subunit.
+A-T−rich sequences promote strand separation.
+These sequences govern efficacy of RNA Pol binding and therefore affect gene-expression level.
+Nucleotides before the first nucleotide of the RNA molecule are considered “upstream” and given negative values.
+
+Slide 15:
+Examples of E. Coli Promoter Regions 
+
+Slide 16:
+The Footprinting Technique Is a Way to Find a DNA-Binding Site
+Premise:  DNA bound by protein will be protected from chemical cleavage at its binding site.
+
+Isolate a DNA fragment thought to contain a binding site.
+Radiolabel the DNA.
+Bind protein to DNA in one tube; keep another as a “naked DNA” control.
+Treat both samples with chemical or enzymatic agent to cleave the DNA.
+Separate the fragments by gel electrophoresis and visualize bands on X-ray film or imager plate.
+
+Slide 17:
+Protein-DNA Footprinting
+
+Slide 18:
+Footprinting Results of RNA Polymerase Bound to Promoter
+
+Slide 19:
+Initiation of Transcription
+RNA Pol binds to promoter with the σ factor bound.
+It creates a closed complex (DNA is not unwound).
+An open complex forms.  
+The region from ~−10 to ~+2 unwinds.
+RNA Pol moves away from the promoter.
+σ is replaced by the protein NusA.
+
+Slide 20:
+Elongation of Transcription
+RNA Pol binds to triphosphate nucleosides and generates the RNA transcript.
+NusG binds to both the RNA polymerase and ribosome linking the two together, directly affecting the rate of transcription in prokaryotic cells.
+
+Slide 21:
+Transcription Initiation and Elongation in E. Coli
+
+Slide 22:
+TABLE 26-1	The Seven σ Subunits of E. coli	
+σ subunit	Kd (nM)	Molecules/cella	Holoenzyme ratio (%)a	Function	
+σ70	0.26	700	78	Housekeeping	
+σ54	0.30	110	8	Modulation of cellular nitrogen levels	
+σ38	4.26	<1	0	Stationary phase genes	
+σ32	1.24	<10	0	Heat shock genes	
+σ28	0.74	370	14	Flagella and chemotaxis genes	
+σ24	2.43	<10	0	Extracytoplasmic functions; some heat shock functions	
+σ18	1.73	<1	0	Extracytoplasmic functions, including ferric citrate transport	
+Source: Data from H. Maeda et al., Nucleic Acids Res. 28:3497, 2000.
+Note: σ factors are widely distributed in bacteria; the number varies from a single σ factor in Mycoplasma genitalium to 63 distinct σ factors in Streptomyces coelicolor.
+aApproximate number of each σ subunit per cell and the fraction of RNA polymerase holoenzyme complexed with each σ subunit during exponential growth. The numbers change as growth conditions change. The fraction of RNA polymerase complexed with each σ subunit reflects both the amount of the particular subunit and its affinity for the enzyme.	
+
+Slide 23:
+Regulation of Transcription
+Transcription is energy-intensive, so it’s logical to regulate gene production here.
+Regulation is achieved in many ways . 
+One way is to regulate the affinity of RNA polymerase for a promoter.
+promoter sequence – deviating from the consensus sequence
+activator proteins – CRP
+repressor proteins – block necessary binding sites
+
+
+Slide 24:
+Two Types of Termination in E. Coli
+1.  ρ-independent
+characterized by three U’s near the 3’ end of the transcript
+self-complementary regions in transcript form a hairpin 15−20 nt before the 3’ end
+makes the RNA Pol pause, dissociate
+
+Slide 25:
+Two Types of Termination in E. Coli
+2.  ρ-dependent
+common CA-rich sequence called a rut site (Rho utilization element)
+ρ protein processes until termination site reached
+ρ protein is a helicase, binds to rut site
+
+Slide 26:
+Eukaryotes RNA Polymerases
+RNA polymerase I synthesizes pre-ribosomal RNA (precursor for 28S, 18S, and 5.8 rRNAs).
+RNA polymerase II is responsible for synthesis of mRNA.
+very fast (500–1000 nucleotides/sec)
+specifically inhibited by mushroom toxin α-amanitin
+can recognize thousands of promoters (See Fig. 26-8)
+RNA polymerase III makes tRNAs and some small RNA products.
+Plants appear to have RNA polymerase IV that is responsible for the synthesis of small interfering RNAs.
+Mitochondria have their own RNA polymerase.
+
+Slide 27:
+Features of Some Promoters Recognized by Eukaryotic RNA Polymerase II
+Consensus sequence TATA(A/T)A(A/T)(A/G) ~−30
+Inr sequence (Initiator) ~+1
+Specific regulatory sequences farther upstream
+
+Slide 28:
+Eukaryotic mRNA Transcription Involves Many Proteins
+Relies on protein-protein contacts
+many highly conserved transcription factors
+RNA Pol II is well-studied.
+large complex of 12 subunits
+Some subunits have some structural homology to bacterial RNA polymerase.
+has carboxy-terminal domain of highly conserved repeats
+
+Slide 29:
+TABLE 26-2	Proteins Required for Initiation of Transcription at the RNA Polymerase II (Pol II) Promoters of Eukaryotes	
+Transcription protein	Number of different subunits 	Subunit(s) Mra	Function(s)	
+Initiation				
+Pol II	12	7,000–220,000	Catalyzes RNA synthesis	
+TBP (TATA-binding protein)	1	38,000	Specifically recognizes the TATA box	
+TFIIA	2	13,000, 42,000	Stabilizes binding of TFIIB and TBP to the promoter	
+TFIIB	1	35,000	Binds to TBP; recruits Pol II–TFIIF complex	
+TFIIDb	13–14	14,000–213,000	Required for initiation at promoters lacking a TATA box	
+TFIIE	2	33,000, 50,000	Recruits TFIIH; has ATPase and helicase activities	
+TFIIF	2–3	29,000–58,000	Binds tightly to Pol II; binds to TFIIB and prevents binding of Pol II to nonspecific DNA sequences	
+TFIIH	10	35,000–89,000	Unwinds DNA at promoter (helicase activity); phosphorylates Pol II (within the CTD); recruits nucleotide-excision repair proteins	
+Elongationc				
+ELLd	1	80,000		
+pTEFb	2	43,000, 124,000	Phosphorylates Pol II (within the CTD)	
+SII (TFIIS)	1	38,000		
+Elongin (SIII)	3	15,000, 18,000, 110,000		
+aMr reflects the subunits present in the complexes of human cells. Some components differ somewhat in size in yeast.
+bThe presence of multiple copies of some TFIID subunits brings the total subunit composition of the complex to 21–22.
+cThe function of all elongation factors is to suppress the pausing or arrest of transcription by the Pol II–TFIIF complex. 
+dName derived from eleven-nineteen lysine-rich leukemia. The gene for ELL is the site of chromosomal recombination events frequently associated with acute myeloid leukemia.	
+
+Slide 30:
+Assembly of RNA Polymerase II at Promoter
+Initiated by TATA-binding protein (TBP) with the promoter
+TBP is part of multisubunit complex TFIID.
+Other proteins include TFIIB, TFIIA, TFIIF, TFIIE and TFIIH.
+Helicase activity in TFIIH unwinds DNA at the promoter.
+Kinase activity in TFIIH phosphorylates the polymerase at the CTD (carboxy-terminal domain), changing the conformation and enabling RNA Pol II to transcribe.
+
+Slide 31:
+Elongation and Termination
+After 60-70nt, TFIIE is released followed by TFIIH.
+Elongation factors bound to RNA Pol II enhance processivity and coordinate posttranslational modifications.
+Some elongation factors are bound to the phosphorylated CTD.
+For termination, Pol II is dephosphorylated.
+Regulation is complex (see Chapter 28).
+
+
+Slide 32:
+Transcription Using RNA Pol II
+
+Slide 33:
+TFIIH and Repair
+Transcribed genes are more actively repaired than silent genes are.
+It may partly be explained that TFIIH also has a role in nucleotide-excision repair (NER).
+recruits the NER complex at a lesion
+Genetic repair diseases are associated with TFIIH defects:
+xeroderma pigmentosum and others
+
+Slide 34:
+Selective Inhibition of RNA Polymerases
+Actinomycin D and acridine
+intercalate in DNA and prevents transcription
+Rifampicin
+Binds to β subunit of bacterial RNA Pols
+α-amanitin from mushroom Amanita phalloides
+blocks Pol II and Pol III of predators
+but doesn’t block its own Pol II 
+
+Slide 35:
+Processing of mRNA − Overview
+Dozens of proteins coordinate with each other and with proteins involved in RNA transport to ribosomes.
+An unprocessed, newly synthesized RNA molecule is referred to as a primary transcript.
+Processing includes:
+splicing out introns and rejoining any exons for a continuous sequence
+adding a 5’-cap
+adding a 3’-poly(A) tail
+degradation
+
+
+Slide 36:
+Maturation of mRNA in Eukaryotes
+
+Slide 37:
+The 5’-Cap
+7-methylguanosine links to 5’-end via 5/,5’-triphosphate link.
+formed with a molecule of GTP
+may include additional methyl-ations at 2’OH groups of next two nucleotides following the cap
+methyl groups derive from S-adenosylmethionine (SAMe)
+See Figure 26-12.
+Protects RNA from nucleases
+Forms a binding site for ribosome
+
+Slide 38:
+Introns Are Found in Most Genes
+Most genes in vertebrates, and some in yeast, a few bacteria have introns.
+Exons are usually <1,000 bp in length.
+Introns are 50−700,000 bp in length. 
+1,800bp avg
+Some genes have dozens of introns.
+The human genome has more than 200,000 introns spread across ~20,000 genes.
+
+Slide 39:
+Four Classes of Introns
+Group I and group II introns are self-splicing.
+require no additional proteins or ATP
+in nuclear, mitochondrial, and chloroplast genomes
+differ mainly in the splicing mechanism
+found in some bacteria
+Spliceosomal introns are spliced by enormous complexes called spliceosomes.
+the most common introns
+frequent in protein-coding regions of eukaryotic genomes
+tRNA introns are spliced by protein-based enzymes.
+Primary transcript is cleaved by endonuclease.
+Exons are joined by ATP-dependent ligase.
+
+Slide 40:
+Splicing of Group I Introns 
+3’-OH of free guanosine (GMP, GDP, etc.) used as a nucleophile
+Attacks phosphodiester bond between U and A at the end of the intron
+Releases first portion of U-ending exon
+3’-OH of the U-ending exon then attacks the 5’-end of the other piece of exon to rejoin the pieces
+
+Slide 41:
+Nucleophilic Attack of Guanoisine 3’-OH on UA of Exon-Intron Interface in Group I Intron
+
+Slide 42:
+Group II Introns
+The nucleophile is a 2’-OH of an A residue within the intron.
+After the first cleavage, the second (right-most) piece forms a lariat-like intermediate with a 2’-5’-phosphodiester bond.
+Other features are similar to group I introns.
+
+Slide 43:
+Spliceosome Introns Are Removed via a Large Complex Called a Spliceosome
+The spliceosome is made up of snRNPs (“snurps” for small nuclear ribonuclear proteins).
+snRNP RNA is called snRNA (for small nuclear RNA), which are 100−200 nt long.
+five snRNAs known in eukaryotes (U1, U2, U4, U5, U6)
+GU at 5’-end and AU at 3’-end usually mark sites of splicing.
+
+Slide 44:
+Binding of U1 snRNP and U2 snRNP
+Contain regions complementary to mRNA
+U1 helps define the 5’-splice site.
+U2 binds near the 3’-end of the intron.
+creates a bulge that partly displaces and activates an A to be a better nucleophile
+This A forms the 2’5’-phosphodiester bond of the lariat-like intermediate.
+
+Slide 45:
+Next, U2, U4, U5, and U6 bind, bringing at least 50 proteins to create a spliceosome.
+ATP is required for assembly but not cleavage.
+Some parts are attached to the CTD (carboxy-terminal domain) of RNA Pol II.
+indicates coordination of splicing with transcription
+Spliceosome Assembly
+
+Slide 46:
+Addition of the Poly(A) Tail
+It serves as a binding site on mRNA and protects it from degradation.
+RNA Pol II synthesizes RNA beyond the cleavage signal sequence.
+The cleavage signal is bound by an endonuclease and a polyadenylate polymerase bound to CTD.
+Endonuclease cleaves RNA 10−30 nt downstream to highly conserved AAUAA.
+Polyadenylate polymerase synthesizes 80−250 nt of A.
+
+Slide 47:
+Overview of mRNA Processing
+
+Slide 48:
+Alternative Splicing
+A single gene can yield different peptides depending on RNA processing.
+Particular regions may be retained or removed, yielding different mature transcripts.
+At least 95% of human genes are alternatively spliced.
+
+Slide 49:
+Poly (A) Site Choice
+Some complex transcripts have more than one site where the poly (A) tail forms. 
+It generates greater diversity in regions such as the variable domains of the immuno-globulin heavy chains.
+The site closest to the 5’ end removes sequence downstream.
+
+Slide 50:
+Alternative Splicing in the Calcitonin Gene of Rats
+Calcitonin and calcitonin-gene-related peptide, in rat thyroid and the brain, respectively, made from same mRNA.
+
+Slide 51:
+Processing of tRNA and rRNA
+Bases are modified in posttranscription reactions.
+pseudouridine (ψ)
+thiouridine
+dihydrouridine, and so on
+
+Slide 52:
+Processing of tRNA and rRNA
+rRNAs and tRNAs are cleaved from longer precursors.
+
+Slide 53:
+MicroRNAs Function in Gene Regulation
+MicroRNAs (miRNAs):
+short noncoding RNAs of ~22 nucleotides
+bind to specific regions of mRNA to alter translation
+assist in cleaving the mRNAs  
+or block the mRNA from translation
+About 1,500 human genes encode miRNAs and 1 or more affect the expression of MOST protein-coding genes!
+Synthesized from larger precursors
+processed by two endoribonucleases, Drosha and Dicer
+
+Slide 54:
+Steps in miRNA Processing
+Long precursor pri-miRNA is made in the nucleus.
+Drosha and DGCR8 cleave pri-miRNA to a 70−80 nt precursor.
+Exportin and Ran export this precursor to the cytoplasm.
+Dicer cleaves the pre-miRNA into dsRNA.
+The complement of miRNA is removed by helicase.
+miRNA is loaded onto a protein complex such as RNA-induced silencing complex (RISC).
+RISC binds to target mRNA.
+
+Slide 55:
+RISC-miRNA Prevents Translation of mRNA
+The miRNA sequence in RISC binds to a complement in target mRNA.
+If miRNA is an approxiamtely perfect complement, target mRNA is cleaved.
+Thus, the mRNA is not translated.
+If miRNA is only a partial complement, translation is blocked.
+
+
+Slide 56:
+How miRNAs Are Processed to Prevent Translation
+
+Slide 57:
+Ribozymes Are RNA Molecules That Catalytically Cleave RNA
+Cleave themselves or another RNA
+3-D structure integral to function
+Inactive if denatured 
+Follows Michaelis-Menton kinetics
+saturable
+active site
+measureable KM
+competitively inhibited
+nucleophilic attack of sugar OH on phosphate (transesterification) followed by phosphodiester bond hydrolysis
+
+Slide 58:
+Examples of Well-characterized Ribozymes
+Self-splicing group I introns
+Example: 26S rRNA precursor from protozoan Tetrahymena
+Hammerhead ribozyme
+cleaves RNA of virusoids (circular RNAs that are replicated by plant viruses)
+so named because 2° structure looks like head of hammer
+RNase P
+cleaves precursors to tRNAs by recognizing the shape of the pre-tRNA and the CCA sequence
+
+
+
+Slide 59:
+Ribozymes
+Hammerhead
+Group I – rRNA intron from Tetrahymena
+
+Slide 60:
+Degradation of Cellular mRNAs
+The RNA lifetime is one means of gene regulation.
+Each gene product is needed for a unique amount of time .
+Half-lives vary from seconds to hours.
+rate of synthesis : rate of degradation
+steady state – rates are equal and balanced
+typical vertebrate mRNA ~3 hrs
+~10 turnovers per cell generation
+shorter (~1.5 mins) half-lives for bacterial mRNAs
+Degradation occurs via ribonucleases.
+Hairpin structures in bacterial mRNA can extend half-life.
+In eukaryotes, the 5’cap and 3’ poly (A) tail aid in the stability of the mRNA.
+
+Slide 61:
+RNA-Dependent Synthesis of Nucleic Acids
+Most DNA and RNA is synthesized from a DNA template; however, viruses do not fit with the norm.
+Retroviruses have genomes of ssRNA and the enzyme reverse transcriptase.
+virus enters host cell
+reverse transcriptase makes DNA from the RNA
+It then degrades the RNA from the DNA-RNA hybrid and replaces it with DNA.
+DNA can then be incorporated into host DNA.
+
+Slide 62:
+Retroviral Infection of a Mammalian Cell and Integration into Host Chromosome
+
+Slide 63:
+Retroviruses Typically Contain Three Genes Plus a Long Terminal Repeat
+gag (group associated antigen)
+encodes a long polypeptide that is cleaved into six smaller proteins that make up viral core
+Pol (polypeptide)
+encodes protease that cleaves the long polypeptide, reverse transcriptase, and an integrase to insert DNA into host genome
+env
+encodes viral envelope
+Long terminal repeat (LTR) facilitates integration of virus genome into host DNA
+
+
+Slide 64:
+Structure and Gene Products of an Integrated Retroviral Genome
+
+Slide 65:
+Reverse Transcriptases Catalyze Three Reactions
+RNA-dependent DNA synthesis
+RNA degradation
+DNA-dependent DNA synthesis
+
+ contain Zn2+, like DNA Pol
+ use a primer of tRNA
+ lack 3’ → 5’-proofreading, like RNA Pol
+make reverse transcriptase error-prone
+explains high rate of virus mutation/evolution (1: 20,000 nt) 
+
+
+Slide 66:
+Some Retroviruses Cause Cancer
+Some retroviruses contain an oncogene.
+Example: The Rous sarcoma virus has the src gene.
+Src for sarcoma, a cancer of bone, fat, muscle, etc. (vs. cancer of epithelial cell origin)
+encodes a non-receptor tyrosine kinase, an enzyme that affects cell division
+
+
+Slide 67:
+HIV Retrovirus Causes AIDS
+The HIV genome has genes for killing the host (mostly T lymphocytes).
+results in suppression of immune system
+HIV-encoded reverse transcriptase is unusually error prone.
+complicates push for vaccine
+at least one error per replication, so potentially no two viral RNAs alike
+
+Slide 68:
+Pharmaceutical Targets for HIV (Antiretroviral Drugs) 
+Reverse transcriptase inhibitors
+nucleotide or nucleoside analogs
+drug names ending in “dine” or “sine”:
+zidovudine (AZT), didanosine (Videx), and so on
+Protease inhibitors
+since proteases are used in cleaving proteins for packaging into new viral particles
+drug names ending in “avir”:		
+indinavir, saquinavir, and so on
+
+Slide 69:
+Retrotransposons in Eukaryotes Have Similarities to Retroviruses
+Retrotransposons are mobile genetic elements in eukaryotes.
+encode an enzyme with homology to reverse transcriptase of retroviruses
+move between positions via RNA intermediates
+using their enzyme to make DNA from RNA
+unlike bacterial transposons that move directly from DNA to DNA
+
+
+Slide 70:
+More About Retrotransposons
+Lack the env gene, so don’t form viral particles
+Examples: Ty element in yeast and Copia element in Drosophila
+
+Slide 71:
+Telomeres
+Structures at the ends of linear eukaryotic chromosomes
+Have tandem repeats usually of T1-4G1-4 
+with A-C on the opposing strand 
+Can be tens of thousands of bp long in mammals
+TG strand is longer than its complement, leaves a 3’-overhang of several hundred bases
+
+Slide 72:
+Telomerase Extends the Ends of Chromosomes
+Telomeres are not easily replicated using DNA polymerases.
+Beyond an end, there is no template for an RNA primer.
+Chromosomes are shortened with each generation.
+Telomerase adds telomeric sequences to solve this problem.
+
+Slide 73:
+The Mechanism of Telomerase
+Telomerase has RNA with CyAx repeat to serve as template for synthesis of the TxGy strand of the telomere.
+Telomerase binds to the 3’-end of the chromosome and hangs off so that the RNA template extends beyond it.
+Telomerase extends the 3’-end, using the RNA of the enzyme as the primer.
+The gap on the bottom strand is filled in by DNA polymerases.
+
+Slide 74:
+Telomere Synthesis and Structure
+
+Slide 75:
+Support for the RNA World Hypothesis
+Synthesis of adenine from cyanide is simple; most enzyme cofactors contain adenosine and it is the most abundant nucleotide constituent.
+Catalytic RNAs exist and there might have been a self-replicating RNA.
+Ribozymes can catalyze ester and amide bond formations, SN2 reactions, metalation of porphyrins, and C-C bond formation.
+Peptide bond formation requires RNA molecules.
+Many nonliving entities (RNA viruses, retoviruses, retrotransposons) exist and can parasitize living cells.
+Is there a ribozyme capable of directing its own synthesis?
+
+Slide 76:
+Chapter 26: Summary
+RNA polymerase synthesizes RNA using a strand of DNA as a template and nucleoside triphosphates as substrates
+the primary RNA transcript in eukaryotes requires processing before it becomes messenger RNA
+the processing involves capping the 5’ end with methylguanosine to stabilize the RNA molecule
+the processing involves splicing out introns
+some introns have an amazing ability to carry out their own splicing
+In this chapter, we learned that:

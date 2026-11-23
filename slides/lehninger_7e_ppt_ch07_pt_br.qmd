@@ -1,0 +1,436 @@
+---
+title: "Capítulo"
+# author: Nicholas Costa & Nicholas Barroso
+lang: pt-BR
+date: today
+date-format: "DD/MM/YYYY"
+format:
+  revealjs:
+    pdf-separate-fragments: true
+#    width: 1600
+#    height: 900
+    width: 960
+    height: 720
+#    logo: imgs/logo.png
+    incremental: false
+    theme: tema_azul.scss
+    lightbox: true
+    slide-number: true
+    background-transition: fade
+    menu: true
+    progress: true
+    center: true
+    auto-stretch: true
+---
+# Slide 1:
+
+7 | Carboidratos e Glicobiologia
+© 2017 W. H. Freeman and Company
+
+# Slide 2:
+CAPÍTULO 7 
+Carboidratos e Glicobiologia
+Estruturas e nomes dos monossacarídeos
+Formas de cadeia aberta e cíclica dos monossacarídeos
+Estruturas e propriedades dos dissacarídeos
+Função biológica dos polissacarídeos
+Função biológica dos glicoconjugados
+Objetivos de aprendizagem: 
+
+# Slide 3:
+Carboidratos
+
+Assim chamados porque muitos têm a fórmula Cn(H2O)n
+Produzidos a partir de CO2 e H2O via fotossíntese nas plantas 
+Variam desde tão pequenos quanto o gliceraldeído (MM = 90 g/mol) até tão grandes quanto a amilopectina (MM > 200.000.000 g/mol) 
+Desempenham uma variedade de funções, incluindo:
+fonte de energia e armazenamento de energia
+componente estrutural de paredes celulares e exoesqueletos
+moléculas informacionais na sinalização célula-célula
+Podem ser ligados covalentemente a proteínas e lipídios
+
+# Slide 4:
+Nomenclatura básica: 
+número de átomos de carbono no carboidrato + -ose
+exemplo: três carbonos = triose
+Grupos funcionais comuns: 
+Todos os carboidratos inicialmente possuíam um grupo funcional carbonila.
+aldeídos = aldose
+cetonas = cetose
+
+Carboidratos
+
+# Slide 5:
+Carboidratos Podem Ser Isômeros Constitucionais
+Uma aldose é um carboidrato com funcionalidade aldeído. 
+Uma cetose é um carboidrato com funcionalidade cetona.
+
+# Slide 6:
+Carboidratos Podem Ser Estereoisômeros
+Enantiômeros 
+estereoisômeros que são imagens especulares não sobreponíveis 
+Em açúcares que contêm muitos centros quirais, apenas o mais distante do carbono carbonílico é designado como D (direita) ou L (esquerda).
+Os isômeros D e L de um açúcar são enantiômeros.
+Por exemplo, L- e D-glicose têm a mesma solubilidade em água.
+A maioria das hexoses nos organismos vivos são estereoisômeros D.
+Alguns açúcares simples ocorrem na forma L, como a L-arabinose.
+
+# Slide 7:
+Enantiômeros São Imagens Especulares
+
+# Slide 8:
+Desenhando Monossacarídeos
+Compostos quirais podem ser desenhados usando fórmulas em perspectiva.
+Entretanto, carboidratos quirais são geralmente representados por projeções de Fischer.
+Ligações horizontais apontam em sua direção; ligações verticais projetam-se para longe de você.
+
+
+# Slide 9:
+Carboidratos Podem Ser Estereoisômeros
+Epímeros são estereoisômeros que diferem em apenas um centro quiral.
+Epímeros NÃO são imagens especulares e, portanto, NÃO são enantiômeros.
+Epímeros são diastereoisômeros; diastereoisômeros têm propriedades físicas diferentes (ex.: solubilidade em água, temperatura de fusão).
+exemplo: D-Treose é o epímero C-2 da D-eritrose.
+Ambos são açúcares D porque ambos têm a mesma orientação ao redor do último carbono quiral na cadeia.
+
+# Slide 10:
+Diastereoisômeros
+Diastereoisômeros: estereoisômeros que não são imagens especulares
+Diastereoisômeros têm propriedades físicas diferentes.
+Por exemplo, as solubilidades em água da treose e da eritrose são diferentes.
+
+# Slide 11:
+Epímeros
+D-Manose e D-galactose são ambas epímeros da D-glicose.
+D-Manose e D-galactose variam em mais de um centro quiral e são diastereoisômeros, mas não epímeros.
+
+# Slide 12:
+Carboidratos Comuns em Bioquímica
+Ribose é o açúcar padrão de cinco carbonos.
+Glicose é o açúcar padrão de seis carbonos.
+Galactose é um epímero da glicose.
+Manose é um epímero da glicose.
+Frutose é a forma cetose da glicose.
+
+# Slide 13:
+
+# Slide 14:
+
+# Slide 15:
+
+# Slide 16:
+
+# Slide 17:
+
+# Slide 18:
+Reatividade dos Carboidratos: Hemiacetais e Hemicetais
+Carbonos de aldeído e cetona são eletrofílicos.
+O átomo de oxigênio do álcool é nucleofílico.
+Quando aldeídos são atacados por álcoois, formam-se hemiacetais.
+Quando cetonas são atacadas por álcoois, formam-se hemicetais.
+Essas reações formam a base da ciclização dos açúcares.
+
+# Slide 19:
+Ciclização de Monossacarídeos
+O álcool nucleofílico ataca o carbono carbonílico eletrofílico, permitindo a formação de um hemiacetal.
+Como resultado, o carboidrato linear forma uma estrutura em anel.
+Ao completar essa estrutura, o carbono carbonílico é reduzido a um álcool.
+A orientação do álcool ao redor do carbono é variável e transitória.
+
+# Slide 20:
+Ciclização de Monossacarídeos
+Pentoses e hexoses sofrem prontamente ciclização intramolecular.
+O antigo carbono carbonílico torna-se um novo centro quiral, chamado carbono anomérico.
+Quando o antigo oxigênio carbonílico torna-se um grupo hidroxila, a posição desse grupo determina se o anômero é α ou β.
+Se o grupo hidroxila estiver no lado oposto (trans) do anel em relação à porção CH2OH, a configuração é α. 
+Se o grupo hidroxila estiver no mesmo lado (cis) do anel em relação à porção CH2OH, a configuração é β.
+
+# Slide 21:
+Ciclização de Monossacarídeos: Piranoses e Furanoses
+Anéis de seis membros contendo oxigênio são chamados de piranoses em referência à estrutura do anel pirano.
+Anéis de cinco membros contendo oxigênio são chamados de furanoses em referência à estrutura do anel furano.
+O carbono anomérico é geralmente desenhado no lado direito.
+
+
+
+# Slide 22:
+
+# Slide 23:
+Fórmulas Conformacionais de Monossacarídeos Ciclizados
+Anéis de cicloexano têm conformações em “cadeira” ou “barco”.
+Anéis de piranose favorecem conformações em “cadeira”.
+Múltiplas conformações em “cadeira” são possíveis, mas requerem energia para interconversão (~46 kJ/mol).
+
+
+# Slide 24:
+Derivados Importantes de Hexoses
+
+# Slide 25:
+Açúcares Redutores
+Açúcares redutores têm um carbono anomérico livre.
+O aldeído pode reduzir Cu2+ a Cu+ (teste de Fehling).
+O aldeído pode reduzir Ag+ a Ag0 (teste de Tollens).
+Permite a detecção de açúcares redutores, como a glicose.
+Técnicas modernas de detecção usam testes colorimétricos e eletroquímicos.
+
+# Slide 26:
+Análise Colorimétrica da Glicose
+Métodos enzimáticos são usados para quantificar açúcares redutores como a glicose.
+A enzima glicose oxidase catalisa a conversão de glicose em glicono-δ-lactona e peróxido de hidrogênio.
+O peróxido de hidrogênio oxida moléculas orgânicas em compostos altamente coloridos.
+A concentração de tais compostos é medida colorimétricamente. 
+
+
+A detecção eletroquímica é usada em sensores portáteis de glicose.
+
+# Slide 27:
+A Ligação Glicosídica
+Duas moléculas de açúcar podem ser unidas por meio de uma ligação glicosídica entre um carbono anomérico e um carbono hidroxílico.  
+A ligação glicosídica (um acetal) entre monômeros é mais estável e menos reativa do que o hemiacetal no segundo monômero.
+O segundo monômero, com o hemiacetal, é redutor.
+O carbono anomérico envolvido na ligação glicosídica é não redutor.
+Dissacarídeos podem ser nomeados pela organização e ligação ou por um nome comum.
+O dissacarídeo formado pela condensação de duas moléculas de glicose por meio de uma ligação 1 → 4 é descrito como α-D-glicopiranosil-(1→4)-D-glicopiranose.
+O nome comum para este dissacarídeo é maltose.
+
+# Slide 28:
+
+# Slide 29:
+Dissacarídeos Não Redutores
+Duas moléculas de açúcar também podem ser unidas por meio de uma ligação glicosídica entre dois carbonos anoméricos. 
+O produto tem dois grupos acetal e nenhum hemiacetal.
+Não há extremidades redutoras; este é um açúcar não redutor.
+
+# Slide 30:
+Polissacarídeos
+Carboidratos naturais são geralmente encontrados como polímeros.
+Esses polissacarídeos podem ser:
+homopolissacarídeos (uma unidade monomérica)
+heteropolissacarídeos (múltiplas unidades monoméricas)
+lineares (um tipo de ligação glicosídica)
+ramificados (múltiplos tipos de ligações glicosídicas)
+Polissacarídeos não têm uma massa molecular definida.
+Isso contrasta com as proteínas porque, ao contrário das proteínas, nenhum molde (*template*) é usado para produzir polissacarídeos.
+Os polissacarídeos estão frequentemente em um estado de fluxo; unidades monoméricas são adicionadas e removidas conforme necessário pelo organismo.
+
+# Slide 31:
+
+# Slide 32:
+Homopolímeros de Glicose: Glicogênio
+O glicogênio é um homopolissacarídeo ramificado de glicose.
+Os monômeros de glicose formam cadeias ligadas em (α1 → 4).
+Existem pontos de ramificação com ligações (α1 → 6) a cada 8–12 resíduos.
+A massa molecular atinge vários milhões.
+Funciona como o principal polissacarídeo de reserva em animais.
+
+
+# Slide 33:
+Homopolímeros de Glicose: 
+Amido
+O amido é uma mistura de dois homopolissacarídeos de glicose.
+Amilose é um polímero não ramificado de resíduos ligados em (α1 → 4).
+Amilopectina é ramificada como o glicogênio, mas os pontos de ramificação com ligações (α1 → 6) ocorrem a cada 24–30 resíduos.
+A massa molecular da amilopectina é de até 200 milhões.
+O amido é o principal polissacarídeo de reserva nas plantas.
+
+# Slide 34:
+Ligações Glicosídicas no Glicogênio e no Amido
+
+# Slide 35:
+Mistura de Amilose e Amilopectina no Amido
+
+# Slide 36:
+Metabolismo do Glicogênio e do Amido
+O glicogênio e o amido são insolúveis devido à sua alta massa molecular e frequentemente formam grânulos nas células.
+Os grânulos contêm enzimas que sintetizam e degradam esses polímeros.
+O glicogênio e a amilopectina têm uma extremidade redutora, mas muitas extremidades não redutoras. 
+O processamento enzimático ocorre simultaneamente em muitas extremidades não redutoras. 
+
+# Slide 37:
+Homopolímeros de Glicose: Celulose
+A celulose é um homopolissacarídeo linear de glicose.
+Os monômeros de glicose formam cadeias ligadas em (β1 → 4).
+Ligações de hidrogênio formam-se entre monômeros adjacentes.
+Existem ligações de H adicionais entre as cadeias.
+A estrutura torna-se resistente e insolúvel em água.
+É o polissacarídeo mais abundante na natureza.
+O algodão é celulose fibrosa quase pura.
+
+
+# Slide 38:
+Ligações de Hidrogênio na Celulose
+
+# Slide 39:
+Metabolismo da Celulose
+A estrutura fibrosa e a insolubilidade em água tornam a celulose um substrato difícil de ser atacado.
+A maioria dos animais não consegue usar a celulose como fonte de combustível porque carece da enzima para hidrolisar ligações (β1 → 4).
+Fungos, bactérias e protozoários secretam celulase, o que lhes permite usar a madeira como fonte de glicose.
+Ruminantes e cupins vivem em simbiose com microrganismos que produzem celulase e conseguem absorver a glicose liberada em suas correntes sanguíneas.
+As celulases são promissoras na fermentação de biomassa em biocombustíveis.
+
+
+# Slide 40:
+Quitina É um Homopolissacarídeo
+A quitina é um homopolissacarídeo linear de N-acetilglicosamina.
+Os monômeros de N-acetilglicosamina formam cadeias ligadas em (β1 → 4).
+forma fibras estendidas semelhantes às da celulose
+dura, insolúvel, não pode ser digerida por vertebrados
+a estrutura é resistente, mas flexível e insolúvel em água
+encontrada nas paredes celulares de cogumelos e nos exoesqueletos de insetos, aranhas, caranguejos e outros artrópodes
+
+
+# Slide 41:
+
+# Slide 42:
+Ágar e Agarose
+O ágar é um heteropolissacarídeo ramificado composto de agarose e agaropectina.
+O ágar serve como componente da parede celular em algumas algas marinhas.
+Soluções de ágar formam géis comumente usados em laboratório como superfície para o cultivo de bactérias.
+Soluções de agarose formam géis comumente usados em laboratório para separação de DNA por eletroforese.
+
+# Slide 43:
+Agarose É um Heteropolissacarídeo
+
+# Slide 44:
+Glicosaminoglicanos
+Polímeros lineares de unidades dissacarídicas repetitivas
+Um monômero é: 
+N-acetilglicosamina ou
+N-acetilgalactosamina
+Carregados negativamente
+ácidos urônicos (oxidação em C6)
+ésteres de sulfato
+Molécula hidratada estendida
+minimiza a repulsão de cargas
+Forma uma rede com proteínas fibrosas para formar a matriz extracelular
+tecido conjuntivo
+lubrificação das articulações
+
+# Slide 45:
+
+# Slide 46:
+
+# Slide 47:
+
+# Slide 48:
+Heparina e Heparan Sulfato 
+A heparina é um polímero linear, 3–40 kDa.
+O heparan sulfato é um polissacarídeo semelhante à heparina, mas ligado a proteínas.
+Biomoléculas com a maior densidade de carga negativa
+Impedem a coagulação sanguínea ativando o inibidor de protease antitrombina
+A ligação a várias células regula o desenvolvimento e a formação de vasos sanguíneos.
+Também podem ligar-se a vírus e bactérias e diminuir sua virulência
+
+# Slide 49:
+
+# Slide 50:
+TABELA 7-2	Estruturas e Papéis de Alguns Polissacarídeos	
+Polímero	Tipoa	Unidade repetitivab	Tamanho (número de unidades de monossacarídeos)	Papéis/significado	
+Amido				Armazenamento de energia: em plantas	
+Amilose
+Amilopectina	Homo-
+Homo-	(α1→4) Glc, linear 
+(α1→4) Glc, com ramificações (α1→6) Glc a cada 24–30 resíduos	50–5.000
+Até 106		
+Glicogênio	Homo-	(α1→4) Glc, com ramificações (α1→6) Glc a cada 8–12 resíduos	Até 50.000	Armazenamento de energia: em bactérias e células animais	
+Celulose	Homo-	(β1→4) Glc	Até 15.000	Estrutural: em plantas, confere rigidez e resistência às paredes celulares	
+Quitina	Homo-	(β1→4) GlcNAc	Muito grande	Estrutural: em insetos, aranhas, crustáceos, confere rigidez e resistência aos exoesqueletos	
+Dextrana	Homo-	(α1→6) Glc, com ramificações (α1→3)	Ampla faixa	Estrutural: em bactérias, adesivo extracelular	
+Peptidoglicano	Hetero-; peptídeos ligados	4)Mur2Ac(β1→4) GlcNAc(β1	Muito grande	Estrutural: em bactérias, confere rigidez e resistência ao envoltório celular	
+Agarose	Hetero-	3)D-Gal (β1→4)3,6-anidro-L-Gal(α1	1.000	Estrutural: em algas, material de parede celular	
+Hialuronano (um glicosaminoglicano)	Hetero-; ácido	4)GlcA (β1→3) GlcNAc(β1	Até 100.000	Estrutural: em vertebrados, matriz extracelular da pele e tecido conjuntivo; viscosidade e lubrificação nas articulações	
+aCada polímero é classificado como homopolissacarídeo (homo-) ou heteropolissacarídeo (hetero-).
+bOs nomes abreviados para as unidades repetitivas de peptidoglicano, agarose e hialuronano indicam que o polímero contém repetições dessa unidade dissacarídica. Por exemplo, no peptidoglicano, a GlcNAc de uma unidade dissacarídica está ligada em (β1→4) ao primeiro resíduo da próxima unidade dissacarídica.	
+
+# Slide 51:
+Glicoconjugados: Glicoproteína
+Uma proteína com pequenos oligossacarídeos ligados
+O carboidrato é ligado por meio de seu carbono anomérico a aminoácidos na proteína.
+Conexões comuns ocorrem em Ser, Thr e Asn.
+Cerca de metade das proteínas de mamíferos são glicoproteínas.
+Apenas algumas bactérias glicosilam algumas de suas proteínas.
+Os carboidratos desempenham papel no reconhecimento proteína-proteína.
+Proteínas virais são fortemente glicosiladas; isso ajuda a evadir o sistema imune.
+
+# Slide 52:
+
+# Slide 53:
+Glicoconjugados: Glicolipídios
+Lipídios com oligossacarídeo ligado covalentemente
+Fazem parte das membranas celulares vegetais e animais.
+Nos vertebrados, a composição de carboidratos dos gangliosídeos determina os grupos sanguíneos.
+Em bactérias Gram-negativas, lipopolissacarídeos cobrem a camada de peptidoglicano.
+
+# Slide 54:
+
+# Slide 55:
+Glicoconjugados: Proteoglicanos
+Glicosaminoglicanos sulfatados ligados a uma grande proteína em forma de bastão na membrana celular
+sindecanos: a proteína tem um único domínio transmembrana
+glipicanos: a proteína é ancorada a uma membrana lipídica
+interagem com uma variedade de receptores de células vizinhas e regulam o crescimento celular
+
+
+# Slide 56:
+
+# Slide 57:
+
+# Slide 58:
+Proteoglicanos
+Diferentes glicosaminoglicanos estão ligados à proteína central (*core protein*).
+Ligação do carbono anomérico da xilose à hidroxila da serina
+Nossos tecidos têm muitas proteínas centrais diferentes; o agrecano é o mais bem estudado.
+
+# Slide 59:
+
+# Slide 60:
+Agregados de Proteoglicanos
+Hialuronano e agrecano formam enormes agregados não covalentes (MM > 2 • 108).
+Eles retêm muita água (1000× seu peso) e fornecem lubrificação.
+Material de baixíssimo atrito
+Cobre superfícies articulares: cartilagem articular
+atrito reduzido
+distribuição de carga
+
+# Slide 61:
+
+# Slide 62:
+Matriz Extracelular (MEC)
+Material fora da célula
+Resistência, elasticidade e barreira física nos tecidos
+Componentes principais
+agregados de proteoglicanos
+fibras de colágeno
+elastina (uma proteína fibrosa)
+A MEC é uma barreira para células tumorais que buscam invadir novos tecidos.
+Algumas células tumorais secretam heparinase que degrada a MEC.
+
+# Slide 63:
+Interação das Células com a MEC
+Algumas proteínas integrais de membrana são proteoglicanos.
+sindecanos
+Outras proteínas integrais de membrana são receptores para proteoglicanos extracelulares.
+integrinas 
+Essas proteínas ligam o citoesqueleto celular à MEC e transmitem sinais para dentro da célula para regular:
+crescimento celular
+mobilidade celular
+apoptose
+cicatrização de feridas
+
+# Slide 64:
+
+# Slide 65:
+Oligossacarídeos no Reconhecimento 
+
+# Slide 66:
+Glicoconjugados: Análise
+
+# Slide 67:
+Capítulo 7: Resumo
+estruturas de alguns monossacarídeos importantes
+estruturas e propriedades de dissacarídeos
+estruturas e papéis biológicos de polissacarídeos   
+funções dos glicosaminoglicanos como componentes estruturais da matriz extracelular
+funções dos glicoconjugados na regulação de uma variedade de funções biológicas
+
+Neste capítulo, aprendemos sobre:

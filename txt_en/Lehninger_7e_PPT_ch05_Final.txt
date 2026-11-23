@@ -1,0 +1,468 @@
+Slide 1:
+
+5| Protein Function
+© 2017 W. H. Freeman and Company
+
+Slide 2:
+Learning goals:
+
+Methods of binding ligands and proteins
+Quantitative and graphical modeling of protein-ligand interactions
+Interaction of globins with oxygen and non-oxygen ligands
+Physiological regulation of oxygen binding
+Mechanism and control of antibody-antigen interaction
+Mechanism of muscle contraction 
+Regulation of muscle contraction
+
+
+ 
+CHAPTER 5: 
+Protein Function
+
+Slide 3:
+Function of Globular Proteins
+Reversible binding of ligands is essential.
+specificity of ligands and binding sites
+Ligand binding is often coupled to conformational changes, sometimes quite dramatically (induced fit).
+In multisubunit proteins, conformational changes in one subunit can affect the others (cooperativity).
+Interactions can be regulated.
+Illustrated by: 
+hemoglobin, antibodies, and muscle proteins
+Key topics in protein function: 
+
+Slide 4:
+
+Functions of Globular Proteins
+Storage of ions and molecules 
+myoglobin, ferritin 
+Transport of ions and molecules 
+hemoglobin, serotonin transporter
+Defense against pathogens 
+antibodies, cytokines 
+Muscle contraction 
+actin, myosin 
+Biological catalysis 
+chymotrypsin, lysozyme
+
+Slide 5:
+Interaction with Other Molecules
+Reversible, transient process of chemical equilibrium: 
+A + B ↔AB
+A molecule that binds to a protein is called a ligand.
+typically a small molecule
+A region in the protein where the ligand binds is called the binding site.
+Ligand binds via same noncovalent interactions that dictate protein structure (see Chapter 4).
+allows the interactions to be transient
+
+
+Slide 6:
+Binding: Quantitative Description
+Consider a process in which a ligand (L) binds reversibly to a site in a protein (P). 
+
+
+
+
+
+
+This interaction can be described quantitatively by the association rate constant ka or the dissociation rate constant kd.
+After some time, the process will reach the equilibrium where the association and dissociation rates are equal.
+
+The equilibrium composition is characterized 
+by the equilibrium associationconstant Ka 
+or the equilibrium dissociation constant, Kd.
+
+
+
++ 
+
+
+
+ka
+kd
+PL
+P
+L
+
+
+Slide 7:
+Binding: 
+Analysis in Terms of the Bound Fraction
+In practice, we can often determine the fraction of occupied binding sites (θ).
+
+
+Substituting [PL] with Ka[L][P], we’ll eliminate [PL].
+Eliminating [P] and rearranging gives the result in terms of equilibrium association constant.
+In terms of the more commonly used equilibrium dissociation constant:
+
+
+
+
+
+
+
+Slide 8:
+Binding: Graphical Analysis
+The fraction of bound sites depends on 
+the free ligand concentration and Kd.
+Experimentally:
+ligand concentration is known
+Kd can be determined graphically or via least-squares regression
+
+[L] ≈ [L]total
+
+Slide 9:
+Example: Oxygen Binding to Myoglobin
+When a ligand is a gas, binding is expressed in terms of partial pressures.
+
+Slide 10:
+Binding: Thermodynamic Connections
+Interaction strength can be expressed as:
+association (binding) constant Ka, units M−1
+dissociation constant Kd, units M, Kd = 1/Ka
+interaction (binding) free energy ΔGo, units: kJ/mol
+Definitions
+ΔGo = ΔHo −TΔSo: enthalpy and entropy
+Ka = [PL]/[P][L]		Kd = [P][L]/[PL]
+Relationships
+ ΔGo = −RT ln Ka  = RT ln Kd	(RT at 25oC is 2.48 kJ/mol.)
+Magnitudes
+strong binding: Kd < 10 nM 
+weak binding: Kd > 10 μM  
+
+Slide 11:
+Examples of Binding Strength
+
+Slide 12:
+Specificity: Lock-and-Key Model
+Proteins typically have high specificity: only certain ligands bind.
+High specificity can be explained by the complementary of the binding site and the ligand.
+Complementary in:
+size
+shape
+charge
+hydrophobic/hydrophilic character
+The “lock and key” model by Emil Fisher (1894) assumes that complementary surfaces are preformed.
+
+
+
+
++
+
+Slide 13:
+Specificity: Induced Fit
+Conformational changes may occur upon ligand binding (Daniel Koshland in 1958).
+This adaptation is called the induced fit.
+Induced fit allows for tighter binding of the ligand.
+Induced fit allows for high affinity for different ligands.
+Both the ligand and the protein can change their conformations.
+
+
++
+
+
+
+Slide 14:
+Case Study I: Globins Are Oxygen-Binding Proteins
+Biological problems: 
+Protein side chains lack affinity for O2.
+Some transition metals bind O2 well but would generate free radicals if free in solution.
+Organometallic compounds such as heme are more suitable, but Fe2+ in free heme could be oxidized to Fe3+ (very reactive!).
+
+Biological solution:
+Capture the oxygen molecule with heme that is protein bound.
+
+Myoglobin (storage) and hemoglobin (transport) can bind oxygen via a protein-bound heme.
+
+
+Slide 15:
+Structures of Porphyrin and Heme
+
+Slide 16:
+Structure of Myoglobin
+
+Slide 17:
+Binding of Carbon Monoxide
+CO has similar size and shape to O2; it can fit to the same binding site.
+CO binds heme over 20,000 times better than O2 because the carbon in CO has a filled lone electron pair that can be donated to vacant d-orbitals on the Fe2+.
+The protein pocket decreases affinity for CO, but it still binds about 250 times better than oxygen.
+CO is highly toxic, as it competes with oxygen. It blocks the function of myoglobin, hemoglobin, and mitochondrial cytochromes that are involved in oxidative phosphorylation.
+
+
+Slide 18:
+CO vs. O2 Binding to Free Heme
+
+Slide 19:
+Heme Binding to Protein Affects 
+CO vs. O2 Binding 
+
+Slide 20:
+Spectroscopic Detection of 
+Oxygen Binding to Globins
+The heme group is a strong chromophore that absorbs both in ultraviolet and visible range.
+Ferrous form (Fe2+ ) without oxygen has an intense Soret band at 429 nm.
+Oxygen binding alters the electronic properties of the heme and shifts the position of the Soret band to 414 nm.
+Binding of oxygen can be monitored by UV-Vis spectrophotometry.
+Deoxyhemoglobin (in venous blood) appears purplish in color and oxyhemoglobin (in arterial blood) is red.
+
+Slide 21:
+pO2 in lungs is about 13 kPa: it sure binds oxygen well.
+pO2 in tissues is about 4 kPa: it will not release it!
+
+
+
+
+
+
+
+
+Would lowering the affinity (P50) of myoglobin to oxygen help?
+Could Myoglobin Transport O2?
+
+Slide 22:
+For Effective Transport 
+Affinity Must Vary with pO2
+
+Slide 23:
+How Can Affinity to Oxygen Change?
+It must be a protein with multiple binding sites.
+Binding sites must be able to interact with each other.
+This phenomenon is called cooperativity.
+positive cooperativity 
+first binding event increases affinity at remaining sites
+recognized by sigmoidal binding curves
+negative cooperativity 
+first binding event reduces affinity at remaining sites
+
+
+Slide 24:
+Cooperativity
+
+Slide 25:
+Cooperativity: Quantitative Description
+ 
+
+Slide 26:
+The Hill Plot of Cooperativity 
+
+Slide 27:
+Two Models of Cooperativity:
+Concerted vs. Sequential
+
+Slide 28:
+Cooperativity Is a 
+Special Case of Allosteric Regulation
+Allosteric protein
+Binding of a ligand to one site affects the binding properties of a different site on the same protein.
+can be positive or negative
+homotropic 
+The normal ligand of the protein is the allosteric regulator.
+heterotropic
+A different ligand affects binding of the normal ligand.
+Cooperativity = positive homotropic regulation
+
+Slide 29:
+Hemoglobin Binds Oxygen Cooperatively
+Hemoglobin (Hb) is a tetramer of two subunits (α2β2).
+Each subunit is similar to myoglobin.
+
+Slide 30:
+Subunit Interactions in Hemoglobin
+
+Slide 31:
+Subunit Interactions: Details
+
+Slide 32:
+Subunit Interactions: Details
+
+Slide 33:
+Sequence Similarity Between 
+Hemoglobin and Myoglobin
+
+Slide 34:
+R and T States of Hemoglobin 
+T = tense state 
+more interactions, more stable 
+lower affinity for O2
+R = relaxed state 
+fewer Interactions, more flexible
+higher affinity for O2 
+O2 binding triggers a T → R conformational change.
+Conformational change from the T state to the R state involves breaking ion pairs between the α1-β2 interface.   
+
+
+Slide 35:
+R and T States of Hemoglobin 
+
+Slide 36:
+Conformational Change Is Triggered by Oxygen Binding
+
+Slide 37:
+pH Effect on O2 Binding to Hemoglobin
+Does acidity increase or decrease the Kd? 
+
+Slide 38:
+pH Effect on O2 Binding to Hemoglobin
+Actively metabolizing tissues generate H+, lowering the pH of the blood near the tissues relative to the lungs (catalyzed by carbonic anhydrase).
+CO2 + H2O ↔ HCO3− + H+
+Hb Affinity for oxygen depends on the pH.
+H+ binds to Hb and stabilizes the T state.
+protonates His146, which then forms a salt bridge with Asp94
+leads to the release of O2 (in the tissues)
+The pH difference between lungs and metabolic tissues increases efficiency of the O2 transport.
+ This is known as the Bohr effect.
+
+Slide 39:
+Hemoglobin and CO2 Export
+CO2 is produced by metabolism in tissues and must be exported.
+15–20% of CO2 is exported in the form of a carbamate on the amino terminal residues of each of the polypeptide subunits.  
+
+
+
+
+Notice:
+The formation of a carbamate yields a proton that can contribute to the Bohr effect.
+The carbamate forms additional salt bridges, stabilizing the T state.
+
+
+Slide 40:
+2,3-Bisphosphoglycerate Regulates O2 Binding 
+Negative heterotropic regulator of Hb function
+Present at mM concentrations in erythrocytes
+produced from an intermediate in glycolysis
+Small negatively charged molecule, 
+binds to the positively charged 
+central cavity of Hb
+Stabilizes the T states
+
+Slide 41:
+2,3-BPG Binds to the Central Cavity of hB 
+
+Slide 42:
+2,3-BPG Allows for O2 Release in the Tissues 
+and Adaptation to Changes in Altitude
+
+Slide 43:
+Sickle-Cell Anemia Is Due to 
+a Mutation in Hemoglobin
+Glu6 → Val in the β chain of Hb
+The new Valine side chain can bind to a different Hb molecule to form a strand similar to the amyloidgenic proteins discussed in Chapter 4.
+This sickles the red blood cells.
+Untreated homozygous individuals generally die in childhood.
+Heterozygous individuals exhibit a resistance to malaria.
+
+Slide 44:
+Formation of Hb Strands 
+in Sickle-Cell Anemia
+
+Slide 45:
+Case Study 2: Antibody/Antigen Interaction
+Two Types of Immune Systems
+ Cellular immune system
+targets own cells that have been infected
+also clears up virus particles and infecting bacteria
+key players: macrophages, killer T cells (Tc), and inflammatory T cells (TH1)
+ Humoral “fluid” immune system
+targets extracellular pathogens
+can also recognize foreign proteins
+makes soluble antibodies    
+keeps “memory” of past infections
+key players: B-lymphocytes and helper T-cells (TH2)
+
+Slide 46:
+Cellular Immune System
+Antibodies bind to fragments displayed on the surface of invading cells.
+Phagocytes: specialized cells that eat invaders
+Macrophages: large phagocytes that ingest bacteria that are tagged by antibodies
+
+Slide 47:
+Humoral Immune System
+Vertebrates also fight infections with soluble antibodies that specifically bind antigens.
+Antigens are substances that stimulate production of antibodies.
+typically macromolecular in nature
+recognized as foreign by the immune system
+coat proteins of bacteria and viruses
+surface carbohydrates of cells or viruses
+Antibodies are proteins that are produced by B cells and that specifically bind to antigens.
+Binding will mark the antigen for destruction or interfere with its function.
+A given antibody will bind to a small region (epitope) of the antigen.
+One antigen can have several epitopes.
+
+Slide 48:
+Antibodies: Immunoglobulin G
+Two heavy chains and two light chains
+composed of constant domains and variable domains
+
+Light chains: one constant and one variable domain
+Heavy chains: three constant and one variable domain
+
+Variable domains of each chain make up the antigen-binding site (two per antibody) and are hypervariable, which confers antigen specificity.
+
+
+Slide 49:
+Antibodies: Immunoglobulin G
+
+Slide 50:
+Antigens Bind via Induced Fit
+Antigen binding causes significant structural changes to the antibody.
+
+
+
+Slide 51:
+Antibody Specificity Is an 
+Important Analytical Reagent
+
+Slide 52:
+Antibody Detection Can Be 
+Colormetric or Luminescent
+
+Slide 53:
+Case Study 3: Muscle Proteins
+Muscle Structure
+Muscle fiber: large, single, elongated, multinuclear cell
+Each fiber contains about 1,000 myofibrils.
+
+Slide 54:
+Myofibrils Contain 
+Thick Filaments of Myosin
+
+Slide 55:
+Myofibrils Contain 
+Thin Filaments of Actin
+
+Slide 56:
+Myosin Thick Filaments Slide Along 
+Actin Thin Filaments
+
+Slide 57:
+Myosin Thick Filaments Slide Along 
+Actin Thin Filaments
+
+Slide 58:
+Protein Interactions 
+Modulated by Chemical Energy
+Use of chemical energy (ATP) can cause conformational changes in proteins, generally required for their function.
+
+Especially in motor proteins
+control movement of cells and organelles within cells
+Muscle contraction occurs through a series of conformational changes to protein structure due to binding, hydrolysis, and release of ATP and ADP.
+
+Slide 59:
+Actomyosin Cycle
+
+Slide 60:
+Regulation of Muscle Contraction
+Availability of myosin-binding sites on actin is regulated by troponin and tropomyosin.
+avoids continuous muscle contraction
+Nerve impulse triggers release of Ca2+.
+causes conformational changes to tropomyosin-troponin complex, exposing myosin-binding sites	
+
+Slide 61:
+Chapter 5: Summary
+how ligand binding can affect protein function
+how to quantitatively analyze binding data
+how myoglobin stores oxygen
+how hemoglobin transports O2, protons, and CO2   
+how antibodies recognize foreign structures
+how muscle works
+
+In this chapter, we learned:
