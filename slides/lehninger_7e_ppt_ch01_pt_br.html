@@ -6,10 +6,13 @@
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="../site_libs/quarto-html/light-border.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-63b5708e65d6cd79cd7618c58d0c21e7.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-63b5708e65d6cd79cd7618c58d0c21e7.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="../site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="../site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet"><meta charset="utf-8">
   <meta name="generator" content="quarto-1.11.9">
 
-  <title>Bioquímica e Biologia Molecular – Capítulo 1</title>
+  <title>Bioquímica e Biologia Molecular – Os Fundamentos da Bioquímica</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -132,16 +135,21 @@
     <div class="slides">
 
 <section id="title-slide" class="quarto-title-block center">
-  <h1 class="title">Capítulo 1</h1>
+  <h1 class="title">Os Fundamentos da Bioquímica</h1>
 
 <div class="quarto-title-authors">
 </div>
 
-  <p class="date">23/11/2026</p>
+  <p class="date">24/11/2026</p>
 </section>
-<section id="slide-1" class="title-slide slide level1 center">
-<h1>Slide 1:</h1>
-<p>1 | Os Fundamentos da Bioquímica © 2017 W. H. Freeman and Company</p>
+<section id="section" class="title-slide slide level1 center">
+<h1>1</h1>
+<div class="columns">
+<div class="column">
+<p>Os Fundamentos da Bioquímica © 2017 W. H. Freeman and Company</p>
+</div><div class="column">
+<p><a href="../imgs/cap01.image1.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img data-src="../imgs/cap01.image1.png"></a></p>
+</div></div>
 </section>
 
 <section id="slide-2" class="title-slide slide level1 center">
@@ -152,7 +160,7 @@
 
 <section id="slide-3" class="title-slide slide level1 center">
 <h1>Slide 3:</h1>
-
+<p><a href="../imgs/cap01.image5.png" class="lightbox" data-gallery="quarto-lightbox-gallery-2"><img data-src="../imgs/cap01.image5.png"></a></p>
 </section>
 
 <section id="slide-4" class="title-slide slide level1 center">
@@ -165,19 +173,19 @@
 <p>A Bioquímica É a Química da Matéria Viva A matéria viva é caracterizada por: um alto grau de complexidade e organização a extração, transformação e uso sistemático de energia para criar e manter estruturas e realizar trabalho as interações de componentes individuais serem dinâmicas e coordenadas a capacidade de perceber e responder às mudanças no ambiente uma capacidade de autorreplicação bastante precisa, permitindo mudanças suficientes para a evolução</p>
 </section>
 
-<section id="slide-6" class="title-slide slide level1 center">
-<h1>Slide 6:</h1>
-<p>Complexidade e Organização</p>
+<section id="complexidade-e-organização" class="title-slide slide level1 center">
+<h1>Complexidade e Organização</h1>
+<p><a href="../imgs/cap01.image18.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-3"><img data-src="../imgs/cap01.image18.jpg"></a></p>
 </section>
 
-<section id="slide-7" class="title-slide slide level1 center">
-<h1>Slide 7:</h1>
-<p>Os Organismos Vivos Devem Ingerir e Transformar Nutrientes em Energia</p>
+<section id="os-organismos-vivos-devem-ingerir-e-transformar-nutrientes-em-energia" class="title-slide slide level1 center">
+<h1>Os Organismos Vivos Devem Ingerir e Transformar Nutrientes em Energia</h1>
+<p><a href="../imgs/cap01.image35.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-4"><img data-src="../imgs/cap01.image35.jpg"></a></p>
 </section>
 
-<section id="slide-8" class="title-slide slide level1 center">
-<h1>Slide 8:</h1>
-<p>Os Organismos Vivos Devem Reproduzir-se com Precisão</p>
+<section id="os-organismos-vivos-devem-reproduzir-se-com-precisão" class="title-slide slide level1 center">
+<h1>Os Organismos Vivos Devem Reproduzir-se com Precisão</h1>
+<p><a href="../imgs/cap01.image2.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-5"><img data-src="../imgs/cap01.image2.jpg"></a></p>
 </section>
 
 <section id="slide-9" class="title-slide slide level1 center">
@@ -915,6 +923,38 @@ Uma Série de Reações Relacionadas Catalisadas Enzimaticamente Forma uma Via</
         }
       });
       </script>
+    <script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","descPosition":"bottom","loop":false,"openEffect":"zoom","selector":".lightbox"});
+    (function() {
+      let previousOnload = window.onload;
+      window.onload = () => {
+        if (previousOnload) {
+          previousOnload();
+        }
+        lightboxQuarto.on('slide_before_load', (data) => {
+          const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+          const href = trigger.getAttribute('href');
+          if (href !== null) {
+            const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+            if (imgEl !== null) {
+              const srcAttr = imgEl.getAttribute("src");
+              if (srcAttr && srcAttr.startsWith("data:")) {
+                slideConfig.href = srcAttr;
+              }
+            }
+          } 
+        });
+      
+        lightboxQuarto.on('slide_after_load', (data) => {
+          const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(slideNode);
+          }
+        });
+      
+      };
+      
+    })();
+              </script>
     
 
 </body></html>
