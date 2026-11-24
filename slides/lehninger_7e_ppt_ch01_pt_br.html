@@ -129,6 +129,19 @@
       margin-right: 0; 
     }
   </style>
+  <style>
+    /* Classes auxiliares usadas neste arquivo (podem ir para o tema_azul.scss) */
+    .azul { color: #0000cd; }
+    .subtitulo { color: #000; font-size: .7em; font-weight: normal; }
+    .legenda-fig { font-size: .55em; }
+    /* Recorte de imagem (equivale ao "crop" do PowerPoint) */
+    .recorte { position: relative; overflow: hidden; }
+    .recorte img { position: absolute; max-width: none; max-height: none; margin: 0; }
+    /* Diagrama de Venn do slide 18 */
+    .venn-elipse { border-radius: 50%; border: 1px solid #555; }
+    .venn-lista { font-size: .55em; line-height: 1.2; }
+    .venn-lista p { margin: 0 0 .9em 0; }
+  </style>
 </head>
 <body class="quarto-light">
   <div class="reveal">
@@ -142,348 +155,745 @@
 
   <p class="date">24/11/2026</p>
 </section>
-<section id="section" class="title-slide slide level1 center">
-<h1>1</h1>
-<div class="columns">
-<div class="column">
-<p>Os Fundamentos da Bioquímica © 2017 W. H. Freeman and Company</p>
-</div><div class="column">
-<p><a href="../imgs/cap01.image1.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img data-src="../imgs/cap01.image1.png"></a></p>
-</div></div>
-</section>
+<section class="slide level2 center">
 
+<!-- Slide 1: título à esquerda, capa do livro à direita -->
+<div class="columns" style="align-items: center;">
+<div class="column" style="width:45%;">
+<div style="text-align: center;">
+<p><strong>1 | Os Fundamentos da Bioquímica</strong></p>
+<p><span style="font-size: .5em;">© 2017 W. H. Freeman and Company</span></p>
+</div>
+</div><div class="column" style="width:55%;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><a href="../imgs/cap01.image1.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img data-src="../imgs/cap01.image1.png" class="quarto-figure quarto-figure-center" width="430"></a></p>
+</figure>
+</div>
+</div></div>
+<!-- Slide 2 -->
+</section>
+<section>
 <section id="albert-lehninger-19171986" class="title-slide slide level1 center">
 <h1>Albert Lehninger (1917–1986)</h1>
 <ul>
-<li><p>O ciclo do ácido cítrico ocorre nas mitocôndrias</p></li>
-<li><p>Mecanismo da fosforilação oxidativa</p></li>
-<li><p>Estrutura e função mitocondrial</p></li>
-<li><p>Bioenergética</p></li>
-<li><p>Autor de livros didáticos clássicos:</p>
+<li>O ciclo do ácido cítrico ocorre nas mitocôndrias</li>
+<li>Mecanismo da fosforilação oxidativa</li>
+<li>Estrutura e função mitocondrial</li>
+<li>Bioenergética</li>
+<li>Autor de livros didáticos clássicos:
 <ul>
-<li>Bioquímica (1970–1983)</li>
-<li>A Mitocôndria (1964)</li>
-<li>Bioenergética (1965–1974)</li>
+<li><em>Bioquímica</em> (1970–1983)</li>
+<li><em>A Mitocôndria</em> (1964)</li>
+<li><em>Bioenergética</em> (1965–1974)</li>
 </ul></li>
 </ul>
+<!-- Slide 3: foto (recortada) + crédito, sem título -->
+</section>
+<section class="slide level2 center">
+
+<div class="absolute" style="top: 11px; left: 240px; width: 448px; ">
+<div class="recorte" style="aspect-ratio: 0.699;">
+<p><img src="../imgs/cap01.image5.png" style="width: 100%; left: 0%; top: 0%;"></p>
+</div>
+</div>
+<p><a href="../imgs/cap01.image11.png" class="lightbox" data-gallery="quarto-lightbox-gallery-2"><img data-src="../imgs/cap01.image11.png" class="absolute" style="top: 648px; left: 243px; width: 205px; "></a></p>
+<!-- Slide 4 -->
+</section></section>
+<section id="capítulo-1-os-fundamentos-da-bioquímica" class="title-slide slide level1 center">
+<h1>CAPÍTULO 1 <br>Os Fundamentos da Bioquímica</h1>
+<p><em>Objetivos de aprendizagem:</em></p>
+<ul>
+<li>Características distintivas dos organismos vivos</li>
+<li>Estrutura e função das partes da célula</li>
+<li>Papéis das pequenas e grandes biomoléculas</li>
+<li>Transformação de energia nos organismos vivos</li>
+<li>Regulação do metabolismo e catálise</li>
+<li>Codificação da informação genética no DNA</li>
+<li>Papel das mutações e da seleção na evolução</li>
+</ul>
+<!-- Slide 5 -->
 </section>
 
-<section id="slide-3" class="title-slide slide level1 center">
-<h1>Slide 3:</h1>
-<p><a href="../imgs/cap01.image5.png" class="lightbox" data-gallery="quarto-lightbox-gallery-2"><img data-src="../imgs/cap01.image5.png"></a></p>
-</section>
-
-<section id="slide-4" class="title-slide slide level1 center">
-<h1>Slide 4:</h1>
-<p>CAPÍTULO 1 Os Fundamentos da Bioquímica Objetivos de aprendizagem: Características distintivas dos organismos vivos Estrutura e função das partes da célula Papéis das pequenas e grandes biomoléculas Transformação de energia nos organismos vivos Regulação do metabolismo e catálise Codificação da informação genética no DNA Papel das mutações e da seleção na evolução</p>
-</section>
-
-<section id="slide-5" class="title-slide slide level1 center">
-<h1>Slide 5:</h1>
-<p>A Bioquímica É a Química da Matéria Viva A matéria viva é caracterizada por: um alto grau de complexidade e organização a extração, transformação e uso sistemático de energia para criar e manter estruturas e realizar trabalho as interações de componentes individuais serem dinâmicas e coordenadas a capacidade de perceber e responder às mudanças no ambiente uma capacidade de autorreplicação bastante precisa, permitindo mudanças suficientes para a evolução</p>
+<section id="a-bioquímica-é-a-química-da-matéria-viva" class="title-slide slide level1 smaller center">
+<h1>A Bioquímica É <br>a Química da Matéria Viva</h1>
+<p><strong>A matéria viva é caracterizada por:</strong></p>
+<ul>
+<li>um alto grau de complexidade e organização</li>
+<li>a extração, transformação e uso sistemático de energia para criar e manter estruturas e realizar trabalho</li>
+<li>as interações de componentes individuais serem dinâmicas e coordenadas</li>
+<li>a capacidade de perceber e responder às mudanças no ambiente</li>
+<li>uma capacidade de autorreplicação bastante precisa, permitindo mudanças suficientes para a evolução</li>
+</ul>
+<!-- Slide 6 -->
 </section>
 
 <section id="complexidade-e-organização" class="title-slide slide level1 center">
 <h1>Complexidade e Organização</h1>
-<p><a href="../imgs/cap01.image18.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-3"><img data-src="../imgs/cap01.image18.jpg"></a></p>
-</section>
+
+<!-- Slide 7 -->
+<img data-src="../imgs/cap01.image18.jpg" class="r-stretch quarto-figure quarto-figure-center"></section>
 
 <section id="os-organismos-vivos-devem-ingerir-e-transformar-nutrientes-em-energia" class="title-slide slide level1 center">
 <h1>Os Organismos Vivos Devem Ingerir e Transformar Nutrientes em Energia</h1>
-<p><a href="../imgs/cap01.image35.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-4"><img data-src="../imgs/cap01.image35.jpg"></a></p>
-</section>
+
+<!-- Slide 8 -->
+<img data-src="../imgs/cap01.image35.jpg" class="r-stretch quarto-figure quarto-figure-center"></section>
 
 <section id="os-organismos-vivos-devem-reproduzir-se-com-precisão" class="title-slide slide level1 center">
-<h1>Os Organismos Vivos Devem Reproduzir-se com Precisão</h1>
-<p><a href="../imgs/cap01.image2.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-5"><img data-src="../imgs/cap01.image2.jpg"></a></p>
+<h1>Os Organismos Vivos Devem <br>Reproduzir-se com Precisão</h1>
+
+<!-- Slide 9 -->
+<img data-src="../imgs/cap01.image2.jpg" class="r-stretch quarto-figure quarto-figure-center"></section>
+
+<section id="três-domínios-distintos-da-vida-definidos-por-diferenças-celulares-e-moleculares-que-evoluíram-ao-longo-do-tempo" class="title-slide slide level1 center">
+<h1>Três Domínios Distintos da Vida Definidos por Diferenças Celulares e Moleculares que Evoluíram ao Longo do Tempo</h1>
+
+<!-- Slide 10: tabela de duas colunas com setas -->
+<img data-src="../imgs/cap01.image3.jpg" class="r-stretch quarto-figure quarto-figure-center"></section>
+
+<section id="seis-reinos-da-vida-definidos-por-diferenças-orgânicas-celulares-e-moleculares" class="title-slide slide level1 smaller center">
+<h1>Seis Reinos da Vida Definidos por<br>Diferenças Orgânicas, Celulares e Moleculares</h1>
+<table class="caption-top">
+<colgroup>
+<col style="width: 28%">
+<col style="width: 8%">
+<col style="width: 64%">
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Seis reinos</th>
+<th style="text-align: center;"></th>
+<th style="text-align: left;">Organização celular</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"><span class="azul">Archaea</span></td>
+<td style="text-align: center;">→</td>
+<td style="text-align: left;">Procarioto unicelular</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><span class="azul">Bacteria</span></td>
+<td style="text-align: center;">→</td>
+<td style="text-align: left;">Procarioto unicelular</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><span class="azul">Protista</span></td>
+<td style="text-align: center;">→</td>
+<td style="text-align: left;">Eucarioto unicelular</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><span class="azul">Fungi</span></td>
+<td style="text-align: center;">→</td>
+<td style="text-align: left;">Eucarioto uni ou multicelular</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><span class="azul">Plantae</span></td>
+<td style="text-align: center;">→</td>
+<td style="text-align: left;">Eucarioto multicelular</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><span class="azul">Animalia</span></td>
+<td style="text-align: center;">→</td>
+<td style="text-align: left;">Eucarioto multicelular</td>
+</tr>
+</tbody>
+</table>
+<!-- Slide 11 -->
 </section>
 
-<section id="slide-9" class="title-slide slide level1 center">
-<h1>Slide 9:</h1>
-<p>Três Domínios Distintos da Vida Definidos por Diferenças Celulares e Moleculares que Evoluíram ao Longo do Tempo</p>
+<section id="célula-o-bloco-construtor-universal" class="title-slide slide level1 center">
+<h1>Célula: O Bloco Construtor Universal</h1>
+<ul>
+<li>Os organismos vivos são feitos de células.</li>
+<li>Os organismos vivos mais simples são unicelulares (uma única célula).</li>
+<li>Organismos maiores são multicelulares (muitas células), com diferentes funções para diferentes células.</li>
+<li>As células têm algumas características comuns, mas podem conter componentes exclusivos para diferentes organismos.</li>
+</ul>
+<!-- Slide 12 -->
 </section>
 
-<section id="slide-10" class="title-slide slide level1 center">
-<h1>Slide 10:</h1>
-<p>Seis Reinos da Vida Definidos por Diferenças Orgânicas, Celulares e Moleculares Seis reinos Archaea Bacteria Protista Fungi Plantae Animalia Organização celular Procarioto unicelular Procarioto unicelular Eucarioto unicelular Eucarioto uni ou multicelular Eucarioto multicelular Eucarioto multicelular</p>
+<section id="todas-as-células-compartilham-algumas-características-comuns" class="title-slide slide level1 center">
+<h1>Todas as Células Compartilham Algumas Características Comuns</h1>
+
+<!-- Slide 13 -->
+<img data-src="../imgs/cap01.image9.jpg" class="r-stretch quarto-figure quarto-figure-center"></section>
+
+<section id="estrutura-da-célula-bacteriana" class="title-slide slide level1 center">
+<h1>Estrutura da Célula Bacteriana</h1>
+
+<!-- Slide 14: tabela -->
+<img data-src="../imgs/cap01.image25.jpg" class="r-stretch quarto-figure quarto-figure-center"></section>
+
+<section id="componentes-da-célula-bacteriana" class="title-slide slide level1 smaller center">
+<h1>Componentes da Célula Bacteriana</h1>
+<table class="caption-top">
+<colgroup>
+<col style="width: 28%">
+<col style="width: 38%">
+<col style="width: 34%">
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Estrutura</th>
+<th style="text-align: left;">Composição</th>
+<th style="text-align: left;">Função</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Parede celular</td>
+<td style="text-align: left;">Carboidrato + proteína</td>
+<td style="text-align: left;">Suporte mecânico</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Membrana celular</td>
+<td style="text-align: left;">Lipídio + proteína</td>
+<td style="text-align: left;">Barreira de permeabilidade</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Nucleoide</td>
+<td style="text-align: left;">DNA + proteína</td>
+<td style="text-align: left;">Informação genética</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Ribossomos</td>
+<td style="text-align: left;">RNA + proteína</td>
+<td style="text-align: left;">Síntese proteica</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Pili</td>
+<td style="text-align: left;">Proteína</td>
+<td style="text-align: left;">Adesão, conjugação</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Flagelos</td>
+<td style="text-align: left;">Proteína</td>
+<td style="text-align: left;">Motilidade</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Citoplasma</td>
+<td style="text-align: left;">Solução aquosa</td>
+<td style="text-align: left;">Local do metabolismo</td>
+</tr>
+</tbody>
+</table>
+<!-- Slide 15 -->
 </section>
 
-<section id="slide-11" class="title-slide slide level1 center">
-<h1>Slide 11:</h1>
-<p>Célula: O Bloco Construtor Universal Os organismos vivos são feitos de células. Os organismos vivos mais simples são unicelulares (uma única célula). Organismos maiores são multicelulares (muitas células), com diferentes funções para diferentes células. As células têm algumas características comuns, mas podem conter componentes exclusivos para diferentes organismos.</p>
+<section id="células-eucarióticas-maior-complexidade" class="title-slide slide level1 smaller center">
+<h1>Células Eucarióticas: Maior Complexidade</h1>
+<ul>
+<li>Possuem núcleo delimitado por membrana por definição:
+<ul>
+<li>proteção para o DNA; local do metabolismo do DNA</li>
+<li>importação e exportação seletivas através dos poros da membrana nuclear</li>
+</ul></li>
+<li>Possuem organelas envolvidas por membrana:
+<ul>
+<li>mitocôndrias para energia em animais, plantas e fungos</li>
+<li>cloroplastos para energia em plantas</li>
+<li>lisossomos para digestão de moléculas desnecessárias</li>
+</ul></li>
+<li>A segregação compartimental de reações produtoras e consumidoras de energia ajuda as células a manter a homeostase e a permanecerem longe do equilíbrio.</li>
+</ul>
+<!-- Slide 16 -->
 </section>
 
-<section id="slide-12" class="title-slide slide level1 center">
-<h1>Slide 12:</h1>
-<p>Todas as Células Compartilham Algumas Características Comuns</p>
-</section>
+<section id="células-animais-e-vegetais-contêm-componentes-exclusivos" class="title-slide slide level1 center">
+<h1>Células Animais e Vegetais<br>Contêm Componentes Exclusivos</h1>
 
-<section id="slide-13" class="title-slide slide level1 center">
-<h1>Slide 13:</h1>
-<p>Estrutura da Célula Bacteriana</p>
-</section>
+<!-- Slide 17 -->
+<img data-src="../imgs/cap01.image27.jpg" class="r-stretch quarto-figure quarto-figure-center"></section>
 
-<section id="slide-14" class="title-slide slide level1 center">
-<h1>Slide 14:</h1>
-<pre><code>Estrutura       Composição  Função
+<section id="células-animais-e-vegetais-contêm-componentes-exclusivos-1" class="title-slide slide level1 center">
+<h1>Células Animais e Vegetais<br>Contêm Componentes Exclusivos</h1>
 
-Parede celular      Carboidrato + proteína  Suporte mecânico
-Membrana celular    Lipídio + proteína      Barreira de permeabilidade
-Nucleoide       DNA + proteína      Informação genética
-Ribossomos      RNA + proteína      Síntese proteica
-Pili            Proteína            Adesão, conjugação
-Flagelos        Proteína            Motilidade  
-Citoplasma      Solução aquosa      Local do metabolismo    </code></pre>
-<p>Componentes da Célula Bacteriana</p>
-</section>
+<!-- Slide 18: diagrama de Venn (Vegetal | Ambos | Animal) -->
+<img data-src="../imgs/cap01.image8.jpg" class="r-stretch quarto-figure quarto-figure-center"></section>
 
-<section id="slide-15" class="title-slide slide level1 center">
-<h1>Slide 15:</h1>
-<p>Células Eucarióticas: Maior Complexidade Possuem núcleo delimitado por membrana por definição: proteção para o DNA; local do metabolismo do DNA importação e exportação seletivas através dos poros da membrana nuclear Possuem organelas envolvidas por membrana: mitocôndrias para energia em animais, plantas e fungos cloroplastos para energia em plantas lisossomos para digestão de moléculas desnecessárias A segregação compartimental de reações produtoras e consumidoras de energia ajuda as células a manter a homeostase e a permanecerem longe do equilíbrio.</p>
-</section>
+<section id="células-animais-e-vegetais-contêm-componentes-idênticos-e-exclusivos" class="title-slide slide level1 center">
+<h1>Células Animais e Vegetais<br>Contêm Componentes Idênticos e Exclusivos</h1>
+<div class="venn-elipse absolute" style="left: 48px; top: 223px; width: 576px; height: 432px; background: rgba(120, 200, 215, .25);">
 
-<section id="slide-16" class="title-slide slide level1 center">
-<h1>Slide 16:</h1>
-<p>Células Animais e Vegetais Contêm Componentes Exclusivos</p>
-</section>
+</div>
+<div class="venn-elipse absolute" style="left: 307px; top: 223px; width: 576px; height: 432px; background: rgba(255, 70, 70, .65);">
 
-<section id="slide-17" class="title-slide slide level1 center">
-<h1>Slide 17:</h1>
-<p>Células Animais e Vegetais Contêm Componentes Exclusivos</p>
-</section>
-
-<section id="slide-18" class="title-slide slide level1 center">
-<h1>Slide 18:</h1>
-<p>Células Animais e Vegetais Contêm Componentes Idênticos e Exclusivos</p>
-<p>Membrana Núcleo e Nucléolo Mitocôndrias RE Rugoso e Liso Ribossomos Complexo de Golgi Citoesqueleto</p>
-<p>Lisossomo</p>
-<p>Peroxissomos</p>
+</div>
+<div class="absolute" style="left: 269px; top: 187px; width: 490px; display: flex; justify-content: space-between; font-size: .5em; font-weight: bold;">
+<span>Vegetal</span><span>Ambos</span><span>Animal</span>
+</div>
+<div class="venn-lista absolute" style="top: 302px; left: 115px; width: 182px; ">
 <p>Cloroplasto</p>
 <p>Vacúolo</p>
 <p>Glioxissomo</p>
 <p>Plasmodesmo</p>
 <p>Parede celular</p>
-<p>Vegetal Ambos Animal</p>
+</div>
+<div class="venn-lista absolute" style="text-align: center; color: #fff; font-weight: bold;top: 302px; left: 326px; width: 288px; ">
+<p>Membrana</p>
+<p>Núcleo e Nucléolo</p>
+<p>Mitocôndrias</p>
+<p>RE Rugoso e Liso</p>
+<p>Ribossomos</p>
+<p>Complexo de Golgi</p>
+<p>Citoesqueleto</p>
+</div>
+<div class="venn-lista absolute" style="top: 353px; left: 710px; width: 173px; ">
+<p>Lisossomo</p>
+<p>Peroxissomos</p>
+</div>
+<!-- Slide 19 -->
 </section>
 
-<section id="slide-19" class="title-slide slide level1 center">
-<h1>Slide 19:</h1>
-<p>Citoplasma e Citoesqueleto O citoplasma é uma solução altamente viscosa onde ocorrem muitas reações. O citoesqueleto consiste em microtúbulos, filamentos de actina e filamentos intermediários. forma e divisão celular organização intracelular vias de transporte intracelular mobilidade celular</p>
+<section id="citoplasma-e-citoesqueleto" class="title-slide slide level1 center">
+<h1>Citoplasma e Citoesqueleto</h1>
+<ul>
+<li>O citoplasma é uma solução altamente viscosa onde ocorrem muitas reações.</li>
+<li>O citoesqueleto consiste em microtúbulos, filamentos de actina e filamentos intermediários.
+<ul>
+<li>forma e divisão celular</li>
+<li>organização intracelular</li>
+<li>vias de transporte intracelular</li>
+<li>mobilidade celular</li>
+</ul></li>
+</ul>
+<!-- Slide 20: figura com rótulos e linhas-guia sobrepostos -->
 </section>
 
-<section id="slide-20" class="title-slide slide level1 center">
-<h1>Slide 20:</h1>
-<p>O Citosol É Muito Denso (Superlotado) Peptídeo traduzido</p>
+<section id="o-citosol-é-muito-denso-superlotado" class="title-slide slide level1 center">
+<h1>O Citosol É Muito Denso (Superlotado)</h1>
+<p><a href="../imgs/cap01.image22.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-11"><img data-src="../imgs/cap01.image22.jpg" class="absolute" style="top: 151px; left: 106px; width: 749px; "></a></p>
+<div class="absolute" style="pointer-events: none;top: 0px; left: 0px; width: 960px; height: 720px; ">
+<svg viewbox="0 0 960 720" width="960" height="720" xmlns="http://www.w3.org/2000/svg">
+<g stroke="#000" stroke-width="1.5" fill="none"> <line x1="295" y1="330" x2="119" y2="398"></line> <line x1="415" y1="354" x2="121" y2="395"></line> <line x1="544" y1="528" x2="825" y2="609"></line> </g> <circle cx="540" cy="524" r="4" fill="#000"></circle>
+</svg>
+</div>
+<div class="absolute" style="font-size: .5em; font-weight: bold;top: 402px; left: 17px; width: 201px; ">
 <p>Proteínas enoveladas</p>
+</div>
+<div class="absolute" style="font-size: .5em; font-weight: bold;top: 601px; left: 704px; width: 230px; ">
+<p>Peptídeo traduzido</p>
+</div>
+<!-- Slide 21 -->
 </section>
 
-<section id="slide-21" class="title-slide slide level1 center">
-<h1>Slide 21:</h1>
-<p>O Citoesqueleto Mantém a Organização Celular</p>
+<section id="o-citoesqueleto-mantém-a-organização-celular" class="title-slide slide level1 center">
+<h1>O Citoesqueleto Mantém <br>a Organização Celular</h1>
+
+<!-- Slide 22 -->
+<img data-src="../imgs/cap01.image7.jpg" class="r-stretch quarto-figure quarto-figure-center"></section>
+
+<section id="a-organização-celular-é-dinâmica-mudando-drasticamente-em-diferentes-estágios" class="title-slide slide level1 center">
+<h1>A Organização Celular É Dinâmica, <br>Mudando Drasticamente em Diferentes Estágios</h1>
+
+<!-- Slide 23 -->
+<img data-src="../imgs/cap01.image15.jpg" class="r-stretch quarto-figure quarto-figure-center"></section>
+
+<section id="a-bioquímica-é-a-química-da-matéria-viva-1" class="title-slide slide level1 smaller center">
+<h1>A Bioquímica É <br>a Química da Matéria Viva</h1>
+<ul>
+<li>A base de toda a vida são as reações químicas que ocorrem dentro da célula.</li>
+</ul>
+<p><strong>A química permite:</strong></p>
+<ul>
+<li>um alto grau de complexidade e organização</li>
+<li>a extração, transformação e uso sistemático de energia para criar e manter estruturas e realizar trabalho</li>
+<li>que as interações dos componentes individuais sejam dinâmicas e coordenadas</li>
+<li>a capacidade de perceber e responder às mudanças no ambiente</li>
+<li>uma capacidade de autorreplicação bastante precisa, permitindo mudanças suficientes para a evolução</li>
+</ul>
+<!-- Slide 24 -->
 </section>
 
-<section id="slide-22" class="title-slide slide level1 center">
-<h1>Slide 22:</h1>
-<p>A Organização Celular É Dinâmica, Mudando Drasticamente em Diferentes Estágios</p>
+<section id="os-organismos-também-podem-ser-classificados-por-diferentes-fontes-de-energia-e-carbono" class="title-slide slide level1 center">
+<h1>Os Organismos Também Podem Ser Classificados por Diferentes Fontes de Energia e Carbono</h1>
+
+<!-- Slide 25: lista à esquerda, figura à direita -->
+<img data-src="../imgs/cap01.image28.jpg" class="r-stretch quarto-figure quarto-figure-center"></section>
+
+<section id="sistemas-vivos-extraem-energia" class="title-slide slide level1 center">
+<h1>Sistemas Vivos Extraem Energia</h1>
+<div class="columns">
+<div class="column" style="width:62%;">
+<ul>
+<li>Da luz solar
+<ul>
+<li>plantas</li>
+<li>bactérias verdes</li>
+<li>cianobactérias</li>
+</ul></li>
+<li>De combustíveis
+<ul>
+<li>animais</li>
+<li>maioria das bactérias</li>
+</ul></li>
+</ul>
+<p><br></p>
+<ul>
+<li>O aporte de energia é necessário para manter a vida.</li>
+</ul>
+</div><div class="column" style="width:38%;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><a href="../imgs/cap01.image12.png" class="lightbox" data-gallery="quarto-lightbox-gallery-15"><img data-src="../imgs/cap01.image12.png" class="quarto-figure quarto-figure-center" width="290"></a></p>
+</figure>
+</div>
+</div></div>
+<!-- Slide 26 -->
 </section>
 
-<section id="slide-23" class="title-slide slide level1 center">
-<h1>Slide 23:</h1>
-<p>A Bioquímica É a Química da Matéria Viva A base de toda a vida são as reações químicas que ocorrem dentro da célula.</p>
-<p>A química permite: um alto grau de complexidade e organização a extração, transformação e uso sistemático de energia para criar e manter estruturas e realizar trabalho que as interações dos componentes individuais sejam dinâmicas e coordenadas a capacidade de perceber e responder às mudanças no ambiente uma capacidade de autorreplicação bastante precisa, permitindo mudanças suficientes para a evolução</p>
+<section id="a-lógica-molecular-da-vida" class="title-slide slide level1 center">
+<h1>A Lógica Molecular da Vida</h1>
+<p>Observamos a química que está por trás de:</p>
+<ul>
+<li>iniciação e aceleração de reações</li>
+<li>organização e especificidade do metabolismo e sinalização</li>
+<li>armazenamento e transferência de informação e energia</li>
+</ul>
+<!-- Slide 27 -->
 </section>
 
-<section id="slide-24" class="title-slide slide level1 center">
-<h1>Slide 24:</h1>
-<p>Os Organismos Também Podem Ser Classificados por Diferentes Fontes de Energia e Carbono</p>
+<section id="a-hierarquia-molecular-da-estrutura" class="title-slide slide level1 center">
+<h1>A Hierarquia Molecular da Estrutura</h1>
+
+<!-- Slide 28 -->
+<img data-src="../imgs/cap01.image17.jpg" class="r-stretch quarto-figure quarto-figure-center"></section>
+
+<section id="bioquímica-papel-único-do-carbono" class="title-slide slide level1 center">
+<h1>Bioquímica: Papel Único do Carbono</h1>
+
+<!-- Slide 29: texto no topo, tabela periódica embaixo -->
+<img data-src="../imgs/cap01.image6.jpg" class="r-stretch quarto-figure quarto-figure-center"></section>
+
+<section id="elementos-essenciais-para-a-vida" class="title-slide slide level1 smaller center">
+<h1>30 Elementos Essenciais para a Vida</h1>
+<ul>
+<li>Além do carbono, os elementos H, O, N, P e S também são comuns.</li>
+<li>Íons metálicos (ex.: K+, Na+, Ca++, Mg++, Zn++, Fe++) desempenham papéis importantes no metabolismo.</li>
+</ul>
+
+<!-- Slide 30 -->
+<img data-src="../imgs/cap01.image4.jpg" class="r-stretch quarto-figure quarto-figure-center"></section>
+
+<section id="grupos-funcionais-comuns-de-moléculas-biológicas" class="title-slide slide level1 center">
+<h1>Grupos Funcionais Comuns de Moléculas Biológicas</h1>
+
+<!-- Slide 31 -->
+<img data-src="../imgs/cap01.image10.jpg" class="r-stretch quarto-figure quarto-figure-center"></section>
+
+<section id="moléculas-biológicas-tipicamente-possuem-vários-grupos-funcionais" class="title-slide slide level1 center">
+<h1>Moléculas Biológicas Tipicamente Possuem Vários Grupos Funcionais</h1>
+
+<!-- Slide 32 -->
+<img data-src="../imgs/cap01.image13.jpg" class="r-stretch quarto-figure quarto-figure-center"></section>
+
+<section id="o-abc-da-vida" class="title-slide slide level1 center">
+<h1>O ABC da Vida</h1>
+
+<!-- Slide 33 -->
+<img data-src="../imgs/cap01.image30.jpg" class="r-stretch quarto-figure quarto-figure-center"></section>
+
+<section id="a-função-das-moléculas-depende-fortemente-da-estrutura-tridimensional" class="title-slide slide level1 smaller center">
+<h1>A Função das Moléculas Depende Fortemente da Estrutura Tridimensional</h1>
+<ul>
+<li>Estereoisômeros
+<ul>
+<li>têm propriedades físicas diferentes</li>
+</ul></li>
+<li>Isômeros geométricos (cis vs.&nbsp;trans)
+<ul>
+<li>têm propriedades físicas e químicas diferentes</li>
+</ul></li>
+<li>Enantiômeros (imagens especulares)
+<ul>
+<li>têm propriedades físicas idênticas (exceto em relação à luz polarizada) e reagem de forma idêntica com reagentes aquirais</li>
+</ul></li>
+<li>Diastereoisômeros
+<ul>
+<li>têm propriedades físicas e químicas diferentes</li>
+</ul></li>
+</ul>
+<!-- Slide 34 -->
 </section>
 
-<section id="slide-25" class="title-slide slide level1 center">
-<h1>Slide 25:</h1>
-<p>Sistemas Vivos Extraem Energia Da luz solar plantas bactérias verdes cianobactérias De combustíveis animais maioria das bactérias O aporte de energia é necessário para manter a vida.</p>
+<section id="cis-vs.-trans" class="title-slide slide level1 center">
+<h1>Cis vs.&nbsp;Trans</h1>
+
+<!-- Slide 35 -->
+<img data-src="../imgs/cap01.image20.jpg" class="r-stretch quarto-figure quarto-figure-center"></section>
+
+<section id="cis-vs.-trans-1" class="title-slide slide level1 center">
+<h1>Cis vs.&nbsp;Trans</h1>
+
+<!-- Slide 36: rótulo + recorte do colchete (image32) + figura (image33) -->
+<img data-src="../imgs/cap01.image26.jpg" class="r-stretch quarto-figure quarto-figure-center"></section>
+
+<section id="enantiômeros-e-diastereoisômeros" class="title-slide slide level1 center">
+<h1>Enantiômeros e Diastereoisômeros</h1>
+<div class="absolute" style="font-size: .5em; font-weight: bold;top: 173px; left: 336px; width: 317px; ">
+<p>Diastereoisômeros (imagens não especulares)</p>
+</div>
+<div class="absolute" style="top: 196px; left: 332px; width: 272px; ">
+<div class="recorte" style="aspect-ratio: 8.775;">
+<p><img src="../imgs/cap01.image32.jpg" style="width: 322.58%; left: -190.32%; top: -83.33%;"></p>
+</div>
+</div>
+<p><a href="../imgs/cap01.image33.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-24"><img data-src="../imgs/cap01.image33.jpg" class="absolute" style="top: 229px; left: 32px; width: 896px; "></a></p>
+<!-- Slide 37 -->
 </section>
 
-<section id="slide-26" class="title-slide slide level1 center">
-<h1>Slide 26:</h1>
-<p>A Lógica Molecular da Vida Observamos a química que está por trás de:</p>
-<p>iniciação e aceleração de reações organização e especificidade do metabolismo e sinalização armazenamento e transferência de informação e energia</p>
+<section id="enantiômeros-e-diastereoisômeros-1" class="title-slide slide level1 center">
+<h1>Enantiômeros e Diastereoisômeros</h1>
+
+<!-- Slide 38 -->
+<img data-src="../imgs/cap01.image16.jpg" class="r-stretch quarto-figure quarto-figure-center"></section>
+
+<section id="as-interações-entre-biomoléculas-são-específicas" class="title-slide slide level1 center">
+<h1>As Interações Entre <br>Biomoléculas São Específicas</h1>
+<ul>
+<li>Macromoléculas enovelam-se em estruturas 3D com bolsões de ligação exclusivos.</li>
+<li>Apenas certas moléculas se encaixam bem e podem se ligar.</li>
+<li>A ligação de biomoléculas quirais é estereoespecífica.</li>
+</ul>
+<!-- Slide 39 -->
 </section>
 
-<section id="slide-27" class="title-slide slide level1 center">
-<h1>Slide 27:</h1>
-<p>A Hierarquia Molecular da Estrutura</p>
+<section id="as-interações-entre-biomoléculas-são-específicas-1" class="title-slide slide level1 center">
+<h1>As Interações Entre <br>Biomoléculas São Específicas</h1>
+
+<!-- Slide 40 -->
+<img data-src="../imgs/cap01.image31.jpg" class="r-stretch quarto-figure quarto-figure-center"></section>
+
+<section id="os-organismos-realizam-transduções-de-energia-para-realizar-trabalho-e-permanecer-vivos" class="title-slide slide level1 smaller center">
+<h1>Os Organismos Realizam Transduções de Energia para Realizar Trabalho e Permanecer Vivos</h1>
+<ul>
+<li>Os organismos vivos existem em um estado estacionário dinâmico e nunca estão em equilíbrio com o ambiente.</li>
+<li>O acoplamento energético permite que os organismos vivos transformem matéria em energia.</li>
+<li>Catalisadores biológicos reduzem a necessidade energética para as reações enquanto oferecem especificidade.</li>
+<li>À medida que a entropia do universo aumenta, criar e manter a ordem requer trabalho e energia.</li>
+</ul>
+<!-- Slide 41 -->
 </section>
 
-<section id="slide-28" class="title-slide slide level1 center">
-<h1>Slide 28:</h1>
-<p>Bioquímica: Papel Único do Carbono</p>
+<section id="os-organismos-realizam-transduções-de-energia-para-realizar-trabalho-e-permanecer-vivos-1" class="title-slide slide level1 center">
+<h1>Os Organismos Realizam Transduções de Energia para Realizar Trabalho e Permanecer Vivos</h1>
+
+<!-- Slide 42 -->
+<img data-src="../imgs/cap01.image23.jpg" class="r-stretch quarto-figure quarto-figure-center"></section>
+
+<section id="como-acelerar-reações" class="title-slide slide level1 center">
+<h1>Como Acelerar Reações</h1>
+<p><strong>Temperaturas mais altas</strong></p>
+<ul>
+<li>a estabilidade das macromoléculas é limitante</li>
+</ul>
+<p><strong>Maior concentração de reagentes</strong></p>
+<ul>
+<li>custoso, pois é necessário mais material de partida valioso</li>
+</ul>
+<p><strong>Alterar a reação acoplando-a a uma rápida</strong></p>
+<ul>
+<li>usado universalmente pelos organismos vivos</li>
+</ul>
+<p><strong>Diminuir a barreira de ativação por catálise</strong></p>
+<ul>
+<li>usado universalmente pelos organismos vivos</li>
+</ul>
+<!-- Slide 43: equações (estavam no pptx, não no texto extraído) -->
 </section>
 
-<section id="slide-29" class="title-slide slide level1 center">
-<h1>Slide 29:</h1>
-<p>30 Elementos Essenciais para a Vida Além do carbono, os elementos H, O, N, P e S também são comuns. Íons metálicos (ex.: K+, Na+, Ca++, Mg++, Zn++, Fe++) desempenham papéis importantes no metabolismo.</p>
+<section id="o-equilíbrio-e-o-δg-medem-a-espontaneidade-de-uma-reação" class="title-slide slide level1 center">
+<h1>O Equilíbrio e o ΔG° Medem a Espontaneidade de uma Reação</h1>
+<p>Para a equação: <span class="math inline">\(\quad aA + bB \leftrightarrow cC + dD\)</span></p>
+<p><span class="math display">\[K_{eq} = \frac{[C]_{eq}^{c}\,[D]_{eq}^{d}}{[A]_{eq}^{a}\,[B]_{eq}^{b}}\]</span></p>
+<p>E</p>
+<p><span class="math display">\[\Delta G^{\circ} = -RT\,\ln K_{eq}\]</span></p>
+<!-- Slide 44 -->
 </section>
 
-<section id="slide-30" class="title-slide slide level1 center">
-<h1>Slide 30:</h1>
-<p>Grupos Funcionais Comuns de Moléculas Biológicas</p>
+<section id="reações-desfavoráveis-e-favoráveis" class="title-slide slide level1 smaller center">
+<h1>Reações Desfavoráveis e Favoráveis</h1>
+<ul>
+<li>A síntese de moléculas complexas e muitas outras reações metabólicas requerem energia (endergônicas).
+<ul>
+<li>Uma reação pode ser termodinamicamente desfavorável (ΔG° &gt; 0).
+<ul>
+<li>Criar ordem requer trabalho e energia.</li>
+</ul></li>
+<li>Uma reação metabólica pode ter uma barreira energética muito alta (ΔG‡ &gt; 0).
+<ul>
+<li>O metabólito é cineticamente estável.</li>
+</ul></li>
+</ul></li>
+<li>A quebra de alguns metabólitos libera uma quantidade significativa de energia (exergônica).
+<ul>
+<li>Tais metabólitos (ATP, NADH, NADPH) podem ser sintetizados usando a energia da luz solar e de combustíveis.</li>
+<li>Sua concentração celular é muito maior do que sua concentração de equilíbrio.</li>
+</ul></li>
+</ul>
+<!-- Slide 45: texto + figura recortada (ATP) + crédito recortado -->
 </section>
 
-<section id="slide-31" class="title-slide slide level1 center">
-<h1>Slide 31:</h1>
-<p>Moléculas Biológicas Tipicamente Possuem Vários Grupos Funcionais</p>
+<section>
+<section id="acoplamento-energético" class="title-slide slide level1 smaller center">
+<h1>Acoplamento Energético</h1>
+<ul>
+<li>O acoplamento químico de reações exergônicas e endergônicas permite reações que, de outra forma, seriam desfavoráveis.</li>
+<li>A molécula de “alta energia” (ATP) reage diretamente com o metabólito que precisa de “ativação”.</li>
+</ul>
+<div class="absolute" style="top: 352px; left: 191px; width: 624px; ">
+<div class="recorte" style="aspect-ratio: 2.013;">
+<p><img src="../imgs/cap01.image19.jpg" style="width: 131.58%; left: 0%; top: 0%;"></p>
+</div>
+</div>
+<div class="absolute" style="top: 664px; left: 183px; width: 267px; ">
+<div class="recorte" style="aspect-ratio: 5.62;">
+<p><img src="../imgs/cap01.image19.jpg" style="width: 303.03%; left: 0%; top: -1328.57%;"></p>
+</div>
+</div>
+<!-- Slide 46: figura em tela cheia, sem título -->
+</section>
+<section class="slide level2 center">
+
+
+<!-- Slide 47 -->
+<img data-src="../imgs/cap01.image24.jpg" class="r-stretch quarto-figure quarto-figure-center"></section></section>
+<section id="catálise" class="title-slide slide level1 center">
+<h1>Catálise</h1>
+<ul>
+<li>Um catalisador é um composto que aumenta a velocidade de uma reação química.</li>
+<li>Catalisadores diminuem a energia livre de ativação ΔG‡.</li>
+<li>Catalisadores não alteram o ΔG°.</li>
+<li>A catálise enzimática oferece:
+<ul>
+<li>aceleração sob condições brandas</li>
+<li>alta especificidade</li>
+<li>possibilidade de regulação</li>
+</ul></li>
+</ul>
+<!-- Slide 48 -->
 </section>
 
-<section id="slide-32" class="title-slide slide level1 center">
-<h1>Slide 32:</h1>
-<p>O ABC da Vida</p>
+<section id="enzimas-diminuem-a-energia-de-ativação-para-aumentar-a-velocidade-da-reação" class="title-slide slide level1 center">
+<h1>Enzimas Diminuem a Energia de Ativação para Aumentar a Velocidade da Reação</h1>
+
+<!-- Slide 49: figura no topo, texto embaixo -->
+<img data-src="../imgs/cap01.image29.jpg" class="r-stretch quarto-figure quarto-figure-center"></section>
+
+<section id="uma-série-de-reações-relacionadas-catalisadas-enzimaticamente-forma-uma-via" class="title-slide slide level1 center">
+<h1>Uma Série de Reações Relacionadas Catalisadas Enzimaticamente Forma uma Via</h1>
+
+<img data-src="../imgs/cap01.image21.jpg" class="r-stretch quarto-figure quarto-figure-center"><div style="font-size: .7em;">
+<p>Via metabólica</p>
+<ul>
+<li>produz energia ou materiais valiosos</li>
+</ul>
+<p>Via de transdução de sinal</p>
+<ul>
+<li>transmite informação</li>
+</ul>
+</div>
+<!-- Slide 50: figura no meio, texto embaixo -->
 </section>
 
-<section id="slide-33" class="title-slide slide level1 center">
-<h1>Slide 33:</h1>
-<p>Estereoisômeros têm propriedades físicas diferentes Isômeros geométricos (cis vs.&nbsp;trans) têm propriedades físicas e químicas diferentes Enantiômeros (imagens especulares) têm propriedades físicas idênticas (exceto em relação à luz polarizada) e reagem de forma idêntica com reagentes aquirais Diastereoisômeros têm propriedades físicas e químicas diferentes A Função das Moléculas Depende Fortemente da Estrutura Tridimensional</p>
+<section id="as-vias-são-controladas-para-regular-os-níveis-de-metabólitos" class="title-slide slide level1 center">
+<h1>As Vias São Controladas para <br>Regular os Níveis de Metabólitos</h1>
+
+<img data-src="../imgs/cap01.image34.jpg" class="r-stretch quarto-figure quarto-figure-center"><div style="font-size: .6em;">
+<p>Exemplo de regulação negativa:</p>
+<div style="margin-left: 2em;">
+<p>O produto da <span class="azul">enzima 5</span> inibe a <span class="azul">enzima 1</span> para evitar excesso de produtos desnecessários.</p>
+</div>
+</div>
+<!-- Slide 51 -->
 </section>
 
-<section id="slide-34" class="title-slide slide level1 center">
-<h1>Slide 34:</h1>
-<p>Cis vs.&nbsp;Trans</p>
+<section>
+<section id="fundamentos-genéticos-e-evolutivos" class="title-slide slide level1 center">
+<h1>Fundamentos Genéticos e Evolutivos</h1>
+<ul>
+<li>A vida na Terra surgiu há 3,5–3,8 bilhões de anos.</li>
+<li>A formação de moléculas autorreplicantes foi um passo fundamental.</li>
+<li>Poderia ter sido o DNA?</li>
+<li>Poderiam ter sido as proteínas?</li>
+</ul>
+<!-- Slide 52: figura em tela cheia, sem título -->
+</section>
+<section class="slide level2 center">
+
+
+<!-- Slide 53: texto + figura recortada (tRNA e pareamentos) + crédito recortado -->
+<img data-src="../imgs/cap01.image37.jpg" class="r-stretch quarto-figure quarto-figure-center"></section></section>
+<section>
+<section id="mundo-do-rna" class="title-slide slide level1 center">
+<h1>Mundo do RNA?</h1>
+<ul>
+<li>O RNA pode atuar tanto como portador de informação quanto como biocatalisador.</li>
+<li>Alguns vírus usam o RNA como meio primário de informação genética.</li>
+</ul>
+<div class="absolute" style="top: 338px; left: 79px; width: 832px; ">
+<div class="recorte" style="aspect-ratio: 2.508;">
+<p><img src="../imgs/cap01.image42.jpg" style="width: 111.11%; left: -8.89%; top: -6.25%;"></p>
+</div>
+</div>
+<div class="absolute" style="top: 655px; left: 96px; width: 270px; ">
+<div class="recorte" style="aspect-ratio: 5.606;">
+<p><img src="../imgs/cap01.image42.jpg" style="width: 227.27%; left: 0%; top: -1328.57%;"></p>
+</div>
+</div>
+<!-- Slide 54: figura em tela cheia, sem título -->
+</section>
+<section class="slide level2 center">
+
+
+<!-- Slide 55 -->
+<img data-src="../imgs/cap01.image39.jpg" class="r-stretch quarto-figure quarto-figure-center"></section></section>
+<section id="a-complementaridade-no-dna-permite-a-replicação-com-fidelidade-quase-perfeita" class="title-slide slide level1 center">
+<h1>A Complementaridade no DNA Permite a Replicação com Fidelidade Quase Perfeita</h1>
+
+<!-- Slide 56 -->
+<img data-src="../imgs/cap01.image38.jpg" class="r-stretch quarto-figure quarto-figure-center"></section>
+
+<section id="o-dogma-central-da-bioquímica-dna-rna-proteína" class="title-slide slide level1 center">
+<h1>O “Dogma” Central da Bioquímica:<br><span class="subtitulo">DNA → RNA → Proteína</span></h1>
+
+<!-- Slide 57 -->
+<img data-src="../imgs/cap01.image41.jpg" class="r-stretch quarto-figure quarto-figure-center"></section>
+
+<section id="a-seleção-natural-favorece-algumas-mutações" class="title-slide slide level1 center">
+<h1>A Seleção Natural<br>Favorece Algumas Mutações</h1>
+<ul>
+<li>As mutações ocorrem de forma mais ou menos aleatória no DNA e no RNA.</li>
+<li>Polinucleotídeos mutados podem ser transcritos e traduzidos em maquinaria molecular, como proteínas.</li>
+<li>Mutações que conferem aos organismos uma vantagem em um determinado ambiente têm maior probabilidade de serem propagadas.</li>
+</ul>
+<!-- Slide 58 -->
 </section>
 
-<section id="slide-35" class="title-slide slide level1 center">
-<h1>Slide 35:</h1>
-<p>Cis vs.&nbsp;Trans</p>
-</section>
+<section id="a-seleção-natural-favorece-algumas-mutações-1" class="title-slide slide level1 center">
+<h1>A Seleção Natural<br>Favorece Algumas Mutações</h1>
 
-<section id="slide-36" class="title-slide slide level1 center">
-<h1>Slide 36:</h1>
-<p>Enantiômeros e Diastereoisômeros Diastereoisômeros (imagens não especulares)</p>
-</section>
+<!-- Slide 59 -->
+<img data-src="../imgs/cap01.image36.jpg" class="r-stretch quarto-figure quarto-figure-center"></section>
 
-<section id="slide-37" class="title-slide slide level1 center">
-<h1>Slide 37:</h1>
-<p>Enantiômeros e Diastereoisômeros</p>
-</section>
+<section id="a-evolução-dos-eucariotos-também-pode-ter-sido-mediada-por-endossimbiose" class="title-slide slide level1 center">
+<h1>A Evolução dos Eucariotos Também Pode Ter Sido Mediada por Endossimbiose</h1>
 
-<section id="slide-38" class="title-slide slide level1 center">
-<h1>Slide 38:</h1>
-<p>As Interações Entre Biomoléculas São Específicas Macromoléculas enovelam-se em estruturas 3D com bolsões de ligação exclusivos. Apenas certas moléculas se encaixam bem e podem se ligar. A ligação de biomoléculas quirais é estereoespecífica.</p>
-</section>
+<!-- Slide 60 -->
+<img data-src="../imgs/cap01.image40.jpg" class="r-stretch quarto-figure quarto-figure-center"></section>
 
-<section id="slide-39" class="title-slide slide level1 center">
-<h1>Slide 39:</h1>
-<p>As Interações Entre Biomoléculas São Específicas</p>
-</section>
-
-<section id="slide-40" class="title-slide slide level1 center">
-<h1>Slide 40:</h1>
-<p>Os Organismos Realizam Transduções de Energia para Realizar Trabalho e Permanecer Vivos Os organismos vivos existem em um estado estacionário dinâmico e nunca estão em equilíbrio com o ambiente. O acoplamento energético permite que os organismos vivos transformem matéria em energia. Catalisadores biológicos reduzem a necessidade energética para as reações enquanto oferecem especificidade. À medida que a entropia do universo aumenta, criar e manter a ordem requer trabalho e energia.</p>
-</section>
-
-<section id="slide-41" class="title-slide slide level1 center">
-<h1>Slide 41:</h1>
-<p>Os Organismos Realizam Transduções de Energia para Realizar Trabalho e Permanecer Vivos</p>
-</section>
-
-<section id="slide-42" class="title-slide slide level1 center">
-<h1>Slide 42:</h1>
-<p>Como Acelerar Reações Temperaturas mais altas − a estabilidade das macromoléculas é limitante</p>
-<p>Maior concentração de reagentes − custoso, pois é necessário mais material de partida valioso</p>
-<p>Alterar a reação acoplando-a a uma rápida − usado universalmente pelos organismos vivos</p>
-<p>Diminuir a barreira de ativação por catálise − usado universalmente pelos organismos vivos</p>
-</section>
-
-<section id="slide-43" class="title-slide slide level1 center">
-<h1>Slide 43:</h1>
-<p>O Equilíbrio e o ΔG° Medem a Espontaneidade de uma Reação</p>
-</section>
-
-<section id="slide-44" class="title-slide slide level1 center">
-<h1>Slide 44:</h1>
-<p>Reações Desfavoráveis e Favoráveis A síntese de moléculas complexas e muitas outras reações metabólicas requerem energia (endergônicas). Uma reação pode ser termodinamicamente desfavorável (ΔG° &gt; 0). Criar ordem requer trabalho e energia. Uma reação metabólica pode ter uma barreira energética muito alta (ΔG‡ &gt; 0). O metabólito é cineticamente estável. A quebra de alguns metabólitos libera uma quantidade significativa de energia (exergônica). Tais metabólitos (ATP, NADH, NADPH) podem ser sintetizados usando a energia da luz solar e de combustíveis. Sua concentração celular é muito maior do que sua concentração de equilíbrio.</p>
-</section>
-
-<section id="slide-45" class="title-slide slide level1 center">
-<h1>Slide 45:</h1>
-<p>Acoplamento Energético O acoplamento químico de reações exergônicas e endergônicas permite reações que, de outra forma, seriam desfavoráveis. A molécula de “alta energia” (ATP) reage diretamente com o metabólito que precisa de “ativação”.</p>
-</section>
-
-<section id="slide-46" class="title-slide slide level1 center">
-<h1>Slide 46:</h1>
-
-</section>
-
-<section id="slide-47" class="title-slide slide level1 center">
-<h1>Slide 47:</h1>
-<p>Catálise Um catalisador é um composto que aumenta a velocidade de uma reação química. Catalisadores diminuem a energia livre de ativação ΔG‡. Catalisadores não alteram o ΔG°. A catálise enzimática oferece: aceleração sob condições brandas alta especificidade possibilidade de regulação</p>
-</section>
-
-<section id="slide-48" class="title-slide slide level1 center">
-<h1>Slide 48:</h1>
-<p>Enzimas Diminuem a Energia de Ativação para Aumentar a Velocidade da Reação</p>
-</section>
-
-<section id="slide-49" class="title-slide slide level1 center">
-<h1>Slide 49:</h1>
-<p>Via metabólica produz energia ou materiais valiosos</p>
-<p>Via de transdução de sinal transmite informação<br>
-Uma Série de Reações Relacionadas Catalisadas Enzimaticamente Forma uma Via</p>
-</section>
-
-<section id="slide-50" class="title-slide slide level1 center">
-<h1>Slide 50:</h1>
-<p>Exemplo de regulação negativa: O produto da enzima 5 inibe a enzima 1 para evitar excesso de produtos desnecessários.</p>
-<p>As Vias São Controladas para Regular os Níveis de Metabólitos</p>
-</section>
-
-<section id="slide-51" class="title-slide slide level1 center">
-<h1>Slide 51:</h1>
-<p>Fundamentos Genéticos e Evolutivos A vida na Terra surgiu há 3,5–3,8 bilhões de anos. A formação de moléculas autorreplicantes foi um passo fundamental. Poderia ter sido o DNA? Poderiam ter sido as proteínas?</p>
-</section>
-
-<section id="slide-52" class="title-slide slide level1 center">
-<h1>Slide 52:</h1>
-
-</section>
-
-<section id="slide-53" class="title-slide slide level1 center">
-<h1>Slide 53:</h1>
-<p>Mundo do RNA? O RNA pode atuar tanto como portador de informação quanto como biocatalisador. Alguns vírus usam o RNA como meio primário de informação genética.</p>
-</section>
-
-<section id="slide-54" class="title-slide slide level1 center">
-<h1>Slide 54:</h1>
-
-</section>
-
-<section id="slide-55" class="title-slide slide level1 center">
-<h1>Slide 55:</h1>
-<p>A Complementaridade no DNA Permite a Replicação com Fidelidade Quase Perfeita</p>
-</section>
-
-<section id="slide-56" class="title-slide slide level1 center">
-<h1>Slide 56:</h1>
-<p>O “Dogma” Central da Bioquímica: DNA → RNA → Proteína</p>
-</section>
-
-<section id="slide-57" class="title-slide slide level1 center">
-<h1>Slide 57:</h1>
-<p>A Seleção Natural Favorece Algumas Mutações As mutações ocorrem de forma mais ou menos aleatória no DNA e no RNA. Polinucleotídeos mutados podem ser transcritos e traduzidos em maquinaria molecular, como proteínas. Mutações que conferem aos organismos uma vantagem em um determinado ambiente têm maior probabilidade de serem propagadas.</p>
-</section>
-
-<section id="slide-58" class="title-slide slide level1 center">
-<h1>Slide 58:</h1>
-<p>A Seleção Natural Favorece Algumas Mutações</p>
-</section>
-
-<section id="slide-59" class="title-slide slide level1 center">
-<h1>Slide 59:</h1>
-<p>A Evolução dos Eucariotos Também Pode Ter Sido Mediada por Endossimbiose</p>
-</section>
-
-<section id="slide-60" class="title-slide slide level1 center">
-<h1>Slide 60:</h1>
-<p>Capítulo 1: Resumo Neste capítulo, aprendemos a:</p>
-<p>compreender o que define os organismos vivos relacionar a estrutura e a função da célula perceber que a estrutura das biomoléculas frequentemente lhes confere funções específicas compreender os princípios da bioenergética revisar as forças por trás da evolução</p>
+<section id="capítulo-1-resumo" class="title-slide slide level1 center">
+<h1>Capítulo 1: Resumo</h1>
+<p>Neste capítulo, aprendemos a:</p>
+<ul>
+<li>compreender o que define os organismos vivos</li>
+<li>relacionar a estrutura e a função da célula</li>
+<li>perceber que a estrutura das biomoléculas frequentemente lhes confere funções específicas</li>
+<li>compreender os princípios da bioenergética</li>
+<li>revisar as forças por trás da evolução</li>
+</ul>
 
 
 </section>

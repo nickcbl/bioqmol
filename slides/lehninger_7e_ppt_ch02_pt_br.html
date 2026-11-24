@@ -6,7 +6,10 @@
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="../site_libs/quarto-html/light-border.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-63b5708e65d6cd79cd7618c58d0c21e7.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-63b5708e65d6cd79cd7618c58d0c21e7.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="../site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="../site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet"><meta charset="utf-8">
   <meta name="generator" content="quarto-1.11.9">
 
   <title>Bioquímica e Biologia Molecular – Capítulo</title>
@@ -126,6 +129,17 @@
       margin-right: 0; 
     }
   </style>
+  <style>
+  .azul { color: #2d2d8a; }
+  .vermelho { color: #e00; }
+  .recorte { position: relative; overflow: hidden; }
+  .reveal .recorte.absolute { position: absolute; }
+  .recorte img { position: absolute; max-width: none; max-height: none; margin: 0; }
+  .elipse { border: 6px solid #b3dde3; border-radius: 50%; display: flex; align-items: center; justify-content: center; box-sizing: border-box; }
+  .tabela-ph table { font-size: 15px; line-height: 1.1; margin: 0 auto; }
+  .tabela-ph th, .tabela-ph td { padding: 1px 10px; }
+  .tabela-ph .nota { font-size: 11px; line-height: 1.2; margin-top: 4px; }
+  </style>
 </head>
 <body class="quarto-light">
   <div class="reveal">
@@ -139,316 +153,804 @@
 
   <p class="date">24/11/2026</p>
 </section>
-<section id="slide-1" class="title-slide slide level1 center">
-<h1>Slide 1:</h1>
-<p>2 | Água © 2017 W. H. Freeman and Company</p>
+<section class="slide level2 center">
+
+<!-- Slide 1 -->
+<div class="absolute" style="text-align:center; font-size:28px; font-weight:bold;top: 296px; left: 16px; width: 442px; ">
+<p><span class="azul">2 | Água</span></p>
+</div>
+<div class="absolute" style="font-size:14px; font-weight:bold;top: 478px; left: 24px; width: 420px; ">
+<p><span class="azul">© 2017 W. H. Freeman and Company</span></p>
+</div>
+<p><a href="../imgs/cap02.image1.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img data-src="../imgs/cap02.image1.png" class="absolute" style="top: 42px; left: 458px; width: 462px; height: 628px; "></a></p>
+<!-- Slide 2 -->
+</section>
+<section id="capítulo-2-água" class="title-slide slide level1 smaller center">
+<h1>CAPÍTULO 2<br>Água</h1>
+<p><em>Objetivos de aprendizagem:</em></p>
+<ul>
+<li>Que tipos de interações ocorrem entre as moléculas</li>
+<li>Por que a água é um bom meio para a vida</li>
+<li>Por que porções apolares se agregam na água</li>
+<li>Como moléculas dissolvidas alteram as propriedades da água</li>
+<li>Como ácidos e bases fracos se comportam na água</li>
+<li>Como os tampões funcionam e por que precisamos deles</li>
+<li>Como a água participa das reações bioquímicas</li>
+</ul>
+<!-- Slide 3 -->
 </section>
 
-<section id="slide-2" class="title-slide slide level1 center">
-<h1>Slide 2:</h1>
-<p>CAPÍTULO 2 Água Que tipos de interações ocorrem entre as moléculas Por que a água é um bom meio para a vida Por que porções apolares se agregam na água Como moléculas dissolvidas alteram as propriedades da água Como ácidos e bases fracos se comportam na água Como os tampões funcionam e por que precisamos deles Como a água participa das reações bioquímicas Objetivos de aprendizagem:</p>
+<section id="a-água-é-o-meio-para-a-vida" class="title-slide slide level1 center">
+<h1>A Água É o Meio para a Vida</h1>
+<ul>
+<li><p>A vida evoluiu na água devido à proteção que ela oferece contra a luz UV.</p></li>
+<li><p>Os organismos contêm tipicamente 70–90% de água.</p></li>
+<li><p>As reações químicas ocorrem em meio aquoso.</p></li>
+<li><p>A água é um determinante crítico da estrutura e função de proteínas, ácidos nucleicos e membranas.</p></li>
+</ul>
+<!-- Slide 4 -->
 </section>
 
-<section id="slide-3" class="title-slide slide level1 center">
-<h1>Slide 3:</h1>
-<p>A Água É o Meio para a Vida A vida evoluiu na água devido à proteção que ela oferece contra a luz UV.</p>
-<p>Os organismos contêm tipicamente 70–90% de água.</p>
-<p>As reações químicas ocorrem em meio aquoso.</p>
-<p>A água é um determinante crítico da estrutura e função de proteínas, ácidos nucleicos e membranas.</p>
+<section>
+<section id="estrutura-da-molécula-de-água" class="title-slide slide level1 smaller center">
+<h1>Estrutura da Molécula de Água</h1>
+<ul>
+<li>A regra do octeto dita que existem quatro pares de elétrons ao redor de um átomo de oxigênio na água.</li>
+<li>Esses elétrons estão em quatro orbitais <em>sp</em><sup>3</sup>.</li>
+<li>Dois desses pares ligam covalentemente dois átomos de hidrogênio a um átomo central de oxigênio.</li>
+<li>Os dois pares restantes permanecem não ligantes (pares isolados).</li>
+<li>A geometria da água é um tetraedro distorcido.</li>
+<li>A eletronegatividade do átomo de oxigênio induz um momento de dipolo resultante.</li>
+<li>Devido ao momento de dipolo, a água pode atuar tanto como doadora quanto como aceptora de ligações de hidrogênio.</li>
+</ul>
+<!-- Slide 5 -->
+</section>
+<section class="slide level2 center">
+
+
+<!-- Slide 6 -->
+<img data-src="../imgs/cap02.image6.jpg" class="r-stretch quarto-figure quarto-figure-center"></section></section>
+<section>
+<section id="ligações-de-hidrogênio" class="title-slide slide level1 center">
+<h1>Ligações de Hidrogênio</h1>
+<ul>
+<li>Ligações de hidrogênio são fortes interações dipolo-dipolo ou carga-dipolo que surgem entre um hidrogênio ligado covalentemente e um par isolado de elétrons.</li>
+<li>Elas geralmente envolvem dois átomos eletronegativos (frequentemente nitrogênio e oxigênio).</li>
+<li>As ligações de hidrogênio são mais fortes quando as moléculas ligadas permitem padrões de ligação lineares.</li>
+<li>Idealmente, os três átomos envolvidos estão em linha reta.</li>
+</ul>
+<!-- Slide 7 -->
+</section>
+<section class="slide level2 center">
+
+
+<!-- Slide 8 -->
+<img data-src="../imgs/cap02.image4.jpg" class="r-stretch quarto-figure quarto-figure-center"></section></section>
+<section>
+<section id="ligações-de-hidrogênio-na-água" class="title-slide slide level1 smaller center">
+<h1>Ligações de Hidrogênio na Água</h1>
+<ul>
+<li>A água pode atuar tanto como:
+<ul>
+<li>doadora de H</li>
+<li>aceptora de H</li>
+</ul></li>
+<li>Até quatro ligações de H por molécula de água conferem à água seu:
+<ul>
+<li>ponto de ebulição anomalamente alto</li>
+<li>ponto de fusão anomalamente alto</li>
+<li>tensão superficial excepcionalmente grande</li>
+</ul></li>
+<li>A ligação de hidrogênio na água é cooperativa.</li>
+<li>As ligações de hidrogênio entre moléculas vizinhas são fracas (20 kJ/mol) em relação às ligações covalentes H–O (420 kJ/mol).</li>
+</ul>
+<!-- Slide 9 -->
+</section>
+<section class="slide level2 center">
+
+
+<!-- Slide 10 -->
+<img data-src="../imgs/cap02.image5.jpg" class="r-stretch quarto-figure quarto-figure-center"></section></section>
+<section id="importância-das-ligações-de-hidrogênio" class="title-slide slide level1 smaller center">
+<h1>Importância das Ligações de Hidrogênio</h1>
+<ul>
+<li>Fonte das propriedades únicas da água</li>
+<li>Estrutura e função das proteínas</li>
+<li>Estrutura e função do DNA</li>
+<li>Estrutura e função dos polissacarídeos</li>
+<li>Ligação de substratos às enzimas</li>
+<li>Ligação de hormônios aos receptores</li>
+<li>Pareamento de mRNA e tRNA</li>
+</ul>
+<p><em>“Acredito que, à medida que os métodos da química estrutural forem aplicados a problemas fisiológicos, descobrir-se-á que a importância da ligação de hidrogênio para a fisiologia é maior do que a de qualquer outra característica estrutural isolada.”</em></p>
+<div style="text-align:right">
+<p>–Linus Pauling, <em>A Natureza da Ligação Química</em>, 1939</p>
+</div>
+<!-- Slide 11 -->
 </section>
 
-<section id="slide-4" class="title-slide slide level1 center">
-<h1>Slide 4:</h1>
-<p>Estrutura da Molécula de Água A regra do octeto dita que existem quatro pares de elétrons ao redor de um átomo de oxigênio na água. Esses elétrons estão em quatro orbitais sp3. Dois desses pares ligam covalentemente dois átomos de hidrogênio a um átomo central de oxigênio. Os dois pares restantes permanecem não ligantes (pares isolados). A geometria da água é um tetraedro distorcido. A eletronegatividade do átomo de oxigênio induz um momento de dipolo resultante. Devido ao momento de dipolo, a água pode atuar tanto como doadora quanto como aceptora de ligações de hidrogênio.</p>
+<section id="relevância-biológica-das-ligações-de-hidrogênio" class="title-slide slide level1 center">
+<h1>Relevância Biológica das Ligações de Hidrogênio</h1>
+
+<!-- Slide 12 -->
+<img data-src="../imgs/cap02.image7.jpg" class="r-stretch quarto-figure quarto-figure-center"></section>
+
+<section>
+<section id="gelo-água-no-estado-sólido" class="title-slide slide level1 center">
+<h1>Gelo: Água no Estado Sólido</h1>
+<ul>
+<li>A água possui muitas formas cristalinas diferentes; o gelo hexagonal é o mais comum.</li>
+<li>O gelo hexagonal forma uma rede organizada e, portanto, tem baixa entropia.</li>
+<li>O gelo hexagonal contém o máximo de ligações de hidrogênio por molécula de água, forçando as moléculas de água a um arranjo equidistante. Assim:
+<ul>
+<li>o gelo tem densidade menor que a água líquida</li>
+<li>o gelo flutua</li>
+</ul></li>
+</ul>
+<!-- Slide 13 -->
 </section>
+<section class="slide level2 center">
 
-<section id="slide-5" class="title-slide slide level1 center">
-<h1>Slide 5:</h1>
 
+<!-- Slide 14 -->
+<img data-src="../imgs/cap02.image2.jpg" class="r-stretch quarto-figure quarto-figure-center"></section></section>
+<section>
+<section id="água-como-solvente" class="title-slide slide level1 center">
+<h1>Água como Solvente</h1>
+<ul>
+<li>A água é um bom solvente para substâncias carregadas e polares:
+<ul>
+<li>aminoácidos e peptídeos</li>
+<li>pequenos álcoois</li>
+<li>carboidratos</li>
+</ul></li>
+<li>A água é um mau solvente para substâncias apolares:
+<ul>
+<li>gases apolares</li>
+<li>porções aromáticas</li>
+<li>cadeias alifáticas</li>
+</ul></li>
+</ul>
+<!-- Slide 15 -->
 </section>
+<section class="slide level2 center">
 
-<section id="slide-6" class="title-slide slide level1 center">
-<h1>Slide 6:</h1>
-<p>Ligações de Hidrogênio Ligações de hidrogênio são fortes interações dipolo-dipolo ou carga-dipolo que surgem entre um hidrogênio ligado covalentemente e um par isolado de elétrons. Elas geralmente envolvem dois átomos eletronegativos (frequentemente nitrogênio e oxigênio). As ligações de hidrogênio são mais fortes quando as moléculas ligadas permitem padrões de ligação lineares. Idealmente, os três átomos envolvidos estão em linha reta.</p>
-</section>
 
-<section id="slide-7" class="title-slide slide level1 center">
-<h1>Slide 7:</h1>
-
-</section>
-
-<section id="slide-8" class="title-slide slide level1 center">
-<h1>Slide 8:</h1>
-<p>Ligações de Hidrogênio na Água A água pode atuar tanto como: doadora de H aceptora de H Até quatro ligações de H por molécula de água conferem à água seu: ponto de ebulição anomalamente alto ponto de fusão anomalamente alto tensão superficial excepcionalmente grande A ligação de hidrogênio na água é cooperativa. As ligações de hidrogênio entre moléculas vizinhas são fracas (20 kJ/mol) em relação às ligações covalentes H–O (420 kJ/mol).</p>
-</section>
-
-<section id="slide-9" class="title-slide slide level1 center">
-<h1>Slide 9:</h1>
-
-</section>
-
-<section id="slide-10" class="title-slide slide level1 center">
-<h1>Slide 10:</h1>
-<p>Importância das Ligações de Hidrogênio Fonte das propriedades únicas da água Estrutura e função das proteínas Estrutura e função do DNA Estrutura e função dos polissacarídeos Ligação de substratos às enzimas Ligação de hormônios aos receptores Pareamento de mRNA e tRNA “Acredito que, à medida que os métodos da química estrutural forem aplicados a problemas fisiológicos, descobrir-se-á que a importância da ligação de hidrogênio para a fisiologia é maior do que a de qualquer outra característica estrutural isolada.” –Linus Pauling, A Natureza da Ligação Química, 1939</p>
-</section>
-
-<section id="slide-11" class="title-slide slide level1 center">
-<h1>Slide 11:</h1>
-<p>Relevância Biológica das Ligações de Hidrogênio</p>
-</section>
-
-<section id="slide-12" class="title-slide slide level1 center">
-<h1>Slide 12:</h1>
-<p>Gelo: Água no Estado Sólido A água possui muitas formas cristalinas diferentes; o gelo hexagonal é o mais comum. O gelo hexagonal forma uma rede organizada e, portanto, tem baixa entropia. O gelo hexagonal contém o máximo de ligações de hidrogênio por molécula de água, forçando as moléculas de água a um arranjo equidistante. Assim: o gelo tem densidade menor que a água líquida o gelo flutua</p>
-</section>
-
-<section id="slide-13" class="title-slide slide level1 center">
-<h1>Slide 13:</h1>
-
-</section>
-
-<section id="slide-14" class="title-slide slide level1 center">
-<h1>Slide 14:</h1>
-<p>Água como Solvente A água é um mau solvente para substâncias apolares: gases apolares porções aromáticas cadeias alifáticas</p>
-<p>A água é um bom solvente para substâncias carregadas e polares: aminoácidos e peptídeos pequenos álcoois carboidratos</p>
-</section>
-
-<section id="slide-15" class="title-slide slide level1 center">
-<h1>Slide 15:</h1>
-
-</section>
-
-<section id="slide-16" class="title-slide slide level1 center">
-<h1>Slide 16:</h1>
-<p>Física das Interações Não Covalentes Interações iônicas (Coulômbicas) interações eletrostáticas entre espécies permanentemente carregadas, ou entre o íon e um dipolo permanente Interações dipolo interações eletrostáticas entre moléculas não carregadas, mas polares Interações de van der Waals interações fracas entre todos os átomos, independentemente da polaridade componente atrativo (dispersão) e repulsivo (estérico) Efeito Hidrofóbico fenômeno complexo associado à ordenação de moléculas de água ao redor de substâncias apolares</p>
+<!-- Slide 16 -->
+<img data-src="../imgs/cap02.image27.jpg" class="r-stretch quarto-figure quarto-figure-center"></section></section>
+<section id="física-das-interações-não-covalentes" class="title-slide slide level1 smaller center">
+<h1>Física das Interações Não Covalentes</h1>
 <p>Interações não covalentes não envolvem o compartilhamento de um par de elétrons. Com base em sua origem física, pode-se distinguir entre:</p>
+<ul>
+<li>Interações iônicas (Coulômbicas)
+<ul>
+<li>interações eletrostáticas entre espécies permanentemente carregadas, ou entre o íon e um dipolo permanente</li>
+</ul></li>
+<li>Interações dipolo
+<ul>
+<li>interações eletrostáticas entre moléculas não carregadas, mas polares</li>
+</ul></li>
+<li>Interações de van der Waals
+<ul>
+<li>interações fracas entre todos os átomos, independentemente da polaridade</li>
+<li>componente atrativo (dispersão) e repulsivo (estérico)</li>
+</ul></li>
+<li>Efeito Hidrofóbico
+<ul>
+<li>fenômeno complexo associado à ordenação de moléculas de água ao redor de substâncias apolares</li>
+</ul></li>
+</ul>
+<!-- Slide 17 -->
 </section>
 
-<section id="slide-17" class="title-slide slide level1 center">
-<h1>Slide 17:</h1>
-<p>Exemplos de Interações Não Covalentes</p>
+<section id="exemplos-de-interações-não-covalentes" class="title-slide slide level1 center">
+<h1>Exemplos de Interações Não Covalentes</h1>
+
+<!-- Slide 18 -->
+<img data-src="../imgs/cap02.image22.jpg" class="r-stretch quarto-figure quarto-figure-center"></section>
+
+<section id="dissolver-sais-envolve-quebrar-interações-iônicas" class="title-slide slide level1 center">
+<h1>Dissolver Sais Envolve Quebrar Interações Iônicas</h1>
+
+<!-- Slide 19 -->
+<img data-src="../imgs/cap02.image10.png" class="r-stretch quarto-figure quarto-figure-center"></section>
+
+<section id="dissolver-sais-envolve-quebrar-interações-iônicas-1" class="title-slide slide level1 center">
+<h1>Dissolver Sais Envolve Quebrar Interações Iônicas</h1>
+
+<!-- Slide 20 -->
+<img data-src="../imgs/cap02.image14.jpg" class="r-stretch quarto-figure quarto-figure-center"></section>
+
+<section id="interações-de-van-der-waals" class="title-slide slide level1 smaller center">
+<h1>Interações de van der Waals</h1>
+<ul>
+<li>As interações de van der Waals têm dois componentes:
+<ul>
+<li>força atrativa (dispersão de London), que depende da polarizabilidade</li>
+<li>força repulsiva (repulsão estérica), que depende do tamanho dos átomos</li>
+</ul></li>
+<li>A atração domina em distâncias maiores (tipicamente 0,4–0,7 nm).</li>
+<li>A repulsão domina em distâncias muito curtas.</li>
+<li>Existe uma distância de energia mínima (distância de contato de van der Waals).</li>
+</ul>
+<!-- Slide 21 -->
 </section>
 
-<section id="slide-18" class="title-slide slide level1 center">
-<h1>Slide 18:</h1>
-<p>Dissolver Sais Envolve Quebrar Interações Iônicas</p>
+<section id="significado-bioquímico-das-interações-de-van-der-waals" class="title-slide slide level1 center">
+<h1>Significado Bioquímico das <br>Interações de van der Waals</h1>
+<ul>
+<li>Fracas individualmente
+<ul>
+<li>facilmente quebradas, reversíveis</li>
+</ul></li>
+<li>Universais
+<ul>
+<li>ocorrem entre quaisquer dois átomos que estejam próximos um do outro</li>
+</ul></li>
+<li>Importância
+<ul>
+<li>determinam a complementaridade estérica</li>
+<li>estabilizam macromoléculas biológicas (empilhamento no DNA)</li>
+<li>facilitam a ligação de ligantes polarizáveis</li>
+</ul></li>
+</ul>
+<!-- Slide 22 -->
 </section>
 
-<section id="slide-19" class="title-slide slide level1 center">
-<h1>Slide 19:</h1>
-<p>Dissolver Sais Envolve Quebrar Interações Iônicas</p>
+<section id="o-efeito-hidrofóbico" class="title-slide slide level1 smaller center">
+<h1>O Efeito Hidrofóbico</h1>
+<ul>
+<li>Refere-se à associação ou interação de moléculas apolares ou componentes de moléculas em solução aquosa</li>
+<li>É um dos principais fatores por trás de:
+<ul>
+<li>enovelamento proteico</li>
+<li>associação proteína-proteína</li>
+<li>formação de micelas lipídicas</li>
+<li>ligação de hormônios esteroides aos seus receptores</li>
+</ul></li>
+<li>Não surge devido a alguma força atrativa direta entre duas moléculas apolares</li>
+</ul>
+<!-- Slide 23 -->
 </section>
 
-<section id="slide-20" class="title-slide slide level1 center">
-<h1>Slide 20:</h1>
-<p>Interações de van der Waals As interações de van der Waals têm dois componentes: força atrativa (dispersão de London), que depende da polarizabilidade força repulsiva (repulsão estérica), que depende do tamanho dos átomos<br>
-A atração domina em distâncias maiores (tipicamente 0,4–0,7 nm). A repulsão domina em distâncias muito curtas. Existe uma distância de energia mínima (distância de contato de van der Waals).</p>
+<section id="solubilidade-de-solutos-polares-e-apolares" class="title-slide slide level1 center">
+<h1>Solubilidade de Solutos Polares e Apolares</h1>
+
+<img data-src="../imgs/cap02.image40.jpg" class="r-stretch quarto-figure quarto-figure-center"><p><span class="vermelho">Por que moléculas apolares são pouco solúveis em água?</span></p>
+<!-- Slide 24 -->
 </section>
 
-<section id="slide-21" class="title-slide slide level1 center">
-<h1>Slide 21:</h1>
-<p>Significado Bioquímico das Interações de van der Waals Fracas individualmente facilmente quebradas, reversíveis Universais ocorrem entre quaisquer dois átomos que estejam próximos um do outro Importância determinam a complementaridade estérica estabilizam macromoléculas biológicas (empilhamento no DNA) facilitam a ligação de ligantes polarizáveis</p>
-</section>
+<section id="a-água-ao-redor-de-solutos-apolares-tem-menor-entropia" class="title-slide slide level1 center">
+<h1>A Água ao Redor de Solutos Apolares Tem Menor Entropia</h1>
+<p><a href="../imgs/cap02.image3.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-12"><img data-src="../imgs/cap02.image3.jpg" class="absolute" style="top: 154px; left: 144px; width: 568px; height: 502px; "></a></p>
+<div class="absolute" style="border:3px solid #e00; box-sizing:border-box;top: 149px; left: 144px; width: 248px; height: 411px; ">
 
-<section id="slide-22" class="title-slide slide level1 center">
-<h1>Slide 22:</h1>
-<p>O Efeito Hidrofóbico Refere-se à associação ou interação de moléculas apolares ou componentes de moléculas em solução aquosa É um dos principais fatores por trás de: enovelamento proteico associação proteína-proteína formação de micelas lipídicas ligação de hormônios esteroides aos seus receptores Não surge devido a alguma força atrativa direta entre duas moléculas apolares</p>
-</section>
-
-<section id="slide-23" class="title-slide slide level1 center">
-<h1>Slide 23:</h1>
-<p>Solubilidade de Solutos Polares e Apolares Por que moléculas apolares são pouco solúveis em água?</p>
-</section>
-
-<section id="slide-24" class="title-slide slide level1 center">
-<h1>Slide 24:</h1>
-<p>A Água ao Redor de Solutos Apolares Tem Menor Entropia</p>
+</div>
+<div class="absolute" style="color:#e00; font-weight:bold; font-size:22px;top: 149px; left: 182px; width: 185px; ">
 <p>Alta entropia</p>
-<p>Baixa Entropia Baixa entropia é termodinamicamente desfavorável, portanto solutos hidrofóbicos têm baixa solubilidade.</p>
+</div>
+<svg style="position:absolute; left:0; top:0; pointer-events:none;" width="960" height="720" viewbox="0 0 960 720">
+<path d="M712,149 H772 V648 H712" fill="none" stroke="#e00" stroke-width="3"></path>
+</svg>
+<div class="absolute" style="color:#e00; font-weight:bold; font-size:22px; text-align:center; line-height:1.2;top: 361px; left: 839px; width: 121px; ">
+<p>Baixa<br>Entropia</p>
+</div>
+<div class="absolute" style="color:#e00; font-size:22px; text-align:center;top: 643px; left: 39px; width: 888px; ">
+<p>Baixa entropia é termodinamicamente desfavorável, portanto solutos hidrofóbicos têm baixa solubilidade.</p>
+</div>
+<!-- Slide 25 -->
 </section>
 
-<section id="slide-25" class="title-slide slide level1 center">
-<h1>Slide 25:</h1>
-<p>Origem do Efeito Hidrofóbico Considere lipídios anfipáticos na água. Moléculas lipídicas dispersam-se na solução; as caudas apolares das moléculas lipídicas são cercadas por moléculas de água ordenadas. A entropia do sistema diminui. O sistema está agora em um estado desfavorável.</p>
+<section id="origem-do-efeito-hidrofóbico" class="title-slide slide level1 smaller center">
+<h1>Origem do Efeito Hidrofóbico</h1>
+<div class="absolute" style="top: 160px; left: 24px; width: 522px; ">
+<ul>
+<li>Considere lipídios anfipáticos na água.</li>
+<li>Moléculas lipídicas dispersam-se na solução; as caudas apolares das moléculas lipídicas são cercadas por moléculas de água ordenadas.</li>
+<li>A entropia do sistema diminui.</li>
+<li>O sistema está agora em um estado desfavorável.</li>
+</ul>
+</div>
+<div class="recorte absolute" style="aspect-ratio:1.0833;top: 216px; left: 549px; width: 414px; ">
+<p><img src="../imgs/cap02.image9.jpg" style="width:227.27%; left:-127.27%; top:0%;"></p>
+</div>
+<!-- Slide 26 -->
 </section>
 
-<section id="slide-26" class="title-slide slide level1 center">
-<h1>Slide 26:</h1>
-<p>Origem do Efeito Hidrofóbico Porções apolares da molécula anfipática agregam-se para que menos moléculas de água fiquem ordenadas e a entropia aumente. Todos os grupos apolares são sequestrados da água, e as moléculas de água liberadas aumentam ainda mais a entropia. Apenas os “grupos cabeça” polares ficam expostos.</p>
+<section id="origem-do-efeito-hidrofóbico-1" class="title-slide slide level1 smaller center">
+<h1>Origem do Efeito Hidrofóbico</h1>
+<ul>
+<li>Porções apolares da molécula anfipática agregam-se para que menos moléculas de água fiquem ordenadas e a entropia aumente.</li>
+<li>Todos os grupos apolares são sequestrados da água, e as moléculas de água liberadas aumentam ainda mais a entropia.</li>
+<li>Apenas os “grupos cabeça” polares ficam expostos.</li>
+</ul>
+<div class="recorte absolute" style="aspect-ratio:1.9696;top: 424px; left: 240px; width: 544px; ">
+<p><img src="../imgs/cap02.image9.jpg" style="width:227.27%; left:-127.27%; top:-186.36%;"></p>
+</div>
+<!-- Slide 27 -->
 </section>
 
-<section id="slide-27" class="title-slide slide level1 center">
-<h1>Slide 27:</h1>
-<p>Origem do Efeito Hidrofóbico Com concentração suficientemente alta de moléculas anfipáticas, é possível a agregação completa em micelas.</p>
+<section id="origem-do-efeito-hidrofóbico-2" class="title-slide slide level1 center">
+<h1>Origem do Efeito Hidrofóbico</h1>
+<ul>
+<li>Com concentração suficientemente alta de moléculas anfipáticas, é possível a agregação completa em micelas.</li>
+</ul>
+<div class="recorte absolute" style="aspect-ratio:1.6413;top: 320px; left: 320px; width: 534px; ">
+<p><img src="../imgs/cap02.image9.jpg" style="width:222.22%; left:-122.22%; top:-244.44%;"></p>
+</div>
+<div class="recorte absolute" style="aspect-ratio:5.768;top: 637px; left: 320px; width: 275px; ">
+<p><img src="../imgs/cap02.image9.jpg" style="width:243.9%; left:0%; top:-1328.57%;"></p>
+</div>
+<!-- Slide 28 -->
 </section>
 
-<section id="slide-28" class="title-slide slide level1 center">
-<h1>Slide 28:</h1>
-<p>O Efeito Hidrofóbico Favorece a Ligação de Ligantes Sítios de ligação em enzimas e receptores são frequentemente hidrofóbicos.</p>
-<p>Tais sítios podem ligar substratos e ligantes hidrofóbicos, como hormônios esteroides, que deslocam a água e aumentam a entropia do sistema.</p>
-<p>Muitos fármacos são projetados para tirar proveito do efeito hidrofóbico.</p>
+<section>
+<section id="o-efeito-hidrofóbico-favorece-a-ligação-de-ligantes" class="title-slide slide level1 center">
+<h1>O Efeito Hidrofóbico Favorece a Ligação de Ligantes</h1>
+<ul>
+<li><p>Sítios de ligação em enzimas e receptores são frequentemente hidrofóbicos.</p></li>
+<li><p>Tais sítios podem ligar substratos e ligantes hidrofóbicos, como hormônios esteroides, que deslocam a água e aumentam a entropia do sistema.</p></li>
+<li><p>Muitos fármacos são projetados para tirar proveito do efeito hidrofóbico.</p></li>
+</ul>
+<!-- Slide 29 -->
+</section>
+<section class="slide level2 center">
+
+
+<!-- Slide 30 -->
+<img data-src="../imgs/cap02.image11.jpg" class="r-stretch quarto-figure quarto-figure-center"></section></section>
+<section id="solutos-podem-alterar-as-propriedades-da-água" class="title-slide slide level1 smaller center">
+<h1>Solutos Podem Alterar as Propriedades da Água</h1>
+<ul>
+<li>Propriedades coligativas:
+<ul>
+<li>ponto de ebulição, ponto de fusão e osmolaridade</li>
+<li>não dependem da natureza do soluto, apenas da concentração</li>
+</ul></li>
+<li>Propriedades não coligativas:
+<ul>
+<li>viscosidade, tensão superficial, sabor e cor</li>
+<li>dependem da natureza química do soluto</li>
+</ul></li>
+<li>O citoplasma das células são soluções altamente concentradas e têm alta pressão osmótica devido aos solutos dissolvidos.</li>
+</ul>
+<!-- Slide 31 -->
 </section>
 
-<section id="slide-29" class="title-slide slide level1 center">
-<h1>Slide 29:</h1>
-
+<section id="pressão-osmótica" class="title-slide slide level1 smaller center">
+<h1>Pressão Osmótica</h1>
+<ul>
+<li>A água move-se de áreas de alta concentração de água (baixa concentração de soluto) para áreas de baixa concentração de água (alta concentração de soluto).</li>
+<li>Pressão osmótica (<em>π</em>) é a força necessária para resistir a esse movimento.</li>
+<li>A pressão osmótica é influenciada pela concentração de cada soluto em solução.</li>
+<li>Componentes dissociados de um soluto influenciam individualmente a pressão osmótica.</li>
+</ul>
+<!-- Slide 32 -->
 </section>
 
-<section id="slide-30" class="title-slide slide level1 center">
-<h1>Slide 30:</h1>
-<p>Solutos Podem Alterar as Propriedades da Água Propriedades coligativas: ponto de ebulição, ponto de fusão e osmolaridade não dependem da natureza do soluto, apenas da concentração Propriedades não coligativas: viscosidade, tensão superficial, sabor e cor dependem da natureza química do soluto O citoplasma das células são soluções altamente concentradas e têm alta pressão osmótica devido aos solutos dissolvidos.</p>
+<section id="pressão-osmótica-1" class="title-slide slide level1 center">
+<h1>Pressão Osmótica</h1>
+
+<!-- Slide 33 -->
+<img data-src="../imgs/cap02.image13.jpg" class="r-stretch quarto-figure quarto-figure-center"></section>
+
+<section id="efeito-da-pressão-osmótica-nas-células" class="title-slide slide level1 center">
+<h1>Efeito da Pressão Osmótica nas Células</h1>
+
+<!-- Slide 34 -->
+<img data-src="../imgs/cap02.image8.jpg" class="r-stretch quarto-figure quarto-figure-center"></section>
+
+<section id="ionização-da-água" class="title-slide slide level1 smaller center">
+<h1>Ionização da Água</h1>
+<p><span class="math display">\[\mathrm{H_2O} \rightleftharpoons \mathrm{H^+} + \mathrm{OH^-}\]</span></p>
+<ul>
+<li>Ligações O-H são polares e podem dissociar-se heteroliticamente.</li>
+<li>Os produtos são um próton (H<sup>+</sup>) e um íon hidróxido (OH<sup>–</sup>).</li>
+<li>A dissociação da água é um processo reversível rápido.</li>
+<li>A maioria das moléculas de água permanece não ionizada; assim, a água pura tem condutividade elétrica muito baixa (resistência: 18 MΩ•cm).</li>
+<li>O equilíbrio está fortemente deslocado para a esquerda (baixo <em>K</em><sub>eq</sub>).</li>
+<li>A extensão da dissociação depende da temperatura.</li>
+</ul>
+<!-- Slide 35 -->
 </section>
 
-<section id="slide-31" class="title-slide slide level1 center">
-<h1>Slide 31:</h1>
-<p>A água move-se de áreas de alta concentração de água (baixa concentração de soluto) para áreas de baixa concentração de água (alta concentração de soluto). Pressão osmótica (π) é a força necessária para resistir a esse movimento. A pressão osmótica é influenciada pela concentração de cada soluto em solução. Componentes dissociados de um soluto influenciam individualmente a pressão osmótica.</p>
-<p>Pressão Osmótica</p>
+<section id="hidratação-de-prótons" class="title-slide slide level1 smaller center">
+<h1>Hidratação de Prótons</h1>
+<ul>
+<li>Prótons não existem livres em solução.</li>
+<li>Eles são imediatamente hidratados para formar íons hidrônio (H<sub>3</sub>O<sup>+</sup>).</li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><a href="../imgs/cap02.image12.png" class="lightbox" data-gallery="quarto-lightbox-gallery-16"><img data-src="../imgs/cap02.image12.png" class="quarto-figure quarto-figure-center" width="282"></a></p>
+</figure>
+</div>
+<ul>
+<li>Um íon hidrônio é uma molécula de água com um próton associado a um dos pares de elétrons não ligantes.</li>
+<li>Íons hidrônio são solvatados por moléculas de água próximas.</li>
+<li>As ligações covalentes e de hidrogênio são intercambiáveis. Isso permite uma mobilidade extremamente rápida de prótons na água via “salto de prótons” (<em>proton hopping</em>).</li>
+</ul>
+<!-- Slide 36 -->
 </section>
 
-<section id="slide-32" class="title-slide slide level1 center">
-<h1>Slide 32:</h1>
-<p>Pressão Osmótica</p>
+<section id="salto-de-prótons-proton-hopping" class="title-slide slide level1 center">
+<h1>Salto de Prótons (<em>Proton Hopping</em>)</h1>
+
+<!-- Slide 37 -->
+<img data-src="../imgs/cap02.image15.jpg" class="r-stretch quarto-figure quarto-figure-center"></section>
+
+<section id="ionização-da-água-tratamento-quantitativo" class="title-slide slide level1 smaller center">
+<h1>Ionização da Água: <br>Tratamento Quantitativo</h1>
+<p>As concentrações das espécies participantes em um processo de equilíbrio não são independentes, mas estão relacionadas pela constante de equilíbrio:</p>
+<p><span class="math display">\[\mathrm{H_2O} \rightleftharpoons \mathrm{H^+} + \mathrm{OH^-} \qquad\qquad K_{eq} = \frac{[\mathrm{H^+}] \cdot [\mathrm{OH^-}]}{[\mathrm{H_2O}]}\]</span></p>
+<p><em>K</em><sub>eq</sub> pode ser determinado experimentalmente, sendo 1,8 • 10<sup>–16</sup> M a 25°C.</p>
+<p>[H<sub>2</sub>O] pode ser determinado a partir da densidade da água, sendo 55,5 M.</p>
+<ul>
+<li>Produto iônico da água:</li>
+</ul>
+<p><span class="math display">\[K_w = K_{eq} \cdot [\mathrm{H_2O}] = [\mathrm{H^+}][\mathrm{OH^-}] = 1 \cdot 10^{-14}\,\mathrm{M^2}\]</span></p>
+<ul>
+<li>Na água pura, [H<sup>+</sup>] = [OH<sup>–</sup>] = 10<sup>–7</sup> M.</li>
+</ul>
+<!-- Slide 38 -->
 </section>
 
-<section id="slide-33" class="title-slide slide level1 center">
-<h1>Slide 33:</h1>
-<p>Efeito da Pressão Osmótica nas Células</p>
+<section id="o-que-é-ph" class="title-slide slide level1 smaller center">
+<h1>O Que É pH?</h1>
+<div class="columns">
+<div class="column" style="width:48%;">
+<div class="elipse" style="width:328px; height:128px; margin:0 auto;">
+<p><span class="math inline">\(\mathbf{pH = -\log[H^+]}\)</span></p>
+</div>
+<p><span class="math display">\[K_w = [\mathrm{H^+}][\mathrm{OH^-}] = 1 \cdot 10^{-14}\,\mathrm{M^2}\]</span></p>
+<p><span class="math display">\[-\log[\mathrm{H^+}] - \log[\mathrm{OH^-}] = +14\]</span></p>
+<p><span class="math display">\[\mathrm{pH} + \mathrm{pOH} = 14\]</span></p>
+</div><div class="column" style="width:52%;">
+<ul>
+<li>O pH é definido como o logaritmo negativo da concentração de íons hidrogênio.</li>
+<li>Simplifica equações</li>
+<li>O pH e o pOH devem sempre somar 14.</li>
+<li>Em solução neutra, [H<sup>+</sup>] = [OH<sup>–</sup>] e o pH é 7.</li>
+<li>O pH pode ser negativo ([H<sup>+</sup>] = 6 M).</li>
+</ul>
+</div></div>
+<!-- Slide 39 -->
 </section>
 
-<section id="slide-34" class="title-slide slide level1 center">
-<h1>Slide 34:</h1>
-<p>Ionização da Água Ligações O-H são polares e podem dissociar-se heteroliticamente. Os produtos são um próton (H+) e um íon hidróxido (OH–). A dissociação da água é um processo reversível rápido. A maioria das moléculas de água permanece não ionizada; assim, a água pura tem condutividade elétrica muito baixa (resistência: 18 MΩ•cm). O equilíbrio está fortemente deslocado para a esquerda (baixo Keq). A extensão da dissociação depende da temperatura. H2O H+ + OH⎼ → ←</p>
+<section id="a-escala-de-ph-é-logarítmica-1-unidade-10-vezes" class="title-slide slide level1 center">
+<h1>A Escala de pH É Logarítmica: <br>1 unidade = 10 vezes</h1>
+<div class="tabela-ph">
+<table class="caption-top">
+<caption>TABELA 2-6 A Escala de pH</caption>
+<colgroup>
+<col style="width: 25%">
+<col style="width: 25%">
+<col style="width: 25%">
+<col style="width: 25%">
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: center;">[H<sup>+</sup>] (M)</th>
+<th style="text-align: center;">pH</th>
+<th style="text-align: center;">[OH<sup>–</sup>] (M)</th>
+<th style="text-align: center;">pOH<sup>a</sup></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;">10<sup>0</sup> (1)</td>
+<td style="text-align: center;">0</td>
+<td style="text-align: center;">10<sup>–14</sup></td>
+<td style="text-align: center;">14</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">10<sup>–1</sup></td>
+<td style="text-align: center;">1</td>
+<td style="text-align: center;">10<sup>–13</sup></td>
+<td style="text-align: center;">13</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">10<sup>–2</sup></td>
+<td style="text-align: center;">2</td>
+<td style="text-align: center;">10<sup>–12</sup></td>
+<td style="text-align: center;">12</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">10<sup>–3</sup></td>
+<td style="text-align: center;">3</td>
+<td style="text-align: center;">10<sup>–11</sup></td>
+<td style="text-align: center;">11</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">10<sup>–4</sup></td>
+<td style="text-align: center;">4</td>
+<td style="text-align: center;">10<sup>–10</sup></td>
+<td style="text-align: center;">10</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">10<sup>–5</sup></td>
+<td style="text-align: center;">5</td>
+<td style="text-align: center;">10<sup>–9</sup></td>
+<td style="text-align: center;">9</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">10<sup>–6</sup></td>
+<td style="text-align: center;">6</td>
+<td style="text-align: center;">10<sup>–8</sup></td>
+<td style="text-align: center;">8</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">10<sup>–7</sup></td>
+<td style="text-align: center;">7</td>
+<td style="text-align: center;">10<sup>–7</sup></td>
+<td style="text-align: center;">7</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">10<sup>–8</sup></td>
+<td style="text-align: center;">8</td>
+<td style="text-align: center;">10<sup>–6</sup></td>
+<td style="text-align: center;">6</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">10<sup>–9</sup></td>
+<td style="text-align: center;">9</td>
+<td style="text-align: center;">10<sup>–5</sup></td>
+<td style="text-align: center;">5</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">10<sup>–10</sup></td>
+<td style="text-align: center;">10</td>
+<td style="text-align: center;">10<sup>–4</sup></td>
+<td style="text-align: center;">4</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">10<sup>–11</sup></td>
+<td style="text-align: center;">11</td>
+<td style="text-align: center;">10<sup>–3</sup></td>
+<td style="text-align: center;">3</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">10<sup>–12</sup></td>
+<td style="text-align: center;">12</td>
+<td style="text-align: center;">10<sup>–2</sup></td>
+<td style="text-align: center;">2</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">10<sup>–13</sup></td>
+<td style="text-align: center;">13</td>
+<td style="text-align: center;">10<sup>–1</sup></td>
+<td style="text-align: center;">1</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">10<sup>–14</sup></td>
+<td style="text-align: center;">14</td>
+<td style="text-align: center;">10<sup>0</sup> (1)</td>
+<td style="text-align: center;">0</td>
+</tr>
+</tbody>
+</table>
+<div class="nota">
+<p><sup>a</sup>A expressão pOH é às vezes usada para descrever a basicidade, ou concentração de OH<sup>–</sup>, de uma solução; pOH é definido pela expressão pOH = −log [OH<sup>–</sup>], que é análoga à expressão para pH. Observe que em todos os casos, pH + pOH = 14.</p>
+</div>
+</div>
+<!-- Slide 40 -->
 </section>
 
-<section id="slide-35" class="title-slide slide level1 center">
-<h1>Slide 35:</h1>
-<p>Hidratação de Prótons Prótons não existem livres em solução.<br>
-Eles são imediatamente hidratados para formar íons hidrônio (H3O+).</p>
-<p>Um íon hidrônio é uma molécula de água com um próton associado a um dos pares de elétrons não ligantes. Íons hidrônio são solvatados por moléculas de água próximas. As ligações covalentes e de hidrogênio são intercambiáveis. Isso permite uma mobilidade extremamente rápida de prótons na água via “salto de prótons” (<em>proton hopping</em>).</p>
+<section id="ph-de-alguns-líquidos-comuns" class="title-slide slide level1 center">
+<h1>pH de Alguns Líquidos Comuns</h1>
+
+<!-- Slide 41 -->
+<img data-src="../imgs/cap02.image25.jpg" class="r-stretch quarto-figure quarto-figure-center"></section>
+
+<section id="dissociação-de-eletrólitos-fracos-princípio" class="title-slide slide level1 smaller center">
+<h1>Dissociação de Eletrólitos Fracos: <br>Princípio</h1>
+<div class="columns">
+<div class="column" style="width:50%;">
+<p><a href="../imgs/cap02.image16.png" class="lightbox" data-gallery="quarto-lightbox-gallery-19"><img data-src="../imgs/cap02.image16.png" width="440"></a></p>
+<p><span class="math display">\[K_a = \frac{[\mathrm{H^+}][\mathrm{CH_3COO^-}]}{[\mathrm{CH_3COOH}]} = 1{,}74 \cdot 10^{-5}\,\mathrm{M}\]</span></p>
+</div><div class="column" style="width:50%;">
+<ul>
+<li><p>Eletrólitos fracos dissociam-se apenas parcialmente na água.</p></li>
+<li><p>A extensão da dissociação é determinada pela constante de dissociação ácida <em>K</em><sub>a</sub>.</p></li>
+<li><p>Podemos calcular o pH se o <em>K</em><sub>a</sub> for conhecido. Mas é necessária alguma álgebra!</p></li>
+</ul>
+</div></div>
+<!-- Slide 42 -->
 </section>
 
-<section id="slide-36" class="title-slide slide level1 center">
-<h1>Slide 36:</h1>
-<p>Salto de Prótons (<em>Proton Hopping</em>)</p>
+<section id="dissociação-de-eletrólitos-fracos-exemplo" class="title-slide slide level1 smaller center">
+<h1>Dissociação de Eletrólitos Fracos: Exemplo</h1>
+<p><span class="vermelho">Qual é o pH final de uma solução quando 0,1 mol de ácido acético é adicionado à água para um volume final de 1 L?</span></p>
+<p><a href="../imgs/cap02.image17.png" class="lightbox" data-gallery="quarto-lightbox-gallery-20"><img data-src="../imgs/cap02.image17.png" class="absolute" style="top: 260px; left: 96px; width: 472px; "></a></p>
+<div class="absolute" style="top: 372px; left: 108px; ">
+<p>0,1 – x</p>
+</div>
+<div class="absolute" style="top: 372px; left: 374px; ">
+<p>x</p>
+</div>
+<div class="absolute" style="top: 372px; left: 504px; ">
+<p>x</p>
+</div>
+<div class="absolute" style="top: 432px; left: 136px; width: 440px; ">
+<p><span class="math inline">\(\displaystyle K_a = \frac{[x][x]}{[0{,}1 - x]} = 1{,}74 \cdot 10^{-5}\,\mathrm{M}\)</span></p>
+</div>
+<div class="absolute" style="top: 528px; left: 96px; width: 480px; ">
+<p><span class="math inline">\(x^2 = 1{,}74 \cdot 10^{-6} - 1{,}74 \cdot 10^{-5}\,x\)</span></p>
+</div>
+<div class="absolute" style="top: 584px; left: 96px; width: 480px; ">
+<p><span class="math inline">\(x^2 + 1{,}74 \cdot 10^{-5}\,x - 1{,}74 \cdot 10^{-6} = 0\)</span></p>
+</div>
+<div class="absolute" style="color:#00f;top: 648px; left: 96px; width: 480px; ">
+<p>x = 0,001310, pH = 2,883</p>
+</div>
+<div class="absolute" style="top: 264px; left: 576px; width: 328px; ">
+<ul>
+<li><p>Assumimos que a única fonte de H<sup>+</sup> é o ácido fraco.</p></li>
+<li><p>Para encontrar [H<sup>+</sup>], uma equação quadrática deve ser resolvida.</p></li>
+</ul>
+</div>
+<!-- Slide 43 -->
 </section>
 
-<section id="slide-37" class="title-slide slide level1 center">
-<h1>Slide 37:</h1>
-<p>Ionização da Água: Tratamento Quantitativo As concentrações das espécies participantes em um processo de equilíbrio não são independentes, mas estão relacionadas pela constante de equilíbrio: → ← H2O H+ + OH⎼ Keq = __________ [H+] • [OH⎼] [H2O] Keq pode ser determinado experimentalmente, sendo 1,8 • 10–16 M a 25°C. [H2O] pode ser determinado a partir da densidade da água, sendo 55,5 M.</p>
-<p>Produto iônico da água:</p>
-<p>Na água pura, [H+] = [OH–] = 10–7 M.</p>
+<section id="dissociação-de-eletrólitos-fracos-simplificação" class="title-slide slide level1 smaller center">
+<h1>Dissociação de Eletrólitos Fracos: Simplificação</h1>
+<p><a href="../imgs/cap02.image17.png" class="lightbox" data-gallery="quarto-lightbox-gallery-21"><img data-src="../imgs/cap02.image17.png" class="absolute" style="top: 227px; left: 56px; width: 456px; "></a></p>
+<div class="absolute" style="font-style:italic;top: 326px; left: 65px; ">
+<p>0,1 – x</p>
+</div>
+<div class="absolute" style="font-style:italic;top: 326px; left: 324px; ">
+<p>x</p>
+</div>
+<div class="absolute" style="font-style:italic;top: 326px; left: 444px; ">
+<p>x</p>
+</div>
+<div class="absolute" style="font-style:italic; color:#dc080d;top: 366px; left: 96px; ">
+<p>0,1</p>
+</div>
+<div class="absolute" style="font-style:italic; color:#dc080d;top: 366px; left: 324px; ">
+<p>x</p>
+</div>
+<div class="absolute" style="font-style:italic; color:#dc080d;top: 366px; left: 444px; ">
+<p>x</p>
+</div>
+<div class="absolute" style="top: 434px; left: 91px; width: 440px; ">
+<p><span class="math inline">\(\displaystyle K_a = \frac{[x][x]}{[0{,}1]} = 1{,}74 \cdot 10^{-5}\,\mathrm{M}\)</span></p>
+</div>
+<div class="absolute" style="top: 526px; left: 124px; width: 380px; ">
+<p><span class="math inline">\(x^2 = 1{,}74 \cdot 10^{-6}\)</span></p>
+</div>
+<div class="absolute" style="color:#00f; font-style:italic;top: 616px; left: 120px; width: 380px; ">
+<p>x = 0,00132, pH = 2,880</p>
+</div>
+<div class="absolute" style="top: 208px; left: 528px; width: 400px; ">
+<ul>
+<li>A equação pode ser simplificada se a quantidade de espécies dissociadas for muito menor do que a quantidade de ácido não dissociado.</li>
+<li>A aproximação funciona para ácidos e bases suficientemente fracos.</li>
+<li>Verifique se <em>x</em> &lt; [ácido total].</li>
+</ul>
+</div>
+<!-- Slide 44 -->
 </section>
 
-<section id="slide-38" class="title-slide slide level1 center">
-<h1>Slide 38:</h1>
-<p>O Que É pH? O pH é definido como o logaritmo negativo da concentração de íons hidrogênio. Simplifica equações O pH e o pOH devem sempre somar 14. Em solução neutra, [H+] = [OH–] e o pH é 7. O pH pode ser negativo ([H+] = 6 M). pH = −log[H+]</p>
+<section id="pka-mede-a-acidez" class="title-slide slide level1 center">
+<h1>p<em>K</em><sub>a</sub> Mede a Acidez</h1>
+<div class="vermelho" style="font-weight:bold; text-align:center;">
+<p>p<em>K</em><sub>a</sub> = –log <em>K</em><sub>a</sub></p>
+</div>
+
+<!-- Slide 45 -->
+<img data-src="../imgs/cap02.image26.jpg" class="r-stretch quarto-figure quarto-figure-center"></section>
+
+<section>
+<section id="tampões-são-misturas-de-ácidos-fracos-e-seus-ânions-base-conjugada" class="title-slide slide level1 smaller center">
+<h1>Tampões São Misturas de Ácidos Fracos e Seus Ânions (Base Conjugada)</h1>
+<ul>
+<li>Tampões resistem a mudanças no pH.</li>
+<li>Em pH = p<em>K</em><sub>a</sub>, há uma mistura 50:50 das formas ácida e aniônica do composto.</li>
+<li>A capacidade tamponante do sistema ácido/ânion é máxima em pH = p<em>K</em><sub>a</sub>.</li>
+<li>A capacidade tamponante é perdida quando o pH difere do p<em>K</em><sub>a</sub> em mais de 1 unidade de pH.</li>
+</ul>
+<!-- Slide 46 -->
+</section>
+<section class="slide level2 center">
+
+
+<!-- Slide 47 -->
+<img data-src="../imgs/cap02.image31.jpg" class="r-stretch quarto-figure quarto-figure-center"></section></section>
+<section id="ácidos-fracos-têm-diferentes-pkas" class="title-slide slide level1 center">
+<h1>Ácidos Fracos Têm Diferentes p<em>K</em><sub>a</sub>s</h1>
+
+<!-- Slide 48 -->
+<img data-src="../imgs/cap02.image30.jpg" class="r-stretch quarto-figure quarto-figure-center"></section>
+
+<section id="equação-de-hendersonhasselbalch-derivação" class="title-slide slide level1 center">
+<h1>Equação de Henderson–Hasselbalch: Derivação</h1>
+<div class="absolute" style="text-align:center;top: 164px; left: 100px; width: 290px; ">
+<p><span class="math inline">\(\mathrm{HA} \rightleftharpoons \mathrm{H^+} + \mathrm{A^-}\)</span></p>
+</div>
+<div class="absolute" style="text-align:center;top: 144px; left: 560px; width: 290px; ">
+<p><span class="math inline">\(\displaystyle K_a = \frac{[\mathrm{H^+}][\mathrm{A^-}]}{[\mathrm{HA}]}\)</span></p>
+</div>
+<div class="absolute" style="text-align:center;top: 248px; left: 206px; width: 500px; ">
+<p><span class="math inline">\(\displaystyle [\mathrm{H^+}] = K_a \frac{[\mathrm{HA}]}{[\mathrm{A^-}]}\)</span></p>
+</div>
+<div class="absolute" style="text-align:center;top: 363px; left: 206px; width: 500px; ">
+<p><span class="math inline">\(\displaystyle -\log[\mathrm{H^+}] = -\log K_a - \log\frac{[\mathrm{HA}]}{[\mathrm{A^-}]}\)</span></p>
+</div>
+<svg style="position:absolute; left:0; top:0; pointer-events:none;" width="960" height="720" viewbox="0 0 960 720">
+<defs><marker id="seta" markerwidth="8" markerheight="8" refx="4" refy="4" orient="auto"><path d="M0,0 L8,4 L0,8 z" fill="#000"></path></marker></defs><line x1="456" y1="340" x2="456" y2="372" stroke="#000" stroke-width="3" marker-end="url(#seta)"></line><line x1="456" y1="436" x2="456" y2="506" stroke="#000" stroke-width="3" marker-end="url(#seta)"></line>
+</svg>
+<div class="absolute elipse" style="font-size:1.2em;top: 488px; left: 206px; width: 500px; height: 208px; ">
+<p><span class="math inline">\(\displaystyle \mathrm{pH} = \mathrm{p}K_a + \log\frac{[\mathrm{A^-}]}{[\mathrm{HA}]}\)</span></p>
+</div>
+<!-- Slide 49 -->
 </section>
 
-<section id="slide-39" class="title-slide slide level1 center">
-<h1>Slide 39:</h1>
-<p>A Escala de pH É Logarítmica: 1 unidade = 10 vezes TABELA 2-6 A Escala de pH<br>
-[H+] (M) pH [OH–] (M) pOHa<br>
-100 (1) 0 10–14 14<br>
-10–1 1 10–13 13<br>
-10–2 2 10–12 12<br>
-10–3 3 10–11 11<br>
-10–4 4 10–10 10<br>
-10–5 5 10–9 9<br>
-10–6 6 10–8 8<br>
-10–7 7 10–7 7<br>
-10–8 8 10–6 6<br>
-10–9 9 10–5 5<br>
-10–10 10 10–4 4<br>
-10–11 11 10–3 3<br>
-10–12 12 10–2 2<br>
-10–13 13 10–1 1<br>
-10–14 14 100 (1) 0<br>
-aA expressão pOH é às vezes usada para descrever a basicidade, ou concentração de OH–, de uma solução; pOH é definido pela expressão pOH = −log [OH–], que é análoga à expressão para pH. Observe que em todos os casos, pH + pOH = 14.</p>
+<section id="equação-de-hendersonhasselbalch-exemplo" class="title-slide slide level1 center">
+<h1>Equação de Henderson–Hasselbalch: Exemplo</h1>
+<div class="vermelho">
+<p>Um tampão é composto por 0,1 M de ácido acético (CH<sub>3</sub>COOH, p<em>K</em><sub>a</sub> = 4,76) e 0,05 M de acetato de sódio (CH<sub>3</sub>COONa). Qual é o pH final do tampão?</p>
+<p><span class="math display">\[\mathrm{pH} = 4{,}76 + \log \frac{[0{,}05]}{[0{,}1]}\]</span></p>
+<div style="text-align:center;">
+<p>pH final do tampão = 4,45</p>
+</div>
+</div>
+<!-- Slide 50 -->
 </section>
 
-<section id="slide-40" class="title-slide slide level1 center">
-<h1>Slide 40:</h1>
-<p>pH de Alguns Líquidos Comuns</p>
+<section id="sistemas-tampão-biológicos" class="title-slide slide level1 smaller center">
+<h1>Sistemas Tampão Biológicos</h1>
+<ul>
+<li>A manutenção do pH intracelular é vital para todas as células.
+<ul>
+<li>Reações catalisadas por enzimas têm pH ótimo.</li>
+<li>A solubilidade de moléculas polares depende de doadores e aceptores de ligações de H.</li>
+<li>O equilíbrio entre o gás CO<sub>2</sub> e o HCO<sub>3</sub><sup>–</sup> dissolvido depende do pH.</li>
+</ul></li>
+<li>Sistemas tampão <em>in vivo</em> são baseados principalmente em:
+<ul>
+<li>fosfato, concentração na faixa milimolar</li>
+<li>bicarbonato, importante para o plasma sanguíneo</li>
+<li>histidina, tampão eficiente em pH neutro</li>
+</ul></li>
+<li>Sistemas tampão <em>in vitro</em> são frequentemente baseados em ácidos sulfônicos de aminas cíclicas.
+<ul>
+<li>HEPES</li>
+<li>PIPES</li>
+<li>CHES</li>
+</ul></li>
+</ul>
+<p><a href="../imgs/cap02.image34.png" class="lightbox" data-gallery="quarto-lightbox-gallery-25"><img data-src="../imgs/cap02.image34.png" class="absolute" style="top: 584px; left: 344px; width: 319px; height: 87px; "></a></p>
+<!-- Slide 51 -->
 </section>
 
-<section id="slide-41" class="title-slide slide level1 center">
-<h1>Slide 41:</h1>
-<p>Dissociação de Eletrólitos Fracos: Princípio Eletrólitos fracos dissociam-se apenas parcialmente na água.</p>
-<p>A extensão da dissociação é determinada pela constante de dissociação ácida Ka.</p>
-<p>Podemos calcular o pH se o Ka for conhecido. Mas é necessária alguma álgebra!</p>
-</section>
+<section id="a-água-ligada-a-proteínas-é-essencial-para-sua-função" class="title-slide slide level1 center">
+<h1>A Água Ligada a Proteínas É <br>Essencial para Sua Função</h1>
 
-<section id="slide-42" class="title-slide slide level1 center">
-<h1>Slide 42:</h1>
-<p>Dissociação de Eletrólitos Fracos: Exemplo Qual é o pH final de uma solução quando 0,1 mol de ácido acético é adicionado à água para um volume final de 1 L? 0,1 – x x x</p>
-<p>x = 0,001310, pH = 2,883 Assumimos que a única fonte de H+ é o ácido fraco.</p>
-<p>Para encontrar [H+], uma equação quadrática deve ser resolvida.</p>
-</section>
+<!-- Slide 52 -->
+<img data-src="../imgs/cap02.image37.jpg" class="r-stretch quarto-figure quarto-figure-center"></section>
 
-<section id="slide-43" class="title-slide slide level1 center">
-<h1>Slide 43:</h1>
-<p>Dissociação de Eletrólitos Fracos: Simplificação 0,1 – x x x 0,1 x x</p>
-<p>x = 0,00132, pH = 2,880 A equação pode ser simplificada se a quantidade de espécies dissociadas for muito menor do que a quantidade de ácido não dissociado. A aproximação funciona para ácidos e bases suficientemente fracos. Verifique se x &lt; [ácido total].</p>
-</section>
+<section id="a-água-ligada-a-proteínas-é-essencial-para-sua-função-1" class="title-slide slide level1 center">
+<h1>A Água Ligada a Proteínas É <br>Essencial para Sua Função</h1>
 
-<section id="slide-44" class="title-slide slide level1 center">
-<h1>Slide 44:</h1>
-<p>pKa Mede a Acidez pKa = –log Ka</p>
-</section>
+<!-- Slide 53 -->
+<img data-src="../imgs/cap02.image33.jpg" class="r-stretch quarto-figure quarto-figure-center"></section>
 
-<section id="slide-45" class="title-slide slide level1 center">
-<h1>Slide 45:</h1>
-<p>Tampões São Misturas de Ácidos Fracos e Seus Ânions (Base Conjugada)</p>
-<p>Tampões resistem a mudanças no pH. Em pH = pKa, há uma mistura 50:50 das formas ácida e aniônica do composto. A capacidade tamponante do sistema ácido/ânion é máxima em pH = pKa. A capacidade tamponante é perdida quando o pH difere do pKa em mais de 1 unidade de pH.</p>
-</section>
+<section id="a-água-ligada-a-proteínas-é-essencial-para-sua-função-2" class="title-slide slide level1 center">
+<h1>A Água Ligada a Proteínas É <br>Essencial para Sua Função</h1>
 
-<section id="slide-46" class="title-slide slide level1 center">
-<h1>Slide 46:</h1>
+<!-- Slide 54 -->
+<img data-src="../imgs/cap02.image42.jpg" class="r-stretch quarto-figure quarto-figure-center"></section>
 
-</section>
-
-<section id="slide-47" class="title-slide slide level1 center">
-<h1>Slide 47:</h1>
-<p>Ácidos Fracos Têm Diferentes pKas</p>
-</section>
-
-<section id="slide-48" class="title-slide slide level1 center">
-<h1>Slide 48:</h1>
-<p>Equação de Henderson–Hasselbalch: Derivação</p>
-<p>HA H+ + A- ← →</p>
-</section>
-
-<section id="slide-49" class="title-slide slide level1 center">
-<h1>Slide 49:</h1>
-<p>Equação de Henderson–Hasselbalch: Exemplo</p>
-</section>
-
-<section id="slide-50" class="title-slide slide level1 center">
-<h1>Slide 50:</h1>
-<p>Sistemas Tampão Biológicos A manutenção do pH intracelular é vital para todas as células. Reações catalisadas por enzimas têm pH ótimo. A solubilidade de moléculas polares depende de doadores e aceptores de ligações de H. O equilíbrio entre o gás CO2 e o HCO3– dissolvido depende do pH.</p>
-<p>Sistemas tampão in vivo são baseados principalmente em: fosfato, concentração na faixa milimolar bicarbonato, importante para o plasma sanguíneo histidina, tampão eficiente em pH neutro</p>
-<p>Sistemas tampão in vitro são frequentemente baseados em ácidos sulfônicos de aminas cíclicas. HEPES PIPES CHES</p>
-</section>
-
-<section id="slide-51" class="title-slide slide level1 center">
-<h1>Slide 51:</h1>
-<p>A Água Ligada a Proteínas É Essencial para Sua Função</p>
-</section>
-
-<section id="slide-52" class="title-slide slide level1 center">
-<h1>Slide 52:</h1>
-<p>A Água Ligada a Proteínas É Essencial para Sua Função</p>
-</section>
-
-<section id="slide-53" class="title-slide slide level1 center">
-<h1>Slide 53:</h1>
-<p>A Água Ligada a Proteínas É Essencial para Sua Função</p>
-</section>
-
-<section id="slide-54" class="title-slide slide level1 center">
-<h1>Slide 54:</h1>
-<p>Capítulo 2: Resumo Neste capítulo, aprendemos sobre a:</p>
-<p>natureza das forças intermoleculares propriedades e estrutura da água líquida comportamento de ácidos e bases fracos na água maneira como a água pode participar de reações bioquímicas</p>
+<section id="capítulo-2-resumo" class="title-slide slide level1 center">
+<h1>Capítulo 2: Resumo</h1>
+<p>Neste capítulo, aprendemos sobre a:</p>
+<ul>
+<li>natureza das forças intermoleculares</li>
+<li>propriedades e estrutura da água líquida</li>
+<li>comportamento de ácidos e bases fracos na água</li>
+<li>maneira como a água pode participar de reações bioquímicas</li>
+</ul>
 
 
 </section>
@@ -898,6 +1400,38 @@ aA expressão pOH é às vezes usada para descrever a basicidade, ou concentraç
         }
       });
       </script>
+    <script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","descPosition":"bottom","loop":false,"openEffect":"zoom","selector":".lightbox"});
+    (function() {
+      let previousOnload = window.onload;
+      window.onload = () => {
+        if (previousOnload) {
+          previousOnload();
+        }
+        lightboxQuarto.on('slide_before_load', (data) => {
+          const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+          const href = trigger.getAttribute('href');
+          if (href !== null) {
+            const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+            if (imgEl !== null) {
+              const srcAttr = imgEl.getAttribute("src");
+              if (srcAttr && srcAttr.startsWith("data:")) {
+                slideConfig.href = srcAttr;
+              }
+            }
+          } 
+        });
+      
+        lightboxQuarto.on('slide_after_load', (data) => {
+          const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(slideNode);
+          }
+        });
+      
+      };
+      
+    })();
+              </script>
     
 
 </body></html>
