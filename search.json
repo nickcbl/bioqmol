@@ -1,14 +1,7 @@
 [
   {
-    "objectID": "slides.html",
-    "href": "slides.html",
-    "title": "Lista de Aulas",
-    "section": "",
-    "text": "Capítulo 1\nCapítulo 2\nCapítulo 3\nCapítulo 4\nCapítulo 5\nCapítulo 6\nCapítulo 7\nCapítulo 8\nCapítulo 9\nCapítulo 10\nCapítulo 11\nCapítulo 12\nCapítulo 13\nCapítulo 14\nCapítulo 15\nCapítulo 16\nCapítulo 17\nCapítulo 18\nCapítulo 19\nCapítulo 20\nCapítulo 21\nCapítulo 22\nCapítulo 23\nCapítulo 24\nCapítulo 25\nCapítulo 26\nCapítulo 27\nCapítulo 28"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
+    "objectID": "sobre.html",
+    "href": "sobre.html",
     "title": "About",
     "section": "",
     "text": "About this site"
@@ -18,6 +11,13 @@
     "href": "index.html",
     "title": "Bioquímica e Biologia Molecular",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Recursos didáticos para disciplinas de Bioquímica e Biologia Molecular.  A referência básica é o Lehninger: Princípios de Bioquímica. Editora ArtMed. 8a edição."
+  },
+  {
+    "objectID": "slides.html",
+    "href": "slides.html",
+    "title": "Lista de Aulas",
+    "section": "",
+    "text": "Lehninger: Princípios de Bioquímica. 8ª Edição\n\n\n\nCapítulo Referência: Lehninger\nLink para Aulas\nTema\n\n\n\n\nCapítulo 1\nLink para Aula 1\nFundamentos de Bioquímica\n\n\nCapítulo 2\nLink para Aula 2\nÁgua, o solvente da vida\n\n\nCapítulo 3\nLink para Aula 3\nAminoácidos, Peptídeos e Proteínas\n\n\nCapítulo 4\nLink para Aula 4\nEstrutura Tridimensional de Proteínas\n\n\nCapítulo 5\nLink para Aula 5\nFunção das proteínas\n\n\nCapítulo 6\nLink para Aula 6\nEnzimas\n\n\nCapítulo 8\nLink para Aula 8\nNucleotideos e ácidos nucleicos\n\n\nCapítulo 9\nLink para Aula 9\nTecnologias da informação baseadas no DNA\n\n\nCapítulo 10\nLink para Aula 10\nLipídeos\n\n\nCapítulo 11\nLink para Aula 11\nMembranas biológicas e transporte\n\n\nCapítulo 12\nLink para Aula 12\nSinalização bioquímica\n\n\nCapítulo 13\nLink para Aula 13\nIntrodução ao metabolismo\n\n\nCapítulo 14\nLink para Aula 14\nGlicólise, gliconeogênese e a via das pentoses-fosfato\n\n\nCapítulo 15\nLink para Aula 15\nMetabolismo do glicogênio nos animais\n\n\nCapítulo 16\nLink para Aula 16\nCiclo do ácido cítrico\n\n\nCapítulo 17\nLink para Aula 17\nCatabolismo dos ácidos graxos\n\n\nCapítulo 18\nLink para Aula 18\nOxidação de aminoácidos e produção de ureia\n\n\nCapítulo 19\nLink para Aula 19\nFosforilação oxidativa\n\n\nCapítulo 20\nLink para Aula 20\nFotossíntese e síntese de carboidratos em vegetais\n\n\nCapítulo 21\nLink para Aula 21\nBiossíntese de lipídeos\n\n\nCapítulo 22\nLink para Aula 22\nBiossíntese de aminoácidos, nucleotídeos e moléculas relacionadas\n\n\nCapítulo 23\nLink para Aula 23\nRegulação hormonal e integração do metabolismo em mamíferos\n\n\nCapítulo 24\nLink para Aula 24\nGenes e cromossomos\n\n\nCapítulo 25\nLink para Aula 25\nMetabolismo do DNA\n\n\nCapítulo 26\nLink para Aula 26\nCapítulo 26: Metabolismo do RNA\n\n\nCapítulo 27\nLink para Aula 27\nMetabolismo das proteínas\n\n\nCapítulo 28\nLink para Aula 28\nRegulação da expressão gênica"
   }
 ]
