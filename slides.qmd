@@ -1,0 +1,124 @@
+---
+title: Lista de Aulas
+---
+
+Lehninger: Princípios de Bioquímica. 8ª Edição
+
+::: {.list-table}
+
+- - Capítulo Referência: Lehninger
+  - Link para Aulas
+  - Tema
+
+- - Capítulo 1
+  - [Link para Aula 1](slides/lehninger_7e_ppt_ch01_pt_br.qmd)
+  - Fundamentos de Bioquímica
+
+- - Capítulo 2
+  - [Link para Aula 2](slides/lehninger_7e_ppt_ch02_pt_br.qmd)
+  - Água, o solvente da vida
+
+- - Capítulo 3
+  - [Link para Aula 3](slides/lehninger_7e_ppt_ch03_pt_br.qmd)
+  - Aminoácidos, Peptídeos e Proteínas
+
+- - Capítulo 4
+  - [Link para Aula 4](slides/lehninger_7e_ppt_ch04_pt_br.qmd)
+  - Estrutura Tridimensional de Proteínas
+
+- - Capítulo 5
+  - [Link para Aula 5](slides/lehninger_7e_ppt_ch05_pt_br.qmd)
+  - Função das proteínas
+
+- - Capítulo 6
+  - [Link para Aula 6](slides/lehninger_7e_ppt_ch06_pt_br.qmd)
+  - Enzimas
+
+  - - Capítulo 7
+  - [Link para Aula 7](slides/lehninger_7e_ppt_ch07_pt_br.qmd)
+  - Carboidratos e glicobiologia
+
+- - Capítulo 8
+  - [Link para Aula 8](slides/lehninger_7e_ppt_ch08_pt_br.qmd)
+  - Nucleotideos e ácidos nucleicos
+
+- - Capítulo 9
+  - [Link para Aula 9](slides/lehninger_7e_ppt_ch09_pt_br.qmd)
+  - Tecnologias da informação baseadas no DNA
+
+- - Capítulo 10
+  - [Link para Aula 10](slides/lehninger_7e_ppt_ch10_pt_br.qmd)
+  - Lipídeos
+
+- - Capítulo 11
+  - [Link para Aula 11](slides/lehninger_7e_ppt_ch11_pt_br.qmd)
+  - Membranas biológicas e transporte
+
+- - Capítulo 12
+  - [Link para Aula 12](slides/lehninger_7e_ppt_ch12_pt_br.qmd)
+  - Sinalização bioquímica
+
+- - Capítulo 13
+  - [Link para Aula 13](slides/lehninger_7e_ppt_ch13_pt_br.qmd)
+  - Introdução ao metabolismo
+
+- - Capítulo 14
+  - [Link para Aula 14](slides/lehninger_7e_ppt_ch14_pt_br.qmd)
+  - Glicólise, gliconeogênese e a via das pentoses-fosfato
+
+- - Capítulo 15
+  - [Link para Aula 15](slides/lehninger_7e_ppt_ch15_pt_br.qmd)
+  - Metabolismo do glicogênio nos animais
+
+- - Capítulo 16
+  - [Link para Aula 16](slides/lehninger_7e_ppt_ch16_pt_br.qmd)
+  - Ciclo do ácido cítrico
+
+- - Capítulo 17
+  - [Link para Aula 17](slides/lehninger_7e_ppt_ch17_pt_br.qmd)
+  - Catabolismo dos ácidos graxos
+
+- - Capítulo 18
+  - [Link para Aula 18](slides/lehninger_7e_ppt_ch18_pt_br.qmd)
+  - Oxidação de aminoácidos e produção de ureia
+
+- - Capítulo 19
+  - [Link para Aula 19](slides/lehninger_7e_ppt_ch19_pt_br.qmd)
+  - Fosforilação oxidativa
+
+- - Capítulo 20
+  - [Link para Aula 20](slides/lehninger_7e_ppt_ch20_pt_br.qmd)
+  - Fotossíntese e síntese de carboidratos em vegetais
+
+- - Capítulo 21
+  - [Link para Aula 21](slides/lehninger_7e_ppt_ch21_pt_br.qmd)
+  - Biossíntese de lipídeos
+
+- - Capítulo 22
+  - [Link para Aula 22](slides/lehninger_7e_ppt_ch22_pt_br.qmd)
+  - Biossíntese de aminoácidos, nucleotídeos e moléculas relacionadas
+
+- - Capítulo 23
+  - [Link para Aula 23](slides/lehninger_7e_ppt_ch23_pt_br.qmd)
+  - Regulação hormonal e integração do metabolismo em mamíferos
+
+- - Capítulo 24
+  - [Link para Aula 24](slides/lehninger_7e_ppt_ch24_pt_br.qmd)
+  - Genes e cromossomos
+
+- - Capítulo 25
+  - [Link para Aula 25](slides/lehninger_7e_ppt_ch25_pt_br.qmd)
+  - Metabolismo do DNA
+
+- - Capítulo 26
+  - [Link para Aula 26](slides/lehninger_7e_ppt_ch26_pt_br.qmd)
+  - Capítulo 26: Metabolismo do RNA
+
+- - Capítulo 27
+  - [Link para Aula 27](slides/lehninger_7e_ppt_ch27_pt_br.qmd)
+  - Metabolismo das proteínas
+
+- - Capítulo 28
+  - [Link para Aula 28](slides/lehninger_7e_ppt_ch28_pt_br.qmd)
+  - Regulação da expressão gênica
+:::

@@ -1,5 +1,5 @@
 ---
-title: "Capítulo"
+title: "Os Fundamentos da Bioquímica"
 # author: Nicholas Costa & Nicholas Barroso
 lang: pt-BR
 date: today
@@ -11,7 +11,6 @@ format:
 #    height: 900
     width: 960
     height: 720
-#    logo: imgs/logo.png
     incremental: false
     theme: tema_azul.scss
     lightbox: true
@@ -21,394 +20,622 @@ format:
     progress: true
     center: true
     auto-stretch: true
+    include-in-header:
+      text: |
+        <style>
+          /* Classes auxiliares usadas neste arquivo (podem ir para o tema_azul.scss) */
+          .azul { color: #0000cd; }
+          .subtitulo { color: #000; font-size: .7em; font-weight: normal; }
+          .legenda-fig { font-size: .55em; }
+          /* Recorte de imagem (equivale ao "crop" do PowerPoint) */
+          .recorte { position: relative; overflow: hidden; }
+          .recorte img { position: absolute; max-width: none; max-height: none; margin: 0; }
+          /* Diagrama de Venn do slide 18 */
+          .venn-elipse { border-radius: 50%; border: 1px solid #555; }
+          .venn-lista { font-size: .55em; line-height: 1.2; }
+          .venn-lista p { margin: 0 0 .9em 0; }
+        </style>
 ---
 
-# Slide 1:
+<!-- Slide 1: título à esquerda, capa do livro à direita -->
 
-1 | Os Fundamentos da Bioquímica
-© 2017 W. H. Freeman and Company
+::: {.columns style="align-items: center;"}
+::: {.column width="45%"}
+::: {style="text-align: center;"}
+**1 \| Os Fundamentos da Bioquímica**
 
-# Slide 2:
-Albert Lehninger (1917–1986)
-O ciclo do ácido cítrico ocorre nas mitocôndrias
-Mecanismo da fosforilação oxidativa
-Estrutura e função mitocondrial
-Bioenergética
+[© 2017 W. H. Freeman and Company]{style="font-size: .5em;"}
+:::
+:::
+::: {.column width="55%"}
+![](../imgs/cap01.image1.png){width=430 fig-align="center"}
+:::
+:::
 
-Autor de livros didáticos clássicos: 
- Bioquímica (1970–1983)
- A Mitocôndria (1964)
- Bioenergética (1965–1974)
+<!-- Slide 2 -->
 
-# Slide 3:
+## Albert Lehninger (1917–1986)
 
-# Slide 4:
-CAPÍTULO 1 
-Os Fundamentos da Bioquímica
-Objetivos de aprendizagem:
-Características distintivas dos organismos vivos
-Estrutura e função das partes da célula
-Papéis das pequenas e grandes biomoléculas
-Transformação de energia nos organismos vivos
-Regulação do metabolismo e catálise
-Codificação da informação genética no DNA
-Papel das mutações e da seleção na evolução
+- O ciclo do ácido cítrico ocorre nas mitocôndrias
+- Mecanismo da fosforilação oxidativa
+- Estrutura e função mitocondrial
+- Bioenergética
+- Autor de livros didáticos clássicos:
+    - *Bioquímica* (1970–1983)
+    - *A Mitocôndria* (1964)
+    - *Bioenergética* (1965–1974)
 
-# Slide 5:
-A Bioquímica É 
-a Química da Matéria Viva
-A matéria viva é caracterizada por:
-um alto grau de complexidade e organização
-a extração, transformação e uso sistemático de energia para criar e manter estruturas e realizar trabalho
-as interações de componentes individuais serem dinâmicas e coordenadas
-a capacidade de perceber e responder às mudanças no ambiente
-uma capacidade de autorreplicação bastante precisa, permitindo mudanças suficientes para a evolução 
+<!-- Slide 3: foto (recortada) + crédito, sem título -->
 
-# Slide 6:
-Complexidade e Organização
+---
 
-# Slide 7:
-Os Organismos Vivos Devem Ingerir e Transformar Nutrientes em Energia
+::: {.absolute left="240" top="11" width="448"}
+<div class="recorte" style="aspect-ratio: 0.699;">
+<img src="../imgs/cap01.image5.png" style="width: 100%; left: 0%; top: 0%;">
+</div>
+:::
 
-# Slide 8:
-Os Organismos Vivos Devem 
-Reproduzir-se com Precisão 
+![](../imgs/cap01.image11.png){.absolute left=243 top=648 width=205}
 
-# Slide 9:
-Três Domínios Distintos da Vida Definidos por Diferenças Celulares e Moleculares que Evoluíram ao Longo do Tempo
+<!-- Slide 4 -->
 
-# Slide 10:
-Seis Reinos da Vida Definidos por
-Diferenças Orgânicas, Celulares e Moleculares
-Seis reinos
- Archaea
- Bacteria
- Protista
- Fungi
- Plantae
- Animalia
-Organização celular
-Procarioto unicelular
-Procarioto unicelular
-Eucarioto unicelular
-Eucarioto uni ou multicelular
-Eucarioto multicelular
-Eucarioto multicelular
+## CAPÍTULO 1 <br>Os Fundamentos da Bioquímica
 
-# Slide 11:
-Célula: O Bloco Construtor Universal 
-Os organismos vivos são feitos de células.
-Os organismos vivos mais simples são unicelulares (uma única célula). 
-Organismos maiores são multicelulares (muitas células), com diferentes funções para diferentes células.
-As células têm algumas características comuns, mas podem conter componentes exclusivos para diferentes organismos.
+*Objetivos de aprendizagem:*
 
-# Slide 12:
-Todas as Células Compartilham Algumas Características Comuns
+- Características distintivas dos organismos vivos
+- Estrutura e função das partes da célula
+- Papéis das pequenas e grandes biomoléculas
+- Transformação de energia nos organismos vivos
+- Regulação do metabolismo e catálise
+- Codificação da informação genética no DNA
+- Papel das mutações e da seleção na evolução
 
-# Slide 13:
-Estrutura da Célula Bacteriana
+<!-- Slide 5 -->
 
-# Slide 14:
-	Estrutura		Composição	Função
+## A Bioquímica É <br>a Química da Matéria Viva {.smaller}
 
-	Parede celular		Carboidrato + proteína	Suporte mecânico
-	Membrana celular	Lipídio + proteína		Barreira de permeabilidade
-	Nucleoide		DNA + proteína		Informação genética
-	Ribossomos		RNA + proteína		Síntese proteica
-	Pili			Proteína			Adesão, conjugação
-	Flagelos		Proteína			Motilidade	
-	Citoplasma		Solução aquosa		Local do metabolismo	
-Componentes da Célula Bacteriana
+**A matéria viva é caracterizada por:**
 
-# Slide 15:
-Células Eucarióticas: Maior Complexidade
-Possuem núcleo delimitado por membrana por definição:
-proteção para o DNA; local do metabolismo do DNA
-importação e exportação seletivas através dos poros da membrana nuclear
-Possuem organelas envolvidas por membrana:
-mitocôndrias para energia em animais, plantas e fungos
-cloroplastos para energia em plantas
-lisossomos para digestão de moléculas desnecessárias
-A segregação compartimental de reações produtoras e consumidoras de energia ajuda as células a manter a homeostase e a permanecerem longe do equilíbrio.
+- um alto grau de complexidade e organização
+- a extração, transformação e uso sistemático de energia para criar e manter estruturas e realizar trabalho
+- as interações de componentes individuais serem dinâmicas e coordenadas
+- a capacidade de perceber e responder às mudanças no ambiente
+- uma capacidade de autorreplicação bastante precisa, permitindo mudanças suficientes para a evolução
 
-# Slide 16:
-Células Animais e Vegetais
-Contêm Componentes Exclusivos
+<!-- Slide 6 -->
 
-# Slide 17:
-Células Animais e Vegetais 
-Contêm Componentes Exclusivos
+## Complexidade e Organização
 
-# Slide 18:
-Células Animais e Vegetais 
-Contêm Componentes Idênticos e Exclusivos
+![](../imgs/cap01.image18.jpg){.r-stretch fig-align="center"}
 
+<!-- Slide 7 -->
 
+## Os Organismos Vivos Devem Ingerir e Transformar Nutrientes em Energia
 
-Membrana
-Núcleo e Nucléolo
-Mitocôndrias
-RE Rugoso e Liso
-Ribossomos
-Complexo de Golgi
-Citoesqueleto
+![](../imgs/cap01.image35.jpg){.r-stretch fig-align="center"}
 
+<!-- Slide 8 -->
 
-Lisossomo
+## Os Organismos Vivos Devem <br>Reproduzir-se com Precisão
 
-Peroxissomos
+![](../imgs/cap01.image2.jpg){.r-stretch fig-align="center"}
 
+<!-- Slide 9 -->
 
-Cloroplasto 
+## Três Domínios Distintos da Vida Definidos por Diferenças Celulares e Moleculares que Evoluíram ao Longo do Tempo
 
-Vacúolo 
+![](../imgs/cap01.image3.jpg){.r-stretch fig-align="center"}
+
+<!-- Slide 10: tabela de duas colunas com setas -->
+
+## Seis Reinos da Vida Definidos por<br>Diferenças Orgânicas, Celulares e Moleculares {.smaller}
+
+| Seis reinos | | Organização celular |
+|:------------|:-:|:--------------------|
+| [Archaea]{.azul}  | → | Procarioto unicelular |
+| [Bacteria]{.azul} | → | Procarioto unicelular |
+| [Protista]{.azul} | → | Eucarioto unicelular |
+| [Fungi]{.azul}    | → | Eucarioto uni ou multicelular |
+| [Plantae]{.azul}  | → | Eucarioto multicelular |
+| [Animalia]{.azul} | → | Eucarioto multicelular |
+
+: {tbl-colwidths="[28,8,64]"}
+
+<!-- Slide 11 -->
+
+## Célula: O Bloco Construtor Universal
+
+- Os organismos vivos são feitos de células.
+- Os organismos vivos mais simples são unicelulares (uma única célula).
+- Organismos maiores são multicelulares (muitas células), com diferentes funções para diferentes células.
+- As células têm algumas características comuns, mas podem conter componentes exclusivos para diferentes organismos.
+
+<!-- Slide 12 -->
+
+## Todas as Células Compartilham Algumas Características Comuns
+
+![](../imgs/cap01.image9.jpg){.r-stretch fig-align="center"}
+
+<!-- Slide 13 -->
+
+## Estrutura da Célula Bacteriana
+
+![](../imgs/cap01.image25.jpg){.r-stretch fig-align="center"}
+
+<!-- Slide 14: tabela -->
+
+## Componentes da Célula Bacteriana {.smaller}
+
+| Estrutura | Composição | Função |
+|:----------|:-----------|:-------|
+| Parede celular   | Carboidrato + proteína | Suporte mecânico |
+| Membrana celular | Lipídio + proteína     | Barreira de permeabilidade |
+| Nucleoide        | DNA + proteína         | Informação genética |
+| Ribossomos       | RNA + proteína         | Síntese proteica |
+| Pili             | Proteína               | Adesão, conjugação |
+| Flagelos         | Proteína               | Motilidade |
+| Citoplasma       | Solução aquosa         | Local do metabolismo |
+
+: {tbl-colwidths="[28,38,34]"}
+
+<!-- Slide 15 -->
+
+## Células Eucarióticas: Maior Complexidade {.smaller}
+
+- Possuem núcleo delimitado por membrana por definição:
+    - proteção para o DNA; local do metabolismo do DNA
+    - importação e exportação seletivas através dos poros da membrana nuclear
+- Possuem organelas envolvidas por membrana:
+    - mitocôndrias para energia em animais, plantas e fungos
+    - cloroplastos para energia em plantas
+    - lisossomos para digestão de moléculas desnecessárias
+- A segregação compartimental de reações produtoras e consumidoras de energia ajuda as células a manter a homeostase e a permanecerem longe do equilíbrio.
+
+<!-- Slide 16 -->
+
+## Células Animais e Vegetais<br>Contêm Componentes Exclusivos
+
+![](../imgs/cap01.image27.jpg){.r-stretch fig-align="center"}
+
+<!-- Slide 17 -->
+
+## Células Animais e Vegetais<br>Contêm Componentes Exclusivos
+
+![](../imgs/cap01.image8.jpg){.r-stretch fig-align="center"}
+
+<!-- Slide 18: diagrama de Venn (Vegetal | Ambos | Animal) -->
+
+## Células Animais e Vegetais<br>Contêm Componentes Idênticos e Exclusivos
+
+<div class="venn-elipse absolute" style="left: 48px; top: 223px; width: 576px; height: 432px; background: rgba(120, 200, 215, .25);"></div>
+<div class="venn-elipse absolute" style="left: 307px; top: 223px; width: 576px; height: 432px; background: rgba(255, 70, 70, .65);"></div>
+
+<div class="absolute" style="left: 269px; top: 187px; width: 490px; display: flex; justify-content: space-between; font-size: .5em; font-weight: bold;"><span>Vegetal</span><span>Ambos</span><span>Animal</span></div>
+
+::: {.venn-lista .absolute left="115" top="302" width="182"}
+Cloroplasto
+
+Vacúolo
 
 Glioxissomo
 
 Plasmodesmo
 
 Parede celular
+:::
+
+::: {.venn-lista .absolute left="326" top="302" width="288" style="text-align: center; color: #fff; font-weight: bold;"}
+Membrana
+
+Núcleo e Nucléolo
+
+Mitocôndrias
+
+RE Rugoso e Liso
+
+Ribossomos
+
+Complexo de Golgi
+
+Citoesqueleto
+:::
+
+::: {.venn-lista .absolute left="710" top="353" width="173"}
+Lisossomo
+
+Peroxissomos
+:::
+
+<!-- Slide 19 -->
+
+## Citoplasma e Citoesqueleto
+
+- O citoplasma é uma solução altamente viscosa onde ocorrem muitas reações.
+- O citoesqueleto consiste em microtúbulos, filamentos de actina e filamentos intermediários.
+    - forma e divisão celular
+    - organização intracelular
+    - vias de transporte intracelular
+    - mobilidade celular
+
+<!-- Slide 20: figura com rótulos e linhas-guia sobrepostos -->
+
+## O Citosol É Muito Denso (Superlotado)
+
+![](../imgs/cap01.image22.jpg){.r-stretch fig-align="center"}
 
 
-Vegetal		Ambos		Animal
+<!-- Slide 21 -->
 
-# Slide 19:
-Citoplasma e Citoesqueleto
-O citoplasma é uma solução altamente viscosa onde ocorrem muitas reações.
-O citoesqueleto consiste em microtúbulos, filamentos de actina e filamentos intermediários.
-forma e divisão celular
-organização intracelular
-vias de transporte intracelular
-mobilidade celular 
+## O Citoesqueleto Mantém <br>a Organização Celular
 
-# Slide 20:
-O Citosol É Muito Denso (Superlotado)
-Peptídeo traduzido
+![](../imgs/cap01.image7.jpg){.r-stretch fig-align="center"}
 
+<!-- Slide 22 -->
 
+## A Organização Celular É Dinâmica, <br>Mudando Drasticamente em Diferentes Estágios
 
-Proteínas enoveladas
+![](../imgs/cap01.image15.jpg){.r-stretch fig-align="center"}
 
+<!-- Slide 23 -->
 
-# Slide 21:
-O Citoesqueleto Mantém 
-a Organização Celular
+## A Bioquímica É <br>a Química da Matéria Viva {.smaller}
 
-# Slide 22:
-A Organização Celular É Dinâmica, 
-Mudando Drasticamente em Diferentes Estágios
+- A base de toda a vida são as reações químicas que ocorrem dentro da célula.
 
-# Slide 23:
-A Bioquímica É 
-a Química da Matéria Viva
-A base de toda a vida são as reações químicas que ocorrem dentro da célula.  
+**A química permite:**
 
-A química permite:
-um alto grau de complexidade e organização
-a extração, transformação e uso sistemático de energia para criar e manter estruturas e realizar trabalho
-que as interações dos componentes individuais sejam dinâmicas e coordenadas
-a capacidade de perceber e responder às mudanças no ambiente
-uma capacidade de autorreplicação bastante precisa, permitindo mudanças suficientes para a evolução 
+- um alto grau de complexidade e organização
+- a extração, transformação e uso sistemático de energia para criar e manter estruturas e realizar trabalho
+- que as interações dos componentes individuais sejam dinâmicas e coordenadas
+- a capacidade de perceber e responder às mudanças no ambiente
+- uma capacidade de autorreplicação bastante precisa, permitindo mudanças suficientes para a evolução
 
-# Slide 24:
-Os Organismos Também Podem Ser Classificados por Diferentes Fontes de Energia e Carbono
+<!-- Slide 24 -->
 
-# Slide 25:
-Sistemas Vivos Extraem Energia
-Da luz solar
-plantas
-bactérias verdes
-cianobactérias
-De combustíveis
-animais
-maioria das bactérias
- O aporte de energia é necessário para manter a vida.
+## Os Organismos Também Podem Ser Classificados por Diferentes Fontes de Energia e Carbono
 
-# Slide 26:
-A Lógica Molecular da Vida
+![](../imgs/cap01.image28.jpg){.r-stretch fig-align="center"}
+
+<!-- Slide 25: lista à esquerda, figura à direita -->
+
+## Sistemas Vivos Extraem Energia
+
+::: {.columns}
+::: {.column width="62%"}
+- Da luz solar
+    - plantas
+    - bactérias verdes
+    - cianobactérias
+- De combustíveis
+    - animais
+    - maioria das bactérias
+- O aporte de energia é necessário para manter a vida.
+:::
+::: {.column width="38%"}
+![](../imgs/cap01.image12.png){width=290 fig-align="center"}
+:::
+:::
+
+<!-- Slide 26 -->
+
+## A Lógica Molecular da Vida
+
 Observamos a química que está por trás de:
 
-iniciação e aceleração de reações
-organização e especificidade do metabolismo e sinalização
-armazenamento e transferência de informação e energia
+- iniciação e aceleração de reações
+- organização e especificidade do metabolismo e sinalização
+- armazenamento e transferência de informação e energia
 
-# Slide 27:
-A Hierarquia Molecular da Estrutura
+<!-- Slide 27 -->
 
-# Slide 28:
-Bioquímica: Papel Único do Carbono
+## A Hierarquia Molecular da Estrutura
 
-# Slide 29:
-30 Elementos Essenciais para a Vida
-Além do carbono, os elementos H, O, N, P e S também são comuns.
-Íons metálicos (ex.: K+, Na+, Ca++, Mg++, Zn++, Fe++) desempenham papéis importantes no metabolismo.
+![](../imgs/cap01.image17.jpg){.r-stretch fig-align="center"}
 
-# Slide 30:
-Grupos Funcionais Comuns de Moléculas Biológicas
+<!-- Slide 28 -->
 
-# Slide 31:
-Moléculas Biológicas Tipicamente Possuem Vários Grupos Funcionais
+## Bioquímica: Papel Único do Carbono
 
-# Slide 32:
-O ABC da Vida
+![](../imgs/cap01.image6.jpg){.r-stretch fig-align="center"}
 
-# Slide 33:
-Estereoisômeros 
-têm propriedades físicas diferentes
-Isômeros geométricos (cis vs. trans)
-têm propriedades físicas e químicas diferentes
-Enantiômeros (imagens especulares)
-têm propriedades físicas idênticas (exceto em relação à luz polarizada) e reagem de forma idêntica com reagentes aquirais
-Diastereoisômeros 
-têm propriedades físicas e químicas diferentes
-A Função das Moléculas Depende Fortemente da Estrutura Tridimensional
+<!-- Slide 29: texto no topo, tabela periódica embaixo -->
 
-# Slide 34:
-Cis vs. Trans
+## 30 Elementos Essenciais para a Vida {.smaller}
 
-# Slide 35:
-Cis vs. Trans
+- Além do carbono, os elementos H, O, N, P e S também são comuns.
+- Íons metálicos (ex.: K+, Na+, Ca++, Mg++, Zn++, Fe++) desempenham papéis importantes no metabolismo.
 
-# Slide 36:
-Enantiômeros e Diastereoisômeros
+![](../imgs/cap01.image4.jpg){.r-stretch fig-align="center"}
+
+<!-- Slide 30 -->
+
+## Grupos Funcionais Comuns de Moléculas Biológicas
+
+![](../imgs/cap01.image10.jpg){.r-stretch fig-align="center"}
+
+<!-- Slide 31 -->
+
+## Moléculas Biológicas Tipicamente Possuem Vários Grupos Funcionais
+
+![](../imgs/cap01.image13.jpg){.r-stretch fig-align="center"}
+
+<!-- Slide 32 -->
+
+## O ABC da Vida
+
+![](../imgs/cap01.image30.jpg){.r-stretch fig-align="center"}
+
+<!-- Slide 33 -->
+
+## A Função das Moléculas Depende Fortemente da Estrutura Tridimensional {.smaller}
+
+- Estereoisômeros
+    - têm propriedades físicas diferentes
+- Isômeros geométricos (cis vs. trans)
+    - têm propriedades físicas e químicas diferentes
+- Enantiômeros (imagens especulares)
+    - têm propriedades físicas idênticas (exceto em relação à luz polarizada) e reagem de forma idêntica com reagentes aquirais
+- Diastereoisômeros
+    - têm propriedades físicas e químicas diferentes
+
+<!-- Slide 34 -->
+
+## Cis vs. Trans
+
+![](../imgs/cap01.image20.jpg){.r-stretch fig-align="center"}
+
+<!-- Slide 35 -->
+
+## Cis vs. Trans
+
+![](../imgs/cap01.image26.jpg){.r-stretch fig-align="center"}
+
+<!-- Slide 36: rótulo + recorte do colchete (image32) + figura (image33) -->
+
+## Enantiômeros e Diastereoisômeros
+
+::: {.absolute left="336" top="173" width="317" style="font-size: .5em; font-weight: bold;"}
 Diastereoisômeros (imagens não especulares)
+:::
 
-# Slide 37:
-Enantiômeros e Diastereoisômeros
+::: {.absolute left="332" top="196" width="272"}
+<div class="recorte" style="aspect-ratio: 8.775;">
+<img src="../imgs/cap01.image32.jpg" style="width: 322.58%; left: -190.32%; top: -83.33%;">
+</div>
+:::
 
-# Slide 38:
-As Interações Entre 
-Biomoléculas São Específicas
-Macromoléculas enovelam-se em estruturas 3D com bolsões de ligação exclusivos.
-Apenas certas moléculas se encaixam bem e podem se ligar.
-A ligação de biomoléculas quirais é estereoespecífica.
+![](../imgs/cap01.image33.jpg){.absolute left=32 top=229 width=896}
 
-# Slide 39:
-As Interações Entre 
-Biomoléculas São Específicas
+<!-- Slide 37 -->
 
-# Slide 40:
-Os Organismos Realizam Transduções de Energia para Realizar Trabalho e Permanecer Vivos
-Os organismos vivos existem em um estado estacionário dinâmico e nunca estão em equilíbrio com o ambiente.
-O acoplamento energético permite que os organismos vivos transformem matéria em energia.
-Catalisadores biológicos reduzem a necessidade energética para as reações enquanto oferecem especificidade.
-À medida que a entropia do universo aumenta, criar e manter a ordem requer trabalho e energia.
+## Enantiômeros e Diastereoisômeros
 
+![](../imgs/cap01.image16.jpg){.r-stretch fig-align="center"}
 
+<!-- Slide 38 -->
 
-# Slide 41:
-Os Organismos Realizam Transduções de Energia para Realizar Trabalho e Permanecer Vivos
+## As Interações Entre <br>Biomoléculas São Específicas
 
-# Slide 42:
-Como Acelerar Reações
-Temperaturas mais altas
-	− a estabilidade das macromoléculas é limitante
+- Macromoléculas enovelam-se em estruturas 3D com bolsões de ligação exclusivos.
+- Apenas certas moléculas se encaixam bem e podem se ligar.
+- A ligação de biomoléculas quirais é estereoespecífica.
 
-Maior concentração de reagentes
-	− custoso, pois é necessário mais material de partida valioso
+<!-- Slide 39 -->
 
-Alterar a reação acoplando-a a uma rápida
-	− usado universalmente pelos organismos vivos
+## As Interações Entre <br>Biomoléculas São Específicas
 
-Diminuir a barreira de ativação por catálise
-	− usado universalmente pelos organismos vivos
+![](../imgs/cap01.image31.jpg){.r-stretch fig-align="center"}
 
+<!-- Slide 40 -->
 
-# Slide 43:
- 
-O Equilíbrio e o ΔG° Medem a Espontaneidade de uma Reação
+## Os Organismos Realizam Transduções de Energia para Realizar Trabalho e Permanecer Vivos {.smaller}
 
-# Slide 44:
-Reações Desfavoráveis e Favoráveis
-A síntese de moléculas complexas e muitas outras reações metabólicas requerem energia (endergônicas).
-Uma reação pode ser termodinamicamente desfavorável (ΔG° > 0).
-Criar ordem requer trabalho e energia.
-Uma reação metabólica pode ter uma barreira energética muito alta (ΔG‡ > 0).
-O metabólito é cineticamente estável.
-A quebra de alguns metabólitos libera uma quantidade significativa de energia (exergônica).
-Tais metabólitos (ATP, NADH, NADPH) podem ser sintetizados usando a energia da luz solar e de combustíveis.
-Sua concentração celular é muito maior do que sua concentração de equilíbrio.
+- Os organismos vivos existem em um estado estacionário dinâmico e nunca estão em equilíbrio com o ambiente.
+- O acoplamento energético permite que os organismos vivos transformem matéria em energia.
+- Catalisadores biológicos reduzem a necessidade energética para as reações enquanto oferecem especificidade.
+- À medida que a entropia do universo aumenta, criar e manter a ordem requer trabalho e energia.
 
-# Slide 45:
-Acoplamento Energético
-O acoplamento químico de reações exergônicas e endergônicas permite reações que, de outra forma, seriam desfavoráveis.
-A molécula de “alta energia” (ATP) reage diretamente com o metabólito que precisa de “ativação”.
+<!-- Slide 41 -->
 
-# Slide 46:
+## Os Organismos Realizam Transduções de Energia para Realizar Trabalho e Permanecer Vivos
 
-# Slide 47:
-Catálise
-Um catalisador é um composto que aumenta a velocidade de uma reação química.
-Catalisadores diminuem a energia livre de ativação ΔG‡.
-Catalisadores não alteram o ΔG°. 
-A catálise enzimática oferece:
-aceleração sob condições brandas
-alta especificidade
-possibilidade de regulação
+![](../imgs/cap01.image23.jpg){.r-stretch fig-align="center"}
 
-# Slide 48:
-Enzimas Diminuem a Energia de Ativação para Aumentar a Velocidade da Reação
+<!-- Slide 42 -->
 
-# Slide 49:
+## Como Acelerar Reações
+
+**Temperaturas mais altas**
+- a estabilidade das macromoléculas é limitante
+
+**Maior concentração de reagentes**
+- custoso, pois é necessário mais material de partida valioso
+
+**Alterar a reação acoplando-a a uma rápida**
+- usado universalmente pelos organismos vivos
+
+**Diminuir a barreira de ativação por catálise**
+- usado universalmente pelos organismos vivos
+
+<!-- Slide 43: equações (estavam no pptx, não no texto extraído) -->
+
+## O Equilíbrio e o ΔG° Medem a Espontaneidade de uma Reação
+
+Para a equação: $\quad aA + bB \leftrightarrow cC + dD$
+
+$$K_{eq} = \frac{[C]_{eq}^{c}\,[D]_{eq}^{d}}{[A]_{eq}^{a}\,[B]_{eq}^{b}}$$
+
+E
+
+$$\Delta G^{\circ} = -RT\,\ln K_{eq}$$
+
+<!-- Slide 44 -->
+
+## Reações Desfavoráveis e Favoráveis {.smaller}
+
+- A síntese de moléculas complexas e muitas outras reações metabólicas requerem energia (endergônicas).
+    - Uma reação pode ser termodinamicamente desfavorável (ΔG° > 0).
+        - Criar ordem requer trabalho e energia.
+    - Uma reação metabólica pode ter uma barreira energética muito alta (ΔG‡ > 0).
+        - O metabólito é cineticamente estável.
+- A quebra de alguns metabólitos libera uma quantidade significativa de energia (exergônica).
+    - Tais metabólitos (ATP, NADH, NADPH) podem ser sintetizados usando a energia da luz solar e de combustíveis.
+    - Sua concentração celular é muito maior do que sua concentração de equilíbrio.
+
+<!-- Slide 45: texto + figura recortada (ATP) + crédito recortado -->
+
+## Acoplamento Energético {.smaller}
+
+- O acoplamento químico de reações exergônicas e endergônicas permite reações que, de outra forma, seriam desfavoráveis.
+- A molécula de “alta energia” (ATP) reage diretamente com o metabólito que precisa de “ativação”.
+
+::: {.absolute left="191" top="352" width="624"}
+<div class="recorte" style="aspect-ratio: 2.013;">
+<img src="../imgs/cap01.image19.jpg" style="width: 131.58%; left: 0%; top: 0%;">
+</div>
+:::
+
+::: {.absolute left="183" top="664" width="267"}
+<div class="recorte" style="aspect-ratio: 5.62;">
+<img src="../imgs/cap01.image19.jpg" style="width: 303.03%; left: 0%; top: -1328.57%;">
+</div>
+:::
+
+<!-- Slide 46: figura em tela cheia, sem título -->
+
+---
+
+![](../imgs/cap01.image24.jpg){.r-stretch fig-align="center"}
+
+<!-- Slide 47 -->
+
+## Catálise
+
+- Um catalisador é um composto que aumenta a velocidade de uma reação química.
+- Catalisadores diminuem a energia livre de ativação ΔG‡.
+- Catalisadores não alteram o ΔG°.
+- A catálise enzimática oferece:
+    - aceleração sob condições brandas
+    - alta especificidade
+    - possibilidade de regulação
+
+<!-- Slide 48 -->
+
+## Enzimas Diminuem a Energia de Ativação para Aumentar a Velocidade da Reação
+
+![](../imgs/cap01.image29.jpg){.r-stretch fig-align="center"}
+
+<!-- Slide 49: figura no topo, texto embaixo -->
+
+## Uma Série de Reações Relacionadas Catalisadas Enzimaticamente Forma uma Via
+
+![](../imgs/cap01.image21.jpg){.r-stretch fig-align="center"}
+
+::: {style="font-size: .7em;"}
 Via metabólica
-produz energia ou materiais valiosos
+
+- produz energia ou materiais valiosos
 
 Via de transdução de sinal
-transmite informação	
-Uma Série de Reações Relacionadas Catalisadas Enzimaticamente Forma uma Via
 
-# Slide 50:
+- transmite informação
+:::
+
+<!-- Slide 50: figura no meio, texto embaixo -->
+
+## As Vias São Controladas para <br>Regular os Níveis de Metabólitos
+
+![](../imgs/cap01.image34.jpg){.r-stretch fig-align="center"}
+
+::: {style="font-size: .6em;"}
 Exemplo de regulação negativa:
-	O produto da enzima 5 inibe a enzima 1 para evitar excesso de produtos desnecessários.
 
-As Vias São Controladas para 
-Regular os Níveis de Metabólitos
+::: {style="margin-left: 2em;"}
+O produto da [enzima 5]{.azul} inibe a [enzima 1]{.azul} para evitar excesso de produtos desnecessários.
+:::
+:::
 
-# Slide 51:
-Fundamentos Genéticos e Evolutivos
-A vida na Terra surgiu há 3,5–3,8 bilhões de anos.
-A formação de moléculas autorreplicantes foi um passo fundamental.
-Poderia ter sido o DNA?
-Poderiam ter sido as proteínas?
+<!-- Slide 51 -->
 
-# Slide 52:
+## Fundamentos Genéticos e Evolutivos
 
-# Slide 53:
-Mundo do RNA?
-O RNA pode atuar tanto como portador de informação quanto como biocatalisador.
-Alguns vírus usam o RNA como meio primário de informação genética.
+- A vida na Terra surgiu há 3,5–3,8 bilhões de anos.
+- A formação de moléculas autorreplicantes foi um passo fundamental.
+- Poderia ter sido o DNA?
+- Poderiam ter sido as proteínas?
 
-# Slide 54:
+<!-- Slide 52: figura em tela cheia, sem título -->
 
-# Slide 55:
-A Complementaridade no DNA Permite a Replicação com Fidelidade Quase Perfeita
+---
 
-# Slide 56:
+![](../imgs/cap01.image37.jpg){.r-stretch fig-align="center"}
 
-O “Dogma” Central da Bioquímica:
-DNA → RNA → Proteína
+<!-- Slide 53: texto + figura recortada (tRNA e pareamentos) + crédito recortado -->
 
-# Slide 57:
-A Seleção Natural
-Favorece Algumas Mutações
-As mutações ocorrem de forma mais ou menos aleatória no DNA e no RNA.
-Polinucleotídeos mutados podem ser transcritos e traduzidos em maquinaria molecular, como proteínas.
-Mutações que conferem aos organismos uma vantagem em um determinado ambiente têm maior probabilidade de serem propagadas.
+## Mundo do RNA?
 
-# Slide 58:
+- O RNA pode atuar tanto como portador de informação quanto como biocatalisador.
+- Alguns vírus usam o RNA como meio primário de informação genética.
 
-A Seleção Natural
-Favorece Algumas Mutações
+::: {.absolute left="79" top="338" width="832"}
+<div class="recorte" style="aspect-ratio: 2.508;">
+<img src="../imgs/cap01.image42.jpg" style="width: 111.11%; left: -8.89%; top: -6.25%;">
+</div>
+:::
 
-# Slide 59:
-A Evolução dos Eucariotos Também Pode Ter Sido Mediada por Endossimbiose
+::: {.absolute left="96" top="655" width="270"}
+<div class="recorte" style="aspect-ratio: 5.606;">
+<img src="../imgs/cap01.image42.jpg" style="width: 227.27%; left: 0%; top: -1328.57%;">
+</div>
+:::
 
-# Slide 60:
-Capítulo 1: Resumo
+<!-- Slide 54: figura em tela cheia, sem título -->
+
+---
+
+![](../imgs/cap01.image39.jpg){.r-stretch fig-align="center"}
+
+<!-- Slide 55 -->
+
+## A Complementaridade no DNA Permite a Replicação com Fidelidade Quase Perfeita
+
+![](../imgs/cap01.image38.jpg){.r-stretch fig-align="center"}
+
+<!-- Slide 56 -->
+
+## O “Dogma” Central da Bioquímica:<br><span class="subtitulo">DNA → RNA → Proteína</span>
+
+![](../imgs/cap01.image41.jpg){.r-stretch fig-align="center"}
+
+<!-- Slide 57 -->
+
+## A Seleção Natural<br>Favorece Algumas Mutações
+
+- As mutações ocorrem de forma mais ou menos aleatória no DNA e no RNA.
+- Polinucleotídeos mutados podem ser transcritos e traduzidos em maquinaria molecular, como proteínas.
+- Mutações que conferem aos organismos uma vantagem em um determinado ambiente têm maior probabilidade de serem propagadas.
+
+<!-- Slide 58 -->
+
+## A Seleção Natural<br>Favorece Algumas Mutações
+
+![](../imgs/cap01.image36.jpg){.r-stretch fig-align="center"}
+
+<!-- Slide 59 -->
+
+## A Evolução dos Eucariotos Também Pode Ter Sido Mediada por Endossimbiose
+
+![](../imgs/cap01.image40.jpg){.r-stretch fig-align="center"}
+
+<!-- Slide 60 -->
+
+## Capítulo 1: Resumo
+
 Neste capítulo, aprendemos a:
 
-compreender o que define os organismos vivos 
-relacionar a estrutura e a função da célula
-perceber que a estrutura das biomoléculas frequentemente lhes confere funções específicas
-compreender os princípios da bioenergética
-revisar as forças por trás da evolução
+- compreender o que define os organismos vivos
+- relacionar a estrutura e a função da célula
+- perceber que a estrutura das biomoléculas frequentemente lhes confere funções específicas
+- compreender os princípios da bioenergética
+- revisar as forças por trás da evolução

@@ -1,0 +1,415 @@
+[
+  {
+    "objectID": "sobre.html",
+    "href": "sobre.html",
+    "title": "Sobre",
+    "section": "",
+    "text": "Sobre esse site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Bioquímica e Biologia Molecular",
+    "section": "",
+    "text": "Recursos didáticos para disciplinas de Bioquímica e Biologia Molecular.  A referência básica é o Lehninger: Princípios de Bioquímica. Editora ArtMed. 8a edição."
+  },
+  {
+    "objectID": "slides.html",
+    "href": "slides.html",
+    "title": "Lista de Aulas",
+    "section": "",
+    "text": "Lehninger: Princípios de Bioquímica. 8ª Edição\n\n\n\nCapítulo Referência: Lehninger\nLink para Aulas\nTema\n\n\n\n\nCapítulo 1\nLink para Aula 1\nFundamentos de Bioquímica\n\n\nCapítulo 2\nLink para Aula 2\nÁgua, o solvente da vida\n\n\nCapítulo 3\nLink para Aula 3\nAminoácidos, Peptídeos e Proteínas\n\n\nCapítulo 4\nLink para Aula 4\nEstrutura Tridimensional de Proteínas\n\n\nCapítulo 5\nLink para Aula 5\nFunção das proteínas\n\n\nCapítulo 6\nLink para Aula 6\nEnzimas\n\n\nCapítulo 8\nLink para Aula 8\nNucleotideos e ácidos nucleicos\n\n\nCapítulo 9\nLink para Aula 9\nTecnologias da informação baseadas no DNA\n\n\nCapítulo 10\nLink para Aula 10\nLipídeos\n\n\nCapítulo 11\nLink para Aula 11\nMembranas biológicas e transporte\n\n\nCapítulo 12\nLink para Aula 12\nSinalização bioquímica\n\n\nCapítulo 13\nLink para Aula 13\nIntrodução ao metabolismo\n\n\nCapítulo 14\nLink para Aula 14\nGlicólise, gliconeogênese e a via das pentoses-fosfato\n\n\nCapítulo 15\nLink para Aula 15\nMetabolismo do glicogênio nos animais\n\n\nCapítulo 16\nLink para Aula 16\nCiclo do ácido cítrico\n\n\nCapítulo 17\nLink para Aula 17\nCatabolismo dos ácidos graxos\n\n\nCapítulo 18\nLink para Aula 18\nOxidação de aminoácidos e produção de ureia\n\n\nCapítulo 19\nLink para Aula 19\nFosforilação oxidativa\n\n\nCapítulo 20\nLink para Aula 20\nFotossíntese e síntese de carboidratos em vegetais\n\n\nCapítulo 21\nLink para Aula 21\nBiossíntese de lipídeos\n\n\nCapítulo 22\nLink para Aula 22\nBiossíntese de aminoácidos, nucleotídeos e moléculas relacionadas\n\n\nCapítulo 23\nLink para Aula 23\nRegulação hormonal e integração do metabolismo em mamíferos\n\n\nCapítulo 24\nLink para Aula 24\nGenes e cromossomos\n\n\nCapítulo 25\nLink para Aula 25\nMetabolismo do DNA\n\n\nCapítulo 26\nLink para Aula 26\nCapítulo 26: Metabolismo do RNA\n\n\nCapítulo 27\nLink para Aula 27\nMetabolismo das proteínas\n\n\nCapítulo 28\nLink para Aula 28\nRegulação da expressão gênica"
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch01_pt_br.html#albert-lehninger-19171986",
+    "href": "slides/lehninger_7e_ppt_ch01_pt_br.html#albert-lehninger-19171986",
+    "title": "Os Fundamentos da Bioquímica",
+    "section": "Albert Lehninger (1917–1986)",
+    "text": "Albert Lehninger (1917–1986)\n\nO ciclo do ácido cítrico ocorre nas mitocôndrias\nMecanismo da fosforilação oxidativa\nEstrutura e função mitocondrial\nBioenergética\nAutor de livros didáticos clássicos:\n\nBioquímica (1970–1983)\nA Mitocôndria (1964)\nBioenergética (1965–1974)"
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch01_pt_br.html#capítulo-1-os-fundamentos-da-bioquímica",
+    "href": "slides/lehninger_7e_ppt_ch01_pt_br.html#capítulo-1-os-fundamentos-da-bioquímica",
+    "title": "Os Fundamentos da Bioquímica",
+    "section": "CAPÍTULO 1 Os Fundamentos da Bioquímica",
+    "text": "CAPÍTULO 1 Os Fundamentos da Bioquímica\nObjetivos de aprendizagem:\n\nCaracterísticas distintivas dos organismos vivos\nEstrutura e função das partes da célula\nPapéis das pequenas e grandes biomoléculas\nTransformação de energia nos organismos vivos\nRegulação do metabolismo e catálise\nCodificação da informação genética no DNA\nPapel das mutações e da seleção na evolução"
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch01_pt_br.html#a-bioquímica-é-a-química-da-matéria-viva",
+    "href": "slides/lehninger_7e_ppt_ch01_pt_br.html#a-bioquímica-é-a-química-da-matéria-viva",
+    "title": "Os Fundamentos da Bioquímica",
+    "section": "A Bioquímica É a Química da Matéria Viva",
+    "text": "A Bioquímica É a Química da Matéria Viva\nA matéria viva é caracterizada por:\n\num alto grau de complexidade e organização\na extração, transformação e uso sistemático de energia para criar e manter estruturas e realizar trabalho\nas interações de componentes individuais serem dinâmicas e coordenadas\na capacidade de perceber e responder às mudanças no ambiente\numa capacidade de autorreplicação bastante precisa, permitindo mudanças suficientes para a evolução"
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch01_pt_br.html#complexidade-e-organização",
+    "href": "slides/lehninger_7e_ppt_ch01_pt_br.html#complexidade-e-organização",
+    "title": "Os Fundamentos da Bioquímica",
+    "section": "Complexidade e Organização",
+    "text": "Complexidade e Organização"
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch01_pt_br.html#os-organismos-vivos-devem-ingerir-e-transformar-nutrientes-em-energia",
+    "href": "slides/lehninger_7e_ppt_ch01_pt_br.html#os-organismos-vivos-devem-ingerir-e-transformar-nutrientes-em-energia",
+    "title": "Os Fundamentos da Bioquímica",
+    "section": "Os Organismos Vivos Devem Ingerir e Transformar Nutrientes em Energia",
+    "text": "Os Organismos Vivos Devem Ingerir e Transformar Nutrientes em Energia"
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch01_pt_br.html#os-organismos-vivos-devem-reproduzir-se-com-precisão",
+    "href": "slides/lehninger_7e_ppt_ch01_pt_br.html#os-organismos-vivos-devem-reproduzir-se-com-precisão",
+    "title": "Os Fundamentos da Bioquímica",
+    "section": "Os Organismos Vivos Devem Reproduzir-se com Precisão",
+    "text": "Os Organismos Vivos Devem Reproduzir-se com Precisão"
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch01_pt_br.html#três-domínios-distintos-da-vida-definidos-por-diferenças-celulares-e-moleculares-que-evoluíram-ao-longo-do-tempo",
+    "href": "slides/lehninger_7e_ppt_ch01_pt_br.html#três-domínios-distintos-da-vida-definidos-por-diferenças-celulares-e-moleculares-que-evoluíram-ao-longo-do-tempo",
+    "title": "Os Fundamentos da Bioquímica",
+    "section": "Três Domínios Distintos da Vida Definidos por Diferenças Celulares e Moleculares que Evoluíram ao Longo do Tempo",
+    "text": "Três Domínios Distintos da Vida Definidos por Diferenças Celulares e Moleculares que Evoluíram ao Longo do Tempo"
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch01_pt_br.html#seis-reinos-da-vida-definidos-por-diferenças-orgânicas-celulares-e-moleculares",
+    "href": "slides/lehninger_7e_ppt_ch01_pt_br.html#seis-reinos-da-vida-definidos-por-diferenças-orgânicas-celulares-e-moleculares",
+    "title": "Os Fundamentos da Bioquímica",
+    "section": "Seis Reinos da Vida Definidos porDiferenças Orgânicas, Celulares e Moleculares",
+    "text": "Seis Reinos da Vida Definidos porDiferenças Orgânicas, Celulares e Moleculares\n\n\n\n\n\n\n\n\nSeis reinos\n\nOrganização celular\n\n\n\n\nArchaea\n→\nProcarioto unicelular\n\n\nBacteria\n→\nProcarioto unicelular\n\n\nProtista\n→\nEucarioto unicelular\n\n\nFungi\n→\nEucarioto uni ou multicelular\n\n\nPlantae\n→\nEucarioto multicelular\n\n\nAnimalia\n→\nEucarioto multicelular"
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch01_pt_br.html#célula-o-bloco-construtor-universal",
+    "href": "slides/lehninger_7e_ppt_ch01_pt_br.html#célula-o-bloco-construtor-universal",
+    "title": "Os Fundamentos da Bioquímica",
+    "section": "Célula: O Bloco Construtor Universal",
+    "text": "Célula: O Bloco Construtor Universal\n\nOs organismos vivos são feitos de células.\nOs organismos vivos mais simples são unicelulares (uma única célula).\nOrganismos maiores são multicelulares (muitas células), com diferentes funções para diferentes células.\nAs células têm algumas características comuns, mas podem conter componentes exclusivos para diferentes organismos."
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch01_pt_br.html#todas-as-células-compartilham-algumas-características-comuns",
+    "href": "slides/lehninger_7e_ppt_ch01_pt_br.html#todas-as-células-compartilham-algumas-características-comuns",
+    "title": "Os Fundamentos da Bioquímica",
+    "section": "Todas as Células Compartilham Algumas Características Comuns",
+    "text": "Todas as Células Compartilham Algumas Características Comuns"
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch01_pt_br.html#estrutura-da-célula-bacteriana",
+    "href": "slides/lehninger_7e_ppt_ch01_pt_br.html#estrutura-da-célula-bacteriana",
+    "title": "Os Fundamentos da Bioquímica",
+    "section": "Estrutura da Célula Bacteriana",
+    "text": "Estrutura da Célula Bacteriana"
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch01_pt_br.html#componentes-da-célula-bacteriana",
+    "href": "slides/lehninger_7e_ppt_ch01_pt_br.html#componentes-da-célula-bacteriana",
+    "title": "Os Fundamentos da Bioquímica",
+    "section": "Componentes da Célula Bacteriana",
+    "text": "Componentes da Célula Bacteriana\n\n\n\n\n\n\n\n\nEstrutura\nComposição\nFunção\n\n\n\n\nParede celular\nCarboidrato + proteína\nSuporte mecânico\n\n\nMembrana celular\nLipídio + proteína\nBarreira de permeabilidade\n\n\nNucleoide\nDNA + proteína\nInformação genética\n\n\nRibossomos\nRNA + proteína\nSíntese proteica\n\n\nPili\nProteína\nAdesão, conjugação\n\n\nFlagelos\nProteína\nMotilidade\n\n\nCitoplasma\nSolução aquosa\nLocal do metabolismo"
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch01_pt_br.html#células-eucarióticas-maior-complexidade",
+    "href": "slides/lehninger_7e_ppt_ch01_pt_br.html#células-eucarióticas-maior-complexidade",
+    "title": "Os Fundamentos da Bioquímica",
+    "section": "Células Eucarióticas: Maior Complexidade",
+    "text": "Células Eucarióticas: Maior Complexidade\n\nPossuem núcleo delimitado por membrana por definição:\n\nproteção para o DNA; local do metabolismo do DNA\nimportação e exportação seletivas através dos poros da membrana nuclear\n\nPossuem organelas envolvidas por membrana:\n\nmitocôndrias para energia em animais, plantas e fungos\ncloroplastos para energia em plantas\nlisossomos para digestão de moléculas desnecessárias\n\nA segregação compartimental de reações produtoras e consumidoras de energia ajuda as células a manter a homeostase e a permanecerem longe do equilíbrio."
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch01_pt_br.html#células-animais-e-vegetais-contêm-componentes-exclusivos",
+    "href": "slides/lehninger_7e_ppt_ch01_pt_br.html#células-animais-e-vegetais-contêm-componentes-exclusivos",
+    "title": "Os Fundamentos da Bioquímica",
+    "section": "Células Animais e VegetaisContêm Componentes Exclusivos",
+    "text": "Células Animais e VegetaisContêm Componentes Exclusivos"
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch01_pt_br.html#células-animais-e-vegetais-contêm-componentes-exclusivos-1",
+    "href": "slides/lehninger_7e_ppt_ch01_pt_br.html#células-animais-e-vegetais-contêm-componentes-exclusivos-1",
+    "title": "Os Fundamentos da Bioquímica",
+    "section": "Células Animais e VegetaisContêm Componentes Exclusivos",
+    "text": "Células Animais e VegetaisContêm Componentes Exclusivos"
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch01_pt_br.html#células-animais-e-vegetais-contêm-componentes-idênticos-e-exclusivos",
+    "href": "slides/lehninger_7e_ppt_ch01_pt_br.html#células-animais-e-vegetais-contêm-componentes-idênticos-e-exclusivos",
+    "title": "Os Fundamentos da Bioquímica",
+    "section": "Células Animais e VegetaisContêm Componentes Idênticos e Exclusivos",
+    "text": "Células Animais e VegetaisContêm Componentes Idênticos e Exclusivos\n\n\n\n\n\n\n\nVegetalAmbosAnimal\n\n\nCloroplasto\nVacúolo\nGlioxissomo\nPlasmodesmo\nParede celular\n\n\nMembrana\nNúcleo e Nucléolo\nMitocôndrias\nRE Rugoso e Liso\nRibossomos\nComplexo de Golgi\nCitoesqueleto\n\n\nLisossomo\nPeroxissomos"
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch01_pt_br.html#citoplasma-e-citoesqueleto",
+    "href": "slides/lehninger_7e_ppt_ch01_pt_br.html#citoplasma-e-citoesqueleto",
+    "title": "Os Fundamentos da Bioquímica",
+    "section": "Citoplasma e Citoesqueleto",
+    "text": "Citoplasma e Citoesqueleto\n\nO citoplasma é uma solução altamente viscosa onde ocorrem muitas reações.\nO citoesqueleto consiste em microtúbulos, filamentos de actina e filamentos intermediários.\n\nforma e divisão celular\norganização intracelular\nvias de transporte intracelular\nmobilidade celular"
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch01_pt_br.html#o-citosol-é-muito-denso-superlotado",
+    "href": "slides/lehninger_7e_ppt_ch01_pt_br.html#o-citosol-é-muito-denso-superlotado",
+    "title": "Os Fundamentos da Bioquímica",
+    "section": "O Citosol É Muito Denso (Superlotado)",
+    "text": "O Citosol É Muito Denso (Superlotado)"
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch01_pt_br.html#o-citoesqueleto-mantém-a-organização-celular",
+    "href": "slides/lehninger_7e_ppt_ch01_pt_br.html#o-citoesqueleto-mantém-a-organização-celular",
+    "title": "Os Fundamentos da Bioquímica",
+    "section": "O Citoesqueleto Mantém a Organização Celular",
+    "text": "O Citoesqueleto Mantém a Organização Celular"
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch01_pt_br.html#a-organização-celular-é-dinâmica-mudando-drasticamente-em-diferentes-estágios",
+    "href": "slides/lehninger_7e_ppt_ch01_pt_br.html#a-organização-celular-é-dinâmica-mudando-drasticamente-em-diferentes-estágios",
+    "title": "Os Fundamentos da Bioquímica",
+    "section": "A Organização Celular É Dinâmica, Mudando Drasticamente em Diferentes Estágios",
+    "text": "A Organização Celular É Dinâmica, Mudando Drasticamente em Diferentes Estágios"
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch01_pt_br.html#a-bioquímica-é-a-química-da-matéria-viva-1",
+    "href": "slides/lehninger_7e_ppt_ch01_pt_br.html#a-bioquímica-é-a-química-da-matéria-viva-1",
+    "title": "Os Fundamentos da Bioquímica",
+    "section": "A Bioquímica É a Química da Matéria Viva",
+    "text": "A Bioquímica É a Química da Matéria Viva\n\nA base de toda a vida são as reações químicas que ocorrem dentro da célula.\n\nA química permite:\n\num alto grau de complexidade e organização\na extração, transformação e uso sistemático de energia para criar e manter estruturas e realizar trabalho\nque as interações dos componentes individuais sejam dinâmicas e coordenadas\na capacidade de perceber e responder às mudanças no ambiente\numa capacidade de autorreplicação bastante precisa, permitindo mudanças suficientes para a evolução"
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch01_pt_br.html#os-organismos-também-podem-ser-classificados-por-diferentes-fontes-de-energia-e-carbono",
+    "href": "slides/lehninger_7e_ppt_ch01_pt_br.html#os-organismos-também-podem-ser-classificados-por-diferentes-fontes-de-energia-e-carbono",
+    "title": "Os Fundamentos da Bioquímica",
+    "section": "Os Organismos Também Podem Ser Classificados por Diferentes Fontes de Energia e Carbono",
+    "text": "Os Organismos Também Podem Ser Classificados por Diferentes Fontes de Energia e Carbono"
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch01_pt_br.html#sistemas-vivos-extraem-energia",
+    "href": "slides/lehninger_7e_ppt_ch01_pt_br.html#sistemas-vivos-extraem-energia",
+    "title": "Os Fundamentos da Bioquímica",
+    "section": "Sistemas Vivos Extraem Energia",
+    "text": "Sistemas Vivos Extraem Energia\n\n\n\nDa luz solar\n\nplantas\nbactérias verdes\ncianobactérias\n\nDe combustíveis\n\nanimais\nmaioria das bactérias\n\nO aporte de energia é necessário para manter a vida."
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch01_pt_br.html#a-lógica-molecular-da-vida",
+    "href": "slides/lehninger_7e_ppt_ch01_pt_br.html#a-lógica-molecular-da-vida",
+    "title": "Os Fundamentos da Bioquímica",
+    "section": "A Lógica Molecular da Vida",
+    "text": "A Lógica Molecular da Vida\nObservamos a química que está por trás de:\n\niniciação e aceleração de reações\norganização e especificidade do metabolismo e sinalização\narmazenamento e transferência de informação e energia"
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch01_pt_br.html#a-hierarquia-molecular-da-estrutura",
+    "href": "slides/lehninger_7e_ppt_ch01_pt_br.html#a-hierarquia-molecular-da-estrutura",
+    "title": "Os Fundamentos da Bioquímica",
+    "section": "A Hierarquia Molecular da Estrutura",
+    "text": "A Hierarquia Molecular da Estrutura"
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch01_pt_br.html#bioquímica-papel-único-do-carbono",
+    "href": "slides/lehninger_7e_ppt_ch01_pt_br.html#bioquímica-papel-único-do-carbono",
+    "title": "Os Fundamentos da Bioquímica",
+    "section": "Bioquímica: Papel Único do Carbono",
+    "text": "Bioquímica: Papel Único do Carbono"
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch01_pt_br.html#elementos-essenciais-para-a-vida",
+    "href": "slides/lehninger_7e_ppt_ch01_pt_br.html#elementos-essenciais-para-a-vida",
+    "title": "Os Fundamentos da Bioquímica",
+    "section": "30 Elementos Essenciais para a Vida",
+    "text": "30 Elementos Essenciais para a Vida\n\nAlém do carbono, os elementos H, O, N, P e S também são comuns.\nÍons metálicos (ex.: K+, Na+, Ca++, Mg++, Zn++, Fe++) desempenham papéis importantes no metabolismo."
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch01_pt_br.html#grupos-funcionais-comuns-de-moléculas-biológicas",
+    "href": "slides/lehninger_7e_ppt_ch01_pt_br.html#grupos-funcionais-comuns-de-moléculas-biológicas",
+    "title": "Os Fundamentos da Bioquímica",
+    "section": "Grupos Funcionais Comuns de Moléculas Biológicas",
+    "text": "Grupos Funcionais Comuns de Moléculas Biológicas"
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch01_pt_br.html#moléculas-biológicas-tipicamente-possuem-vários-grupos-funcionais",
+    "href": "slides/lehninger_7e_ppt_ch01_pt_br.html#moléculas-biológicas-tipicamente-possuem-vários-grupos-funcionais",
+    "title": "Os Fundamentos da Bioquímica",
+    "section": "Moléculas Biológicas Tipicamente Possuem Vários Grupos Funcionais",
+    "text": "Moléculas Biológicas Tipicamente Possuem Vários Grupos Funcionais"
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch01_pt_br.html#o-abc-da-vida",
+    "href": "slides/lehninger_7e_ppt_ch01_pt_br.html#o-abc-da-vida",
+    "title": "Os Fundamentos da Bioquímica",
+    "section": "O ABC da Vida",
+    "text": "O ABC da Vida"
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch01_pt_br.html#a-função-das-moléculas-depende-fortemente-da-estrutura-tridimensional",
+    "href": "slides/lehninger_7e_ppt_ch01_pt_br.html#a-função-das-moléculas-depende-fortemente-da-estrutura-tridimensional",
+    "title": "Os Fundamentos da Bioquímica",
+    "section": "A Função das Moléculas Depende Fortemente da Estrutura Tridimensional",
+    "text": "A Função das Moléculas Depende Fortemente da Estrutura Tridimensional\n\nEstereoisômeros\n\ntêm propriedades físicas diferentes\n\nIsômeros geométricos (cis vs. trans)\n\ntêm propriedades físicas e químicas diferentes\n\nEnantiômeros (imagens especulares)\n\ntêm propriedades físicas idênticas (exceto em relação à luz polarizada) e reagem de forma idêntica com reagentes aquirais\n\nDiastereoisômeros\n\ntêm propriedades físicas e químicas diferentes"
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch01_pt_br.html#cis-vs.-trans",
+    "href": "slides/lehninger_7e_ppt_ch01_pt_br.html#cis-vs.-trans",
+    "title": "Os Fundamentos da Bioquímica",
+    "section": "Cis vs. Trans",
+    "text": "Cis vs. Trans"
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch01_pt_br.html#cis-vs.-trans-1",
+    "href": "slides/lehninger_7e_ppt_ch01_pt_br.html#cis-vs.-trans-1",
+    "title": "Os Fundamentos da Bioquímica",
+    "section": "Cis vs. Trans",
+    "text": "Cis vs. Trans"
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch01_pt_br.html#enantiômeros-e-diastereoisômeros",
+    "href": "slides/lehninger_7e_ppt_ch01_pt_br.html#enantiômeros-e-diastereoisômeros",
+    "title": "Os Fundamentos da Bioquímica",
+    "section": "Enantiômeros e Diastereoisômeros",
+    "text": "Enantiômeros e Diastereoisômeros\n\nDiastereoisômeros (imagens não especulares)"
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch01_pt_br.html#enantiômeros-e-diastereoisômeros-1",
+    "href": "slides/lehninger_7e_ppt_ch01_pt_br.html#enantiômeros-e-diastereoisômeros-1",
+    "title": "Os Fundamentos da Bioquímica",
+    "section": "Enantiômeros e Diastereoisômeros",
+    "text": "Enantiômeros e Diastereoisômeros"
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch01_pt_br.html#as-interações-entre-biomoléculas-são-específicas",
+    "href": "slides/lehninger_7e_ppt_ch01_pt_br.html#as-interações-entre-biomoléculas-são-específicas",
+    "title": "Os Fundamentos da Bioquímica",
+    "section": "As Interações Entre Biomoléculas São Específicas",
+    "text": "As Interações Entre Biomoléculas São Específicas\n\nMacromoléculas enovelam-se em estruturas 3D com bolsões de ligação exclusivos.\nApenas certas moléculas se encaixam bem e podem se ligar.\nA ligação de biomoléculas quirais é estereoespecífica."
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch01_pt_br.html#as-interações-entre-biomoléculas-são-específicas-1",
+    "href": "slides/lehninger_7e_ppt_ch01_pt_br.html#as-interações-entre-biomoléculas-são-específicas-1",
+    "title": "Os Fundamentos da Bioquímica",
+    "section": "As Interações Entre Biomoléculas São Específicas",
+    "text": "As Interações Entre Biomoléculas São Específicas"
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch01_pt_br.html#os-organismos-realizam-transduções-de-energia-para-realizar-trabalho-e-permanecer-vivos",
+    "href": "slides/lehninger_7e_ppt_ch01_pt_br.html#os-organismos-realizam-transduções-de-energia-para-realizar-trabalho-e-permanecer-vivos",
+    "title": "Os Fundamentos da Bioquímica",
+    "section": "Os Organismos Realizam Transduções de Energia para Realizar Trabalho e Permanecer Vivos",
+    "text": "Os Organismos Realizam Transduções de Energia para Realizar Trabalho e Permanecer Vivos\n\nOs organismos vivos existem em um estado estacionário dinâmico e nunca estão em equilíbrio com o ambiente.\nO acoplamento energético permite que os organismos vivos transformem matéria em energia.\nCatalisadores biológicos reduzem a necessidade energética para as reações enquanto oferecem especificidade.\nÀ medida que a entropia do universo aumenta, criar e manter a ordem requer trabalho e energia."
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch01_pt_br.html#os-organismos-realizam-transduções-de-energia-para-realizar-trabalho-e-permanecer-vivos-1",
+    "href": "slides/lehninger_7e_ppt_ch01_pt_br.html#os-organismos-realizam-transduções-de-energia-para-realizar-trabalho-e-permanecer-vivos-1",
+    "title": "Os Fundamentos da Bioquímica",
+    "section": "Os Organismos Realizam Transduções de Energia para Realizar Trabalho e Permanecer Vivos",
+    "text": "Os Organismos Realizam Transduções de Energia para Realizar Trabalho e Permanecer Vivos"
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch01_pt_br.html#como-acelerar-reações",
+    "href": "slides/lehninger_7e_ppt_ch01_pt_br.html#como-acelerar-reações",
+    "title": "Os Fundamentos da Bioquímica",
+    "section": "Como Acelerar Reações",
+    "text": "Como Acelerar Reações\nTemperaturas mais altas - a estabilidade das macromoléculas é limitante\nMaior concentração de reagentes - custoso, pois é necessário mais material de partida valioso\nAlterar a reação acoplando-a a uma rápida - usado universalmente pelos organismos vivos\nDiminuir a barreira de ativação por catálise - usado universalmente pelos organismos vivos"
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch01_pt_br.html#o-equilíbrio-e-o-δg-medem-a-espontaneidade-de-uma-reação",
+    "href": "slides/lehninger_7e_ppt_ch01_pt_br.html#o-equilíbrio-e-o-δg-medem-a-espontaneidade-de-uma-reação",
+    "title": "Os Fundamentos da Bioquímica",
+    "section": "O Equilíbrio e o ΔG° Medem a Espontaneidade de uma Reação",
+    "text": "O Equilíbrio e o ΔG° Medem a Espontaneidade de uma Reação\nPara a equação: \\(\\quad aA + bB \\leftrightarrow cC + dD\\)\n\\[K_{eq} = \\frac{[C]_{eq}^{c}\\,[D]_{eq}^{d}}{[A]_{eq}^{a}\\,[B]_{eq}^{b}}\\]\nE\n\\[\\Delta G^{\\circ} = -RT\\,\\ln K_{eq}\\]"
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch01_pt_br.html#reações-desfavoráveis-e-favoráveis",
+    "href": "slides/lehninger_7e_ppt_ch01_pt_br.html#reações-desfavoráveis-e-favoráveis",
+    "title": "Os Fundamentos da Bioquímica",
+    "section": "Reações Desfavoráveis e Favoráveis",
+    "text": "Reações Desfavoráveis e Favoráveis\n\nA síntese de moléculas complexas e muitas outras reações metabólicas requerem energia (endergônicas).\n\nUma reação pode ser termodinamicamente desfavorável (ΔG° &gt; 0).\n\nCriar ordem requer trabalho e energia.\n\nUma reação metabólica pode ter uma barreira energética muito alta (ΔG‡ &gt; 0).\n\nO metabólito é cineticamente estável.\n\n\nA quebra de alguns metabólitos libera uma quantidade significativa de energia (exergônica).\n\nTais metabólitos (ATP, NADH, NADPH) podem ser sintetizados usando a energia da luz solar e de combustíveis.\nSua concentração celular é muito maior do que sua concentração de equilíbrio."
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch01_pt_br.html#acoplamento-energético",
+    "href": "slides/lehninger_7e_ppt_ch01_pt_br.html#acoplamento-energético",
+    "title": "Os Fundamentos da Bioquímica",
+    "section": "Acoplamento Energético",
+    "text": "Acoplamento Energético\n\nO acoplamento químico de reações exergônicas e endergônicas permite reações que, de outra forma, seriam desfavoráveis.\nA molécula de “alta energia” (ATP) reage diretamente com o metabólito que precisa de “ativação”."
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch01_pt_br.html#catálise",
+    "href": "slides/lehninger_7e_ppt_ch01_pt_br.html#catálise",
+    "title": "Os Fundamentos da Bioquímica",
+    "section": "Catálise",
+    "text": "Catálise\n\nUm catalisador é um composto que aumenta a velocidade de uma reação química.\nCatalisadores diminuem a energia livre de ativação ΔG‡.\nCatalisadores não alteram o ΔG°.\nA catálise enzimática oferece:\n\naceleração sob condições brandas\nalta especificidade\npossibilidade de regulação"
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch01_pt_br.html#enzimas-diminuem-a-energia-de-ativação-para-aumentar-a-velocidade-da-reação",
+    "href": "slides/lehninger_7e_ppt_ch01_pt_br.html#enzimas-diminuem-a-energia-de-ativação-para-aumentar-a-velocidade-da-reação",
+    "title": "Os Fundamentos da Bioquímica",
+    "section": "Enzimas Diminuem a Energia de Ativação para Aumentar a Velocidade da Reação",
+    "text": "Enzimas Diminuem a Energia de Ativação para Aumentar a Velocidade da Reação"
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch01_pt_br.html#uma-série-de-reações-relacionadas-catalisadas-enzimaticamente-forma-uma-via",
+    "href": "slides/lehninger_7e_ppt_ch01_pt_br.html#uma-série-de-reações-relacionadas-catalisadas-enzimaticamente-forma-uma-via",
+    "title": "Os Fundamentos da Bioquímica",
+    "section": "Uma Série de Reações Relacionadas Catalisadas Enzimaticamente Forma uma Via",
+    "text": "Uma Série de Reações Relacionadas Catalisadas Enzimaticamente Forma uma Via\n\n\nVia metabólica\n\nproduz energia ou materiais valiosos\n\nVia de transdução de sinal\n\ntransmite informação"
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch01_pt_br.html#as-vias-são-controladas-para-regular-os-níveis-de-metabólitos",
+    "href": "slides/lehninger_7e_ppt_ch01_pt_br.html#as-vias-são-controladas-para-regular-os-níveis-de-metabólitos",
+    "title": "Os Fundamentos da Bioquímica",
+    "section": "As Vias São Controladas para Regular os Níveis de Metabólitos",
+    "text": "As Vias São Controladas para Regular os Níveis de Metabólitos\n\n\nExemplo de regulação negativa:\n\nO produto da enzima 5 inibe a enzima 1 para evitar excesso de produtos desnecessários."
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch01_pt_br.html#fundamentos-genéticos-e-evolutivos",
+    "href": "slides/lehninger_7e_ppt_ch01_pt_br.html#fundamentos-genéticos-e-evolutivos",
+    "title": "Os Fundamentos da Bioquímica",
+    "section": "Fundamentos Genéticos e Evolutivos",
+    "text": "Fundamentos Genéticos e Evolutivos\n\nA vida na Terra surgiu há 3,5–3,8 bilhões de anos.\nA formação de moléculas autorreplicantes foi um passo fundamental.\nPoderia ter sido o DNA?\nPoderiam ter sido as proteínas?"
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch01_pt_br.html#mundo-do-rna",
+    "href": "slides/lehninger_7e_ppt_ch01_pt_br.html#mundo-do-rna",
+    "title": "Os Fundamentos da Bioquímica",
+    "section": "Mundo do RNA?",
+    "text": "Mundo do RNA?\n\nO RNA pode atuar tanto como portador de informação quanto como biocatalisador.\nAlguns vírus usam o RNA como meio primário de informação genética."
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch01_pt_br.html#a-complementaridade-no-dna-permite-a-replicação-com-fidelidade-quase-perfeita",
+    "href": "slides/lehninger_7e_ppt_ch01_pt_br.html#a-complementaridade-no-dna-permite-a-replicação-com-fidelidade-quase-perfeita",
+    "title": "Os Fundamentos da Bioquímica",
+    "section": "A Complementaridade no DNA Permite a Replicação com Fidelidade Quase Perfeita",
+    "text": "A Complementaridade no DNA Permite a Replicação com Fidelidade Quase Perfeita"
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch01_pt_br.html#o-dogma-central-da-bioquímica-dna-rna-proteína",
+    "href": "slides/lehninger_7e_ppt_ch01_pt_br.html#o-dogma-central-da-bioquímica-dna-rna-proteína",
+    "title": "Os Fundamentos da Bioquímica",
+    "section": "O “Dogma” Central da Bioquímica:DNA → RNA → Proteína",
+    "text": "O “Dogma” Central da Bioquímica:DNA → RNA → Proteína"
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch01_pt_br.html#a-seleção-natural-favorece-algumas-mutações",
+    "href": "slides/lehninger_7e_ppt_ch01_pt_br.html#a-seleção-natural-favorece-algumas-mutações",
+    "title": "Os Fundamentos da Bioquímica",
+    "section": "A Seleção NaturalFavorece Algumas Mutações",
+    "text": "A Seleção NaturalFavorece Algumas Mutações\n\nAs mutações ocorrem de forma mais ou menos aleatória no DNA e no RNA.\nPolinucleotídeos mutados podem ser transcritos e traduzidos em maquinaria molecular, como proteínas.\nMutações que conferem aos organismos uma vantagem em um determinado ambiente têm maior probabilidade de serem propagadas."
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch01_pt_br.html#a-seleção-natural-favorece-algumas-mutações-1",
+    "href": "slides/lehninger_7e_ppt_ch01_pt_br.html#a-seleção-natural-favorece-algumas-mutações-1",
+    "title": "Os Fundamentos da Bioquímica",
+    "section": "A Seleção NaturalFavorece Algumas Mutações",
+    "text": "A Seleção NaturalFavorece Algumas Mutações"
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch01_pt_br.html#a-evolução-dos-eucariotos-também-pode-ter-sido-mediada-por-endossimbiose",
+    "href": "slides/lehninger_7e_ppt_ch01_pt_br.html#a-evolução-dos-eucariotos-também-pode-ter-sido-mediada-por-endossimbiose",
+    "title": "Os Fundamentos da Bioquímica",
+    "section": "A Evolução dos Eucariotos Também Pode Ter Sido Mediada por Endossimbiose",
+    "text": "A Evolução dos Eucariotos Também Pode Ter Sido Mediada por Endossimbiose"
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch01_pt_br.html#capítulo-1-resumo",
+    "href": "slides/lehninger_7e_ppt_ch01_pt_br.html#capítulo-1-resumo",
+    "title": "Os Fundamentos da Bioquímica",
+    "section": "Capítulo 1: Resumo",
+    "text": "Capítulo 1: Resumo\nNeste capítulo, aprendemos a:\n\ncompreender o que define os organismos vivos\nrelacionar a estrutura e a função da célula\nperceber que a estrutura das biomoléculas frequentemente lhes confere funções específicas\ncompreender os princípios da bioenergética\nrevisar as forças por trás da evolução"
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch01_pt_br.html#cu",
+    "href": "slides/lehninger_7e_ppt_ch01_pt_br.html#cu",
+    "title": "Os Fundamentos da Bioquímica",
+    "section": "Cu",
+    "text": "Cu\n\n\n     \n\n\n\nProteínas enoveladas\n\n\nPeptídeo traduzido"
+  }
+]

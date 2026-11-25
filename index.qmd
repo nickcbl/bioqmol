@@ -1,0 +1,7 @@
+---
+title: "Bioquímica e Biologia Molecular"
+---
+
+Recursos didáticos para disciplinas de Bioquímica e Biologia Molecular.
+<br>
+A referência básica é o Lehninger: Princípios de Bioquímica. Editora ArtMed. 8a edição.
