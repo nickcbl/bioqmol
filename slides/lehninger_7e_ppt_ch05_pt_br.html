@@ -6,7 +6,10 @@
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="../site_libs/quarto-html/light-border.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-63b5708e65d6cd79cd7618c58d0c21e7.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-63b5708e65d6cd79cd7618c58d0c21e7.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="../site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="../site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet"><meta charset="utf-8">
   <meta name="generator" content="quarto-1.11.9">
 
   <title>Bioquímica e Biologia Molecular – Capítulo</title>
@@ -126,6 +129,16 @@
       margin-right: 0; 
     }
   </style>
+  <style>
+  .azul { color: #0F1AFF; }
+  .subtitulo { font-size: .8em; }
+  .recorte { position: relative; overflow: hidden; }
+  .recorte img { position: absolute; max-width: none; max-height: none; margin: 0; }
+  .venn-elipse { position: absolute; border: 2px solid #333; border-radius: 50%; }
+  .venn-lista { position: absolute; margin: 0; }
+  .eq { font-size: .75em; }
+  .reveal .slides section:has(.absolute) { top: 0 !important; }
+  </style>
 </head>
 <body class="quarto-light">
   <div class="reveal">
@@ -137,337 +150,799 @@
 <div class="quarto-title-authors">
 </div>
 
-  <p class="date">24/11/2026</p>
+  <p class="date">27/11/2026</p>
 </section>
-<section id="slide-1" class="title-slide slide level1 center">
-<h1>Slide 1:</h1>
-<p>5 | Função Proteica © 2017 W. H. Freeman and Company</p>
-</section>
+<section class="slide level2 center">
 
-<section id="slide-2" class="title-slide slide level1 center">
-<h1>Slide 2:</h1>
-<p>Objetivos de aprendizagem:</p>
-<p>Métodos de ligação de ligantes e proteínas Modelagem quantitativa e gráfica das interações proteína-ligante Interação das globinas com oxigênio e ligantes não oxigenados Regulação fisiológica da ligação do oxigênio Mecanismo e controle da interação antígeno-anticorpo Mecanismo da contração muscular Regulação da contração muscular</p>
-<p>CAPÍTULO 5: Função Proteica</p>
+<!-- Slide 1 -->
+<div class="absolute" style="top: 295px; left: 50px; ">
+<p><span class="azul"><strong>5 | Função Proteica</strong></span></p>
+</div>
+<div class="absolute" style="font-size:.4em;top: 478px; left: 19px; ">
+<p>© 2017 W. H. Freeman and Company</p>
+</div>
+<p><a href="../imgs/cap05.image12.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img data-src="../imgs/cap05.image12.png" class="absolute" style="top: 21px; left: 440px; width: 480px; "></a></p>
+<!-- Slide 2 -->
 </section>
-
-<section id="slide-3" class="title-slide slide level1 center">
-<h1>Slide 3:</h1>
-<p>Função das Proteínas Globulares A ligação reversível de ligantes é essencial. especificidade de ligantes e sítios de ligação A ligação do ligante é frequentemente acoplada a mudanças conformacionais, às vezes de forma bastante dramática (encaixe induzido). Em proteínas com múltiplas subunidades, mudanças conformacionais em uma subunidade podem afetar as outras (cooperatividade). As interações podem ser reguladas. Ilustrado por: hemoglobina, anticorpos e proteínas musculares Tópicos principais na função proteica:</p>
-</section>
-
-<section id="slide-4" class="title-slide slide level1 center">
-<h1>Slide 4:</h1>
-<p>Funções das Proteínas Globulares Armazenamento de íons e moléculas mioglobina, ferritina Transporte de íons e moléculas hemoglobina, transportador de serotonina Defesa contra patógenos anticorpos, citocinas Contração muscular actina, miosina Catálise biológica quimotripsina, lisozima</p>
-</section>
-
-<section id="slide-5" class="title-slide slide level1 center">
-<h1>Slide 5:</h1>
-<p>Interação com Outras Moléculas Processo reversível e transitório de equilíbrio químico: A + B ↔︎ AB Uma molécula que se liga a uma proteína é chamada de ligante. tipicamente uma molécula pequena Uma região na proteína onde o ligante se liga é chamada de sítio de ligação. O ligante liga-se por meio das mesmas interações não covalentes que ditam a estrutura proteica (ver Capítulo 4). permite que as interações sejam transitórias</p>
-</section>
-
-<section id="slide-6" class="title-slide slide level1 center">
-<h1>Slide 6:</h1>
-<p>Ligação: Descrição Quantitativa Considere um processo no qual um ligante (L) se liga reversivelmente a um sítio em uma proteína (P).</p>
-<p>Essa interação pode ser descrita quantitativamente pela constante de velocidade de associação ka ou pela constante de velocidade de dissociação kd. Após algum tempo, o processo atingirá o equilíbrio onde as velocidades de associação e dissociação são iguais.</p>
-<p>A composição de equilíbrio é caracterizada pela constante de associação de equilíbrio Ka ou pela constante de dissociação de equilíbrio, Kd.</p>
+<section id="capítulo-5-função-proteica" class="title-slide slide level1 center">
+<h1>CAPÍTULO 5: <br>Função Proteica</h1>
+<p><em>Objetivos de aprendizagem:</em></p>
 <ul>
-<li></li>
+<li>Métodos de ligação de ligantes e proteínas</li>
+<li>Modelagem quantitativa e gráfica das interações proteína-ligante</li>
+<li>Interação das globinas com oxigênio e ligantes não oxigenados</li>
+<li>Regulação fisiológica da ligação do oxigênio</li>
+<li>Mecanismo e controle da interação antígeno-anticorpo</li>
+<li>Mecanismo da contração muscular</li>
+<li>Regulação da contração muscular</li>
 </ul>
-<p>ka kd PL P L</p>
+<!-- Slide 3 -->
 </section>
 
-<section id="slide-7" class="title-slide slide level1 center">
-<h1>Slide 7:</h1>
-<p>Ligação: Análise em Termos da Fração Ligada Na prática, podemos frequentemente determinar a fração de sítios de ligação ocupados (θ).</p>
-<p>Substituindo [PL] por Ka[L][P], eliminaremos [PL]. Eliminar [P] e reorganizar fornece o resultado em termos da constante de associação de equilíbrio. Em termos da constante de dissociação de equilíbrio, mais comumente usada:</p>
+<section id="função-das-proteínas-globulares" class="title-slide slide level1 center">
+<h1>Função das Proteínas Globulares</h1>
+<p><em>Tópicos principais na função proteica:</em></p>
+<ul>
+<li>A ligação reversível de ligantes é essencial.
+<ul>
+<li>especificidade de ligantes e sítios de ligação</li>
+<li>A ligação do ligante é frequentemente acoplada a mudanças conformacionais, às vezes de forma bastante dramática (<strong>encaixe induzido</strong>).</li>
+<li>Em proteínas com múltiplas subunidades, mudanças conformacionais em uma subunidade podem afetar as outras (<strong>cooperatividade</strong>).</li>
+<li>As interações podem ser reguladas.</li>
+</ul></li>
+<li>Ilustrado por:
+<ul>
+<li>hemoglobina, anticorpos e proteínas musculares</li>
+</ul></li>
+</ul>
+<!-- Slide 4 -->
 </section>
 
-<section id="slide-8" class="title-slide slide level1 center">
-<h1>Slide 8:</h1>
-<p>Ligação: Análise Gráfica A fração de sítios ligados depende da concentração de ligante livre e do Kd. Experimentalmente: a concentração do ligante é conhecida o Kd pode ser determinado graficamente ou por regressão de mínimos quadrados</p>
+<section id="funções-das-proteínas-globulares" class="title-slide slide level1 center">
+<h1>Funções das Proteínas Globulares</h1>
+<ul>
+<li><span class="azul">Armazenamento de íons e moléculas</span>
+<ul>
+<li>mioglobina, ferritina</li>
+</ul></li>
+<li><span class="azul">Transporte de íons e moléculas</span>
+<ul>
+<li>hemoglobina, transportador de serotonina</li>
+</ul></li>
+<li><span class="azul">Defesa contra patógenos</span>
+<ul>
+<li>anticorpos, citocinas</li>
+</ul></li>
+<li><span class="azul">Contração muscular</span>
+<ul>
+<li>actina, miosina</li>
+</ul></li>
+<li><span class="azul">Catálise biológica</span>
+<ul>
+<li>quimotripsina, lisozima</li>
+</ul></li>
+</ul>
+<!-- Slide 5 -->
+</section>
+
+<section id="interação-com-outras-moléculas" class="title-slide slide level1 center">
+<h1>Interação com Outras Moléculas</h1>
+<ul>
+<li>Processo reversível e transitório de equilíbrio químico:</li>
+</ul>
+<div style="text-align:center;">
+<p>A + B <span style="color:red;">↔︎</span> AB</p>
+</div>
+<ul>
+<li>Uma molécula que se liga a uma proteína é chamada de <span class="azul">ligante</span>.
+<ul>
+<li>tipicamente uma molécula pequena</li>
+</ul></li>
+<li>Uma região na proteína onde o ligante se liga é chamada de <span class="azul">sítio de ligação</span>.</li>
+<li>O ligante liga-se por meio das mesmas interações <span class="azul">não covalentes</span> que ditam a estrutura proteica (ver Capítulo 4).
+<ul>
+<li>permite que as interações sejam transitórias</li>
+</ul></li>
+</ul>
+<!-- Slide 6 -->
+</section>
+
+<section id="ligação-descrição-quantitativa" class="title-slide slide level1 smaller center">
+<h1>Ligação: Descrição Quantitativa</h1>
+<ul>
+<li>Considere um processo no qual um ligante (L) se liga reversivelmente a um sítio em uma proteína (P).</li>
+</ul>
+<div style="height:210px;">
+
+</div>
+<ul>
+<li>Essa interação pode ser descrita quantitativamente pela <span class="azul">constante de velocidade de associação ka</span> ou pela <span class="azul">constante de velocidade de dissociação kd</span>.</li>
+<li>Após algum tempo, o processo atingirá o <span class="azul">equilíbrio</span> onde as velocidades de associação e dissociação são iguais.</li>
+</ul>
+<p><span class="math display">\[k_a[P]\cdot[L] = k_d[PL]\]</span></p>
+<div class="columns">
+<div class="column" style="width:62%;">
+<ul>
+<li><p>A composição de equilíbrio é caracterizada</p>
+<p><em>pela <span class="azul">constante de associação de equilíbrio Ka</span></em></p>
+<p><em>ou <span class="azul">pela constante de dissociação de equilíbrio, Kd.</span></em></p></li>
+</ul>
+</div><div class="column" style="width:38%;">
+<p><span class="math display">\[K_a = \frac{[PL]}{[P]\cdot[L]} = \frac{1}{K_d}\]</span></p>
+</div></div>
+<div class="absolute" style="pointer-events:none;top: 0px; left: 0px; width: 960px; height: 720px; ">
+<svg viewbox="0 0 960 720" width="960" height="720" xmlns="http://www.w3.org/2000/svg">
+<defs><marker id="s6a" markerwidth="8" markerheight="8" refx="7" refy="4" orient="auto"><path d="M0,0 L8,4 L0,8 Z" fill="#000"></path></marker></defs><path d="M144,248 V176 A72,72 0 1 0 216,248 Z" fill="#FFFFCC" stroke="#000"></path><polygon points="375,200 375,256 447,256" fill="#B9E0E3" stroke="#000"></polygon><path d="M704,248 V176 A72,72 0 1 0 776,248 Z" fill="#FFFFCC" stroke="#000"></path><polygon points="709,193 709,249 781,249" fill="#B9E0E3" stroke="#000"></polygon><line x1="512" y1="228" x2="592" y2="228" stroke="#000" marker-end="url(#s6a)"></line><line x1="584" y1="244" x2="512" y2="244" stroke="#000" marker-end="url(#s6a)"></line><text x="314" y="250" text-anchor="middle" font-size="36" font-weight="bold" font-family="Arial,sans-serif">+</text><text x="548" y="212" text-anchor="middle" font-size="26" font-style="italic" font-family="serif">k<tspan font-size="18" dy="6">a</tspan></text><text x="548" y="282" text-anchor="middle" font-size="26" font-style="italic" font-family="serif">k<tspan font-size="18" dy="6">d</tspan></text><text x="144" y="362" text-anchor="middle" font-size="28" font-family="Arial,sans-serif">P</text><text x="393" y="362" text-anchor="middle" font-size="28" font-family="Arial,sans-serif">L</text><text x="707" y="362" text-anchor="middle" font-size="28" font-family="Arial,sans-serif">PL</text>
+</svg>
+</div>
+<!-- Slide 7 -->
+</section>
+
+<section id="ligação-análise-em-termos-da-fração-ligada" class="title-slide slide level1 smaller center">
+<h1>Ligação: <br>Análise em Termos da Fração Ligada</h1>
+<div class="columns">
+<div class="column" style="width:62%;">
+<ul>
+<li>Na prática, podemos frequentemente determinar a <span class="azul">fração de sítios de ligação ocupados (θ)</span>.</li>
+</ul>
+<p><span class="math display">\[K_a = \frac{[PL]}{[P]\cdot[L]}\]</span></p>
+</div><div class="column" style="width:38%;">
+<p><span class="math display">\[\theta = \frac{[PL]}{[PL]+[P]}\]</span></p>
+</div></div>
+<div class="columns">
+<div class="column" style="width:62%;">
+<ul>
+<li>Substituindo [PL] por Ka[L][P], eliminaremos [PL].</li>
+</ul>
+</div><div class="column" style="width:38%;">
+<p><span class="math display">\[\theta = \frac{K_a[L][P]}{K_a[L][P]+[P]}\]</span></p>
+</div></div>
+<div class="columns">
+<div class="column" style="width:62%;">
+<ul>
+<li>Eliminar [P] e reorganizar fornece o resultado em termos da constante de associação de equilíbrio.</li>
+</ul>
+</div><div class="column" style="width:38%;">
+<p><span class="math display">\[\theta = \frac{[L]}{[L]+\frac{1}{K_a}}\]</span></p>
+</div></div>
+<div class="columns">
+<div class="column" style="width:62%;">
+<ul>
+<li>Em termos da <span class="azul">constante de dissociação de equilíbrio</span>, mais comumente usada:</li>
+</ul>
+</div><div class="column" style="width:38%;">
+<p><span class="math display">\[\boxed{\theta = \frac{[L]}{[L]+K_d}}\]</span></p>
+</div></div>
+<!-- Slide 8 -->
+</section>
+
+<section id="ligação-análise-gráfica" class="title-slide slide level1 center">
+<h1>Ligação: Análise Gráfica</h1>
+<div class="columns">
+<div class="column" style="width:75%;">
+<ul>
+<li><p>A fração de sítios ligados depende</p>
+<p><em>da concentração de ligante livre e do Kd.</em></p></li>
+<li><p>Experimentalmente:</p>
+<ul>
+<li>a concentração do ligante é conhecida</li>
+<li>o Kd pode ser determinado graficamente ou por regressão de mínimos quadrados</li>
+</ul></li>
+</ul>
+</div><div class="column" style="width:25%;">
+<p><span class="math display">\[\theta = \frac{[L]}{[L]+K_d}\]</span></p>
 <p>[L] ≈ [L]total</p>
+</div></div>
+
+<!-- Slide 9 -->
+<img data-src="../imgs/cap05.image16.jpg" class="r-stretch quarto-figure quarto-figure-center"></section>
+
+<section id="exemplo-ligação-do-oxigênio-à-mioglobina" class="title-slide slide level1 center">
+<h1>Exemplo: Ligação do Oxigênio à Mioglobina</h1>
+<div class="recorte absolute" style="aspect-ratio: 1221/1072;top: 146px; left: 24px; width: 454px; ">
+<p><a href="../imgs/cap05.image4.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-3"><img data-src="../imgs/cap05.image4.jpg" style="width:100%; left:0%; top:0%;"></a></p>
+</div>
+<div class="recorte absolute" style="aspect-ratio: 1400/1069;top: 184px; left: 480px; width: 473px; ">
+<p><a href="../imgs/cap05.image6.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-4"><img data-src="../imgs/cap05.image6.jpg" style="width:100%; left:0%; top:0%;"></a></p>
+</div>
+<div class="absolute" style="top: 600px; left: 8px; width: 464px; ">
+<p>Quando um ligante é um gás, a ligação é expressa em termos de pressões parciais.</p>
+</div>
+<div class="absolute eq" style="top: 592px; left: 464px; width: 160px; ">
+<p><span class="math display">\[\theta = \frac{[L]}{K_d+[L]}\]</span></p>
+</div>
+<div class="absolute" style="text-align:center; font-size:1.4em;top: 612px; left: 632px; width: 96px; ">
+<p>⟶</p>
+</div>
+<div class="absolute eq" style="top: 584px; left: 736px; width: 190px; ">
+<p><span class="math display">\[\theta = \frac{pO_2}{p_{50}+pO_2}\]</span></p>
+</div>
+<!-- Slide 10 -->
 </section>
 
-<section id="slide-9" class="title-slide slide level1 center">
-<h1>Slide 9:</h1>
-<p>Exemplo: Ligação do Oxigênio à Mioglobina Quando um ligante é um gás, a ligação é expressa em termos de pressões parciais.</p>
-</section>
-
-<section id="slide-10" class="title-slide slide level1 center">
-<h1>Slide 10:</h1>
-<p>Ligação: Conexões Termodinâmicas A força de interação pode ser expressa como: constante de associação (ligação) Ka, unidades M−1 constante de dissociação Kd, unidades M, Kd = 1/Ka energia livre de interação (ligação) ΔG°, unidades: kJ/mol Definições ΔG° = ΔH° − TΔS°: entalpia e entropia Ka = [PL]/[P][L] Kd = [P][L]/[PL] Relações ΔG° = −RT ln Ka = RT ln Kd (RT a 25°C é 2,48 kJ/mol.) Magnitudes ligação forte: Kd &lt; 10 nM ligação fraca: Kd &gt; 10 μM</p>
-</section>
-
-<section id="slide-11" class="title-slide slide level1 center">
-<h1>Slide 11:</h1>
-<p>Exemplos de Força de Ligação</p>
-</section>
-
-<section id="slide-12" class="title-slide slide level1 center">
-<h1>Slide 12:</h1>
-<p>Especificidade: Modelo Chave-Fechadura As proteínas tipicamente têm alta especificidade: apenas certos ligantes se ligam. A alta especificidade pode ser explicada pela complementaridade entre o sítio de ligação e o ligante. Complementaridade em: tamanho forma carga caráter hidrofóbico/hidrofílico O modelo “chave-fechadura” de Emil Fischer (1894) assume que as superfícies complementares são pré-formadas.</p>
+<section id="ligação-conexões-termodinâmicas" class="title-slide slide level1 smaller center">
+<h1>Ligação: Conexões Termodinâmicas</h1>
 <ul>
-<li></li>
-</ul>
-</section>
-
-<section id="slide-13" class="title-slide slide level1 center">
-<h1>Slide 13:</h1>
-<p>Especificidade: Encaixe Induzido Mudanças conformacionais podem ocorrer após a ligação do ligante (Daniel Koshland em 1958). Essa adaptação é chamada de encaixe induzido. O encaixe induzido permite uma ligação mais firme do ligante. O encaixe induzido permite alta afinidade por diferentes ligantes. Tanto o ligante quanto a proteína podem alterar suas conformações.</p>
+<li><p>A força de interação pode ser expressa como:</p>
 <ul>
-<li></li>
+<li>constante de associação (ligação) Ka, unidades M−1</li>
+<li>constante de dissociação Kd, unidades M, Kd = 1/Ka</li>
+<li>energia livre de interação (ligação) ΔG°, unidades: kJ/mol</li>
 </ul>
+<p>Definições</p>
+<ul>
+<li>ΔG° = ΔH° − TΔS°: entalpia e entropia</li>
+<li>Ka = [PL]/[P][L]  Kd = [P][L]/[PL]</li>
+</ul></li>
+<li><p>Relações</p>
+<ul>
+<li>ΔG° = −RT ln Ka = RT ln Kd (RT a 25°C é 2,48 kJ/mol.)</li>
+</ul></li>
+<li><p>Magnitudes</p>
+<ul>
+<li>ligação forte: Kd &lt; 10 nM</li>
+<li>ligação fraca: Kd &gt; 10 μM</li>
+</ul></li>
+</ul>
+<!-- Slide 11 -->
 </section>
 
-<section id="slide-14" class="title-slide slide level1 center">
-<h1>Slide 14:</h1>
-<p>Estudo de Caso I: Globinas São Proteínas Ligantes de Oxigênio Problemas biológicos: As cadeias laterais das proteínas carecem de afinidade pelo O2. Alguns metais de transição ligam bem o O2, mas gerariam radicais livres se estivessem livres em solução. Compostos organometálicos como o heme são mais adequados, mas o Fe2+ no heme livre poderia ser oxidado a Fe3+ (muito reativo!).</p>
-<p>Solução biológica: Capturar a molécula de oxigênio com o heme ligado a uma proteína.</p>
-<p>A mioglobina (armazenamento) e a hemoglobina (transporte) podem ligar oxigênio por meio de um heme ligado à proteína.</p>
+<section id="exemplos-de-força-de-ligação" class="title-slide slide level1 center">
+<h1>Exemplos de Força de Ligação</h1>
+
+<!-- Slide 12 -->
+<img data-src="../imgs/cap05.image15.jpg" class="r-stretch quarto-figure quarto-figure-center"></section>
+
+<section id="especificidade-modelo-chave-fechadura" class="title-slide slide level1 center">
+<h1>Especificidade: Modelo Chave-Fechadura</h1>
+<ul>
+<li>As proteínas tipicamente têm alta especificidade: apenas certos ligantes se ligam.</li>
+<li>A alta especificidade pode ser explicada pela <span class="azul">complementaridade</span> entre o sítio de ligação e o ligante.</li>
+<li>Complementaridade em:
+<ul>
+<li><span class="azul">tamanho</span></li>
+<li><span class="azul">forma</span></li>
+<li><span class="azul">carga</span></li>
+<li><span class="azul">caráter hidrofóbico/hidrofílico</span></li>
+</ul></li>
+<li>O modelo “chave-fechadura” de Emil Fischer (1894) assume que as superfícies complementares são <span class="azul">pré-formadas</span>.</li>
+</ul>
+<div class="absolute" style="pointer-events:none;top: 0px; left: 0px; width: 960px; height: 720px; ">
+<svg viewbox="0 0 960 720" width="960" height="720" xmlns="http://www.w3.org/2000/svg">
+<defs><marker id="s12a" markerwidth="8" markerheight="8" refx="7" refy="4" orient="auto"><path d="M0,0 L8,4 L0,8 Z" fill="#000"></path></marker></defs><path transform="translate(120,576)" d="M3,0 H84 C77,5 77,15 85,20 C95,25 96,30 96,38 V72 H13 C21,66 23,58 14,52 C0,46 0,8 3,0 Z" fill="#B9E0E3" stroke="#000"></path><path transform="translate(304,592)" d="M14,0 H86 C78,9 78,31 86,40 H14 C-4,38 -4,2 14,0 Z" fill="#FF9999" stroke="#000"></path><text x="258" y="628" text-anchor="middle" font-size="36" font-weight="bold" font-family="Arial,sans-serif">+</text><line x1="448" y1="608" x2="568" y2="608" stroke="#000" marker-end="url(#s12a)"></line><line x1="560" y1="624" x2="448" y2="624" stroke="#000" marker-end="url(#s12a)"></line><path transform="translate(664,576)" d="M3,0 H84 C77,5 77,15 85,20 C95,25 96,30 96,38 V72 H13 C21,66 23,58 14,52 C0,46 0,8 3,0 Z" fill="#B9E0E3" stroke="#000"></path><path transform="translate(736,576)" d="M14,0 H86 C78,9 78,31 86,40 H14 C-4,38 -4,2 14,0 Z" fill="#FF9999" stroke="#000"></path>
+</svg>
+</div>
+<!-- Slide 13 -->
 </section>
 
-<section id="slide-15" class="title-slide slide level1 center">
-<h1>Slide 15:</h1>
-<p>Estruturas da Porfirina e do Heme</p>
+<section id="especificidade-encaixe-induzido" class="title-slide slide level1 center">
+<h1>Especificidade: Encaixe Induzido</h1>
+<ul>
+<li>Mudanças conformacionais podem ocorrer após a ligação do ligante (Daniel Koshland em 1958).
+<ul>
+<li>Essa adaptação é chamada de <span class="azul">encaixe induzido</span>.</li>
+<li>O encaixe induzido permite uma ligação mais firme do ligante.</li>
+<li>O encaixe induzido permite alta afinidade por diferentes ligantes.</li>
+</ul></li>
+<li>Tanto o ligante quanto a proteína podem alterar suas conformações.</li>
+</ul>
+<div class="absolute" style="pointer-events:none;top: 0px; left: 0px; width: 960px; height: 720px; ">
+<svg viewbox="0 0 960 720" width="960" height="720" xmlns="http://www.w3.org/2000/svg">
+<defs><marker id="s13a" markerwidth="8" markerheight="8" refx="7" refy="4" orient="auto"><path d="M0,0 L8,4 L0,8 Z" fill="#000"></path></marker></defs><polygon points="96,528 140,480 224,480 175,528 224,576 140,576" fill="#B9E0E3" stroke="#000"></polygon><polygon points="288,520 361,511 362,551 289,545" fill="#FF9999" stroke="#000"></polygon><text x="250" y="540" text-anchor="middle" font-size="36" font-weight="bold" font-family="Arial,sans-serif">+</text><line x1="424" y1="528" x2="544" y2="528" stroke="#000" marker-end="url(#s13a)"></line><line x1="536" y1="544" x2="424" y2="544" stroke="#000" marker-end="url(#s13a)"></line><path transform="translate(616,488) scale(1.25,1.222)" d="M3,0 H84 C77,5 77,15 85,20 C95,25 96,30 96,38 V72 H13 C21,66 23,58 14,52 C0,46 0,8 3,0 Z" fill="#B9E0E3" stroke="#000" vector-effect="non-scaling-stroke"></path><path transform="translate(712,487) scale(1,1.2)" d="M14,0 H86 C78,9 78,31 86,40 H14 C-4,38 -4,2 14,0 Z" fill="#FF9999" stroke="#000" vector-effect="non-scaling-stroke"></path>
+</svg>
+</div>
+<!-- Slide 14 -->
 </section>
 
-<section id="slide-16" class="title-slide slide level1 center">
-<h1>Slide 16:</h1>
-<p>Estrutura da Mioglobina</p>
+<section id="estudo-de-caso-i-globinas-são-proteínas-ligantes-de-oxigênio" class="title-slide slide level1 smaller center">
+<h1>Estudo de Caso I: Globinas São Proteínas Ligantes de Oxigênio</h1>
+<p>Problemas biológicos:</p>
+<ul>
+<li>As cadeias laterais das proteínas carecem de afinidade pelo O2.</li>
+<li>Alguns metais de transição ligam bem o O2, mas gerariam radicais livres se estivessem livres em solução.</li>
+<li>Compostos organometálicos como o heme são mais adequados, mas o <span class="azul">Fe2+</span> no heme livre poderia ser oxidado a Fe3+ (muito reativo!).</li>
+</ul>
+<p>Solução biológica:</p>
+<ul>
+<li><p><span class="azul">Capturar a molécula de oxigênio com o heme ligado a uma proteína.</span></p>
+<p><strong>A mioglobina (armazenamento) e a hemoglobina (transporte) podem ligar oxigênio por meio de um heme ligado à proteína.</strong></p></li>
+</ul>
+<!-- Slide 15 -->
 </section>
 
-<section id="slide-17" class="title-slide slide level1 center">
-<h1>Slide 17:</h1>
-<p>Ligação do Monóxido de Carbono O CO tem tamanho e forma semelhantes ao O2; ele pode caber no mesmo sítio de ligação. O CO liga-se ao heme mais de 20.000 vezes melhor do que o O2 porque o carbono no CO possui um par de elétrons isolados preenchido que pode ser doado aos orbitais d vazios do Fe2+. O bolsão proteico diminui a afinidade pelo CO, mas ele ainda se liga cerca de 250 vezes melhor do que o oxigênio. O CO é altamente tóxico, pois compete com o oxigênio. Ele bloqueia a função da mioglobina, hemoglobina e citocromos mitocondriais envolvidos na fosforilação oxidativa.</p>
+<section id="estruturas-da-porfirina-e-do-heme" class="title-slide slide level1 center">
+<h1>Estruturas da Porfirina e do Heme</h1>
+
+<!-- Slide 16 -->
+<img data-src="../imgs/cap05.image10.jpg" class="r-stretch quarto-figure quarto-figure-center"></section>
+
+<section id="estrutura-da-mioglobina" class="title-slide slide level1 center">
+<h1>Estrutura da Mioglobina</h1>
+<p><a href="../imgs/cap05.image3.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-7"><img data-src="../imgs/cap05.image3.jpg" class="absolute" style="top: 136px; left: 28px; width: 412px; "></a></p>
+<div class="recorte absolute" style="aspect-ratio: 1221/1072;top: 240px; left: 460px; width: 495px; ">
+<p><a href="../imgs/cap05.image4.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-8"><img data-src="../imgs/cap05.image4.jpg" style="width:100%; left:0%; top:0%;"></a></p>
+</div>
+<!-- Slide 17 -->
 </section>
 
-<section id="slide-18" class="title-slide slide level1 center">
-<h1>Slide 18:</h1>
-<p>Ligação de CO vs.&nbsp;O2 ao Heme Livre</p>
+<section id="ligação-do-monóxido-de-carbono" class="title-slide slide level1 smaller center">
+<h1>Ligação do Monóxido de Carbono</h1>
+<ul>
+<li>O CO tem tamanho e forma semelhantes ao O2; ele pode caber no mesmo sítio de ligação.</li>
+<li><span class="azul">O CO liga-se</span> ao heme mais de 20.000 vezes <span class="azul">melhor</span> do que o O2 porque o carbono no CO possui um par de elétrons isolados preenchido que pode ser doado aos orbitais d vazios do Fe2+.</li>
+<li>O bolsão proteico diminui a afinidade pelo CO, mas ele ainda se liga cerca de 250 vezes melhor do que o oxigênio.</li>
+<li>O CO é altamente tóxico, pois compete com o oxigênio. Ele bloqueia a função da <span class="azul">mioglobina, hemoglobina</span> e <span class="azul">citocromos mitocondriais</span> envolvidos na fosforilação oxidativa.</li>
+</ul>
+<!-- Slide 18 -->
 </section>
 
-<section id="slide-19" class="title-slide slide level1 center">
-<h1>Slide 19:</h1>
-<p>A Ligação do Heme à Proteína Afeta a Ligação de CO vs.&nbsp;O2</p>
+<section id="ligação-de-co-vs.-o2-ao-heme-livre" class="title-slide slide level1 center">
+<h1>Ligação de CO vs.&nbsp;O2 ao Heme Livre</h1>
+
+<!-- Slide 19 -->
+<img data-src="../imgs/cap05.image17.jpg" class="r-stretch quarto-figure quarto-figure-center"></section>
+
+<section id="a-ligação-do-heme-à-proteína-afeta-a-ligação-de-co-vs.-o2" class="title-slide slide level1 center">
+<h1>A Ligação do Heme à Proteína Afeta a <br>Ligação de CO vs.&nbsp;O2</h1>
+
+<!-- Slide 20 -->
+<img data-src="../imgs/cap05.image13.jpg" class="r-stretch quarto-figure quarto-figure-center"></section>
+
+<section id="detecção-espectroscópica-da-ligação-de-oxigênio-às-globinas" class="title-slide slide level1 smaller center">
+<h1>Detecção Espectroscópica da <br>Ligação de Oxigênio às Globinas</h1>
+<ul>
+<li>O grupo heme é um forte <span class="azul">cromóforo</span> que absorve tanto na faixa ultravioleta quanto na visível.</li>
+<li>A forma ferrosa (<span class="azul">Fe2+</span>) sem oxigênio apresenta uma banda de Soret intensa em 429 nm.</li>
+<li>A ligação do oxigênio altera as propriedades eletrônicas do heme e desloca a posição da banda de Soret para 414 nm.</li>
+<li><span class="azul">A ligação do oxigênio pode ser monitorada por espectrofotometria UV-Vis.</span></li>
+<li>A desoxi-hemoglobina (no sangue venoso) apresenta cor arroxeada e a oxi-hemoglobina (no sangue arterial) é vermelha.</li>
+</ul>
+<!-- Slide 21 -->
 </section>
 
-<section id="slide-20" class="title-slide slide level1 center">
-<h1>Slide 20:</h1>
-<p>Detecção Espectroscópica da Ligação de Oxigênio às Globinas O grupo heme é um forte cromóforo que absorve tanto na faixa ultravioleta quanto na visível. A forma ferrosa (Fe2+) sem oxigênio apresenta uma banda de Soret intensa em 429 nm. A ligação do oxigênio altera as propriedades eletrônicas do heme e desloca a posição da banda de Soret para 414 nm. A ligação do oxigênio pode ser monitorada por espectrofotometria UV-Vis. A desoxi-hemoglobina (no sangue venoso) apresenta cor arroxeada e a oxi-hemoglobina (no sangue arterial) é vermelha.</p>
+<section id="a-mioglobina-poderia-transportar-o2" class="title-slide slide level1 center">
+<h1>A Mioglobina Poderia Transportar O2?</h1>
+<ul>
+<li>A pO2 nos pulmões é de cerca de 13 kPa: certamente liga bem o oxigênio.</li>
+<li>A pO2 nos tecidos é de cerca de 4 kPa: ela não o liberará!</li>
+</ul>
+<div class="recorte absolute" style="aspect-ratio: 1400/1069;top: 215px; left: 208px; width: 536px; ">
+<p><a href="../imgs/cap05.image6.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-11"><img data-src="../imgs/cap05.image6.jpg" style="width:100%; left:0%; top:0%;"></a></p>
+</div>
+<div class="absolute" style="top: 640px; left: 32px; width: 896px; ">
+<p>Diminuir a afinidade (P50) da mioglobina pelo oxigênio ajudaria?</p>
+</div>
+<!-- Slide 22 -->
 </section>
 
-<section id="slide-21" class="title-slide slide level1 center">
-<h1>Slide 21:</h1>
-<p>A pO2 nos pulmões é de cerca de 13 kPa: certamente liga bem o oxigênio. A pO2 nos tecidos é de cerca de 4 kPa: ela não o liberará!</p>
-<p>Diminuir a afinidade (P50) da mioglobina pelo oxigênio ajudaria? A Mioglobina Poderia Transportar O2?</p>
+<section id="para-um-transporte-eficaz-a-afinidade-deve-variar-com-a-po2" class="title-slide slide level1 center">
+<h1>Para um Transporte Eficaz, a <br>Afinidade Deve Variar com a pO2</h1>
+
+<!-- Slide 23 -->
+<img data-src="../imgs/cap05.image28.jpg" class="r-stretch quarto-figure quarto-figure-center"></section>
+
+<section id="como-a-afinidade-pelo-oxigênio-pode-mudar" class="title-slide slide level1 smaller center">
+<h1>Como a Afinidade pelo Oxigênio Pode Mudar?</h1>
+<ul>
+<li>Deve ser uma proteína com <span class="azul">múltiplos sítios de ligação</span>.</li>
+<li>Os sítios de ligação devem ser capazes de <span class="azul">interagir entre si</span>.</li>
+<li>Esse fenômeno é chamado de <span style="color:red;">cooperatividade</span>.
+<ul>
+<li>cooperatividade positiva
+<ul>
+<li>o primeiro evento de ligação aumenta a afinidade nos sítios restantes</li>
+<li><span class="azul">reconhecida por curvas de ligação sigmoidais</span></li>
+</ul></li>
+<li>cooperatividade negativa
+<ul>
+<li>o primeiro evento de ligação reduz a afinidade nos sítios restantes</li>
+</ul></li>
+</ul></li>
+</ul>
+<!-- Slide 24 -->
 </section>
 
-<section id="slide-22" class="title-slide slide level1 center">
-<h1>Slide 22:</h1>
-<p>Para um Transporte Eficaz, a Afinidade Deve Variar com a pO2</p>
+<section id="cooperatividade" class="title-slide slide level1 center">
+<h1>Cooperatividade</h1>
+
+<!-- Slide 25 -->
+<img data-src="../imgs/cap05.image20.jpg" class="r-stretch quarto-figure quarto-figure-center"></section>
+
+<section id="cooperatividade-descrição-quantitativa" class="title-slide slide level1 center">
+<h1>Cooperatividade: Descrição Quantitativa</h1>
+<div class="absolute eq" style="top: 208px; left: 479px; width: 200px; ">
+<p><span class="math display">\[K_a = \frac{[PL_n]}{[P][L]^n}\]</span></p>
+</div>
+<div class="absolute eq" style="top: 309px; left: 480px; width: 180px; ">
+<p><span class="math display">\[\theta = \frac{[L]^n}{[L]^n+K_d}\]</span></p>
+</div>
+<!-- Slide 26 -->
 </section>
 
-<section id="slide-23" class="title-slide slide level1 center">
-<h1>Slide 23:</h1>
-<p>Como a Afinidade pelo Oxigênio Pode Mudar? Deve ser uma proteína com múltiplos sítios de ligação. Os sítios de ligação devem ser capazes de interagir entre si. Esse fenômeno é chamado de cooperatividade. cooperatividade positiva o primeiro evento de ligação aumenta a afinidade nos sítios restantes reconhecida por curvas de ligação sigmoidais cooperatividade negativa o primeiro evento de ligação reduz a afinidade nos sítios restantes</p>
+<section id="o-gráfico-de-hill-da-cooperatividade" class="title-slide slide level1 center">
+<h1>O Gráfico de Hill da Cooperatividade</h1>
+
+<!-- Slide 27 -->
+<img data-src="../imgs/cap05.image27.jpg" class="r-stretch quarto-figure quarto-figure-center"></section>
+
+<section id="dois-modelos-de-cooperatividade-concertado-vs.-sequencial" class="title-slide slide level1 center">
+<h1>Dois Modelos de Cooperatividade:<br>Concertado vs.&nbsp;Sequencial</h1>
+
+<!-- Slide 28 -->
+<img data-src="../imgs/cap05.image19.jpg" class="r-stretch quarto-figure quarto-figure-center"></section>
+
+<section id="a-cooperatividade-é-um-caso-especial-de-regulação-alostérica" class="title-slide slide level1 smaller center">
+<h1>A Cooperatividade É um <br>Caso Especial de Regulação Alostérica</h1>
+<ul>
+<li>Proteína alostérica
+<ul>
+<li>A ligação de um ligante a um sítio afeta as propriedades de ligação de um sítio diferente na mesma proteína.</li>
+<li>pode ser positiva ou negativa</li>
+<li>homotrópica
+<ul>
+<li>O ligante normal da proteína é o regulador alostérico.</li>
+</ul></li>
+<li>heterotrópica
+<ul>
+<li>Um ligante diferente afeta a ligação do ligante normal.</li>
+</ul></li>
+</ul></li>
+<li>Cooperatividade = regulação homotrópica positiva</li>
+</ul>
+<!-- Slide 29 -->
 </section>
 
-<section id="slide-24" class="title-slide slide level1 center">
-<h1>Slide 24:</h1>
-<p>Cooperatividade</p>
+<section id="a-hemoglobina-liga-oxigênio-cooperativamente" class="title-slide slide level1 center">
+<h1>A Hemoglobina Liga Oxigênio Cooperativamente</h1>
+<ul>
+<li>A hemoglobina (Hb) é um tetrâmero de duas subunidades (α2β2).</li>
+<li>Cada subunidade é semelhante à mioglobina.</li>
+</ul>
+
+<!-- Slide 30 -->
+<img data-src="../imgs/cap05.image36.jpg" class="r-stretch quarto-figure quarto-figure-center"></section>
+
+<section id="interações-entre-subunidades-na-hemoglobina" class="title-slide slide level1 center">
+<h1>Interações entre Subunidades na Hemoglobina</h1>
+
+<!-- Slide 31 -->
+<img data-src="../imgs/cap05.image33.jpg" class="r-stretch quarto-figure quarto-figure-center"></section>
+
+<section id="interações-entre-subunidades-detalhes" class="title-slide slide level1 center">
+<h1>Interações entre Subunidades: Detalhes</h1>
+
+<!-- Slide 32 -->
+<img data-src="../imgs/cap05.image25.jpg" class="r-stretch quarto-figure quarto-figure-center"></section>
+
+<section id="interações-entre-subunidades-detalhes-1" class="title-slide slide level1 center">
+<h1>Interações entre Subunidades: Detalhes</h1>
+
+<!-- Slide 33 -->
+<img data-src="../imgs/cap05.image29.jpg" class="r-stretch quarto-figure quarto-figure-center"></section>
+
+<section id="similaridade-de-sequência-entre-hemoglobina-e-mioglobina" class="title-slide slide level1 absolute center" data-left="336" data-top="18" width="600">
+<h1>Similaridade de Sequência Entre <br>Hemoglobina e Mioglobina</h1>
+<p><a href="../imgs/cap05.image32.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-20"><img data-src="../imgs/cap05.image32.jpg" class="absolute" style="top: 18px; left: 39px; width: 298px; "></a></p>
+<!-- Slide 34 -->
 </section>
 
-<section id="slide-25" class="title-slide slide level1 center">
-<h1>Slide 25:</h1>
-<p>Cooperatividade: Descrição Quantitativa</p>
+<section id="estados-r-e-t-da-hemoglobina" class="title-slide slide level1 smaller center">
+<h1>Estados R e T da Hemoglobina</h1>
+<ul>
+<li>T = estado tenso
+<ul>
+<li>mais interações, mais estável</li>
+<li>menor afinidade pelo O2</li>
+</ul></li>
+<li><span class="azul">R = estado relaxado</span>
+<ul>
+<li>menos interações, mais flexível</li>
+<li><span class="azul">maior afinidade</span> pelo O2</li>
+</ul></li>
+<li><strong>A ligação do O2 desencadeia uma mudança conformacional T → R.</strong></li>
+<li>A mudança conformacional do estado T para o estado R envolve a <span class="azul">quebra de pares iônicos</span> na interface α1-β2.</li>
+</ul>
+<!-- Slide 35 -->
 </section>
 
-<section id="slide-26" class="title-slide slide level1 center">
-<h1>Slide 26:</h1>
-<p>O Gráfico de Hill da Cooperatividade</p>
+<section id="estados-r-e-t-da-hemoglobina-1" class="title-slide slide level1 center">
+<h1>Estados R e T da Hemoglobina</h1>
+
+<!-- Slide 36 -->
+<img data-src="../imgs/cap05.image31.jpg" class="r-stretch quarto-figure quarto-figure-center"></section>
+
+<section id="a-mudança-conformacional-é-desencadeada-pela-ligação-do-oxigênio" class="title-slide slide level1 center">
+<h1>A Mudança Conformacional É Desencadeada pela Ligação do Oxigênio</h1>
+
+<!-- Slide 37 -->
+<img data-src="../imgs/cap05.image24.jpg" class="r-stretch quarto-figure quarto-figure-center"></section>
+
+<section id="efeito-do-ph-na-ligação-do-o2-à-hemoglobina" class="title-slide slide level1 center">
+<h1>Efeito do pH na Ligação do O2 à Hemoglobina</h1>
+
+<img data-src="../imgs/cap05.image47.jpg" class="r-stretch quarto-figure quarto-figure-center"><p><em>A acidez aumenta ou diminui o Kd?</em></p>
+<!-- Slide 38 -->
 </section>
 
-<section id="slide-27" class="title-slide slide level1 center">
-<h1>Slide 27:</h1>
-<p>Dois Modelos de Cooperatividade: Concertado vs.&nbsp;Sequencial</p>
+<section id="efeito-do-ph-na-ligação-do-o2-à-hemoglobina-1" class="title-slide slide level1 smaller center">
+<h1>Efeito do pH na Ligação do O2 à Hemoglobina</h1>
+<ul>
+<li>Tecidos metabolicamente ativos geram H+, diminuindo o pH do sangue próximo aos tecidos em relação aos pulmões (catalisado pela anidrase carbônica).</li>
+</ul>
+<div style="text-align:center; color:red;">
+<p>CO2 + H2O ↔︎ HCO3− + H+</p>
+</div>
+<ul>
+<li>A afinidade da Hb pelo oxigênio depende do pH.
+<ul>
+<li>O H+ liga-se à Hb e estabiliza o estado T.
+<ul>
+<li>protona a His146, que então forma uma ponte salina com o Asp94</li>
+<li>leva à liberação de O2 (nos tecidos)</li>
+</ul></li>
+</ul></li>
+<li><span class="azul">A diferença de pH entre os pulmões e os tecidos metabólicos aumenta a eficiência do transporte de O2.</span></li>
+<li>Isso é conhecido como efeito Bohr.</li>
+</ul>
+<!-- Slide 39 -->
 </section>
 
-<section id="slide-28" class="title-slide slide level1 center">
-<h1>Slide 28:</h1>
-<p>A Cooperatividade É um Caso Especial de Regulação Alostérica Proteína alostérica A ligação de um ligante a um sítio afeta as propriedades de ligação de um sítio diferente na mesma proteína. pode ser positiva ou negativa homotrópica O ligante normal da proteína é o regulador alostérico. heterotrópica Um ligante diferente afeta a ligação do ligante normal. Cooperatividade = regulação homotrópica positiva</p>
+<section id="hemoglobina-e-exportação-de-co2" class="title-slide slide level1 smaller center">
+<h1>Hemoglobina e Exportação de CO2</h1>
+<ul>
+<li>O CO2 é produzido pelo metabolismo nos tecidos e deve ser exportado.</li>
+<li>15–20% do CO2 é exportado na forma de um carbamato nos <span class="azul">resíduos amino-terminais</span> de cada uma das subunidades polipeptídicas.</li>
+</ul>
+
+<img data-src="../imgs/cap05.image50.jpg" class="r-stretch quarto-figure quarto-figure-center"><ul>
+<li>Observe:
+<ul>
+<li>A formação de um carbamato produz um próton que pode contribuir para o efeito Bohr.</li>
+<li>O carbamato forma pontes salinas adicionais, estabilizando o estado T.</li>
+</ul></li>
+</ul>
+<!-- Slide 40 -->
 </section>
 
-<section id="slide-29" class="title-slide slide level1 center">
-<h1>Slide 29:</h1>
-<p>A Hemoglobina Liga Oxigênio Cooperativamente A hemoglobina (Hb) é um tetrâmero de duas subunidades (α2β2). Cada subunidade é semelhante à mioglobina.</p>
+<section id="o-23-bisfosfoglicerato-regula-a-ligação-de-o2" class="title-slide slide level1 center">
+<h1>O 2,3-Bisfosfoglicerato Regula a Ligação de O2</h1>
+<ul>
+<li><p>Regulador heterotrópico negativo da função da Hb</p></li>
+<li><p>Presente em concentrações mM nos eritrócitos</p>
+<ul>
+<li>produzido a partir de um intermediário da glicólise</li>
+</ul></li>
+<li><p>Molécula pequena carregada negativamente,</p>
+<p>liga-se à cavidade central carregada<br>
+positivamente da Hb</p></li>
+<li><p>Estabiliza o estado T</p></li>
+</ul>
+<p><a href="../imgs/cap05.image30.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-25"><img data-src="../imgs/cap05.image30.jpg" class="absolute" style="top: 320px; left: 632px; width: 304px; "></a></p>
+<!-- Slide 41 -->
 </section>
 
-<section id="slide-30" class="title-slide slide level1 center">
-<h1>Slide 30:</h1>
-<p>Interações entre Subunidades na Hemoglobina</p>
+<section id="o-23-bpg-liga-se-à-cavidade-central-da-hb" class="title-slide slide level1 center">
+<h1>O 2,3-BPG Liga-se à Cavidade Central da Hb</h1>
+
+<!-- Slide 42 -->
+<img data-src="../imgs/cap05.image34.jpg" class="r-stretch quarto-figure quarto-figure-center"></section>
+
+<section id="o-23-bpg-permite-a-liberação-de-o2-nos-tecidos-e-a-adaptação-a-mudanças-de-altitude" class="title-slide slide level1 center">
+<h1>O 2,3-BPG Permite a Liberação de O2 nos Tecidos <br>e a Adaptação a Mudanças de Altitude</h1>
+
+<!-- Slide 43 -->
+<img data-src="../imgs/cap05.image48.jpg" class="r-stretch quarto-figure quarto-figure-center"></section>
+
+<section id="a-anemia-falciforme-deve-se-a-uma-mutação-na-hemoglobina" class="title-slide slide level1 center">
+<h1>A Anemia Falciforme Deve-se a <br>uma Mutação na Hemoglobina</h1>
+<div class="columns">
+<div class="column" style="width:56%;">
+<ul>
+<li>Glu6 → Val na cadeia β da Hb</li>
+<li>A nova cadeia lateral de valina pode ligar-se a uma molécula diferente de Hb para formar um filamento semelhante às proteínas amiloidogênicas discutidas no Capítulo 4.</li>
+<li>Isso torna as hemácias falciformes (em forma de foice).</li>
+<li>Indivíduos homozigotos não tratados geralmente morrem na infância.</li>
+<li>Indivíduos heterozigotos exibem resistência à malária.</li>
+</ul>
+</div><div class="column" style="width:44%;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><a href="../imgs/cap05.image38.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-28"><img data-src="../imgs/cap05.image38.jpg" class="quarto-figure quarto-figure-center" width="349"></a></p>
+</figure>
+</div>
+</div></div>
+<!-- Slide 44 -->
 </section>
 
-<section id="slide-31" class="title-slide slide level1 center">
-<h1>Slide 31:</h1>
-<p>Interações entre Subunidades: Detalhes</p>
+<section id="formação-de-filamentos-de-hb-na-anemia-falciforme" class="title-slide slide level1 center">
+<h1>Formação de Filamentos de Hb <br>na Anemia Falciforme</h1>
+
+<!-- Slide 45 -->
+<img data-src="../imgs/cap05.image35.jpg" class="r-stretch quarto-figure quarto-figure-center"></section>
+
+<section id="estudo-de-caso-2-interação-anticorpoantígeno-dois-tipos-de-sistemas-imunes" class="title-slide slide level1 smaller center">
+<h1>Estudo de Caso 2: Interação Anticorpo/Antígeno<br>Dois Tipos de Sistemas Imunes</h1>
+<ul>
+<li>Sistema imune celular
+<ul>
+<li>tem como alvo as próprias células que foram infectadas</li>
+<li>também elimina partículas virais e bactérias infectantes</li>
+<li>atores principais: <span class="azul">macrófagos, células T citotóxicas (Tc)</span> e <span class="azul">células T inflamatórias (TH1)</span></li>
+</ul></li>
+<li>Sistema imune humoral (“fluido”)
+<ul>
+<li>tem como alvo patógenos extracelulares</li>
+<li>também pode reconhecer proteínas estranhas</li>
+<li>produz anticorpos solúveis</li>
+<li>mantém “memória” de infecções passadas</li>
+<li>atores principais: <span class="azul">linfócitos B</span> e <span class="azul">células T auxiliares (TH2)</span></li>
+</ul></li>
+</ul>
+<!-- Slide 46 -->
 </section>
 
-<section id="slide-32" class="title-slide slide level1 center">
-<h1>Slide 32:</h1>
-<p>Interações entre Subunidades: Detalhes</p>
+<section id="sistema-imune-celular" class="title-slide slide level1 center">
+<h1>Sistema Imune Celular</h1>
+<ul>
+<li>Os anticorpos ligam-se a fragmentos exibidos na superfície das células invasoras.</li>
+<li>Fagócitos: células especializadas que englobam invasores</li>
+<li>Macrófagos: grandes fagócitos que ingerem bactérias marcadas por anticorpos</li>
+</ul>
+
+<!-- Slide 47 -->
+<img data-src="../imgs/cap05.image37.jpg" class="r-stretch quarto-figure quarto-figure-center"></section>
+
+<section id="sistema-imune-humoral" class="title-slide slide level1 smaller center">
+<h1>Sistema Imune Humoral</h1>
+<ul>
+<li>Os vertebrados também combatem infecções com anticorpos solúveis que se ligam especificamente a antígenos.
+<ul>
+<li>Antígenos são substâncias que estimulam a produção de anticorpos.
+<ul>
+<li>tipicamente de natureza macromolecular</li>
+<li>reconhecidos como estranhos pelo sistema imune</li>
+<li>proteínas do envoltório de bactérias e vírus</li>
+<li>carboidratos de superfície de células ou vírus</li>
+</ul></li>
+<li>Anticorpos são proteínas produzidas pelas células B e que se ligam especificamente a antígenos.
+<ul>
+<li>A ligação marcará o antígeno para destruição ou interferirá em sua função.</li>
+<li>Um determinado anticorpo ligar-se-á a uma pequena região (epítopo) do antígeno.</li>
+<li>Um antígeno pode ter vários epítopos.</li>
+</ul></li>
+</ul></li>
+</ul>
+<!-- Slide 48 -->
 </section>
 
-<section id="slide-33" class="title-slide slide level1 center">
-<h1>Slide 33:</h1>
-<p>Similaridade de Sequência Entre Hemoglobina e Mioglobina</p>
+<section id="anticorpos-imunoglobulina-g" class="title-slide slide level1 smaller center">
+<h1>Anticorpos: Imunoglobulina G</h1>
+<div class="columns">
+<div class="column" style="width:48%;">
+<p>Duas <strong>cadeias pesadas</strong> e duas <strong>cadeias leves</strong></p>
+<ul>
+<li>compostas por domínios constantes e domínios variáveis</li>
+</ul>
+<p><strong>Cadeias leves:</strong> um domínio constante e um domínio variável</p>
+<p><strong>Cadeias pesadas:</strong> três domínios constantes e um domínio variável</p>
+<p><strong>Os domínios variáveis</strong> de cada cadeia formam o sítio de ligação ao antígeno (dois por anticorpo) e são hipervariáveis, o que confere especificidade ao antígeno.</p>
+</div><div class="column" style="width:52%;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><a href="../imgs/cap05.image53.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-31"><img data-src="../imgs/cap05.image53.jpg" class="quarto-figure quarto-figure-center" width="395"></a></p>
+</figure>
+</div>
+</div></div>
+<!-- Slide 49 -->
 </section>
 
-<section id="slide-34" class="title-slide slide level1 center">
-<h1>Slide 34:</h1>
-<p>Estados R e T da Hemoglobina T = estado tenso mais interações, mais estável menor afinidade pelo O2 R = estado relaxado menos interações, mais flexível maior afinidade pelo O2 A ligação do O2 desencadeia uma mudança conformacional T → R. A mudança conformacional do estado T para o estado R envolve a quebra de pares iônicos na interface α1-β2.</p>
+<section id="anticorpos-imunoglobulina-g-1" class="title-slide slide level1 center">
+<h1>Anticorpos: Imunoglobulina G</h1>
+
+<!-- Slide 50 -->
+<img data-src="../imgs/cap05.image39.jpg" class="r-stretch quarto-figure quarto-figure-center"></section>
+
+<section id="antígenos-ligam-se-via-encaixe-induzido" class="title-slide slide level1 center">
+<h1>Antígenos Ligam-se via Encaixe Induzido</h1>
+<p>A ligação do antígeno causa mudanças estruturais significativas no anticorpo.</p>
+
+<!-- Slide 51 -->
+<img data-src="../imgs/cap05.image55.jpg" class="r-stretch quarto-figure quarto-figure-center"></section>
+
+<section id="a-especificidade-de-anticorpos-é-um-importante-reagente-analítico" class="title-slide slide level1 center">
+<h1>A Especificidade de Anticorpos É um <br>Importante Reagente Analítico</h1>
+
+<!-- Slide 52 -->
+<img data-src="../imgs/cap05.image42.jpg" class="r-stretch quarto-figure quarto-figure-center"></section>
+
+<section id="a-detecção-de-anticorpos-pode-ser-colorimétrica-ou-luminescente" class="title-slide slide level1 center">
+<h1>A Detecção de Anticorpos Pode Ser <br>Colorimétrica ou Luminescente</h1>
+
+<!-- Slide 53 -->
+<img data-src="../imgs/cap05.image40.jpg" class="r-stretch quarto-figure quarto-figure-center"></section>
+
+<section id="estudo-de-caso-3-proteínas-musculares-estrutura-muscular" class="title-slide slide level1 center">
+<h1>Estudo de Caso 3: Proteínas Musculares<br>Estrutura Muscular</h1>
+<ul>
+<li>Fibra muscular: célula grande, única, alongada e multinucleada</li>
+<li>Cada fibra contém cerca de 1.000 miofibrilas.</li>
+</ul>
+
+<!-- Slide 54 -->
+<img data-src="../imgs/cap05.image51.jpg" class="r-stretch quarto-figure quarto-figure-center"></section>
+
+<section id="miofibrilas-contêm-filamentos-espessos-de-miosina" class="title-slide slide level1 center">
+<h1>Miofibrilas Contêm <br>Filamentos Espessos de Miosina</h1>
+<p><a href="../imgs/cap05.image44.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-37"><img data-src="../imgs/cap05.image44.jpg" class="absolute" style="top: 176px; left: 21px; width: 547px; "></a></p>
+<p><a href="../imgs/cap05.image41.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-38"><img data-src="../imgs/cap05.image41.jpg" class="absolute" style="top: 521px; left: 352px; width: 608px; "></a></p>
+<!-- Slide 55 -->
 </section>
 
-<section id="slide-35" class="title-slide slide level1 center">
-<h1>Slide 35:</h1>
-<p>Estados R e T da Hemoglobina</p>
+<section id="miofibrilas-contêm-filamentos-finos-de-actina" class="title-slide slide level1 center">
+<h1>Miofibrilas Contêm <br>Filamentos Finos de Actina</h1>
+
+<!-- Slide 56 -->
+<img data-src="../imgs/cap05.image54.jpg" class="r-stretch quarto-figure quarto-figure-center"></section>
+
+<section id="filamentos-espessos-de-miosina-deslizam-ao-longo-de-filamentos-finos-de-actina" class="title-slide slide level1 center">
+<h1>Filamentos Espessos de Miosina Deslizam ao Longo de <br>Filamentos Finos de Actina</h1>
+
+<!-- Slide 57 -->
+<img data-src="../imgs/cap05.image52.jpg" class="r-stretch quarto-figure quarto-figure-center"></section>
+
+<section id="filamentos-espessos-de-miosina-deslizam-ao-longo-de-filamentos-finos-de-actina-1" class="title-slide slide level1 center">
+<h1>Filamentos Espessos de Miosina Deslizam ao Longo de <br>Filamentos Finos de Actina</h1>
+<p><a href="../imgs/cap05.image46.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-41"><img data-src="../imgs/cap05.image46.jpg" class="absolute" style="top: 312px; left: 16px; width: 448px; "></a></p>
+<p><a href="../imgs/cap05.image43.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-42"><img data-src="../imgs/cap05.image43.jpg" class="absolute" style="top: 251px; left: 481px; width: 455px; "></a></p>
+<!-- Slide 58 -->
 </section>
 
-<section id="slide-36" class="title-slide slide level1 center">
-<h1>Slide 36:</h1>
-<p>A Mudança Conformacional É Desencadeada pela Ligação do Oxigênio</p>
+<section id="interações-proteicas-moduladas-por-energia-química" class="title-slide slide level1 center">
+<h1>Interações Proteicas <br>Moduladas por Energia Química</h1>
+<ul>
+<li>O uso de energia química (ATP) pode causar mudanças conformacionais nas proteínas, geralmente necessárias para sua função.</li>
+</ul>
+<p>Especialmente em proteínas motoras</p>
+<ul>
+<li>controlam o movimento de células e organelas dentro das células</li>
+<li>A contração muscular ocorre por meio de uma série de <span class="azul">mudanças conformacionais</span> na estrutura proteica devido à ligação, hidrólise e liberação de ATP e ADP.</li>
+</ul>
+<!-- Slide 59 -->
 </section>
 
-<section id="slide-37" class="title-slide slide level1 center">
-<h1>Slide 37:</h1>
-<p>Efeito do pH na Ligação do O2 à Hemoglobina A acidez aumenta ou diminui o Kd?</p>
-</section>
+<section id="ciclo-da-actomiosina" class="title-slide slide level1 center">
+<h1>Ciclo da Actomiosina</h1>
 
-<section id="slide-38" class="title-slide slide level1 center">
-<h1>Slide 38:</h1>
-<p>Efeito do pH na Ligação do O2 à Hemoglobina Tecidos metabolicamente ativos geram H+, diminuindo o pH do sangue próximo aos tecidos em relação aos pulmões (catalisado pela anidrase carbônica). CO2 + H2O ↔︎ HCO3− + H+ A afinidade da Hb pelo oxigênio depende do pH. O H+ liga-se à Hb e estabiliza o estado T. protona a His146, que então forma uma ponte salina com o Asp94 leva à liberação de O2 (nos tecidos) A diferença de pH entre os pulmões e os tecidos metabólicos aumenta a eficiência do transporte de O2. Isso é conhecido como efeito Bohr.</p>
-</section>
+<!-- Slide 60 -->
+<img data-src="../imgs/cap05.image49.jpg" class="r-stretch quarto-figure quarto-figure-center"></section>
 
-<section id="slide-39" class="title-slide slide level1 center">
-<h1>Slide 39:</h1>
-<p>Hemoglobina e Exportação de CO2 O CO2 é produzido pelo metabolismo nos tecidos e deve ser exportado. 15–20% do CO2 é exportado na forma de um carbamato nos resíduos amino-terminais de cada uma das subunidades polipeptídicas.</p>
-<p>Observe: A formação de um carbamato produz um próton que pode contribuir para o efeito Bohr. O carbamato forma pontes salinas adicionais, estabilizando o estado T.</p>
-</section>
+<section id="regulação-da-contração-muscular" class="title-slide slide level1 center">
+<h1>Regulação da Contração Muscular</h1>
+<ul>
+<li>A disponibilidade dos sítios de ligação da miosina na actina é regulada pela troponina e tropomiosina.
+<ul>
+<li>evita a contração muscular contínua</li>
+</ul></li>
+<li>O impulso nervoso desencadeia a liberação de Ca2+.
+<ul>
+<li>causa mudanças conformacionais no complexo tropomiosina-troponina, expondo os sítios de ligação da miosina</li>
+</ul></li>
+</ul>
 
-<section id="slide-40" class="title-slide slide level1 center">
-<h1>Slide 40:</h1>
-<p>O 2,3-Bisfosfoglicerato Regula a Ligação de O2 Regulador heterotrópico negativo da função da Hb Presente em concentrações mM nos eritrócitos produzido a partir de um intermediário da glicólise Molécula pequena carregada negativamente, liga-se à cavidade central carregada positivamente da Hb Estabiliza o estado T</p>
-</section>
+<!-- Slide 61 -->
+<img data-src="../imgs/cap05.image45.jpg" class="r-stretch quarto-figure quarto-figure-center"></section>
 
-<section id="slide-41" class="title-slide slide level1 center">
-<h1>Slide 41:</h1>
-<p>O 2,3-BPG Liga-se à Cavidade Central da Hb</p>
-</section>
-
-<section id="slide-42" class="title-slide slide level1 center">
-<h1>Slide 42:</h1>
-<p>O 2,3-BPG Permite a Liberação de O2 nos Tecidos e a Adaptação a Mudanças de Altitude</p>
-</section>
-
-<section id="slide-43" class="title-slide slide level1 center">
-<h1>Slide 43:</h1>
-<p>A Anemia Falciforme Deve-se a uma Mutação na Hemoglobina Glu6 → Val na cadeia β da Hb A nova cadeia lateral de valina pode ligar-se a uma molécula diferente de Hb para formar um filamento semelhante às proteínas amiloidogênicas discutidas no Capítulo 4. Isso torna as hemácias falciformes (em forma de foice). Indivíduos homozigotos não tratados geralmente morrem na infância. Indivíduos heterozigotos exibem resistência à malária.</p>
-</section>
-
-<section id="slide-44" class="title-slide slide level1 center">
-<h1>Slide 44:</h1>
-<p>Formação de Filamentos de Hb na Anemia Falciforme</p>
-</section>
-
-<section id="slide-45" class="title-slide slide level1 center">
-<h1>Slide 45:</h1>
-<p>Estudo de Caso 2: Interação Anticorpo/Antígeno Dois Tipos de Sistemas Imunes Sistema imune celular tem como alvo as próprias células que foram infectadas também elimina partículas virais e bactérias infectantes atores principais: macrófagos, células T citotóxicas (Tc) e células T inflamatórias (TH1) Sistema imune humoral (“fluido”) tem como alvo patógenos extracelulares também pode reconhecer proteínas estranhas produz anticorpos solúveis<br>
-mantém “memória” de infecções passadas atores principais: linfócitos B e células T auxiliares (TH2)</p>
-</section>
-
-<section id="slide-46" class="title-slide slide level1 center">
-<h1>Slide 46:</h1>
-<p>Sistema Imune Celular Os anticorpos ligam-se a fragmentos exibidos na superfície das células invasoras. Fagócitos: células especializadas que englobam invasores Macrófagos: grandes fagócitos que ingerem bactérias marcadas por anticorpos</p>
-</section>
-
-<section id="slide-47" class="title-slide slide level1 center">
-<h1>Slide 47:</h1>
-<p>Sistema Imune Humoral Os vertebrados também combatem infecções com anticorpos solúveis que se ligam especificamente a antígenos. Antígenos são substâncias que estimulam a produção de anticorpos. tipicamente de natureza macromolecular reconhecidos como estranhos pelo sistema imune proteínas do envoltório de bactérias e vírus carboidratos de superfície de células ou vírus Anticorpos são proteínas produzidas pelas células B e que se ligam especificamente a antígenos. A ligação marcará o antígeno para destruição ou interferirá em sua função. Um determinado anticorpo ligar-se-á a uma pequena região (epítopo) do antígeno. Um antígeno pode ter vários epítopos.</p>
-</section>
-
-<section id="slide-48" class="title-slide slide level1 center">
-<h1>Slide 48:</h1>
-<p>Anticorpos: Imunoglobulina G Duas cadeias pesadas e duas cadeias leves compostas por domínios constantes e domínios variáveis</p>
-<p>Cadeias leves: um domínio constante e um domínio variável Cadeias pesadas: três domínios constantes e um domínio variável</p>
-<p>Os domínios variáveis de cada cadeia formam o sítio de ligação ao antígeno (dois por anticorpo) e são hipervariáveis, o que confere especificidade ao antígeno.</p>
-</section>
-
-<section id="slide-49" class="title-slide slide level1 center">
-<h1>Slide 49:</h1>
-<p>Anticorpos: Imunoglobulina G</p>
-</section>
-
-<section id="slide-50" class="title-slide slide level1 center">
-<h1>Slide 50:</h1>
-<p>Antígenos Ligam-se via Encaixe Induzido A ligação do antígeno causa mudanças estruturais significativas no anticorpo.</p>
-</section>
-
-<section id="slide-51" class="title-slide slide level1 center">
-<h1>Slide 51:</h1>
-<p>A Especificidade de Anticorpos É um Importante Reagente Analítico</p>
-</section>
-
-<section id="slide-52" class="title-slide slide level1 center">
-<h1>Slide 52:</h1>
-<p>A Detecção de Anticorpos Pode Ser Colorimétrica ou Luminescente</p>
-</section>
-
-<section id="slide-53" class="title-slide slide level1 center">
-<h1>Slide 53:</h1>
-<p>Estudo de Caso 3: Proteínas Musculares Estrutura Muscular Fibra muscular: célula grande, única, alongada e multinucleada Cada fibra contém cerca de 1.000 miofibrilas.</p>
-</section>
-
-<section id="slide-54" class="title-slide slide level1 center">
-<h1>Slide 54:</h1>
-<p>Miofibrilas Contêm Filamentos Espessos de Miosina</p>
-</section>
-
-<section id="slide-55" class="title-slide slide level1 center">
-<h1>Slide 55:</h1>
-<p>Miofibrilas Contêm Filamentos Finos de Actina</p>
-</section>
-
-<section id="slide-56" class="title-slide slide level1 center">
-<h1>Slide 56:</h1>
-<p>Filamentos Espessos de Miosina Deslizam ao Longo de Filamentos Finos de Actina</p>
-</section>
-
-<section id="slide-57" class="title-slide slide level1 center">
-<h1>Slide 57:</h1>
-<p>Filamentos Espessos de Miosina Deslizam ao Longo de Filamentos Finos de Actina</p>
-</section>
-
-<section id="slide-58" class="title-slide slide level1 center">
-<h1>Slide 58:</h1>
-<p>Interações Proteicas Moduladas por Energia Química O uso de energia química (ATP) pode causar mudanças conformacionais nas proteínas, geralmente necessárias para sua função.</p>
-<p>Especialmente em proteínas motoras controlam o movimento de células e organelas dentro das células A contração muscular ocorre por meio de uma série de mudanças conformacionais na estrutura proteica devido à ligação, hidrólise e liberação de ATP e ADP.</p>
-</section>
-
-<section id="slide-59" class="title-slide slide level1 center">
-<h1>Slide 59:</h1>
-<p>Ciclo da Actomiosina</p>
-</section>
-
-<section id="slide-60" class="title-slide slide level1 center">
-<h1>Slide 60:</h1>
-<p>Regulação da Contração Muscular A disponibilidade dos sítios de ligação da miosina na actina é regulada pela troponina e tropomiosina. evita a contração muscular contínua O impulso nervoso desencadeia a liberação de Ca2+. causa mudanças conformacionais no complexo tropomiosina-troponina, expondo os sítios de ligação da miosina</p>
-</section>
-
-<section id="slide-61" class="title-slide slide level1 center">
-<h1>Slide 61:</h1>
-<p>Capítulo 5: Resumo como a ligação de ligantes pode afetar a função proteica como analisar quantitativamente dados de ligação como a mioglobina armazena oxigênio como a hemoglobina transporta O2, prótons e CO2<br>
-como os anticorpos reconhecem estruturas estranhas como o músculo funciona</p>
+<section id="capítulo-5-resumo" class="title-slide slide level1 center">
+<h1>Capítulo 5: Resumo</h1>
 <p>Neste capítulo, aprendemos:</p>
+<ul>
+<li>como a ligação de ligantes pode afetar a função proteica</li>
+<li>como analisar quantitativamente dados de ligação</li>
+<li>como a mioglobina armazena oxigênio</li>
+<li>como a hemoglobina transporta O2, prótons e CO2</li>
+<li>como os anticorpos reconhecem estruturas estranhas</li>
+<li>como o músculo funciona</li>
+</ul>
 
 
 </section>
@@ -917,6 +1392,38 @@ como os anticorpos reconhecem estruturas estranhas como o músculo funciona</p>
         }
       });
       </script>
+    <script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","descPosition":"bottom","loop":false,"openEffect":"zoom","selector":".lightbox"});
+    (function() {
+      let previousOnload = window.onload;
+      window.onload = () => {
+        if (previousOnload) {
+          previousOnload();
+        }
+        lightboxQuarto.on('slide_before_load', (data) => {
+          const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+          const href = trigger.getAttribute('href');
+          if (href !== null) {
+            const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+            if (imgEl !== null) {
+              const srcAttr = imgEl.getAttribute("src");
+              if (srcAttr && srcAttr.startsWith("data:")) {
+                slideConfig.href = srcAttr;
+              }
+            }
+          } 
+        });
+      
+        lightboxQuarto.on('slide_after_load', (data) => {
+          const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(slideNode);
+          }
+        });
+      
+      };
+      
+    })();
+              </script>
     
 
 </body></html>

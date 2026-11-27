@@ -6,10 +6,13 @@
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="../site_libs/quarto-html/light-border.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-63b5708e65d6cd79cd7618c58d0c21e7.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-63b5708e65d6cd79cd7618c58d0c21e7.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="../site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="../site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet"><meta charset="utf-8">
   <meta name="generator" content="quarto-1.11.9">
 
-  <title>Bioquímica e Biologia Molecular – Capítulo</title>
+  <title>Bioquímica e Biologia Molecular – Enzimas</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -126,385 +129,860 @@
       margin-right: 0; 
     }
   </style>
+  <style>
+  .azul { color: #2e3192; font-weight: bold; font-size: 32px; }
+  .recorte { position: relative; overflow: hidden; }
+  .recorte img { position: absolute; max-width: none; max-height: none; margin: 0; }
+  </style>
 </head>
 <body class="quarto-light">
   <div class="reveal">
     <div class="slides">
 
 <section id="title-slide" class="quarto-title-block center">
-  <h1 class="title">Capítulo</h1>
+  <h1 class="title">Enzimas</h1>
 
 <div class="quarto-title-authors">
 </div>
 
-  <p class="date">24/11/2026</p>
+  <p class="date">27/11/2026</p>
 </section>
-<section id="slide-1" class="title-slide slide level1 center">
-<h1>Slide 1:</h1>
-<p>6 | Enzimas © 2017 W. H. Freeman and Company</p>
+<section class="slide level2 center">
+
+<!-- Slide 1 -->
+<div class="absolute" style="top: 262px; left: 8px; width: 432px; ">
+<p><span class="azul">6 | Enzimas</span></p>
+</div>
+<div class="absolute" style="font-size:16px;top: 432px; left: 8px; width: 432px; ">
+<p>© 2017 W. H. Freeman and Company</p>
+</div>
+<p><img data-src="../imgs/cap06.image1.png" class="absolute nolightbox" style="top: 38px; left: 440px; width: 480px; "></p>
+<!-- Slide 2 -->
 </section>
-
-<section id="slide-2" class="title-slide slide level1 center">
-<h1>Slide 2:</h1>
-<p>CAPÍTULO 6 Enzimas Significado fisiológico das enzimas Origem do poder catalítico das enzimas Mecanismos químicos de catálise Mecanismos da quimotripsina e da lisozima Descrição da cinética e inibição enzimática Objetivos de aprendizagem:</p>
-</section>
-
-<section id="slide-3" class="title-slide slide level1 center">
-<h1>Slide 3:</h1>
-<p>O Que São Enzimas? Enzimas são catalisadores. aumentam as velocidades das reações sem serem consumidas A maioria das enzimas são proteínas globulares. Entretanto, alguns RNAs (ribozimas e RNA ribossômico) também catalisam reações. O estudo dos processos enzimáticos é o campo mais antigo da bioquímica, datando do final do século XVIII. O estudo das enzimas dominou a bioquímica no passado e continua a fazê-lo.</p>
-</section>
-
-<section id="slide-4" class="title-slide slide level1 center">
-<h1>Slide 4:</h1>
-
-</section>
-
-<section id="slide-5" class="title-slide slide level1 center">
-<h1>Slide 5:</h1>
-<p>Por Que Biocatálise em Vez de Catalisadores Inorgânicos? Maior especificidade de reação: evita subprodutos Condições de reação mais brandas: propícias às condições nas células pH ~ 7, 37°C Maiores velocidades de reação: em uma escala de tempo biologicamente útil Capacidade de regulação: controle de vias biológicas Os metabólitos têm muitas vias potenciais de decomposição.</p>
-<p>As enzimas tornam a desejada mais favorável.</p>
-</section>
-
-<section id="slide-6" class="title-slide slide level1 center">
-<h1>Slide 6:</h1>
-<p>Seletividade Enzimática de Substrato Sem ligação Ligação, mas sem reação Exemplo: fenilalanina hidroxilase</p>
+<section id="capítulo-6-enzimas" class="title-slide slide level1 center">
+<h1>CAPÍTULO 6<br>Enzimas</h1>
+<p><em>Objetivos de aprendizagem:</em></p>
+<ul>
+<li>Significado fisiológico das enzimas</li>
+<li>Origem do poder catalítico das enzimas</li>
+<li>Mecanismos químicos de catálise</li>
+<li>Mecanismos da quimotripsina e da lisozima</li>
+<li>Descrição da cinética e inibição enzimática</li>
+</ul>
+<!-- Slide 3 -->
 </section>
 
-<section id="slide-7" class="title-slide slide level1 center">
-<h1>Slide 7:</h1>
-<p>O Complexo Enzima-Substrato Impulsiona a Seletividade</p>
+<section>
+<section id="o-que-são-enzimas" class="title-slide slide level1 center">
+<h1>O Que São Enzimas?</h1>
+<ul>
+<li>Enzimas são catalisadores.
+<ul>
+<li>aumentam as velocidades das reações sem serem consumidas</li>
+</ul></li>
+<li>A maioria das enzimas são proteínas globulares.
+<ul>
+<li>Entretanto, alguns RNAs (ribozimas e RNA ribossômico) também catalisam reações.</li>
+</ul></li>
+<li>O estudo dos processos enzimáticos é o campo mais antigo da bioquímica, datando do final do século XVIII.</li>
+<li>O estudo das enzimas dominou a bioquímica no passado e continua a fazê-lo.</li>
+</ul>
+</section>
+<section class="slide level2 center">
+
+<!-- Slide 4 -->
+<div class="columns">
+<div class="column" style="width:33%;">
+<p><a href="../imgs/cap06.image7.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img data-src="../imgs/cap06.image7.jpg" width="278"></a></p>
+</div><div class="column" style="width:33%;">
+<p><a href="../imgs/cap06.image4.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-2"><img data-src="../imgs/cap06.image4.jpg" width="286"></a></p>
+</div><div class="column" style="width:34%;">
+<p><a href="../imgs/cap06.image17.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-3"><img data-src="../imgs/cap06.image17.jpg" width="291"></a></p>
+</div></div>
+<!-- Slide 5 -->
+</section></section>
+<section id="por-que-biocatálise-em-vez-de-catalisadores-inorgânicos" class="title-slide slide level1 center">
+<h1>Por Que Biocatálise em Vez de Catalisadores Inorgânicos?</h1>
+<ul>
+<li><p>Maior especificidade de reação: evita subprodutos</p></li>
+<li><p>Condições de reação mais brandas: propícias às condições nas células</p>
+<p>pH ~ 7, 37°C</p></li>
+<li><p>Maiores velocidades de reação: em uma escala de tempo biologicamente útil</p></li>
+<li><p>Capacidade de regulação: controle de vias biológicas</p></li>
+</ul>
+<div class="columns">
+<div class="column" style="width:62%;">
+<p><a href="../imgs/cap06.image6.png" class="lightbox" data-gallery="quarto-lightbox-gallery-4"><img data-src="../imgs/cap06.image6.png" width="576"></a></p>
+</div><div class="column" style="width:38%;">
+<ul>
+<li>Os metabólitos têm muitas vias potenciais de decomposição.</li>
+<li>As enzimas tornam a desejada mais favorável.</li>
+</ul>
+</div></div>
+<!-- Slide 6 -->
 </section>
 
-<section id="slide-8" class="title-slide slide level1 center">
-<h1>Slide 8:</h1>
-<p>Catálise Enzimática As enzimas não afetam o equilíbrio (Keq)… …o que significa que as enzimas não podem afetar a energia livre da reação (ΔG). Reações lentas enfrentam barreiras de ativação significativas (ΔG‡) que devem ser superadas durante a reação. As enzimas aumentam as velocidades de reação (k) diminuindo o ΔG‡.</p>
+<section id="seletividade-enzimática-de-substrato" class="title-slide slide level1 center">
+<h1>Seletividade Enzimática de Substrato</h1>
+<p><img data-src="../imgs/cap06.image3.png" class="absolute nolightbox" style="top: 136px; left: 120px; width: 621px; "></p>
+<svg width="960" height="720" viewbox="0 0 960 720" style="position:absolute; left:0; top:0; pointer-events:none;">
+<defs><marker id="seta6" markerwidth="8" markerheight="8" refx="7" refy="4" orient="auto"><path d="M0,0 L8,4 L0,8 Z" fill="#000"></path></marker></defs> <line x1="368" y1="224" x2="480" y2="224" stroke="#000" stroke-width="3" marker-end="url(#seta6)"></line> <line x1="368" y1="360" x2="480" y2="360" stroke="#000" stroke-width="3" marker-end="url(#seta6)"></line> <line x1="368" y1="512" x2="480" y2="512" stroke="#000" stroke-width="3" marker-end="url(#seta6)"></line>
+</svg>
+<div class="absolute" style="font-size:30px; line-height:72px;top: 336px; left: 568px; width: 256px; height: 72px; ">
+<p>Sem ligação</p>
+</div>
+<div class="absolute" style="font-size:30px; line-height:72px;top: 480px; left: 492px; width: 440px; height: 72px; ">
+<p>Ligação, mas sem reação</p>
+</div>
+<div class="absolute" style="font-size:24px;top: 634px; left: 46px; width: 493px; ">
+<p>Exemplo: fenilalanina hidroxilase</p>
+</div>
+<!-- Slide 7 -->
 </section>
 
-<section id="slide-9" class="title-slide slide level1 center">
-<h1>Slide 9:</h1>
-<p>Aumento de Velocidade Produzido por Enzimas TABELA 6-5 Alguns Aumentos de Velocidade Produzidos por Enzimas<br>
-Ciclofilina 105 Anidrase carbônica 107 Triose fosfato isomerase 109 Carboxipeptidase A 1011<br>
-Fosfoglicomutase 1012<br>
-Succinil-CoA transferase 1013<br>
-Urease 1014<br>
-Orotidina monofosfato descarboxilase 1017</p>
+<section id="o-complexo-enzima-substrato-impulsiona-a-seletividade" class="title-slide slide level1 center">
+<h1>O Complexo Enzima-Substrato Impulsiona a Seletividade</h1>
+
+<!-- Slide 8 -->
+<img data-src="../imgs/cap06.image16.jpg" class="r-stretch quarto-figure quarto-figure-center"></section>
+
+<section id="catálise-enzimática" class="title-slide slide level1 center">
+<h1>Catálise Enzimática</h1>
+<ul>
+<li>As enzimas não afetam o equilíbrio (Keq)…</li>
+<li>…o que significa que as enzimas não podem afetar a energia livre da reação (ΔG).</li>
+<li>Reações lentas enfrentam barreiras de ativação significativas (ΔG‡) que devem ser superadas durante a reação.</li>
+<li>As enzimas aumentam as velocidades de reação (k) diminuindo o ΔG‡.</li>
+</ul>
+<p><span class="math display">\[k = \left(\frac{k_B T}{h}\right)\exp\left(\frac{-\Delta G^{\ddagger}}{RT}\right)\]</span></p>
+<!-- Slide 9 -->
 </section>
 
-<section id="slide-10" class="title-slide slide level1 center">
-<h1>Slide 10:</h1>
-<p>Diagrama de Coordenada de Reação</p>
+<section id="aumento-de-velocidade-produzido-por-enzimas" class="title-slide slide level1 center">
+<h1>Aumento de Velocidade Produzido por Enzimas</h1>
+<table class="caption-top">
+<colgroup>
+<col style="width: 80%">
+<col style="width: 20%">
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">TABELA 6-5 Alguns Aumentos de Velocidade Produzidos por Enzimas</th>
+<th style="text-align: right;"></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Ciclofilina</td>
+<td style="text-align: right;">10<sup>5</sup></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Anidrase carbônica</td>
+<td style="text-align: right;">10<sup>7</sup></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Triose fosfato isomerase</td>
+<td style="text-align: right;">10<sup>9</sup></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Carboxipeptidase A</td>
+<td style="text-align: right;">10<sup>11</sup></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Fosfoglicomutase</td>
+<td style="text-align: right;">10<sup>12</sup></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Succinil-CoA transferase</td>
+<td style="text-align: right;">10<sup>13</sup></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Urease</td>
+<td style="text-align: right;">10<sup>14</sup></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Orotidina monofosfato descarboxilase</td>
+<td style="text-align: right;">10<sup>17</sup></td>
+</tr>
+</tbody>
+</table>
+<!-- Slide 10 -->
 </section>
 
-<section id="slide-11" class="title-slide slide level1 center">
-<h1>Slide 11:</h1>
-<p>Enzimas Diminuem o ΔG‡</p>
+<section id="diagrama-de-coordenada-de-reação" class="title-slide slide level1 center">
+<h1>Diagrama de Coordenada de Reação</h1>
+
+<!-- Slide 11 -->
+<img data-src="../imgs/cap06.image10.jpg" class="r-stretch quarto-figure quarto-figure-center"></section>
+
+<section id="enzimas-diminuem-o-δg" class="title-slide slide level1 center">
+<h1>Enzimas Diminuem o ΔG‡</h1>
+
+<!-- Slide 12 -->
+<img data-src="../imgs/cap06.image5.jpg" class="r-stretch quarto-figure quarto-figure-center"></section>
+
+<section id="como-diminuir-o-δg" class="title-slide slide level1 smaller center">
+<h1>Como Diminuir o ΔG‡</h1>
+<p>As enzimas organizam grupos reativos em estreita proximidade e orientação adequada.</p>
+<ul>
+<li><p>Reações bimoleculares não catalisadas</p>
+<p>Dois reagentes livres → conversão em um único estado de transição restrito é entropicamente desfavorável.</p></li>
+<li><p>Reações unimoleculares não catalisadas</p>
+<p>Reagente flexível → conversão em um estado de transição rígido é entropicamente desfavorável para reagentes flexíveis.</p></li>
+<li><p>Reações catalisadas</p>
+<p>A enzima usa a energia de ligação dos substratos para organizar os reagentes em um complexo ES bastante rígido.</p>
+<p>O custo entrópico é pago durante a ligação.</p>
+<p>Complexo reagente rígido → conversão ao estado de transição é entropicamente neutra.</p></li>
+</ul>
+<!-- Slide 13 -->
 </section>
 
-<section id="slide-12" class="title-slide slide level1 center">
-<h1>Slide 12:</h1>
-<p>Como Diminuir o ΔG‡ As enzimas organizam grupos reativos em estreita proximidade e orientação adequada. Reações bimoleculares não catalisadas Dois reagentes livres → conversão em um único estado de transição restrito é entropicamente desfavorável. Reações unimoleculares não catalisadas Reagente flexível → conversão em um estado de transição rígido é entropicamente desfavorável para reagentes flexíveis. Reações catalisadas A enzima usa a energia de ligação dos substratos para organizar os reagentes em um complexo ES bastante rígido. O custo entrópico é pago durante a ligação. Complexo reagente rígido → conversão ao estado de transição é entropicamente neutra.</p>
+<section id="suporte-para-o-modelo-de-proximidade" class="title-slide slide level1 center">
+<h1>Suporte para o Modelo de Proximidade</h1>
+<p>A velocidade de formação de anidridos a partir de ésteres e carboxilatos mostra uma forte dependência da proximidade de dois grupos reativos (trabalho do grupo de Thomas C. Bruice).</p>
+
+<!-- Slide 14 -->
+<img data-src="../imgs/cap06.image39.jpg" class="r-stretch quarto-figure quarto-figure-center"></section>
+
+<section id="como-diminuir-o-δg-1" class="title-slide slide level1 center">
+<h1>Como Diminuir o ΔG‡</h1>
+<p>As enzimas ligam melhor os estados de transição.</p>
+<ul>
+<li>A ideia foi proposta por Linus Pauling em 1946.
+<ul>
+<li>Os sítios ativos das enzimas são complementares ao estado de transição da reação.</li>
+<li>As enzimas ligam os estados de transição melhor do que os substratos.</li>
+<li>Interações mais fortes/adicionais com o estado de transição em comparação com o estado fundamental diminuem a barreira de ativação.</li>
+</ul></li>
+</ul>
+<p><em>Em grande parte um efeito de ΔH‡</em></p>
+<!-- Slide 15 -->
 </section>
 
-<section id="slide-13" class="title-slide slide level1 center">
-<h1>Slide 13:</h1>
-<p>Suporte para o Modelo de Proximidade A velocidade de formação de anidridos a partir de ésteres e carboxilatos mostra uma forte dependência da proximidade de dois grupos reativos (trabalho do grupo de Thomas C. Bruice).</p>
+<section id="ilustração-da-ideia-de-estabilização-do-estado-de-transição-enzima-imaginária-stickase-quebra-gravetos" class="title-slide slide level1 center">
+<h1>Ilustração da Ideia de Estabilização do Estado de Transição:<br>Enzima Imaginária “Stickase” (Quebra-Gravetos)</h1>
+<p><img data-src="../imgs/cap06.image15.jpg" class="absolute nolightbox fragment fade-out" style="top: 240px; left: 72px; width: 816px; " data-fragment-index="1"></p>
+<p><img data-src="../imgs/cap06.image13.jpg" class="absolute nolightbox fragment fade-in-then-out" style="top: 237px; left: 58px; width: 830px; " data-fragment-index="1"></p>
+<p><img data-src="../imgs/cap06.image14.jpg" class="absolute nolightbox fragment" style="top: 241px; left: 30px; width: 917px; " data-fragment-index="2"></p>
+<!-- Slide 16 -->
 </section>
 
-<section id="slide-14" class="title-slide slide level1 center">
-<h1>Slide 14:</h1>
-<p>Como Diminuir o ΔG‡ As enzimas ligam melhor os estados de transição. A ideia foi proposta por Linus Pauling em 1946. Os sítios ativos das enzimas são complementares ao estado de transição da reação. As enzimas ligam os estados de transição melhor do que os substratos. Interações mais fortes/adicionais com o estado de transição em comparação com o estado fundamental diminuem a barreira de ativação. Em grande parte um efeito de ΔH‡</p>
+<section id="mecanismos-catalíticos" class="title-slide slide level1 center">
+<h1>Mecanismos Catalíticos</h1>
+<p>As enzimas podem usar um ou uma combinação dos seguintes mecanismos:</p>
+<ul>
+<li>catálise ácido-base: doar e aceitar prótons</li>
+<li>catálise covalente: alterar caminhos de reação</li>
+<li>catálise por íons metálicos: usar cofatores redox, deslocadores de pKa</li>
+</ul>
+<!-- Slide 17 -->
 </section>
 
-<section id="slide-15" class="title-slide slide level1 center">
-<h1>Slide 15:</h1>
-<p>Ilustração da Ideia de Estabilização do Estado de Transição: Enzima Imaginária “Stickase” (Quebra-Gravetos)</p>
+<section id="catálise-ácido-base-geral" class="title-slide slide level1 center">
+<h1>Catálise Ácido-Base Geral</h1>
+
+<!-- Slide 18 -->
+<img data-src="../imgs/cap06.image12.jpg" class="r-stretch quarto-figure quarto-figure-center"></section>
+
+<section id="aminoácidos-na-catálise-ácido-base-geral" class="title-slide slide level1 center">
+<h1>Aminoácidos na<br>Catálise Ácido-Base Geral</h1>
+
+<!-- Slide 19 -->
+<img data-src="../imgs/cap06.image19.jpg" class="r-stretch quarto-figure quarto-figure-center"></section>
+
+<section id="catálise-covalente" class="title-slide slide level1 center">
+<h1>Catálise Covalente</h1>
+<ul>
+<li>Uma ligação covalente transitória entre a enzima e o substrato</li>
+<li>Altera a via de reação
+<ul>
+<li><p>não catalisada:</p>
+<p><span class="math display">\[\text{A—B} \xrightarrow{\text{H}_2\text{O}} \text{A} + \text{B}\]</span></p></li>
+<li><p>catalisada (X = catalisador):</p>
+<p><span class="math display">\[\text{A—B} + \text{X:} \rightarrow \text{A—X} + \text{B} \xrightarrow{\text{H}_2\text{O}} \text{A} + \text{X:} + \text{B}\]</span></p></li>
+</ul></li>
+<li>Requer um nucleófilo na enzima
+<ul>
+<li>pode ser uma serina reativa, tiolato, amina ou carboxilato</li>
+</ul></li>
+</ul>
+<!-- Slide 20 -->
 </section>
 
-<section id="slide-16" class="title-slide slide level1 center">
-<h1>Slide 16:</h1>
-<p>Mecanismos Catalíticos catálise ácido-base: doar e aceitar prótons catálise covalente: alterar caminhos de reação catálise por íons metálicos: usar cofatores redox, deslocadores de pKa As enzimas podem usar um ou uma combinação dos seguintes mecanismos:</p>
+<section id="catálise-por-íons-metálicos" class="title-slide slide level1 center">
+<h1>Catálise por Íons Metálicos</h1>
+<ul>
+<li>Envolve um íon metálico ligado à enzima</li>
+<li>Interage com o substrato para facilitar a ligação
+<ul>
+<li>estabiliza cargas negativas</li>
+</ul></li>
+<li>Participa de reações de oxidação</li>
+</ul>
+<!-- Slide 21 -->
 </section>
 
-<section id="slide-17" class="title-slide slide level1 center">
-<h1>Slide 17:</h1>
-<p>Catálise Ácido-Base Geral</p>
-</section>
+<section id="quimotripsina" class="title-slide slide level1 center">
+<h1>Quimotripsina</h1>
+<ul>
+<li>Durante a digestão, as proteínas da dieta devem ser quebradas em pequenos peptídeos por proteases.</li>
+<li>A quimotripsina é uma das várias proteases que clivam peptídeos em locais específicos na cadeia principal peptídica.</li>
+<li>Essa protease é capaz de clivar a ligação peptídica adjacente a aminoácidos aromáticos.</li>
+</ul>
+<p><img data-src="../imgs/cap06.image9.jpg" class="absolute nolightbox" style="top: 405px; left: 168px; width: 536px; "></p>
+<div class="absolute" style="border:2px solid #f00; box-sizing:border-box;top: 504px; left: 456px; width: 64px; height: 112px; ">
 
-<section id="slide-18" class="title-slide slide level1 center">
-<h1>Slide 18:</h1>
-<p>Aminoácidos na Catálise Ácido-Base Geral</p>
-</section>
-
-<section id="slide-19" class="title-slide slide level1 center">
-<h1>Slide 19:</h1>
-<p>Catálise Covalente Uma ligação covalente transitória entre a enzima e o substrato Altera a via de reação não catalisada:</p>
-<p>catalisada (X = catalisador):</p>
-<p>Requer um nucleófilo na enzima pode ser uma serina reativa, tiolato, amina ou carboxilato</p>
-</section>
-
-<section id="slide-20" class="title-slide slide level1 center">
-<h1>Slide 20:</h1>
-<p>Catálise por Íons Metálicos Envolve um íon metálico ligado à enzima Interage com o substrato para facilitar a ligação estabiliza cargas negativas Participa de reações de oxidação</p>
-</section>
-
-<section id="slide-21" class="title-slide slide level1 center">
-<h1>Slide 21:</h1>
-<p>Quimotripsina Durante a digestão, as proteínas da dieta devem ser quebradas em pequenos peptídeos por proteases. A quimotripsina é uma das várias proteases que clivam peptídeos em locais específicos na cadeia principal peptídica. Essa protease é capaz de clivar a ligação peptídica adjacente a aminoácidos aromáticos.</p>
+</div>
+<svg width="960" height="720" viewbox="0 0 960 720" style="position:absolute; left:0; top:0; pointer-events:none;">
+<defs><marker id="seta21" markerwidth="8" markerheight="8" refx="7" refy="4" orient="auto"><path d="M0,0 L8,4 L0,8 Z" fill="#000"></path></marker></defs> <line x1="560" y1="408" x2="496" y2="496" stroke="#000" stroke-width="2" marker-end="url(#seta21)"></line>
+</svg>
+<div class="absolute" style="color:#f00; font-size:20px; white-space:nowrap;top: 368px; left: 491px; width: 306px; ">
 <p>A quimotripsina corta esta ligação.</p>
+</div>
+<!-- Slide 22 -->
 </section>
 
-<section id="slide-22" class="title-slide slide level1 center">
-<h1>Slide 22:</h1>
-<p>A Quimotripsina Usa a Maioria dos Mecanismos Enzimáticos</p>
+<section id="a-quimotripsina-usa-a-maioria-dos-mecanismos-enzimáticos" class="title-slide slide level1 center">
+<h1>A Quimotripsina Usa a Maioria dos<br>Mecanismos Enzimáticos</h1>
+<div class="absolute recorte" style="aspect-ratio:1.2458;top: 240px; left: 4px; width: 494px; ">
+<p><img src="../imgs/cap06.image11.jpg" style="width:100%; left:0; top:-109.68%;"></p>
+</div>
+<div class="absolute recorte" style="aspect-ratio:1.2518;top: 248px; left: 472px; width: 464px; ">
+<p><img src="../imgs/cap06.image11.jpg" style="width:106.38%; left:0; top:-220.69%;"></p>
+</div>
+<!-- Slide 23 -->
 </section>
 
-<section id="slide-23" class="title-slide slide level1 center">
-<h1>Slide 23:</h1>
-<p>Mecanismo da Quimotripsina Etapa 1: Ligação do Substrato</p>
+<section id="mecanismo-da-quimotripsina-etapa-1-ligação-do-substrato" class="title-slide slide level1 center">
+<h1>Mecanismo da Quimotripsina<br>Etapa 1: Ligação do Substrato</h1>
+
+<!-- Slide 24 -->
+<img data-src="../imgs/cap06.image18.jpg" class="r-stretch quarto-figure quarto-figure-center"></section>
+
+<section id="mecanismo-da-quimotripsina-etapa-2-ataque-nucleofílico" class="title-slide slide level1 center">
+<h1>Mecanismo da Quimotripsina<br>Etapa 2: Ataque Nucleofílico</h1>
+
+<!-- Slide 25 -->
+<img data-src="../imgs/cap06.image25.jpg" class="r-stretch quarto-figure quarto-figure-center"></section>
+
+<section id="mecanismo-da-quimotripsina-etapa-3-clivagem-do-substrato" class="title-slide slide level1 center">
+<h1>Mecanismo da Quimotripsina<br>Etapa 3: Clivagem do Substrato</h1>
+
+<!-- Slide 26 -->
+<img data-src="../imgs/cap06.image22.jpg" class="r-stretch quarto-figure quarto-figure-center"></section>
+
+<section id="mecanismo-da-quimotripsina-etapa-4-entrada-da-água" class="title-slide slide level1 center">
+<h1>Mecanismo da Quimotripsina<br>Etapa 4: Entrada da Água</h1>
+
+<!-- Slide 27 -->
+<img data-src="../imgs/cap06.image29.jpg" class="r-stretch quarto-figure quarto-figure-center"></section>
+
+<section id="mecanismo-da-quimotripsina-etapa-5-ataque-da-água" class="title-slide slide level1 center">
+<h1>Mecanismo da Quimotripsina<br>Etapa 5: Ataque da Água</h1>
+
+<!-- Slide 28 -->
+<img data-src="../imgs/cap06.image28.jpg" class="r-stretch quarto-figure quarto-figure-center"></section>
+
+<section id="mecanismo-da-quimotripsina-etapa-6-liberação-da-enzima" class="title-slide slide level1 center">
+<h1>Mecanismo da Quimotripsina<br>Etapa 6: Liberação da Enzima</h1>
+
+<!-- Slide 29 -->
+<img data-src="../imgs/cap06.image20.jpg" class="r-stretch quarto-figure quarto-figure-center"></section>
+
+<section id="mecanismo-da-quimotripsina-etapa-7-dissociação-do-produto" class="title-slide slide level1 center">
+<h1>Mecanismo da Quimotripsina<br>Etapa 7: Dissociação do Produto</h1>
+
+<!-- Slide 30 -->
+<img data-src="../imgs/cap06.image38.jpg" class="r-stretch quarto-figure quarto-figure-center"></section>
+
+<section id="peptidoglicano-e-lisozima" class="title-slide slide level1 center">
+<h1>Peptidoglicano e Lisozima</h1>
+<ul>
+<li>O peptidoglicano é um polissacarídeo encontrado em muitas paredes celulares bacterianas.</li>
+<li>A clivagem da parede celular leva à lise das bactérias.</li>
+<li>A lisozima é uma enzima antibacteriana.</li>
+</ul>
+<!-- Slide 31 -->
 </section>
 
-<section id="slide-24" class="title-slide slide level1 center">
-<h1>Slide 24:</h1>
-<p>Mecanismo da Quimotripsina Etapa 2: Ataque Nucleofílico</p>
+<section id="peptidoglicano-e-lisozima-1" class="title-slide slide level1 center">
+<h1>Peptidoglicano e Lisozima</h1>
+
+<!-- Slide 32 -->
+<img data-src="../imgs/cap06.image24.jpg" class="r-stretch quarto-figure quarto-figure-center"></section>
+
+<section id="catálise-ácido-base-geral-covalente-clivagem-do-peptidoglicano-pela-lisozima" class="title-slide slide level1 center">
+<h1>Catálise Ácido-Base Geral + Covalente:<br>Clivagem do Peptidoglicano pela Lisozima</h1>
+<p>Estruturas de raios X da lisozima com análogos de substrato ligados mostram que o carbono C-1 está localizado entre os resíduos Glu 35 e Asp 52.</p>
+
+<!-- Slide 33 -->
+<img data-src="../imgs/cap06.image23.jpg" class="r-stretch quarto-figure quarto-figure-center"></section>
+
+<section>
+<section id="clivagem-do-peptidoglicano-pela-lisozima-modelo-de-duas-etapas-sn2-sucessivas" class="title-slide slide level1 smaller center">
+<h1>Clivagem do Peptidoglicano pela Lisozima: Modelo de Duas Etapas SN2 Sucessivas</h1>
+<ul>
+<li>Asp 52 atua como nucleófilo para atacar o carbono anomérico na primeira etapa SN2.</li>
+<li>Glu 35 atua como ácido geral e protona o grupo abandonador no estado de transição.</li>
+<li>A água hidrolisa o intermediário covalente glicosil-enzima.</li>
+<li>Glu 35 atua como base geral para desprotonar a água na segunda etapa SN2.</li>
+</ul>
+</section>
+<section class="slide level2 center">
+
+<!-- Slide 34 -->
+
+<img data-src="../imgs/cap06.image26.jpg" class="r-stretch quarto-figure quarto-figure-center"></section>
+<section class="slide level2 center">
+
+<!-- Slide 35 -->
+
+<!-- Slide 36 -->
+<img data-src="../imgs/cap06.image27.jpg" class="r-stretch quarto-figure quarto-figure-center"></section></section>
+<section>
+<section id="o-que-é-cinética-enzimática" class="title-slide slide level1 center">
+<h1>O Que É Cinética Enzimática?</h1>
+<ul>
+<li>Cinética é o estudo da velocidade com que os compostos reagem.</li>
+<li>A velocidade da reação enzimática é afetada por:
+<ul>
+<li>enzima</li>
+<li>substrato</li>
+<li>efetores</li>
+<li>temperatura</li>
+</ul></li>
+</ul>
+</section>
+<section class="slide level2 center">
+
+<!-- Slide 37 -->
+<div class="columns">
+<div class="column" style="width:49%;">
+<p><a href="../imgs/cap06.image35.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-22"><img data-src="../imgs/cap06.image35.jpg" width="460"></a></p>
+</div><div class="column" style="width:51%;">
+<p><a href="../imgs/cap06.image30.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-23"><img data-src="../imgs/cap06.image30.jpg" width="408"></a></p>
+</div></div>
+<!-- Slide 38 -->
+</section></section>
+<section id="por-que-estudar-cinética-enzimática" class="title-slide slide level1 center">
+<h1>Por Que Estudar Cinética Enzimática?</h1>
+<ul>
+<li>Descrição quantitativa da biocatálise</li>
+<li>Determinar a ordem de ligação dos substratos</li>
+<li>Elucidar a catálise ácido-base</li>
+<li>Compreender o mecanismo catalítico</li>
+<li>Encontrar inibidores eficazes</li>
+<li>Compreender a regulação da atividade</li>
+</ul>
+<!-- Slide 39 -->
 </section>
 
-<section id="slide-25" class="title-slide slide level1 center">
-<h1>Slide 25:</h1>
-<p>Mecanismo da Quimotripsina Etapa 3: Clivagem do Substrato</p>
+<section id="derivação-das-equações-de-cinética-enzimática" class="title-slide slide level1 center">
+<h1>Derivação das Equações de Cinética Enzimática</h1>
+<ol type="1">
+<li>Comece com um mecanismo modelo.</li>
+<li>Identifique restrições e suposições.</li>
+<li>Realize a álgebra …
+<ul>
+<li>… ou teoria dos grafos para reações complexas.</li>
+</ul></li>
+</ol>
+<ul>
+<li>Mecanismo Modelo Mais Simples: E + S <span class="math inline">\(\rightleftharpoons\)</span> ES → E + P
+<ul>
+<li>um reagente, um produto, sem inibidores</li>
+</ul></li>
+</ul>
+<!-- Slide 40 -->
 </section>
 
-<section id="slide-26" class="title-slide slide level1 center">
-<h1>Slide 26:</h1>
-<p>Mecanismo da Quimotripsina Etapa 4: Entrada da Água</p>
+<section id="identifique-restrições-e-suposições" class="title-slide slide level1 smaller center">
+<h1>Identifique Restrições e Suposições</h1>
+<p><span class="math display">\[E + S \rightleftharpoons ES \rightarrow E + P\]</span></p>
+<ul>
+<li><p>A concentração total de enzima é constante.</p>
+<ul>
+<li>A equação de balanço de massa para enzimas é ETot = [E] + [ES].</li>
+<li>Também se assume implicitamente que STot = [S] + [ES] ≈ [S].</li>
+</ul></li>
+<li><p>Suposição do estado estacionário</p>
+<p><span class="math display">\[\frac{d[ES]}{dt} = \text{velocidade de formação de ES} - \text{velocidade de quebra de ES} = 0\]</span></p></li>
+<li><p>Qual é a velocidade observada?</p>
+<p><span class="math display">\[v_{net} = \frac{dP}{dt} = k[ES]\]</span></p>
+<ul>
+<li>A velocidade de formação do produto é a velocidade de quebra de [ES] em produto.</li>
+</ul></li>
+</ul>
+<!-- Slide 41 -->
 </section>
 
-<section id="slide-27" class="title-slide slide level1 center">
-<h1>Slide 27:</h1>
-<p>Mecanismo da Quimotripsina Etapa 5: Ataque da Água</p>
+<section id="realize-a-álgebra" class="title-slide slide level1 smaller center">
+<h1>Realize a Álgebra</h1>
+<ul>
+<li><p>A forma final no caso de um único substrato é a equação de Michaelis-Menten:</p>
+<p><span class="math display">\[v = \frac{k_{\text{cat}}[\text{E}_{\text{tot}}][\text{S}]}{K_{\text{m}} + [\text{S}]} = \frac{V_{\text{max}}[\text{S}]}{K_{\text{m}} + [\text{S}]}\]</span></p></li>
+<li><p>kcat (número de renovação / <em>turnover</em>): quantas moléculas de substrato uma molécula de enzima pode converter por segundo</p></li>
+<li><p>Km (constante de Michaelis): uma medida aproximada da afinidade de um substrato por uma enzima</p></li>
+<li><p>Durante o estado estacionário, a velocidade máxima (Vmax) ocorre quando toda a enzima está no complexo ES e depende da quebra desse complexo (k[ES]).</p></li>
+<li><p>O significado microscópico de Km e kcat depende dos detalhes do mecanismo.</p></li>
+</ul>
+<!-- Slide 42 -->
 </section>
 
-<section id="slide-28" class="title-slide slide level1 center">
-<h1>Slide 28:</h1>
-<p>Mecanismo da Quimotripsina Etapa 6: Liberação da Enzima</p>
+<section id="como-fazer-medições-cinéticas" class="title-slide slide level1 smaller center">
+<h1>Como Fazer Medições Cinéticas</h1>
+<p>Experimento:</p>
+<ul>
+<li>Misture enzima + substrato.</li>
+<li>Registre a taxa de desaparecimento do substrato e/ou formação de produto em função do tempo (a velocidade da reação).</li>
+<li>Plote a velocidade inicial versus a concentração de substrato.</li>
+<li>Altere a concentração de substrato e repita.</li>
+</ul>
+<div class="columns">
+<div class="column" style="width:48%;">
+<p><a href="../imgs/cap06.image31.png" class="lightbox" data-gallery="quarto-lightbox-gallery-24"><img data-src="../imgs/cap06.image31.png" width="452"></a></p>
+</div><div class="column" style="width:52%;">
+<p><a href="../imgs/cap06.image36.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-25"><img data-src="../imgs/cap06.image36.jpg" width="432"></a></p>
+</div></div>
+<!-- Slide 43 -->
 </section>
 
-<section id="slide-29" class="title-slide slide level1 center">
-<h1>Slide 29:</h1>
-<p>Mecanismo da Quimotripsina Etapa 7: Dissociação do Produto</p>
+<section id="efeito-da-concentração-de-substrato" class="title-slide slide level1 center">
+<h1>Efeito da Concentração de Substrato</h1>
+<ul>
+<li><p>Velocidade ideal:</p>
+<p><span class="math display">\[v = \frac{V_{\text{max}}[S]}{K_m + S}\]</span></p></li>
+<li><p>Desvios devido a:</p>
+<ul>
+<li>limitação das medições</li>
+<li>inibição pelo substrato</li>
+<li>preparação de substrato contendo inibidores</li>
+<li>preparação de enzima contendo inibidores</li>
+</ul></li>
+</ul>
+<!-- Slide 44 -->
 </section>
 
-<section id="slide-30" class="title-slide slide level1 center">
-<h1>Slide 30:</h1>
-<p>Peptidoglicano e Lisozima O peptidoglicano é um polissacarídeo encontrado em muitas paredes celulares bacterianas.</p>
-<p>A clivagem da parede celular leva à lise das bactérias.</p>
-<p>A lisozima é uma enzima antibacteriana.</p>
-</section>
+<section id="efeito-da-concentração-de-substrato-1" class="title-slide slide level1 center">
+<h1>Efeito da Concentração de Substrato</h1>
 
-<section id="slide-31" class="title-slide slide level1 center">
-<h1>Slide 31:</h1>
-<p>Peptidoglicano e Lisozima</p>
-</section>
+<!-- Slide 45 -->
+<img data-src="../imgs/cap06.image43.jpg" class="r-stretch quarto-figure quarto-figure-center"></section>
 
-<section id="slide-32" class="title-slide slide level1 center">
-<h1>Slide 32:</h1>
-<p>Estruturas de raios X da lisozima com análogos de substrato ligados mostram que o carbono C-1 está localizado entre os resíduos Glu 35 e Asp 52.<br>
-Catálise Ácido-Base Geral + Covalente: Clivagem do Peptidoglicano pela Lisozima</p>
-</section>
+<section id="cinética-de-saturação-em-alta-s-a-velocidade-não-é-proporcional-a-s" class="title-slide slide level1 center">
+<h1>Cinética de Saturação:<br>Em Alta [S], a Velocidade Não É Proporcional a [S]</h1>
 
-<section id="slide-33" class="title-slide slide level1 center">
-<h1>Slide 33:</h1>
-<p>Clivagem do Peptidoglicano pela Lisozima: Modelo de Duas Etapas SN2 Sucessivas Asp 52 atua como nucleófilo para atacar o carbono anomérico na primeira etapa SN2. Glu 35 atua como ácido geral e protona o grupo abandonador no estado de transição. A água hidrolisa o intermediário covalente glicosil-enzima. Glu 35 atua como base geral para desprotonar a água na segunda etapa SN2.</p>
-</section>
+<!-- Slide 46 -->
+<img data-src="../imgs/cap06.image34.jpg" class="r-stretch quarto-figure quarto-figure-center"></section>
 
-<section id="slide-34" class="title-slide slide level1 center">
-<h1>Slide 34:</h1>
-
-</section>
-
-<section id="slide-35" class="title-slide slide level1 center">
-<h1>Slide 35:</h1>
-
-</section>
-
-<section id="slide-36" class="title-slide slide level1 center">
-<h1>Slide 36:</h1>
-<p>O Que É Cinética Enzimática? Cinética é o estudo da velocidade com que os compostos reagem. A velocidade da reação enzimática é afetada por: enzima substrato efetores temperatura</p>
-</section>
-
-<section id="slide-37" class="title-slide slide level1 center">
-<h1>Slide 37:</h1>
-
-</section>
-
-<section id="slide-38" class="title-slide slide level1 center">
-<h1>Slide 38:</h1>
-<p>Por Que Estudar Cinética Enzimática? Descrição quantitativa da biocatálise Determinar a ordem de ligação dos substratos Elucidar a catálise ácido-base Compreender o mecanismo catalítico Encontrar inibidores eficazes Compreender a regulação da atividade</p>
-</section>
-
-<section id="slide-39" class="title-slide slide level1 center">
-<h1>Slide 39:</h1>
-<p>Derivação das Equações de Cinética Enzimática Comece com um mecanismo modelo. Identifique restrições e suposições. Realize a álgebra … … ou teoria dos grafos para reações complexas.</p>
-<p>Mecanismo Modelo Mais Simples: E + S → ES → E + P um reagente, um produto, sem inibidores</p>
-<p>←</p>
-</section>
-
-<section id="slide-40" class="title-slide slide level1 center">
-<h1>Slide 40:</h1>
-<p>Identifique Restrições e Suposições A concentração total de enzima é constante. A equação de balanço de massa para enzimas é ETot = [E] + [ES]. Também se assume implicitamente que STot = [S] + [ES] ≈ [S]. Suposição do estado estacionário</p>
-<p>Qual é a velocidade observada?</p>
-<p>A velocidade de formação do produto é a velocidade de quebra de [ES] em produto.</p>
-</section>
-
-<section id="slide-41" class="title-slide slide level1 center">
-<h1>Slide 41:</h1>
-<p>Realize a Álgebra A forma final no caso de um único substrato é a equação de Michaelis-Menten:</p>
-<p>kcat (número de renovação / <em>turnover</em>): quantas moléculas de substrato uma molécula de enzima pode converter por segundo Km (constante de Michaelis): uma medida aproximada da afinidade de um substrato por uma enzima Durante o estado estacionário, a velocidade máxima (Vmax) ocorre quando toda a enzima está no complexo ES e depende da quebra desse complexo (k[ES]). O significado microscópico de Km e kcat depende dos detalhes do mecanismo.</p>
-</section>
-
-<section id="slide-42" class="title-slide slide level1 center">
-<h1>Slide 42:</h1>
-<p>Como Fazer Medições Cinéticas Experimento: Misture enzima + substrato. Registre a taxa de desaparecimento do substrato e/ou formação de produto em função do tempo (a velocidade da reação). Plote a velocidade inicial versus a concentração de substrato. Altere a concentração de substrato e repita.</p>
-</section>
-
-<section id="slide-43" class="title-slide slide level1 center">
-<h1>Slide 43:</h1>
-<p>Efeito da Concentração de Substrato Velocidade ideal:</p>
-<p>Desvios devido a: limitação das medições inibição pelo substrato preparação de substrato contendo inibidores preparação de enzima contendo inibidores</p>
-</section>
-
-<section id="slide-44" class="title-slide slide level1 center">
-<h1>Slide 44:</h1>
-<p>Efeito da Concentração de Substrato</p>
-</section>
-
-<section id="slide-45" class="title-slide slide level1 center">
-<h1>Slide 45:</h1>
-<p>Cinética de Saturação: Em Alta [S], a Velocidade Não É Proporcional a [S]</p>
-</section>
-
-<section id="slide-46" class="title-slide slide level1 center">
-<h1>Slide 46:</h1>
-<p>Determinação dos Parâmetros Cinéticos Um gráfico não linear de Michaelis-Menten deve ser usado para calcular os parâmetros Km e Vmax.</p>
+<section id="determinação-dos-parâmetros-cinéticos" class="title-slide slide level1 center">
+<h1>Determinação dos Parâmetros Cinéticos</h1>
+<p><em>Um gráfico não linear de Michaelis-Menten deve ser usado para calcular os parâmetros Km e Vmax.</em></p>
 <p>Um gráfico linearizado duplo-recíproco é bom para análise de dados de dois substratos ou inibição.</p>
+<!-- Slide 47 -->
 </section>
 
-<section id="slide-47" class="title-slide slide level1 center">
-<h1>Slide 47:</h1>
-<p>Gráfico de Lineweaver-Burk: Linearizado, Duplo-Recíproco</p>
+<section id="gráfico-de-lineweaver-burk-linearizado-duplo-recíproco" class="title-slide slide level1 center">
+<h1>Gráfico de Lineweaver-Burk:<br>Linearizado, Duplo-Recíproco</h1>
+
+<!-- Slide 48 -->
+<img data-src="../imgs/cap06.image37.jpg" class="r-stretch quarto-figure quarto-figure-center"></section>
+
+<section id="a-eficiência-enzimática-é-limitada-pela-especificidade-kcatkm" class="title-slide slide level1 smaller center">
+<h1>A Eficiência Enzimática É Limitada pela Especificidade: kcat/KM</h1>
+<ul>
+<li>A difusão a partir do sítio ativo limita o valor máximo para a especificidade.</li>
+<li>Pode-se ganhar eficiência tendo alta velocidade ou afinidade pelo substrato
+<ul>
+<li>catalase vs.&nbsp;acetilcolinesterase</li>
+</ul></li>
+</ul>
+<table class="caption-top">
+<caption>TABELA 6-8 Enzimas para as Quais k<sub>cat</sub>/K<sub>m</sub> Está Próximo do Limite Controlado por Difusão (10<sup>8</sup> a 10<sup>9</sup> M<sup>–1</sup>s<sup>–1</sup>)</caption>
+<colgroup>
+<col style="width: 24%">
+<col style="width: 19%">
+<col style="width: 19%">
+<col style="width: 19%">
+<col style="width: 19%">
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Enzima</th>
+<th style="text-align: left;">Substrato</th>
+<th style="text-align: right;">k<sub>cat</sub> (s<sup>–1</sup>)</th>
+<th style="text-align: right;">K<sub>m</sub> (M)</th>
+<th style="text-align: right;">k<sub>cat</sub>/K<sub>m</sub><br>(M<sup>–1</sup>s<sup>–1</sup>)</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Acetilcolinesterase</td>
+<td style="text-align: left;">Acetilcolina</td>
+<td style="text-align: right;">1,4 x 10<sup>4</sup></td>
+<td style="text-align: right;">9 x 10<sup>–5</sup></td>
+<td style="text-align: right;">1,6 x 10<sup>8</sup></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Anidrase carbônica</td>
+<td style="text-align: left;">CO<sub>2</sub><br>HCO<sub>3</sub><sup>–</sup></td>
+<td style="text-align: right;">1 x 10<sup>6</sup><br>4 x 10<sup>5</sup></td>
+<td style="text-align: right;">1,2 x 10<sup>–2</sup><br>2,6 x 10<sup>–2</sup></td>
+<td style="text-align: right;">8,3 x 10<sup>7</sup><br>1,5 x 10<sup>7</sup></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Catalase</td>
+<td style="text-align: left;">H<sub>2</sub>O<sub>2</sub></td>
+<td style="text-align: right;">4 x 10<sup>7</sup></td>
+<td style="text-align: right;">1,1 x 10<sup>0</sup></td>
+<td style="text-align: right;">4 x 10<sup>7</sup></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Crotonase</td>
+<td style="text-align: left;">Crotonil-CoA</td>
+<td style="text-align: right;">5,7 x 10<sup>3</sup></td>
+<td style="text-align: right;">2 x 10<sup>–5</sup></td>
+<td style="text-align: right;">2,8 x 10<sup>8</sup></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Fumarase</td>
+<td style="text-align: left;">Fumarato<br>Malato</td>
+<td style="text-align: right;">8 x 10<sup>2</sup><br>9 x 10<sup>2</sup></td>
+<td style="text-align: right;">5 x 10<sup>–6</sup><br>2,5 x 10<sup>–5</sup></td>
+<td style="text-align: right;">1,6 x 10<sup>8</sup><br>3,6 x 10<sup>7</sup></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">β-Lactamase</td>
+<td style="text-align: left;">Benzilpenicilina</td>
+<td style="text-align: right;">2,0 x 10<sup>3</sup></td>
+<td style="text-align: right;">2 x 10<sup>–5</sup></td>
+<td style="text-align: right;">1 x 10<sup>8</sup></td>
+</tr>
+</tbody>
+</table>
+<p>Fonte: A. Fersht, Structure and Mechanism in Protein Science, p.&nbsp;166, W. H. Freeman and Company, 1999.</p>
+<!-- Slide 49 -->
 </section>
 
-<section id="slide-48" class="title-slide slide level1 center">
-<h1>Slide 48:</h1>
-<p>A Eficiência Enzimática É Limitada pela Especificidade: kcat/KM A difusão a partir do sítio ativo limita o valor máximo para a especificidade. Pode-se ganhar eficiência tendo alta velocidade ou afinidade pelo substrato catalase vs.&nbsp;acetilcolinesterase TABELA 6-8 Enzimas para as Quais kcat/Km Está Próximo do Limite Controlado por Difusão (108 a 109 M–1s–1)<br>
-Enzima Substrato kcat (s–1) Km (M) kcat/Km (M–1s–1)<br>
-Acetilcolinesterase Acetilcolina 1,4 x 104 9 x 10–5 1,6 x 108<br>
-Anidrase carbônica CO2 HCO3– 1 x 106 4 x 105 1,2 x 10–2 2,6 x 10–2 8,3 x 107 1,5 x 107<br>
-Catalase H2O2 4 x 107 1,1 x 100 4 x 107 Crotonase Crotonil-CoA 5,7 x 103 2 x 10–5 2,8 x 108<br>
-Fumarase Fumarato Malato 8 x 102 9 x 102 5 x 10–6 2,5 x 10–5 1,6 x 108 3,6 x 107<br>
-β-Lactamase Benzilpenicilina 2,0 x 103 2 x 10–5 1 x 108 Fonte: A. Fersht, Structure and Mechanism in Protein Science, p.&nbsp;166, W. H. Freeman and Company, 1999.</p>
+<section>
+<section id="reações-com-dois-substratos" class="title-slide slide level1 center">
+<h1>Reações com Dois Substratos</h1>
+<ul>
+<li>Mecanismo cinético: a ordem de ligação dos substratos e liberação dos produtos</li>
+<li>Quando dois ou mais reagentes estão envolvidos, a cinética enzimática permite distinguir entre diferentes mecanismos cinéticos:</li>
+<li>mecanismo sequencial</li>
+<li>mecanismo pingue-pongue</li>
+</ul>
+</section>
+<section class="slide level2 center">
+
+<!-- Slide 50 -->
+
+<!-- Slide 51 -->
+<img data-src="../imgs/cap06.image44.jpg" class="r-stretch quarto-figure quarto-figure-center"></section></section>
+<section id="mecanismo-cinético-sequencial" class="title-slide slide level1 center">
+<h1>Mecanismo Cinético Sequencial</h1>
+<ul>
+<li>Não podemos distinguir facilmente o aleatório do ordenado.</li>
+<li>Mecanismos aleatórios em equilíbrio darão o ponto de interseção no eixo y.</li>
+<li>Lineweaver-Burk: as linhas se cruzam</li>
+</ul>
+
+<!-- Slide 52 -->
+<img data-src="../imgs/cap06.image45.jpg" class="r-stretch quarto-figure quarto-figure-center"></section>
+
+<section id="mecanismo-cinético-pingue-pongue" class="title-slide slide level1 center">
+<h1>Mecanismo Cinético Pingue-Pongue</h1>
+<p>Lineweaver-Burk: as linhas são paralelas</p>
+
+<!-- Slide 53 -->
+<img data-src="../imgs/cap06.image46.jpg" class="r-stretch quarto-figure quarto-figure-center"></section>
+
+<section id="inibição-enzimática" class="title-slide slide level1 smaller center">
+<h1>Inibição Enzimática</h1>
+<p>Inibidores são compostos que diminuem a atividade de uma enzima.</p>
+<ul>
+<li>Inibidores irreversíveis (inativadores) reagem com a enzima.
+<ul>
+<li>Uma molécula de inibidor pode desligar permanentemente uma molécula de enzima.</li>
+<li>São frequentemente toxinas poderosas, mas também podem ser usados como fármacos.</li>
+</ul></li>
+<li>Inibidores reversíveis ligam-se e podem dissociar-se da enzima.
+<ul>
+<li>São frequentemente análogos estruturais de substratos ou produtos.</li>
+<li>São frequentemente usados como fármacos para desacelerar uma enzima específica.</li>
+</ul></li>
+<li>O inibidor reversível pode ligar-se a:
+<ul>
+<li>enzima livre e impedir a ligação do substrato.</li>
+<li>complexo enzima-substrato e impedir a reação.</li>
+</ul></li>
+</ul>
+<!-- Slide 54 -->
 </section>
 
-<section id="slide-49" class="title-slide slide level1 center">
-<h1>Slide 49:</h1>
-<p>Reações com Dois Substratos Mecanismo cinético: a ordem de ligação dos substratos e liberação dos produtos</p>
-<p>Quando dois ou mais reagentes estão envolvidos, a cinética enzimática permite distinguir entre diferentes mecanismos cinéticos: mecanismo sequencial mecanismo pingue-pongue</p>
+<section id="inibição-competitiva" class="title-slide slide level1 smaller center">
+<h1>Inibição Competitiva</h1>
+<ul>
+<li>Compete com o substrato pela ligação
+<ul>
+<li>liga-se ao sítio ativo</li>
+<li>não afeta a catálise</li>
+</ul></li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><a href="../imgs/cap06.image48.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-32"><img data-src="../imgs/cap06.image48.jpg" class="quarto-figure quarto-figure-center" width="448"></a></p>
+</figure>
+</div>
+<ul>
+<li>Nenhuma mudança no Vmax; aumento aparente no KM</li>
+<li>Lineweaver-Burk: as linhas se cruzam no eixo y.</li>
+</ul>
+<!-- Slide 55 -->
 </section>
 
-<section id="slide-50" class="title-slide slide level1 center">
-<h1>Slide 50:</h1>
+<section id="inibição-competitiva-1" class="title-slide slide level1 center">
+<h1>Inibição Competitiva</h1>
 
+<!-- Slide 56 -->
+<img data-src="../imgs/cap06.image41.jpg" class="r-stretch quarto-figure quarto-figure-center"></section>
+
+<section id="inibição-incompetitiva" class="title-slide slide level1 smaller center">
+<h1>Inibição Incompetitiva</h1>
+<ul>
+<li>Liga-se apenas ao complexo ES
+<ul>
+<li>não afeta a ligação do substrato</li>
+<li>inibe a função catalítica</li>
+</ul></li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><a href="../imgs/cap06.image54.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-34"><img data-src="../imgs/cap06.image54.jpg" class="quarto-figure quarto-figure-center" width="385"></a></p>
+</figure>
+</div>
+<ul>
+<li>Diminuição no Vmax; diminuição aparente no KM</li>
+<li>Nenhuma mudança em KM/Vmax</li>
+<li>Lineweaver-Burk: as linhas são paralelas.</li>
+</ul>
+<!-- Slide 57 -->
 </section>
 
-<section id="slide-51" class="title-slide slide level1 center">
-<h1>Slide 51:</h1>
-<p>Mecanismo Cinético Sequencial Não podemos distinguir facilmente o aleatório do ordenado. Mecanismos aleatórios em equilíbrio darão o ponto de interseção no eixo y. Lineweaver-Burk: as linhas se cruzam</p>
+<section id="inibição-incompetitiva-1" class="title-slide slide level1 center">
+<h1>Inibição Incompetitiva</h1>
+
+<!-- Slide 58 -->
+<img data-src="../imgs/cap06.image51.jpg" class="r-stretch quarto-figure quarto-figure-center"></section>
+
+<section id="inibição-mista" class="title-slide slide level1 smaller center">
+<h1>Inibição Mista</h1>
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><a href="../imgs/cap06.image49.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-36"><img data-src="../imgs/cap06.image49.jpg" class="quarto-figure quarto-figure-center" width="361"></a></p>
+</figure>
+</div>
+<ul>
+<li>Liga-se à enzima com ou sem substrato
+<ul>
+<li>liga-se a um sítio regulatório</li>
+<li>inibe tanto a ligação do substrato quanto a catálise</li>
+</ul></li>
+<li>Diminuição no Vmax; mudança aparente no KM</li>
+<li>Lineweaver-Burk: as linhas se cruzam à esquerda do eixo y.</li>
+<li>Inibidores não competitivos são inibidores mistos tais que não há mudança no KM.</li>
+</ul>
+<!-- Slide 59 -->
 </section>
 
-<section id="slide-52" class="title-slide slide level1 center">
-<h1>Slide 52:</h1>
-<p>Mecanismo Cinético Pingue-Pongue Lineweaver-Burk: as linhas são paralelas</p>
+<section id="inibição-mista-1" class="title-slide slide level1 center">
+<h1>Inibição Mista</h1>
+
+<!-- Slide 60 -->
+<img data-src="../imgs/cap06.image47.jpg" class="r-stretch quarto-figure quarto-figure-center"></section>
+
+<section id="a-atividade-enzimática-pode-ser-regulada" class="title-slide slide level1 center">
+<h1>A Atividade Enzimática Pode Ser Regulada</h1>
+<ul>
+<li>A regulação pode ser:
+<ul>
+<li>modificação não covalente (alostérica)</li>
+<li>modificação covalente</li>
+<li>irreversível</li>
+<li>reversível</li>
+</ul></li>
+</ul>
+<!-- Slide 61 -->
 </section>
 
-<section id="slide-53" class="title-slide slide level1 center">
-<h1>Slide 53:</h1>
-<p>Inibição Enzimática Inibidores são compostos que diminuem a atividade de uma enzima. Inibidores irreversíveis (inativadores) reagem com a enzima. Uma molécula de inibidor pode desligar permanentemente uma molécula de enzima. São frequentemente toxinas poderosas, mas também podem ser usados como fármacos.</p>
-<p>Inibidores reversíveis ligam-se e podem dissociar-se da enzima. São frequentemente análogos estruturais de substratos ou produtos. São frequentemente usados como fármacos para desacelerar uma enzima específica.</p>
-<p>O inibidor reversível pode ligar-se a: enzima livre e impedir a ligação do substrato. complexo enzima-substrato e impedir a reação.</p>
+<section id="modificação-não-covalente-reguladores-alostéricos" class="title-slide slide level1 center">
+<h1>Modificação Não Covalente: Reguladores Alostéricos</h1>
+<div class="columns">
+<div class="column" style="width:46%;">
+<ul>
+<li>Efetores ou moduladores alostéricos são geralmente pequenas substâncias químicas.</li>
+<li>Efetores alostéricos podem ser positivos, ou melhorar a catálise enzimática.</li>
+<li>Efetores alostéricos podem ser negativos, ou reduzir a catálise enzimática.</li>
+</ul>
+</div><div class="column" style="width:54%;">
+<p><a href="../imgs/cap06.image55.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-38"><img data-src="../imgs/cap06.image55.jpg" width="472"></a></p>
+</div></div>
+<!-- Slide 62 -->
 </section>
 
-<section id="slide-54" class="title-slide slide level1 center">
-<h1>Slide 54:</h1>
-<p>Compete com o substrato pela ligação liga-se ao sítio ativo não afeta a catálise</p>
-<p>Nenhuma mudança no Vmax; aumento aparente no KM Lineweaver-Burk: as linhas se cruzam no eixo y.</p>
-<p>Inibição Competitiva</p>
+<section id="modificação-não-covalente-reguladores-alostéricos-1" class="title-slide slide level1 center">
+<h1>Modificação Não Covalente: Reguladores Alostéricos</h1>
+<p>A cinética dos reguladores alostéricos difere da cinética de Michaelis-Menten.</p>
+<div class="columns">
+<div class="column" style="width:50%;">
+<p><a href="../imgs/cap06.image57.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-39"><img data-src="../imgs/cap06.image57.jpg" width="436"></a></p>
+</div><div class="column" style="width:50%;">
+<p><a href="../imgs/cap06.image50.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-40"><img data-src="../imgs/cap06.image50.jpg" width="459"></a></p>
+</div></div>
+<!-- Slide 63 -->
 </section>
 
-<section id="slide-55" class="title-slide slide level1 center">
-<h1>Slide 55:</h1>
-<p>Inibição Competitiva</p>
+<section id="algumas-modificações-covalentes-reversíveis" class="title-slide slide level1 center">
+<h1>Algumas Modificações Covalentes Reversíveis</h1>
+<div class="absolute recorte" style="aspect-ratio:0.8753;top: 99px; left: 48px; width: 504px; ">
+<p><img src="../imgs/cap06.image56.jpg" style="width:100%; left:0; top:0;"></p>
+</div>
+<div class="absolute recorte" style="aspect-ratio:0.7162;top: 103px; left: 480px; width: 440px; ">
+<p><img src="../imgs/cap06.image56.jpg" style="width:100%; left:0; top:-81.82%;"></p>
+</div>
+<!-- Slide 64 -->
 </section>
 
-<section id="slide-56" class="title-slide slide level1 center">
-<h1>Slide 56:</h1>
-<p>Inibição Incompetitiva Liga-se apenas ao complexo ES não afeta a ligação do substrato inibe a função catalítica</p>
-<p>Diminuição no Vmax; diminuição aparente no KM Nenhuma mudança em KM/Vmax Lineweaver-Burk: as linhas são paralelas.</p>
-</section>
+<section id="zimogênios-são-ativados-por-modificação-covalente-irreversível" class="title-slide slide level1 center">
+<h1>Zimogênios São Ativados por<br>Modificação Covalente Irreversível</h1>
 
-<section id="slide-57" class="title-slide slide level1 center">
-<h1>Slide 57:</h1>
-<p>Inibição Incompetitiva</p>
-</section>
+<!-- Slide 65 -->
+<img data-src="../imgs/cap06.image58.jpg" class="r-stretch quarto-figure quarto-figure-center"></section>
 
-<section id="slide-58" class="title-slide slide level1 center">
-<h1>Slide 58:</h1>
-<p>Inibição Mista Liga-se à enzima com ou sem substrato liga-se a um sítio regulatório inibe tanto a ligação do substrato quanto a catálise Diminuição no Vmax; mudança aparente no KM Lineweaver-Burk: as linhas se cruzam à esquerda do eixo y. Inibidores não competitivos são inibidores mistos tais que não há mudança no KM.</p>
-</section>
+<section id="a-cascata-de-coagulação-sanguínea-usa-modificação-covalente-irreversível" class="title-slide slide level1 center">
+<h1>A Cascata de Coagulação Sanguínea Usa Modificação Covalente Irreversível</h1>
 
-<section id="slide-59" class="title-slide slide level1 center">
-<h1>Slide 59:</h1>
-<p>Inibição Mista</p>
-</section>
+<!-- Slide 66 -->
+<img data-src="../imgs/cap06.image53.jpg" class="r-stretch quarto-figure quarto-figure-center"></section>
 
-<section id="slide-60" class="title-slide slide level1 center">
-<h1>Slide 60:</h1>
-<p>A Atividade Enzimática Pode Ser Regulada A regulação pode ser: modificação não covalente (alostérica) modificação covalente irreversível reversível</p>
-</section>
+<section id="algumas-enzimas-usam-múltiplos-tipos-de-regulação" class="title-slide slide level1 center">
+<h1>Algumas Enzimas Usam<br>Múltiplos Tipos de Regulação</h1>
 
-<section id="slide-61" class="title-slide slide level1 center">
-<h1>Slide 61:</h1>
-<p>Efetores ou moduladores alostéricos são geralmente pequenas substâncias químicas. Efetores alostéricos podem ser positivos, ou melhorar a catálise enzimática. Efetores alostéricos podem ser negativos, ou reduzir a catálise enzimática. Modificação Não Covalente: Reguladores Alostéricos</p>
-</section>
+<!-- Slide 67 -->
+<img data-src="../imgs/cap06.image52.jpg" class="r-stretch quarto-figure quarto-figure-center"></section>
 
-<section id="slide-62" class="title-slide slide level1 center">
-<h1>Slide 62:</h1>
-<p>Modificação Não Covalente: Reguladores Alostéricos A cinética dos reguladores alostéricos difere da cinética de Michaelis-Menten.</p>
-</section>
-
-<section id="slide-63" class="title-slide slide level1 center">
-<h1>Slide 63:</h1>
-<p>Algumas Modificações Covalentes Reversíveis</p>
-</section>
-
-<section id="slide-64" class="title-slide slide level1 center">
-<h1>Slide 64:</h1>
-<p>Zimogênios São Ativados por Modificação Covalente Irreversível</p>
-</section>
-
-<section id="slide-65" class="title-slide slide level1 center">
-<h1>Slide 65:</h1>
-<p>A Cascata de Coagulação Sanguínea Usa Modificação Covalente Irreversível</p>
-</section>
-
-<section id="slide-66" class="title-slide slide level1 center">
-<h1>Slide 66:</h1>
-<p>Algumas Enzimas Usam Múltiplos Tipos de Regulação</p>
-</section>
-
-<section id="slide-67" class="title-slide slide level1 center">
-<h1>Slide 67:</h1>
-<p>Capítulo 6: Resumo por que a natureza precisa da catálise enzimática como as enzimas podem acelerar reações químicas como a quimotripsina quebra ligações peptídicas<br>
-como realizar e analisar estudos cinéticos como caracterizar inibidores enzimáticos como a atividade enzimática pode ser regulada</p>
+<section id="capítulo-6-resumo" class="title-slide slide level1 center">
+<h1>Capítulo 6: Resumo</h1>
 <p>Neste capítulo, aprendemos:</p>
+<ul>
+<li>por que a natureza precisa da catálise enzimática</li>
+<li>como as enzimas podem acelerar reações químicas</li>
+<li>como a quimotripsina quebra ligações peptídicas</li>
+<li>como realizar e analisar estudos cinéticos</li>
+<li>como caracterizar inibidores enzimáticos</li>
+<li>como a atividade enzimática pode ser regulada</li>
+</ul>
 
 
 </section>
@@ -954,6 +1432,38 @@ como realizar e analisar estudos cinéticos como caracterizar inibidores enzimá
         }
       });
       </script>
+    <script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","descPosition":"bottom","loop":false,"openEffect":"zoom","selector":".lightbox"});
+    (function() {
+      let previousOnload = window.onload;
+      window.onload = () => {
+        if (previousOnload) {
+          previousOnload();
+        }
+        lightboxQuarto.on('slide_before_load', (data) => {
+          const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+          const href = trigger.getAttribute('href');
+          if (href !== null) {
+            const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+            if (imgEl !== null) {
+              const srcAttr = imgEl.getAttribute("src");
+              if (srcAttr && srcAttr.startsWith("data:")) {
+                slideConfig.href = srcAttr;
+              }
+            }
+          } 
+        });
+      
+        lightboxQuarto.on('slide_after_load', (data) => {
+          const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(slideNode);
+          }
+        });
+      
+      };
+      
+    })();
+              </script>
     
 
 </body></html>
