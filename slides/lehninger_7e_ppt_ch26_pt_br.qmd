@@ -1,6 +1,5 @@
 ---
-title: "Capítulo"
-# author: Nicholas Costa & Nicholas Barroso
+title: "Metabolismo do RNA"
 lang: pt-BR
 date: today
 date-format: "DD/MM/YYYY"
@@ -11,7 +10,6 @@ format:
 #    height: 900
     width: 960
     height: 720
-#    logo: imgs/logo.png
     incremental: false
     theme: tema_azul.scss
     lightbox: true
@@ -23,573 +21,684 @@ format:
     auto-stretch: true
 ---
 
-# Slide 1:
+## 26 | Metabolismo do RNA
 
-26 | Metabolismo do RNA
-© 2017 W. H. Freeman and Company
+![](../imgs/cap26_image01.png)
 
-# Slide 2:
-CAPÍTULO 26
-Metabolismo do RNA
-Transcrição: síntese de RNA dependente de DNA
-Capamento e splicing: processamento do RNA
-Síntese de RNA e DNA dependente de RNA
-Objetivos de aprendizagem:
+<small>© 2017 W. H. Freeman and Company</small>
 
-# Slide 3:
-Visão geral da função do RNA
-Os ácidos ribonucleicos desempenham três papéis bem compreendidos nas células vivas:
-Os RNAs mensageiros codificam as sequências de aminoácidos de todos os polipeptídeos encontrados na célula.
-Os RNAs transportadores combinam seu anticódon com o mRNA enquanto carregam um aminoácido específico usado para a síntese de proteínas.
-Os RNAs ribossômicos são constituintes das subunidades ribossômicas grande e pequena.
-Os ácidos ribonucleicos desempenham várias funções menos compreendidas nas células eucarióticas:
-Os microRNAs regulam a expressão de genes, possivelmente via ligação a sequências de nucleotídeos específicas.
-As ribozimas são moléculas de RNA catalíticas que atuam como enzimas.
-Os ácidos ribonucleicos atuam como material genômico em vírus.
+## CAPÍTULO 26 — Metabolismo do RNA
 
-# Slide 4:
-Visão geral do metabolismo do RNA
-Transcrito a partir do DNA
-A transcrição é rigidamente regulada para controlar a concentração de cada proteína.
-Ribozimas
-Sendo principalmente de fita simples, muitas moléculas de RNA podem se dobrar em estruturas compactas com funções específicas.
-Algumas moléculas de RNA podem atuar como catalisadores (ribozimas), frequentemente usando íons metálicos como cofatores, como os íntrons do grupo I.
-Processamento de mRNAs
-Splicing - eliminação de íntrons; junção de éxons
-Poliadenilação da extremidade 3'
-Capamento da extremidade 5'
+**Objetivos de aprendizagem:**
 
-# Slide 5:
-Transcrição em E. coli
-Os nucleosídeos trifosfato se adicionam à extremidade 3' da fita de RNA em crescimento.
-A cadeia em crescimento é complementar à fita molde no DNA.
-A síntese é catalisada pela enzima (RNA polimerase) e envolve 2 íons Mg2+ para catálise.
-A RNA polimerase desenrola ~17 pb de DNA e cobre cerca de 35 pb de DNA.
+1. Transcrição: síntese de RNA dependente de DNA
+2. Capamento e splicing: processamento do RNA
+3. Síntese de RNA e DNA dependente de RNA
 
-# Slide 6:
-Transcrição pela RNA polimerase em E. coli
+## Visão geral da função do RNA {.smaller}
 
-# Slide 7:
-Características da transcrição
-A RNA polimerase se liga a uma sequência chamada promotor para iniciar a transcrição.
-primer não necessário
-A extremidade em crescimento do novo RNA pareia temporariamente com o molde de DNA por ~8 pb e insere 50-90 nt/s.
-O duplex de DNA se desenrola, formando uma "bolha" de ~17 pb.
-A RNA Pol gera superenovelamentos positivos à frente, posteriormente aliviados por topoisomerases.
+- Os ácidos ribonucleicos desempenham três papéis bem compreendidos nas células vivas:
+    - Os RNAs mensageiros codificam as sequências de aminoácidos de todos os polipeptídeos encontrados na célula.
+- Os RNAs transportadores combinam seu anticódon com o mRNA enquanto carregam um aminoácido específico usado para a síntese de proteínas.
+- Os RNAs ribossômicos são constituintes das subunidades ribossômicas grande e pequena.
+- Os ácidos ribonucleicos desempenham várias funções menos compreendidas nas células eucarióticas:
+    - Os microRNAs regulam a expressão de genes, possivelmente via ligação a sequências de nucleotídeos específicas.
+- As ribozimas são moléculas de RNA catalíticas que atuam como enzimas.
+- Os ácidos ribonucleicos atuam como material genômico em vírus.
 
-# Slide 8:
-"Bolha" de transcrição
+## Visão geral do metabolismo do RNA
 
-# Slide 9:
-RNA polimerase e geração de superenovelamentos positivos
+- Transcrito a partir do DNA
+- A transcrição é rigidamente regulada para controlar a concentração de cada proteína.
+- Ribozimas
+    - Sendo principalmente de fita simples, muitas moléculas de RNA podem se dobrar em estruturas compactas com funções específicas.
+    - Algumas moléculas de RNA podem atuar como catalisadores (ribozimas), frequentemente usando íons metálicos como cofatores, como os íntrons do grupo I.
+- Processamento de mRNAs
+- Splicing - eliminação de íntrons; junção de éxons
+- Poliadenilação da extremidade 3'
+- Capamento da extremidade 5'
 
-# Slide 10:
-Fita molde versus fita codificante
-Fita molde do DNA – serve como molde para a RNA polimerase
-Fita codificante do DNA – a fita não molde; tem a mesma sequência do transcrito de RNA
+## Transcrição em E. coli
+
+- Os nucleosídeos trifosfato se adicionam à extremidade 3' da fita de RNA em crescimento.
+- A cadeia em crescimento é complementar à fita molde no DNA.
+- A síntese é catalisada pela enzima (RNA polimerase) e envolve 2 íons Mg2+ para catálise.
+- A RNA polimerase desenrola ~17 pb de DNA e cobre cerca de 35 pb de DNA.
+
+## Transcrição pela RNA polimerase em E. coli
+
+![](../imgs/cap26_image02.jpg)
+
+## Características da transcrição
+
+- A RNA polimerase se liga a uma sequência chamada promotor para iniciar a transcrição.
+    - primer não necessário
+- A extremidade em crescimento do novo RNA pareia temporariamente com o molde de DNA por ~8 pb e insere 50-90 nt/s.
+- O duplex de DNA se desenrola, formando uma "bolha" de ~17 pb.
+- A RNA Pol gera superenovelamentos positivos à frente, posteriormente aliviados por topoisomerases.
+
+## "Bolha" de transcrição
+
+![](../imgs/cap26_image03.jpg)
+
+## RNA polimerase e geração de superenovelamentos positivos
+
+![](../imgs/cap26_image04.jpg)
+
+## Fita molde versus fita codificante
+
+- Fita molde do DNA – serve como molde para a RNA polimerase
+- Fita codificante do DNA – a fita não molde; tem a mesma sequência do transcrito de RNA
 
 ***As sequências reguladoras são listadas pela sequência da fita codificante.
 
-# Slide 11:
-Ambas as fitas de DNA codificam proteínas
-A informação codificante pode estar em qualquer fita ("superior" ou "inferior").
-O adenovírus é um dos agentes causadores do resfriado comum.
-O adenovírus tem um genoma linear.
-Cada fita codifica uma série de proteínas.
+![](../imgs/cap26_image05.jpg)
 
-# Slide 12:
-A RNA polimerase é uma enzima grande sem capacidade de revisão
-A holoenzima RNA polimerase tem cinco subunidades centrais α2ββ'ω mais uma sexta chamada σ.
-Ver Figura 26-4.
-A RNA Pol carece de exonuclease 3' → 5', então tem uma alta taxa de erro de 1/104–1/105.
-O RNA se liga a regiões promotoras para iniciar a transcrição.
+## Ambas as fitas de DNA codificam proteínas
 
-# Slide 13:
-A RNA polimerase bacteriana tem pelo menos seis subunidades
-Duas subunidades α funcionam na montagem e ligação a elementos UP (promotor a montante).
-Ver slide sobre promotores e Fig. 26-5
-A subunidade β é a principal subunidade catalítica.
-A subunidade β' é responsável pela ligação ao DNA.
-A subunidade σ direciona a enzima ao promotor.
-Cada classe de holoenzimas RNA pol tem uma subunidade σ diferente.
-A ω parece proteger a polimerase da desnaturação.
+- A informação codificante pode estar em qualquer fita ("superior" ou "inferior").
+- O adenovírus é um dos agentes causadores do resfriado comum.
+- O adenovírus tem um genoma linear.
+- Cada fita codifica uma série de proteínas.
 
-# Slide 14:
-Características comuns dos promotores em E. coli
-Existem duas sequências consenso em −10 (TATAAT) e −35 (TTGACA) para ligação da subunidade σ.
-chamadas sequências TATA
-Um elemento promotor a montante rico em A-T entre −40 e −60 liga a subunidade α.
-Sequências ricas em A-T promovem a separação das fitas.
-Essas sequências governam a eficácia da ligação da RNA Pol e, portanto, afetam o nível de expressão gênica.
-Os nucleotídeos antes do primeiro nucleotídeo da molécula de RNA são considerados "a montante" e recebem valores negativos.
+![](../imgs/cap26_image06.jpg)
 
-# Slide 15:
-Exemplos de regiões promotoras de E. coli
+## A RNA polimerase é uma enzima grande sem capacidade de revisão
 
-# Slide 16:
-A técnica de footprinting é uma maneira de encontrar um sítio de ligação ao DNA
+- A holoenzima RNA polimerase tem cinco subunidades centrais α2ββ'ω mais uma sexta chamada σ.
+- Ver Figura 26-4.
+- A RNA Pol carece de exonuclease 3' → 5', então tem uma alta taxa de erro de 1/104–1/105.
+- O RNA se liga a regiões promotoras para iniciar a transcrição.
+
+![](../imgs/cap26_image07.jpg)
+
+## A RNA polimerase bacteriana tem pelo menos seis subunidades
+
+- Duas subunidades α funcionam na montagem e ligação a elementos UP (promotor a montante).
+    - Ver slide sobre promotores e Fig. 26-5
+- A subunidade β é a principal subunidade catalítica.
+- A subunidade β' é responsável pela ligação ao DNA.
+- A subunidade σ direciona a enzima ao promotor.
+- Cada classe de holoenzimas RNA pol tem uma subunidade σ diferente.
+- A ω parece proteger a polimerase da desnaturação.
+
+## Características comuns dos promotores em E. coli
+
+- Existem duas sequências consenso em −10 (TATAAT) e −35 (TTGACA) para ligação da subunidade σ.
+    - chamadas sequências TATA
+- Um elemento promotor a montante rico em A-T entre −40 e −60 liga a subunidade α.
+- Sequências ricas em A-T promovem a separação das fitas.
+- Essas sequências governam a eficácia da ligação da RNA Pol e, portanto, afetam o nível de expressão gênica.
+- Os nucleotídeos antes do primeiro nucleotídeo da molécula de RNA são considerados "a montante" e recebem valores negativos.
+
+## Exemplos de regiões promotoras de E. coli
+
+![](../imgs/cap26_image08.jpg)
+
+## A técnica de footprinting é uma maneira de encontrar um sítio de ligação ao DNA
+
 Premissa: O DNA ligado por proteína será protegido da clivagem química em seu sítio de ligação.
 
-Isolar um fragmento de DNA que se acredita conter um sítio de ligação.
-Radiomarcar o DNA.
-Ligar a proteína ao DNA em um tubo; manter outro como controle de "DNA nu".
-Tratar ambas as amostras com agente químico ou enzimático para clivar o DNA.
-Separar os fragmentos por eletroforese em gel e visualizar as bandas em filme de raios X ou placa de imagem.
+- Isolar um fragmento de DNA que se acredita conter um sítio de ligação.
+- Radiomarcar o DNA.
+- Ligar a proteína ao DNA em um tubo; manter outro como controle de "DNA nu".
+- Tratar ambas as amostras com agente químico ou enzimático para clivar o DNA.
+- Separar os fragmentos por eletroforese em gel e visualizar as bandas em filme de raios X ou placa de imagem.
 
-# Slide 17:
-Footprinting proteína-DNA
+## Footprinting proteína-DNA
 
-# Slide 18:
-Resultados de footprinting da RNA polimerase ligada ao promotor
+![](../imgs/cap26_image09.jpg)
 
-# Slide 19:
-Iniciação da transcrição
-A RNA Pol se liga ao promotor com o fator σ ligado.
-Cria um complexo fechado (o DNA não está desenrolado).
-Um complexo aberto se forma.
-A região de ~−10 a ~+2 se desenrola.
-A RNA Pol se afasta do promotor.
-σ é substituído pela proteína NusA.
+## Resultados de footprinting da RNA polimerase ligada ao promotor
 
-# Slide 20:
-Elongação da transcrição
-A RNA Pol se liga a nucleosídeos trifosfato e gera o transcrito de RNA.
-NusG se liga tanto à RNA polimerase quanto ao ribossomo, ligando os dois, afetando diretamente a taxa de transcrição em células procarióticas.
+![](../imgs/cap26_image10.jpg)
 
-# Slide 21:
-Iniciação e elongação da transcrição em E. coli
+## Iniciação da transcrição
 
-# Slide 22:
-TABELA 26-1 As sete subunidades σ de E. coli
-Subunidade σ	Kd (nM)	Moléculas/célulaa	Proporção de holoenzimaa (%)	Função
-σ70	0,26	700	78	Manutenção celular
-σ54	0,30	110	8	Modulação dos níveis de nitrogênio celular
-σ38	4,26	<1	0	Genes da fase estacionária
-σ32	1,24	<10	0	Genes de choque térmico
-σ28	0,74	370	14	Genes de flagelos e quimiotaxia
-σ24	2,43	<10	0	Funções extra-citoplasmáticas; algumas funções de choque térmico
-σ18	1,73	<1	0	Funções extra-citoplasmáticas, incluindo transporte de citrato férrico
-Fonte: Dados de H. Maeda et al., Nucleic Acids Res. 28:3497, 2000.
-Nota: Os fatores σ são amplamente distribuídos em bactérias; o número varia de um único fator σ em Mycoplasma genitalium a 63 fatores σ distintos em Streptomyces coelicolor.
-aNúmero aproximado de cada subunidade σ por célula e a fração da holoenzima RNA polimerase complexada com cada subunidade σ durante o crescimento exponencial. Os números mudam à medida que as condições de crescimento mudam. A fração da RNA polimerase complexada com cada subunidade σ reflete tanto a quantidade da subunidade particular quanto sua afinidade pela enzima.
+- A RNA Pol se liga ao promotor com o fator σ ligado.
+- Cria um complexo fechado (o DNA não está desenrolado).
+- Um complexo aberto se forma.
+- A região de ~−10 a ~+2 se desenrola.
+- A RNA Pol se afasta do promotor.
+- σ é substituído pela proteína NusA.
 
-# Slide 23:
-Regulação da transcrição
-A transcrição consome muita energia, então é lógico regular a produção gênica aqui.
-A regulação é alcançada de muitas maneiras.
-Uma maneira é regular a afinidade da RNA polimerase por um promotor.
-sequência do promotor – desviando da sequência consenso
-proteínas ativadoras – CRP
-proteínas repressoras – bloqueiam sítios de ligação necessários
+## Elongação da transcrição
 
-# Slide 24:
-Dois tipos de terminação em E. coli
-1. Independente de ρ
-caracterizada por três U's perto da extremidade 3' do transcrito
-regiões autocomplementares no transcrito formam um grampo 15−20 nt antes da extremidade 3'
-faz a RNA Pol pausar, dissociar
+- A RNA Pol se liga a nucleosídeos trifosfato e gera o transcrito de RNA.
+- NusG se liga tanto à RNA polimerase quanto ao ribossomo, ligando os dois, afetando diretamente a taxa de transcrição em células procarióticas.
 
-# Slide 25:
-Dois tipos de terminação em E. coli
-2. Dependente de ρ
-sequência comum rica em CA chamada sítio rut (elemento de utilização de Rho)
-a proteína ρ processa até que o sítio de terminação seja alcançado
-a proteína ρ é uma helicase, liga-se ao sítio rut
+## Iniciação e elongação da transcrição em E. coli
 
-# Slide 26:
-RNA polimerases de eucariotos
-A RNA polimerase I sintetiza pré-RNA ribossômico (precursor para rRNAs 28S, 18S e 5,8S).
-A RNA polimerase II é responsável pela síntese de mRNA.
-muito rápida (500–1000 nucleotídeos/s)
-especificamente inibida pela toxina do cogumelo α-amanitina
-pode reconhecer milhares de promotores (Ver Fig. 26-8)
-A RNA polimerase III produz tRNAs e alguns pequenos produtos de RNA.
-Plantas parecem ter RNA polimerase IV que é responsável pela síntese de pequenos RNAs interferentes.
-As mitocôndrias têm sua própria RNA polimerase.
+![](../imgs/cap26_image11.jpg)
 
-# Slide 27:
-Características de alguns promotores reconhecidos pela RNA polimerase II eucariótica
-Sequência consenso TATA(A/T)A(A/T)(A/G) ~−30
-Sequência Inr (Iniciador) ~+1
-Sequências reguladoras específicas mais a montante
+## TABELA 26-1 — As sete subunidades σ de E. coli
 
-# Slide 28:
-A transcrição de mRNA eucariótico envolve muitas proteínas
-Depende de contatos proteína-proteína
-muitos fatores de transcrição altamente conservados
-A RNA Pol II é bem estudada.
-grande complexo de 12 subunidades
-Algumas subunidades têm alguma homologia estrutural com a RNA polimerase bacteriana.
-tem domínio carboxi-terminal de repetições altamente conservadas
+| Subunidade σ | Kd (nM) | Moléculas/célulaa | Proporção de holoenzimaa (%) | Função |
+|:--|:--|:--|:--|:--|
+| σ70 | 0,26 | 700 | 78 | Manutenção celular |
+| σ54 | 0,30 | 110 | 8 | Modulação dos níveis de nitrogênio celular |
+| σ38 | 4,26 | <1 | 0 | Genes da fase estacionária |
+| σ32 | 1,24 | <10 | 0 | Genes de choque térmico |
+| σ28 | 0,74 | 370 | 14 | Genes de flagelos e quimiotaxia |
+| σ24 | 2,43 | <10 | 0 | Funções extra-citoplasmáticas; algumas funções de choque térmico |
+| σ18 | 1,73 | <1 | 0 | Funções extra-citoplasmáticas, incluindo transporte de citrato férrico |
 
-# Slide 29:
-TABELA 26-2 Proteínas necessárias para a iniciação da transcrição nos promotores da RNA polimerase II (Pol II) de eucariotos
-Proteína de transcrição	Número de subunidades diferentes	Mr da(s) subunidade(s)a	Função(ões)
-Iniciação
-Pol II	12	7.000–220.000	Catalisa a síntese de RNA
-TBP (proteína de ligação à TATA)	1	38.000	Reconhece especificamente a caixa TATA
-TFIIA	2	13.000, 42.000	Estabiliza a ligação de TFIIB e TBP ao promotor
-TFIIB	1	35.000	Liga-se a TBP; recruta o complexo Pol II–TFIIF
-TFIIDb	13–14	14.000–213.000	Necessário para iniciação em promotores que carecem de caixa TATA
-TFIIE	2	33.000, 50.000	Recruta TFIIH; tem atividades ATPase e helicase
-TFIIF	2–3	29.000–58.000	Liga-se firmemente à Pol II; liga-se a TFIIB e previne a ligação da Pol II a sequências de DNA não específicas
-TFIIH	10	35.000–89.000	Desenrola o DNA no promotor (atividade de helicase); fosforila a Pol II (dentro do CTD); recruta proteínas de reparo por excisão de nucleotídeo
-Elongação c
-ELLd	1	80.000
-pTEFb	2	43.000, 124.000	Fosforila a Pol II (dentro do CTD)
-SII (TFIIS)	1	38.000
-Elongina (SIII)	3	15.000, 18.000, 110.000
-aMr reflete as subunidades presentes nos complexos de células humanas. Alguns componentes diferem um pouco em tamanho em leveduras.
-bA presença de múltiplas cópias de algumas subunidades de TFIID leva a composição total de subunidades do complexo a 21–22.
-cA função de todos os fatores de elongação é suprimir a pausa ou parada da transcrição pelo complexo Pol II–TFIIF.
-dNome derivado de leucemia rica em lisina eleven-nineteen. O gene para ELL é o local de eventos de recombinação cromossômica frequentemente associados à leucemia mieloide aguda.
+::: {.callout-note appearance="simple" title="Fonte"}
+Dados de H. Maeda et al., Nucleic Acids Res. 28:3497, 2000.
+:::
 
-# Slide 30:
-Montagem da RNA polimerase II no promotor
-Iniciada pela proteína de ligação à TATA (TBP) com o promotor
-TBP é parte do complexo multissubunidade TFIID.
-Outras proteínas incluem TFIIB, TFIIA, TFIIF, TFIIE e TFIIH.
-A atividade de helicase em TFIIH desenrola o DNA no promotor.
-A atividade de quinase em TFIIH fosforila a polimerase no CTD (domínio carboxi-terminal), mudando a conformação e permitindo que a RNA Pol II transcreva.
+::: {.callout-note appearance="simple" title="Nota"}
+Os fatores σ são amplamente distribuídos em bactérias; o número varia de um único fator σ em Mycoplasma genitalium a 63 fatores σ distintos em Streptomyces coelicolor.
+:::
 
-# Slide 31:
-Elongação e terminação
-Após 60-70 nt, TFIIE é liberado seguido por TFIIH.
-Fatores de elongação ligados à RNA Pol II aumentam a processividade e coordenam modificações pós-traducionais.
-Alguns fatores de elongação estão ligados ao CTD fosforilado.
-Para terminação, a Pol II é desfosforilada.
-A regulação é complexa (ver Capítulo 28).
+<small>aNúmero aproximado de cada subunidade σ por célula e a fração da holoenzima RNA polimerase complexada com cada subunidade σ durante o crescimento exponencial. Os números mudam à medida que as condições de crescimento mudam. A fração da RNA polimerase complexada com cada subunidade σ reflete tanto a quantidade da subunidade particular quanto sua afinidade pela enzima.</small>
 
-# Slide 32:
-Transcrição usando RNA Pol II
+## Regulação da transcrição
 
-# Slide 33:
-TFIIH e reparo
-Genes transcritos são reparados mais ativamente que genes silenciosos.
-Pode ser parcialmente explicado que TFIIH também tem um papel no reparo por excisão de nucleotídeo (NER).
-recruta o complexo NER em uma lesão
-Doenças genéticas de reparo estão associadas a defeitos em TFIIH:
-xeroderma pigmentoso e outras
+- A transcrição consome muita energia, então é lógico regular a produção gênica aqui.
+- A regulação é alcançada de muitas maneiras.
+- Uma maneira é regular a afinidade da RNA polimerase por um promotor.
+    - sequência do promotor – desviando da sequência consenso
+    - proteínas ativadoras – CRP
+    - proteínas repressoras – bloqueiam sítios de ligação necessários
 
-# Slide 34:
-Inibição seletiva de RNA polimerases
-Actinomicina D e acridina
-intercalam no DNA e previnem a transcrição
-Rifampicina
-Liga-se à subunidade β das RNA Pols bacterianas
-α-amanitina do cogumelo Amanita phalloides
-bloqueia a Pol II e Pol III de predadores
-mas não bloqueia sua própria Pol II
+## Dois tipos de terminação em E. coli
 
-# Slide 35:
-Processamento do mRNA − Visão geral
-Dúzias de proteínas se coordenam entre si e com proteínas envolvidas no transporte de RNA para os ribossomos.
-Uma molécula de RNA não processada e recém-sintetizada é chamada de transcrito primário.
-O processamento inclui:
-splicing de íntrons e religação de éxons para uma sequência contínua
-adição de um cap 5'
-adição de uma cauda poli(A) 3'
-degradação
+- 1. Independente de ρ
+    - caracterizada por três U's perto da extremidade 3' do transcrito
+    - regiões autocomplementares no transcrito formam um grampo 15−20 nt antes da extremidade 3'
+    - faz a RNA Pol pausar, dissociar
 
-# Slide 36:
-Maturação do mRNA em eucariotos
+![](../imgs/cap26_image12.jpg)
 
-# Slide 37:
-O cap 5'
-A 7-metilguanosina se liga à extremidade 5' via ligação 5',5'-trifosfato.
-formado com uma molécula de GTP
-pode incluir metilações adicionais nos grupos 2'OH dos próximos dois nucleotídeos após o cap
-os grupos metil derivam da S-adenosilmetionina (SAMe)
-Ver Figura 26-12.
-Protege o RNA de nucleases
-Forma um sítio de ligação para o ribossomo
+## Dois tipos de terminação em E. coli
 
-# Slide 38:
-Íntrons são encontrados na maioria dos genes
-A maioria dos genes em vertebrados, e alguns em leveduras, algumas bactérias têm íntrons.
-Os éxons são geralmente <1.000 pb de comprimento.
-Os íntrons têm 50−700.000 pb de comprimento.
-1.800 pb em média
-Alguns genes têm dúzias de íntrons.
-O genoma humano tem mais de 200.000 íntrons distribuídos por ~20.000 genes.
+- 2. Dependente de ρ
+    - sequência comum rica em CA chamada sítio rut (elemento de utilização de Rho)
+    - a proteína ρ processa até que o sítio de terminação seja alcançado
+    - a proteína ρ é uma helicase, liga-se ao sítio rut
 
-# Slide 39:
-Quatro classes de íntrons
-Os íntrons do grupo I e do grupo II são auto-splicing.
-não requerem proteínas adicionais ou ATP
-em genomas nuclear, mitocondrial e de cloroplasto
-diferem principalmente no mecanismo de splicing
-encontrados em algumas bactérias
-Os íntrons spliceossomais são processados por enormes complexos chamados spliceossomos.
-os íntrons mais comuns
-frequentes em regiões codificantes de proteínas de genomas eucarióticos
-Os íntrons de tRNA são processados por enzimas baseadas em proteínas.
-O transcrito primário é clivado por endonuclease.
-Os éxons são unidos por ligase dependente de ATP.
+![](../imgs/cap26_image13.jpg)
 
-# Slide 40:
-Splicing de íntrons do grupo I
-O 3'-OH da guanosina livre (GMP, GDP, etc.) é usado como nucleófilo
-Ataca a ligação fosfodiéster entre U e A no final do íntron
-Libera a primeira porção do éxon terminado em U
-O 3'-OH do éxon terminado em U então ataca a extremidade 5' da outra peça do éxon para reunir as peças
+## RNA polimerases de eucariotos
 
-# Slide 41:
-Ataque nucleofílico do 3'-OH da guanosina sobre o UA da interface éxon-íntron em íntron do grupo I
+- A RNA polimerase I sintetiza pré-RNA ribossômico (precursor para rRNAs 28S, 18S e 5,8S).
+- A RNA polimerase II é responsável pela síntese de mRNA.
+    - muito rápida (500–1000 nucleotídeos/s)
+    - especificamente inibida pela toxina do cogumelo α-amanitina
+    - pode reconhecer milhares de promotores (Ver Fig. 26-8)
+- A RNA polimerase III produz tRNAs e alguns pequenos produtos de RNA.
+- Plantas parecem ter RNA polimerase IV que é responsável pela síntese de pequenos RNAs interferentes.
+- As mitocôndrias têm sua própria RNA polimerase.
 
-# Slide 42:
-Íntrons do grupo II
-O nucleófilo é um 2'-OH de um resíduo A dentro do íntron.
-Após a primeira clivagem, a segunda peça (mais à direita) forma um intermediário em forma de laço com uma ligação 2'-5'-fosfodiéster.
-Outras características são semelhantes aos íntrons do grupo I.
+## Características de alguns promotores reconhecidos pela RNA polimerase II eucariótica
 
-# Slide 43:
-Íntrons spliceossomais são removidos via um grande complexo chamado spliceossomo
-O spliceossomo é composto de snRNPs ("snurps" para pequenas ribonucleoproteínas nucleares).
-O RNA dos snRNPs é chamado snRNA (para pequeno RNA nuclear), que têm 100−200 nt de comprimento.
-cinco snRNAs conhecidos em eucariotos (U1, U2, U4, U5, U6)
-GU na extremidade 5' e AU na extremidade 3' geralmente marcam os sítios de splicing.
+- Sequência consenso TATA(A/T)A(A/T)(A/G) ~−30
+- Sequência Inr (Iniciador) ~+1
+- Sequências reguladoras específicas mais a montante
 
-# Slide 44:
-Ligação de U1 snRNP e U2 snRNP
-Contêm regiões complementares ao mRNA
-U1 ajuda a definir o sítio de splicing 5'.
-U2 se liga perto da extremidade 3' do íntron.
-cria uma protuberância que parcialmente desloca e ativa um A para ser um melhor nucleófilo
-Este A forma a ligação 2'5'-fosfodiéster do intermediário em forma de laço.
+![](../imgs/cap26_image14.jpg)
 
-# Slide 45:
-Em seguida, U2, U4, U5 e U6 se ligam, trazendo pelo menos 50 proteínas para criar um spliceossomo.
-ATP é necessário para a montagem mas não para a clivagem.
-Algumas partes estão ligadas ao CTD (domínio carboxi-terminal) da RNA Pol II.
-indica coordenação do splicing com a transcrição
-Montagem do spliceossomo
+## A transcrição de mRNA eucariótico envolve muitas proteínas
 
-# Slide 46:
-Adição da cauda poli(A)
-Serve como um sítio de ligação no mRNA e o protege da degradação.
-A RNA Pol II sintetiza RNA além da sequência sinal de clivagem.
-O sinal de clivagem é ligado por uma endonuclease e uma poliadenilato polimerase ligada ao CTD.
-A endonuclease cliva o RNA 10−30 nt a jusante do altamente conservado AAUAA.
-A poliadenilato polimerase sintetiza 80−250 nt de A.
+- Depende de contatos proteína-proteína
+    - muitos fatores de transcrição altamente conservados
+- A RNA Pol II é bem estudada.
+    - grande complexo de 12 subunidades
+- Algumas subunidades têm alguma homologia estrutural com a RNA polimerase bacteriana.
+    - tem domínio carboxi-terminal de repetições altamente conservadas
 
-# Slide 47:
-Visão geral do processamento do mRNA
+## TABELA 26-2 — Proteínas necessárias para a iniciação da transcrição nos promotores da RNA polimerase II (Pol II) de eucariotos {.smaller}
 
-# Slide 48:
-Splicing alternativo
-Um único gene pode produzir diferentes peptídeos dependendo do processamento do RNA.
-Regiões particulares podem ser retidas ou removidas, produzindo diferentes transcritos maduros.
-Pelo menos 95% dos genes humanos sofrem splicing alternativo.
+| Proteína de transcrição | Número de subunidades diferentes | Mr da(s) subunidade(s)a | Função(ões) |
+|:--|:--|:--|:--|
+| **Iniciação** |  |  |  |
+| Pol II | 12 | 7.000–220.000 | Catalisa a síntese de RNA |
+| TBP (proteína de ligação à TATA) | 1 | 38.000 | Reconhece especificamente a caixa TATA |
+| TFIIA | 2 | 13.000, 42.000 | Estabiliza a ligação de TFIIB e TBP ao promotor |
+| TFIIB | 1 | 35.000 | Liga-se a TBP; recruta o complexo Pol II–TFIIF |
+| TFIIDb | 13–14 | 14.000–213.000 | Necessário para iniciação em promotores que carecem de caixa TATA |
+| TFIIE | 2 | 33.000, 50.000 | Recruta TFIIH; tem atividades ATPase e helicase |
+| TFIIF | 2–3 | 29.000–58.000 | Liga-se firmemente à Pol II; liga-se a TFIIB e previne a ligação da Pol II a sequências de DNA não específicas |
+| TFIIH | 10 | 35.000–89.000 | Desenrola o DNA no promotor (atividade de helicase); fosforila a Pol II (dentro do CTD); recruta proteínas de reparo por excisão de nucleotídeo |
+| **Elongação c <br> ELLd** |  |  |  |
+| pTEFb | 2 | 43.000, 124.000 | Fosforila a Pol II (dentro do CTD) |
+| SII (TFIIS) | 1 | 38.000 |  |
+| Elongina (SIII) | 3 | 15.000, 18.000, 110.000 |  |
 
-# Slide 49:
-Escolha do sítio poli(A)
-Alguns transcritos complexos têm mais de um sítio onde a cauda poli(A) se forma.
-Isso gera maior diversidade em regiões como os domínios variáveis das cadeias pesadas de imunoglobulina.
-O sítio mais próximo da extremidade 5' remove a sequência a jusante.
+<small>aMr reflete as subunidades presentes nos complexos de células humanas. Alguns componentes diferem um pouco em tamanho em leveduras.</small>
 
-# Slide 50:
-Splicing alternativo no gene da calcitonina de ratos
+<small>bA presença de múltiplas cópias de algumas subunidades de TFIID leva a composição total de subunidades do complexo a 21–22.</small>
+
+<small>cA função de todos os fatores de elongação é suprimir a pausa ou parada da transcrição pelo complexo Pol II–TFIIF.</small>
+
+<small>dNome derivado de leucemia rica em lisina eleven-nineteen. O gene para ELL é o local de eventos de recombinação cromossômica frequentemente associados à leucemia mieloide aguda.</small>
+
+## Montagem da RNA polimerase II no promotor
+
+- Iniciada pela proteína de ligação à TATA (TBP) com o promotor
+- TBP é parte do complexo multissubunidade TFIID.
+- Outras proteínas incluem TFIIB, TFIIA, TFIIF, TFIIE e TFIIH.
+- A atividade de helicase em TFIIH desenrola o DNA no promotor.
+- A atividade de quinase em TFIIH fosforila a polimerase no CTD (domínio carboxi-terminal), mudando a conformação e permitindo que a RNA Pol II transcreva.
+
+## Elongação e terminação
+
+- Após 60-70 nt, TFIIE é liberado seguido por TFIIH.
+- Fatores de elongação ligados à RNA Pol II aumentam a processividade e coordenam modificações pós-traducionais.
+- Alguns fatores de elongação estão ligados ao CTD fosforilado.
+- Para terminação, a Pol II é desfosforilada.
+- A regulação é complexa (ver Capítulo 28).
+
+## Transcrição usando RNA Pol II
+
+![](../imgs/cap26_image15.jpg)
+
+## TFIIH e reparo
+
+- Genes transcritos são reparados mais ativamente que genes silenciosos.
+- Pode ser parcialmente explicado que TFIIH também tem um papel no reparo por excisão de nucleotídeo (NER).
+    - recruta o complexo NER em uma lesão
+- Doenças genéticas de reparo estão associadas a defeitos em TFIIH:
+    - xeroderma pigmentoso e outras
+
+## Inibição seletiva de RNA polimerases
+
+- Actinomicina D e acridina
+    - intercalam no DNA e previnem a transcrição
+- Rifampicina
+- Liga-se à subunidade β das RNA Pols bacterianas
+- α-amanitina do cogumelo Amanita phalloides
+    - bloqueia a Pol II e Pol III de predadores
+    - mas não bloqueia sua própria Pol II
+
+![](../imgs/cap26_image16.jpg)
+
+## Processamento do mRNA − Visão geral
+
+- Dúzias de proteínas se coordenam entre si e com proteínas envolvidas no transporte de RNA para os ribossomos.
+- Uma molécula de RNA não processada e recém-sintetizada é chamada de transcrito primário.
+- **O processamento inclui:**
+    - splicing de íntrons e religação de éxons para uma sequência contínua
+    - adição de um cap 5'
+    - adição de uma cauda poli(A) 3'
+    - degradação
+
+## Maturação do mRNA em eucariotos
+
+![](../imgs/cap26_image17.jpg)
+
+## O cap 5'
+
+- A 7-metilguanosina se liga à extremidade 5' via ligação 5',5'-trifosfato.
+    - formado com uma molécula de GTP
+    - pode incluir metilações adicionais nos grupos 2'OH dos próximos dois nucleotídeos após o cap
+    - os grupos metil derivam da S-adenosilmetionina (SAMe)
+- Ver Figura 26-12.
+    - Protege o RNA de nucleases
+- Forma um sítio de ligação para o ribossomo
+
+![](../imgs/cap26_image18.jpg)
+
+## Íntrons são encontrados na maioria dos genes
+
+- A maioria dos genes em vertebrados, e alguns em leveduras, algumas bactérias têm íntrons.
+- Os éxons são geralmente <1.000 pb de comprimento.
+- Os íntrons têm 50−700.000 pb de comprimento.
+    - 1.800 pb em média
+- Alguns genes têm dúzias de íntrons.
+- O genoma humano tem mais de 200.000 íntrons distribuídos por ~20.000 genes.
+
+## Quatro classes de íntrons
+
+- Os íntrons do grupo I e do grupo II são auto-splicing.
+    - não requerem proteínas adicionais ou ATP
+    - em genomas nuclear, mitocondrial e de cloroplasto
+    - diferem principalmente no mecanismo de splicing
+    - encontrados em algumas bactérias
+- Os íntrons spliceossomais são processados por enormes complexos chamados spliceossomos.
+    - os íntrons mais comuns
+    - frequentes em regiões codificantes de proteínas de genomas eucarióticos
+- Os íntrons de tRNA são processados por enzimas baseadas em proteínas.
+- O transcrito primário é clivado por endonuclease.
+- Os éxons são unidos por ligase dependente de ATP.
+
+## Splicing de íntrons do grupo I
+
+- O 3'-OH da guanosina livre (GMP, GDP, etc.) é usado como nucleófilo
+- Ataca a ligação fosfodiéster entre U e A no final do íntron
+- Libera a primeira porção do éxon terminado em U
+- O 3'-OH do éxon terminado em U então ataca a extremidade 5' da outra peça do éxon para reunir as peças
+
+![](../imgs/cap26_image19.jpg)
+
+## Ataque nucleofílico do 3'-OH da guanosina sobre o UA da interface éxon-íntron em íntron do grupo I
+
+![](../imgs/cap26_image20.jpg)
+
+## Íntrons do grupo II
+
+- O nucleófilo é um 2'-OH de um resíduo A dentro do íntron.
+- Após a primeira clivagem, a segunda peça (mais à direita) forma um intermediário em forma de laço com uma ligação 2'-5'-fosfodiéster.
+- Outras características são semelhantes aos íntrons do grupo I.
+
+![](../imgs/cap26_image21.jpg)
+
+## Íntrons spliceossomais são removidos via um grande complexo chamado spliceossomo
+
+- O spliceossomo é composto de snRNPs ("snurps" para pequenas ribonucleoproteínas nucleares).
+- O RNA dos snRNPs é chamado snRNA (para pequeno RNA nuclear), que têm 100−200 nt de comprimento.
+    - cinco snRNAs conhecidos em eucariotos (U1, U2, U4, U5, U6)
+- GU na extremidade 5' e AU na extremidade 3' geralmente marcam os sítios de splicing.
+
+## Ligação de U1 snRNP e U2 snRNP
+
+- Contêm regiões complementares ao mRNA
+- U1 ajuda a definir o sítio de splicing 5'.
+- U2 se liga perto da extremidade 3' do íntron.
+    - cria uma protuberância que parcialmente desloca e ativa um A para ser um melhor nucleófilo
+- Este A forma a ligação 2'5'-fosfodiéster do intermediário em forma de laço.
+
+![](../imgs/cap26_image22.jpg)
+
+## Em seguida, U2, U4, U5 e U6 se ligam, trazendo pelo menos 50 proteínas para criar um spliceossomo.
+
+- ATP é necessário para a montagem mas não para a clivagem.
+- Algumas partes estão ligadas ao CTD (domínio carboxi-terminal) da RNA Pol II.
+    - indica coordenação do splicing com a transcrição
+- Montagem do spliceossomo
+
+![](../imgs/cap26_image23.jpg)
+
+## Adição da cauda poli(A)
+
+- Serve como um sítio de ligação no mRNA e o protege da degradação.
+- A RNA Pol II sintetiza RNA além da sequência sinal de clivagem.
+- O sinal de clivagem é ligado por uma endonuclease e uma poliadenilato polimerase ligada ao CTD.
+- A endonuclease cliva o RNA 10−30 nt a jusante do altamente conservado AAUAA.
+- A poliadenilato polimerase sintetiza 80−250 nt de A.
+
+![](../imgs/cap26_image24.jpg)
+
+## Visão geral do processamento do mRNA
+
+![](../imgs/cap26_image25.jpg)
+
+## Splicing alternativo
+
+- Um único gene pode produzir diferentes peptídeos dependendo do processamento do RNA.
+- Regiões particulares podem ser retidas ou removidas, produzindo diferentes transcritos maduros.
+- Pelo menos 95% dos genes humanos sofrem splicing alternativo.
+
+![](../imgs/cap26_image26.jpg)
+
+## Escolha do sítio poli(A)
+
+- Alguns transcritos complexos têm mais de um sítio onde a cauda poli(A) se forma.
+- Isso gera maior diversidade em regiões como os domínios variáveis das cadeias pesadas de imunoglobulina.
+- O sítio mais próximo da extremidade 5' remove a sequência a jusante.
+
+![](../imgs/cap26_image27.jpg)
+
+## Splicing alternativo no gene da calcitonina de ratos
+
 Calcitonina e peptídeo relacionado ao gene da calcitonina, na tireoide de rato e no cérebro, respectivamente, produzidos a partir do mesmo mRNA.
 
-# Slide 51:
-Processamento de tRNA e rRNA
-As bases são modificadas em reações pós-transcricionais.
-pseudouridina (ψ)
-tiouridina
-di-hidrouridina, e assim por diante
+![](../imgs/cap26_image28.jpg)
 
-# Slide 52:
-Processamento de tRNA e rRNA
+## Processamento de tRNA e rRNA
+
+- As bases são modificadas em reações pós-transcricionais.
+    - pseudouridina (ψ)
+    - tiouridina
+    - di-hidrouridina, e assim por diante
+
+![](../imgs/cap26_image29.jpg)
+
+## Processamento de tRNA e rRNA
+
 rRNAs e tRNAs são clivados de precursores mais longos.
 
-# Slide 53:
-MicroRNAs funcionam na regulação gênica
-MicroRNAs (miRNAs):
-RNAs não codificantes curtos de ~22 nucleotídeos
-ligam-se a regiões específicas do mRNA para alterar a tradução
-auxiliam na clivagem dos mRNAs
-ou bloqueiam o mRNA da tradução
-Cerca de 1.500 genes humanos codificam miRNAs e 1 ou mais afetam a expressão da MAIORIA dos genes codificadores de proteínas!
-Sintetizados a partir de precursores maiores
-processados por duas endorribonucleases, Drosha e Dicer
+:::: {.columns}
+::: {.column width="50%"}
+![](../imgs/cap26_image30.jpg)
+:::
 
-# Slide 54:
-Etapas no processamento de miRNA
-O longo precursor pri-miRNA é produzido no núcleo.
-Drosha e DGCR8 clivam o pri-miRNA em um precursor de 70−80 nt.
-Exportina e Ran exportam este precursor para o citoplasma.
-Dicer cliva o pré-miRNA em dsRNA.
-O complemento do miRNA é removido pela helicase.
-O miRNA é carregado em um complexo proteico como o complexo de silenciamento induzido por RNA (RISC).
-RISC se liga ao mRNA alvo.
+::: {.column width="50%"}
+![](../imgs/cap26_image31.jpg)
+:::
 
-# Slide 55:
-RISC-miRNA previne a tradução do mRNA
-A sequência de miRNA no RISC se liga a um complemento no mRNA alvo.
-Se o miRNA é um complemento aproximadamente perfeito, o mRNA alvo é clivado.
-Assim, o mRNA não é traduzido.
-Se o miRNA é apenas um complemento parcial, a tradução é bloqueada.
+::::
 
-# Slide 56:
-Como os miRNAs são processados para prevenir a tradução
+## MicroRNAs funcionam na regulação gênica
 
-# Slide 57:
-Ribozimas são moléculas de RNA que clivam cataliticamente o RNA
-Clivam a si mesmas ou outro RNA
-Estrutura 3-D integral para a função
-Inativas se desnaturadas
-Seguem cinética de Michaelis-Menten
-saturáveis
-sítio ativo
-KM mensurável
-inibidas competitivamente
-ataque nucleofílico do OH do açúcar sobre o fosfato (transesterificação) seguido de hidrólise da ligação fosfodiéster
+- **MicroRNAs (miRNAs):**
+    - RNAs não codificantes curtos de ~22 nucleotídeos
+    - ligam-se a regiões específicas do mRNA para alterar a tradução
+    - auxiliam na clivagem dos mRNAs
+    - ou bloqueiam o mRNA da tradução
+- Cerca de 1.500 genes humanos codificam miRNAs e 1 ou mais afetam a expressão da MAIORIA dos genes codificadores de proteínas!
+- Sintetizados a partir de precursores maiores
+    - processados por duas endorribonucleases, Drosha e Dicer
 
-# Slide 58:
-Exemplos de ribozimas bem caracterizadas
+## Etapas no processamento de miRNA
+
+- O longo precursor pri-miRNA é produzido no núcleo.
+- Drosha e DGCR8 clivam o pri-miRNA em um precursor de 70−80 nt.
+- Exportina e Ran exportam este precursor para o citoplasma.
+- Dicer cliva o pré-miRNA em dsRNA.
+- O complemento do miRNA é removido pela helicase.
+- O miRNA é carregado em um complexo proteico como o complexo de silenciamento induzido por RNA (RISC).
+- RISC se liga ao mRNA alvo.
+
+## RISC-miRNA previne a tradução do mRNA
+
+- A sequência de miRNA no RISC se liga a um complemento no mRNA alvo.
+- Se o miRNA é um complemento aproximadamente perfeito, o mRNA alvo é clivado.
+- Assim, o mRNA não é traduzido.
+- Se o miRNA é apenas um complemento parcial, a tradução é bloqueada.
+
+## Como os miRNAs são processados para prevenir a tradução
+
+![](../imgs/cap26_image32.jpg)
+
+## Ribozimas são moléculas de RNA que clivam cataliticamente o RNA
+
+- Clivam a si mesmas ou outro RNA
+- Estrutura 3-D integral para a função
+- Inativas se desnaturadas
+- Seguem cinética de Michaelis-Menten
+    - saturáveis
+    - sítio ativo
+- KM mensurável
+    - inibidas competitivamente
+    - ataque nucleofílico do OH do açúcar sobre o fosfato (transesterificação) seguido de hidrólise da ligação fosfodiéster
+
+## Exemplos de ribozimas bem caracterizadas
+
 Íntrons do grupo I auto-splicing
+
+::: {.callout-tip appearance="simple"}
 Exemplo: precursor de rRNA 26S do protozoário Tetrahymena
-Ribozima cabeça-de-martelo
-cliva o RNA de virusoides (RNAs circulares que são replicados por vírus de plantas)
-assim chamada porque a estrutura 2° parece a cabeça de um martelo
-RNase P
-cliva precursores de tRNAs reconhecendo a forma do pré-tRNA e a sequência CCA
+:::
 
-# Slide 59:
-Ribozimas
-Cabeça-de-martelo
-Grupo I – íntron de rRNA de Tetrahymena
+- Ribozima cabeça-de-martelo
+    - cliva o RNA de virusoides (RNAs circulares que são replicados por vírus de plantas)
+    - assim chamada porque a estrutura 2° parece a cabeça de um martelo
+- RNase P
+    - cliva precursores de tRNAs reconhecendo a forma do pré-tRNA e a sequência CCA
 
-# Slide 60:
-Degradação de mRNAs celulares
-O tempo de vida do RNA é um meio de regulação gênica.
-Cada produto gênico é necessário por um período único de tempo.
-As meias-vidas variam de segundos a horas.
-taxa de síntese : taxa de degradação
-estado estacionário – as taxas são iguais e equilibradas
-mRNA de vertebrado típico ~3 h
-~10 renovações por geração celular
-meias-vidas mais curtas (~1,5 min) para mRNAs bacterianos
-A degradação ocorre via ribonucleases.
-Estruturas em grampo no mRNA bacteriano podem estender a meia-vida.
-Em eucariotos, o cap 5' e a cauda poli(A) 3' auxiliam na estabilidade do mRNA.
+## Ribozimas
 
-# Slide 61:
-Síntese de ácidos nucleicos dependente de RNA
-A maioria do DNA e RNA é sintetizada a partir de um molde de DNA; no entanto, os vírus não se encaixam na norma.
-Os retrovírus têm genomas de ssRNA e a enzima transcriptase reversa.
-o vírus entra na célula hospedeira
-a transcriptase reversa produz DNA a partir do RNA
-Ela então degrada o RNA do híbrido DNA-RNA e o substitui por DNA.
-O DNA pode então ser incorporado ao DNA hospedeiro.
+- Cabeça-de-martelo
+- Grupo I – íntron de rRNA de Tetrahymena
 
-# Slide 62:
-Infecção retroviral de uma célula de mamífero e integração no cromossomo hospedeiro
+:::: {.columns}
+::: {.column width="50%"}
+![](../imgs/cap26_image33.jpg)
+:::
 
-# Slide 63:
-Os retrovírus tipicamente contêm três genes mais uma repetição terminal longa
-gag (antígeno associado ao grupo)
-codifica um longo polipeptídeo que é clivado em seis proteínas menores que compõem o núcleo viral
-Pol (polipeptídeo)
-codifica protease que cliva o longo polipeptídeo, transcriptase reversa e uma integrase para inserir o DNA no genoma hospedeiro
-env
-codifica o envelope viral
-A repetição terminal longa (LTR) facilita a integração do genoma viral no DNA hospedeiro
+::: {.column width="50%"}
+![](../imgs/cap26_image34.jpg)
+:::
 
-# Slide 64:
-Estrutura e produtos gênicos de um genoma retroviral integrado
+::::
 
-# Slide 65:
-As transcriptases reversas catalisam três reações
-Síntese de DNA dependente de RNA
-Degradação de RNA
-Síntese de DNA dependente de DNA
+## Degradação de mRNAs celulares
 
-contêm Zn2+, como a DNA Pol
-usam um primer de tRNA
+- O tempo de vida do RNA é um meio de regulação gênica.
+- Cada produto gênico é necessário por um período único de tempo.
+- As meias-vidas variam de segundos a horas.
+    - taxa de síntese : taxa de degradação
+    - estado estacionário – as taxas são iguais e equilibradas
+    - mRNA de vertebrado típico ~3 h
+- ~10 renovações por geração celular
+    - meias-vidas mais curtas (~1,5 min) para mRNAs bacterianos
+- A degradação ocorre via ribonucleases.
+- Estruturas em grampo no mRNA bacteriano podem estender a meia-vida.
+- Em eucariotos, o cap 5' e a cauda poli(A) 3' auxiliam na estabilidade do mRNA.
+
+## Síntese de ácidos nucleicos dependente de RNA
+
+- A maioria do DNA e RNA é sintetizada a partir de um molde de DNA; no entanto, os vírus não se encaixam na norma.
+- Os retrovírus têm genomas de ssRNA e a enzima transcriptase reversa.
+    - o vírus entra na célula hospedeira
+    - a transcriptase reversa produz DNA a partir do RNA
+- Ela então degrada o RNA do híbrido DNA-RNA e o substitui por DNA.
+- O DNA pode então ser incorporado ao DNA hospedeiro.
+
+![](../imgs/cap26_image35.jpg)
+
+## Infecção retroviral de uma célula de mamífero e integração no cromossomo hospedeiro
+
+![](../imgs/cap26_image36.jpg)
+
+## Os retrovírus tipicamente contêm três genes mais uma repetição terminal longa
+
+- gag (antígeno associado ao grupo)
+    - codifica um longo polipeptídeo que é clivado em seis proteínas menores que compõem o núcleo viral
+- Pol (polipeptídeo)
+    - codifica protease que cliva o longo polipeptídeo, transcriptase reversa e uma integrase para inserir o DNA no genoma hospedeiro
+    - env
+    - codifica o envelope viral
+- A repetição terminal longa (LTR) facilita a integração do genoma viral no DNA hospedeiro
+
+## Estrutura e produtos gênicos de um genoma retroviral integrado
+
+![](../imgs/cap26_image37.jpg)
+
+## As transcriptases reversas catalisam três reações
+
+- Síntese de DNA dependente de RNA
+- Degradação de RNA
+- Síntese de DNA dependente de DNA
+
+- contêm Zn2+, como a DNA Pol
+    - usam um primer de tRNA
+
+::: {style="text-align:center"}
 carecem de revisão 3' → 5', como a RNA Pol
-tornam a transcriptase reversa propensa a erros
-explica a alta taxa de mutação/evolução viral (1: 20.000 nt)
+:::
 
-# Slide 66:
-Alguns retrovírus causam câncer
+- tornam a transcriptase reversa propensa a erros
+    - explica a alta taxa de mutação/evolução viral (1: 20.000 nt)
+
+## Alguns retrovírus causam câncer
+
 Alguns retrovírus contêm um oncogene.
+
+::: {.callout-tip appearance="simple"}
 Exemplo: O vírus do sarcoma de Rous tem o gene src.
-Src para sarcoma, um câncer de osso, gordura, músculo, etc. (vs. câncer de origem em células epiteliais)
-codifica uma tirosina quinase não receptora, uma enzima que afeta a divisão celular
+:::
 
-# Slide 67:
-O retrovírus HIV causa AIDS
-O genoma do HIV tem genes para matar o hospedeiro (principalmente linfócitos T).
-resulta em supressão do sistema imunológico
-A transcriptase reversa codificada pelo HIV é excepcionalmente propensa a erros.
-complica o esforço para uma vacina
-pelo menos um erro por replicação, então potencialmente não há dois RNAs virais iguais
+- Src para sarcoma, um câncer de osso, gordura, músculo, etc. (vs. câncer de origem em células epiteliais)
+    - codifica uma tirosina quinase não receptora, uma enzima que afeta a divisão celular
 
-# Slide 68:
-Alvos farmacêuticos para o HIV (drogas antirretrovirais)
-Inibidores da transcriptase reversa
-análogos de nucleotídeos ou nucleosídeos
-nomes de drogas terminando em "dina" ou "sina":
-zidovudina (AZT), didanosina (Videx), e assim por diante
-Inibidores de protease
-já que as proteases são usadas na clivagem de proteínas para empacotamento em novas partículas virais
-nomes de drogas terminando em "avir":
-indinavir, saquinavir, e assim por diante
+![](../imgs/cap26_image38.jpg)
 
-# Slide 69:
-Retrotransposons em eucariotos têm semelhanças com retrovírus
-Retrotransposons são elementos genéticos móveis em eucariotos.
-codificam uma enzima com homologia à transcriptase reversa de retrovírus
-movem-se entre posições via intermediários de RNA
-usando sua enzima para produzir DNA a partir do RNA
-diferentemente dos transposons bacterianos que se movem diretamente de DNA para DNA
+## O retrovírus HIV causa AIDS
 
-# Slide 70:
-Mais sobre retrotransposons
+- O genoma do HIV tem genes para matar o hospedeiro (principalmente linfócitos T).
+    - resulta em supressão do sistema imunológico
+- A transcriptase reversa codificada pelo HIV é excepcionalmente propensa a erros.
+    - complica o esforço para uma vacina
+    - pelo menos um erro por replicação, então potencialmente não há dois RNAs virais iguais
+
+![](../imgs/cap26_image39.jpg)
+
+## Alvos farmacêuticos para o HIV (drogas antirretrovirais)
+
+- Inibidores da transcriptase reversa
+    - análogos de nucleotídeos ou nucleosídeos
+    - nomes de drogas terminando em "dina" ou "sina":
+    - zidovudina (AZT), didanosina (Videx), e assim por diante
+- Inibidores de protease
+    - já que as proteases são usadas na clivagem de proteínas para empacotamento em novas partículas virais
+    - nomes de drogas terminando em "avir":
+    - indinavir, saquinavir, e assim por diante
+
+## Retrotransposons em eucariotos têm semelhanças com retrovírus
+
+- Retrotransposons são elementos genéticos móveis em eucariotos.
+    - codificam uma enzima com homologia à transcriptase reversa de retrovírus
+    - movem-se entre posições via intermediários de RNA
+    - usando sua enzima para produzir DNA a partir do RNA
+    - diferentemente dos transposons bacterianos que se movem diretamente de DNA para DNA
+
+## Mais sobre retrotransposons
+
 Carecem do gene env, então não formam partículas virais
+
+::: {.callout-tip appearance="simple"}
 Exemplos: elemento Ty em levedura e elemento Copia em Drosophila
+:::
 
-# Slide 71:
-Telômeros
-Estruturas nas extremidades dos cromossomos lineares eucarióticos
-Têm repetições em tandem geralmente de T1-4G1-4
-com A-C na fita oposta
-Podem ter dezenas de milhares de pb de comprimento em mamíferos
-A fita TG é mais longa que seu complemento, deixa uma extremidade 3' saliente de várias centenas de bases
+![](../imgs/cap26_image40.jpg)
 
-# Slide 72:
-A telomerase estende as extremidades dos cromossomos
-Os telômeros não são facilmente replicados usando DNA polimerases.
-Além de uma extremidade, não há molde para um primer de RNA.
-Os cromossomos são encurtados a cada geração.
-A telomerase adiciona sequências teloméricas para resolver este problema.
+## Telômeros
 
-# Slide 73:
-O mecanismo da telomerase
-A telomerase tem RNA com repetição CyAx para servir como molde para a síntese da fita TxGy do telômero.
-A telomerase se liga à extremidade 3' do cromossomo e fica pendurada de modo que o molde de RNA se estenda além dela.
-A telomerase estende a extremidade 3', usando o RNA da enzima como primer.
-A lacuna na fita inferior é preenchida por DNA polimerases.
+- Estruturas nas extremidades dos cromossomos lineares eucarióticos
+- Têm repetições em tandem geralmente de T1-4G1-4
+    - com A-C na fita oposta
+- Podem ter dezenas de milhares de pb de comprimento em mamíferos
+- A fita TG é mais longa que seu complemento, deixa uma extremidade 3' saliente de várias centenas de bases
 
-# Slide 74:
-Síntese e estrutura do telômero
+## A telomerase estende as extremidades dos cromossomos
 
-# Slide 75:
-Apoio para a hipótese do mundo de RNA
-A síntese de adenina a partir de cianeto é simples; a maioria dos cofatores enzimáticos contém adenosina e é o constituinte nucleotídico mais abundante.
-RNAs catalíticos existem e pode ter havido um RNA autorreplicante.
-As ribozimas podem catalisar formações de ligações éster e amida, reações SN2, metalização de porfirinas e formação de ligações C-C.
-A formação de ligações peptídicas requer moléculas de RNA.
-Muitas entidades não vivas (vírus de RNA, retrovírus, retrotransposons) existem e podem parasitar células vivas.
-Existe uma ribozima capaz de direcionar sua própria síntese?
+- Os telômeros não são facilmente replicados usando DNA polimerases.
+- Além de uma extremidade, não há molde para um primer de RNA.
+- Os cromossomos são encurtados a cada geração.
+- A telomerase adiciona sequências teloméricas para resolver este problema.
 
-# Slide 76:
-Capítulo 26: Resumo
-A RNA polimerase sintetiza RNA usando uma fita de DNA como molde e nucleosídeos trifosfato como substratos
-o transcrito primário de RNA em eucariotos requer processamento antes de se tornar RNA mensageiro
-o processamento envolve o capamento da extremidade 5' com metilguanosina para estabilizar a molécula de RNA
-o processamento envolve o splicing de íntrons
-alguns íntrons têm uma habilidade surpreendente de realizar seu próprio splicing
-Neste capítulo, aprendemos que:
+## O mecanismo da telomerase
+
+- A telomerase tem RNA com repetição CyAx para servir como molde para a síntese da fita TxGy do telômero.
+- A telomerase se liga à extremidade 3' do cromossomo e fica pendurada de modo que o molde de RNA se estenda além dela.
+- A telomerase estende a extremidade 3', usando o RNA da enzima como primer.
+- A lacuna na fita inferior é preenchida por DNA polimerases.
+
+## Síntese e estrutura do telômero
+
+![](../imgs/cap26_image41.jpg)
+
+## Apoio para a hipótese do mundo de RNA
+
+- A síntese de adenina a partir de cianeto é simples; a maioria dos cofatores enzimáticos contém adenosina e é o constituinte nucleotídico mais abundante.
+- RNAs catalíticos existem e pode ter havido um RNA autorreplicante.
+- As ribozimas podem catalisar formações de ligações éster e amida, reações SN2, metalização de porfirinas e formação de ligações C-C.
+- A formação de ligações peptídicas requer moléculas de RNA.
+- Muitas entidades não vivas (vírus de RNA, retrovírus, retrotransposons) existem e podem parasitar células vivas.
+
+::: {.callout-tip appearance="simple" icon="false"}
+**Existe uma ribozima capaz de direcionar sua própria síntese?**
+:::
+
+## Capítulo 26: Resumo
+
+**Neste capítulo, aprendemos que:**
+
+- A RNA polimerase sintetiza RNA usando uma fita de DNA como molde e nucleosídeos trifosfato como substratos
+    - o transcrito primário de RNA em eucariotos requer processamento antes de se tornar RNA mensageiro
+    - o processamento envolve o capamento da extremidade 5' com metilguanosina para estabilizar a molécula de RNA
+    - o processamento envolve o splicing de íntrons
+    - alguns íntrons têm uma habilidade surpreendente de realizar seu próprio splicing

@@ -1,6 +1,5 @@
 ---
-title: "Capítulo"
-# author: Nicholas Costa & Nicholas Barroso
+title: "Metabolismo do DNA"
 lang: pt-BR
 date: today
 date-format: "DD/MM/YYYY"
@@ -11,7 +10,6 @@ format:
 #    height: 900
     width: 960
     height: 720
-#    logo: imgs/logo.png
     incremental: false
     theme: tema_azul.scss
     lightbox: true
@@ -23,929 +21,1055 @@ format:
     auto-stretch: true
 ---
 
-# Slide 1:
+## 25 | Metabolismo do DNA
 
-25 | Metabolismo do DNA
-© 2017 W. H. Freeman and Company
+![](../imgs/cap25_image01.png)
 
-# Slide 2:
-CAPÍTULO 25
-Metabolismo do DNA
-Replicação do DNA
-Reparo do DNA
-Recombinação do DNA
-Objetivos de aprendizagem:
+<small>© 2017 W. H. Freeman and Company</small>
 
-# Slide 3:
-O que é o metabolismo do DNA?
-Embora o DNA forneça armazenamento estável da informação genética, a estrutura está longe de ser estática:
-Uma nova cópia do DNA é sintetizada com alta fidelidade antes de cada divisão celular.
-Erros que surgem durante ou após a síntese do DNA são constantemente verificados, e reparos são feitos.
-Segmentos de DNA são rearranjados dentro de um cromossomo ou entre duas moléculas de DNA (recombinação), dando à descendência um DNA novo.
-O metabolismo do DNA consiste em um conjunto de processos rigidamente regulados que realizam essas tarefas.
+## CAPÍTULO 25 — Metabolismo do DNA
 
-# Slide 4:
-Nomenclatura de genes bacterianos
+**Objetivos de aprendizagem:**
+
+1. Replicação do DNA
+2. Reparo do DNA
+3. Recombinação do DNA
+
+## O que é o metabolismo do DNA?
+
+- Embora o DNA forneça armazenamento estável da informação genética, a estrutura está longe de ser estática:
+    - Uma nova cópia do DNA é sintetizada com alta fidelidade antes de cada divisão celular.
+- Erros que surgem durante ou após a síntese do DNA são constantemente verificados, e reparos são feitos.
+- Segmentos de DNA são rearranjados dentro de um cromossomo ou entre duas moléculas de DNA (recombinação), dando à descendência um DNA novo.
+- O metabolismo do DNA consiste em um conjunto de processos rigidamente regulados que realizam essas tarefas.
+
+## Nomenclatura de genes bacterianos
+
 Três letras minúsculas em itálico
+
+::: {.callout-tip appearance="simple"}
 Exemplo: uvr
-O nome geralmente reflete a função
-uvr codifica o gene para resistência à radiação UV
-Letras maiúsculas adicionadas à abreviação refletem a ordem de descoberta, não a ordem enzimática
-dnaA, dnaB genes para replicação
+:::
 
-# Slide 5:
-Nomenclatura de proteínas bacterianas
-Frequentemente nomeadas após seus genes
-Não itálico, tipo romano
-Primeira letra maiúscula
+- O nome geralmente reflete a função
+    - uvr codifica o gene para resistência à radiação UV
+- Letras maiúsculas adicionadas à abreviação refletem a ordem de descoberta, não a ordem enzimática
+    - dnaA, dnaB genes para replicação
+
+## Nomenclatura de proteínas bacterianas
+
+- Frequentemente nomeadas após seus genes
+- Não itálico, tipo romano
+- Primeira letra maiúscula
+
+::: {.callout-tip appearance="simple"}
 Exemplo: DnaA é a proteína codificada pelo gene dnaA.
+:::
 
-# Slide 6:
-Mapa do cromossomo de E. coli
+## Mapa do cromossomo de E. coli
 
-# Slide 7:
-Nomenclatura de genes eucarióticos
-Não universal para todos os organismos eucarióticos
-Pode variar com cada espécie
-O nome geralmente reflete a função
-Em Saccharomyces cerevisiae, os nomes dos genes são tipicamente três letras maiúsculas em itálico seguidas de um número
-COX1 – gene que codifica uma subunidade da citocromo oxidase
+![](../imgs/cap25_image02.jpg)
 
-# Slide 8:
-Nomenclatura de proteínas eucarióticas
-Complexa e varia para cada espécie
-Pode ter o mesmo nome do gene, mas com maiúsculas/minúsculas diferentes
-Em S. cerevisiae, a proteína tem a primeira letra maiúscula seguida de duas letras minúsculas, o número e a letra "p".
+## Nomenclatura de genes eucarióticos
+
+- Não universal para todos os organismos eucarióticos
+- Pode variar com cada espécie
+- O nome geralmente reflete a função
+- Em Saccharomyces cerevisiae, os nomes dos genes são tipicamente três letras maiúsculas em itálico seguidas de um número
+- COX1 – gene que codifica uma subunidade da citocromo oxidase
+
+## Nomenclatura de proteínas eucarióticas
+
+- Complexa e varia para cada espécie
+- Pode ter o mesmo nome do gene, mas com maiúsculas/minúsculas diferentes
+- Em S. cerevisiae, a proteína tem a primeira letra maiúscula seguida de duas letras minúsculas, o número e a letra "p".
+
+::: {.callout-tip appearance="simple"}
 Exemplo: RAD51 (gene) – Rad51p (proteína)
+:::
 
-# Slide 9:
-Propriedades da replicação do DNA
-Três regras fundamentais da replicação
-A replicação é semiconservativa
-A replicação começa em uma origem e prossegue (geralmente) bidirecionalmente
+## Propriedades da replicação do DNA
+
+- Três regras fundamentais da replicação
+- A replicação é semiconservativa
+- A replicação começa em uma origem e prossegue (geralmente) bidirecionalmente
+
+::: {style="text-align:center"}
 A síntese de novo DNA ocorre na direção 5'→3' e é semidescontínua
+:::
 
-# Slide 10:
-A replicação do DNA é semiconservativa
-O experimento de Meselson-Stahl (próximo slide) mostrou que o nitrogênio usado para a síntese de novo dsDNA se divide igualmente entre os dois genomas filhos.
-Este resultado sugeriu um mecanismo de replicação semiconservativo.
-Cada novo DNA tem uma fita antiga (parental) e uma fita nova (filha).
+## A replicação do DNA é semiconservativa
 
-# Slide 11:
-O experimento de Meselson-Stahl
-Provou a hipótese de replicação semiconservativa proposta por Watson e Crick
-As células foram cultivadas em um meio contendo apenas o isótopo 15N (N pesado) até estarem totalmente marcadas.
-produziu UMA banda quando o DNA é centrifugado em CsCl
-As células foram então transferidas para meio com 14N e deixadas dividir uma vez.
+- O experimento de Meselson-Stahl (próximo slide) mostrou que o nitrogênio usado para a síntese de novo dsDNA se divide igualmente entre os dois genomas filhos.
+- Este resultado sugeriu um mecanismo de replicação semiconservativo.
+- Cada novo DNA tem uma fita antiga (parental) e uma fita nova (filha).
+
+## O experimento de Meselson-Stahl
+
+- Provou a hipótese de replicação semiconservativa proposta por Watson e Crick
+- As células foram cultivadas em um meio contendo apenas o isótopo 15N (N pesado) até estarem totalmente marcadas.
+    - produziu UMA banda quando o DNA é centrifugado em CsCl
+- As células foram então transferidas para meio com 14N e deixadas dividir uma vez.
+
+::: {style="text-align:center"}
 UMA banda, mas em uma posição mais alta que o DNA 15N, mas mais baixa que o DNA completamente 14N (→ DNA híbrido)
-As células foram deixadas dividir mais uma vez.
-DUAS bandas, uma com todo o DNA 14N, uma híbrida
+:::
 
-# Slide 12:
-O experimento de Meselson-Stahl
+- As células foram deixadas dividir mais uma vez.
+- DUAS bandas, uma com todo o DNA 14N, uma híbrida
 
-# Slide 13:
-Como este experimento provou a replicação semiconservativa?
-Hipótese alternativa: replicação conservativa (duas fitas filhas seriam DNA completamente novo)
-→ Não teria havido banda híbrida intermediária se esta hipótese fosse verdadeira.
+## O experimento de Meselson-Stahl
 
-# Slide 14:
-Revisão da replicação semiconservativa do Capítulo 8
+![](../imgs/cap25_image03.jpg)
 
-# Slide 15:
-A replicação do DNA circular é bidirecional
-Uma vez que a replicação começa, ela prossegue nas mesmas direções ou em direções opostas?
-Experimentos de Cairns ― o DNA foi radiomarcado cultivando células em 3H (trítio); o DNA foi isolado e espalhado sob uma emulsão fotográfica
-mostraram DNAs circulares com uma alça extra
-mostraram que ambas as fitas são replicadas simultaneamente
-duas forquilhas de replicação, portanto replicação bidirecional
+## Como este experimento provou a replicação semiconservativa?
 
-# Slide 16:
-Origem de replicação
-A replicação pode começar em qualquer lugar ou sempre começa no mesmo local?
-Experimentos de Inman:
+- Hipótese alternativa: replicação conservativa (duas fitas filhas seriam DNA completamente novo)
+- → Não teria havido banda híbrida intermediária se esta hipótese fosse verdadeira.
+
+## Revisão da replicação semiconservativa do Capítulo 8
+
+![](../imgs/cap25_image04.jpg)
+
+## A replicação do DNA circular é bidirecional
+
+- Uma vez que a replicação começa, ela prossegue nas mesmas direções ou em direções opostas?
+- Experimentos de Cairns ― o DNA foi radiomarcado cultivando células em 3H (trítio); o DNA foi isolado e espalhado sob uma emulsão fotográfica
+    - mostraram DNAs circulares com uma alça extra
+    - mostraram que ambas as fitas são replicadas simultaneamente
+    - duas forquilhas de replicação, portanto replicação bidirecional
+
+## Origem de replicação
+
+- A replicação pode começar em qualquer lugar ou sempre começa no mesmo local?
+- Experimentos de Inman:
+
+::: {style="text-align:center"}
 DNA φλ desnaturado em regiões ricas em A = T → "bolhas"
-as bolhas foram mapeadas
-mostraram que as alças sempre se iniciam em uma origem única
+:::
 
-# Slide 17:
-Replicação do DNA circular
+- as bolhas foram mapeadas
+    - mostraram que as alças sempre se iniciam em uma origem única
 
-# Slide 18:
-A síntese prossegue na direção 5'→3'
-A síntese sempre ocorre pela adição de novos nucleotídeos à extremidade 3' (3'-OH).
-A fita líder é feita continuamente à medida que a forquilha de replicação avança.
-A fita retardada é feita descontinuamente em pequenos fragmentos (fragmentos de Okazaki) que são posteriormente unidos.
+## Replicação do DNA circular
 
-# Slide 19:
-Síntese da fita líder e da fita retardada
+![](../imgs/cap25_image05.jpg)
 
-# Slide 20:
-O DNA é degradado
-Nucleases degradam ácidos nucleicos.
-Especificamente, DNases degradam apenas DNA; RNases degradam apenas RNA.
-Exonucleases clivam ligações que removem nucleotídeos das extremidades do DNA.
-Endonucleases clivam ligações dentro de uma sequência de DNA.
+## A síntese prossegue na direção 5'→3'
 
-# Slide 21:
-O DNA é sintetizado por DNA polimerases
-Primeira (DNA polimerase I) descoberta por Arthur Kornberg em E. coli
-E. coli contém pelo menos quatro outras DNA polimerases.
+- A síntese sempre ocorre pela adição de novos nucleotídeos à extremidade 3' (3'-OH).
+- A fita líder é feita continuamente à medida que a forquilha de replicação avança.
+- A fita retardada é feita descontinuamente em pequenos fragmentos (fragmentos de Okazaki) que são posteriormente unidos.
 
-# Slide 22:
-Química da elongação do DNA
-A fita de DNA parental serve como molde.
-Nucleosídeos trifosfato servem como substratos na síntese da fita.
-O grupo OH nucleofílico na extremidade 3' da cadeia em crescimento ataca o α-fosfato do trinucleotídeo entrante.
-Este 3'-OH é REQUERIDO.
-O 3'-OH é tornado um nucleófilo mais poderoso por íons Mg2+ próximos.
-O pirofosfato (formado pelos fosfatos β e γ) é um bom grupo de saída.
+## Síntese da fita líder e da fita retardada
 
-# Slide 23:
-Mecanismo das DNA polimerases
+![](../imgs/cap25_image06.jpg)
 
-# Slide 24:
-A DNA polimerase também requer um primer
-Primer = fita curta complementar ao molde
-contém um 3'-OH para iniciar a primeira reação catalisada pela DNA polimerase
-pode ser feito de DNA ou RNA (mais comum)
+## O DNA é degradado
 
-# Slide 25:
-Importância de um primer
+- Nucleases degradam ácidos nucleicos.
+- Especificamente, DNases degradam apenas DNA; RNases degradam apenas RNA.
+- Exonucleases clivam ligações que removem nucleotídeos das extremidades do DNA.
+- Endonucleases clivam ligações dentro de uma sequência de DNA.
 
-# Slide 26:
-Características da DNA polimerase
-A enzima tem uma bolsa com duas regiões:
-sítio de inserção: onde o nucleotídeo entrante se liga
-sítio pós-inserção: onde o par de bases recém-formado reside quando a polimerase avança
+## O DNA é sintetizado por DNA polimerases
 
-# Slide 27:
-DNA polimerase
+- Primeira (DNA polimerase I) descoberta por Arthur Kornberg em E. coli
+- E. coli contém pelo menos quatro outras DNA polimerases.
 
-# Slide 28:
-A DNA polimerase pode adicionar nucleotídeos ou dissociar
-O número de nucleotídeos adicionados antes da dissociação é chamado de processividade.
-A processividade das polimerases, em geral, varia amplamente de alguns nucleotídeos a muitos milhares.
-Cada polimerase específica tem sua própria processividade e taxa de polimerização.
+## Química da elongação do DNA
 
-# Slide 29:
-A geometria do pareamento de bases explica a alta fidelidade
-Erros em E. coli: 1/109 – 1/1010 pb
-(1 por 1.000–10.000 replicações)
-O sítio ativo da DNA polimerase exclui pares de bases com geometria incorreta
-MAS as DNA polimerases ainda inserem base errada 1/104–1/105 vezes.
-Mecanismos de reparo corrigem esses erros.
+- A fita de DNA parental serve como molde.
+- Nucleosídeos trifosfato servem como substratos na síntese da fita.
+- O grupo OH nucleofílico na extremidade 3' da cadeia em crescimento ataca o α-fosfato do trinucleotídeo entrante.
+- Este 3'-OH é REQUERIDO.
+- O 3'-OH é tornado um nucleófilo mais poderoso por íons Mg2+ próximos.
+- O pirofosfato (formado pelos fosfatos β e γ) é um bom grupo de saída.
 
-# Slide 30:
-Geometria do par de bases
+## Mecanismo das DNA polimerases
 
-# Slide 31:
-Erros durante a síntese são corrigidos pela atividade exonucleásica 3'→5'
+![](../imgs/cap25_image07.jpg)
+
+## A DNA polimerase também requer um primer
+
+- Primer = fita curta complementar ao molde
+    - contém um 3'-OH para iniciar a primeira reação catalisada pela DNA polimerase
+    - pode ser feito de DNA ou RNA (mais comum)
+
+## Importância de um primer
+
+![](../imgs/cap25_image08.jpg)
+
+## Características da DNA polimerase
+
+- **A enzima tem uma bolsa com duas regiões:**
+    - sítio de inserção: onde o nucleotídeo entrante se liga
+    - sítio pós-inserção: onde o par de bases recém-formado reside quando a polimerase avança
+
+## DNA polimerase
+
+:::: {.columns}
+::: {.column width="50%"}
+![](../imgs/cap25_image09.jpg)
+:::
+
+::: {.column width="50%"}
+![](../imgs/cap25_image10.jpg)
+:::
+
+::::
+
+## A DNA polimerase pode adicionar nucleotídeos ou dissociar
+
+- O número de nucleotídeos adicionados antes da dissociação é chamado de processividade.
+- A processividade das polimerases, em geral, varia amplamente de alguns nucleotídeos a muitos milhares.
+- Cada polimerase específica tem sua própria processividade e taxa de polimerização.
+
+## A geometria do pareamento de bases explica a alta fidelidade
+
+- Erros em E. coli: 1/109 – 1/1010 pb
+    - (1 por 1.000–10.000 replicações)
+- O sítio ativo da DNA polimerase exclui pares de bases com geometria incorreta
+- MAS as DNA polimerases ainda inserem base errada 1/104–1/105 vezes.
+- Mecanismos de reparo corrigem esses erros.
+
+## Geometria do par de bases
+
+![](../imgs/cap25_image11.jpg)
+
+## Erros durante a síntese são corrigidos pela atividade exonucleásica 3'→5'
+
 ~Todas as DNA polimerases têm uma atividade adicional.
+
+::: {style="text-align:center"}
 Atividade exonucleásica 3'→5' "revisa" a síntese para pares de bases mal pareados
+:::
+
 A translocação da enzima para a próxima posição é inibida até que a enzima possa remover o nucleotídeo incorreto
 
-# Slide 32:
-Correção de erros pela atividade exonucleásica 3'→5'
+## Correção de erros pela atividade exonucleásica 3'→5'
 
-# Slide 33:
-Existem pelo menos cinco DNA polimerases em E. coli
-A DNA polimerase I é abundante mas não é ideal para replicação.
-taxa (600 nucleotídeos/min) é mais lenta que a observada para o movimento da forquilha de replicação
-tem baixa processividade
-função primária é na limpeza
-A DNA polimerase III é a principal polimerase de replicação.
-As DNA polimerases II, IV e V estão envolvidas no reparo do DNA.
+![](../imgs/cap25_image12.jpg)
 
-# Slide 34:
-TABELA 25-1 Comparação das cinco DNA polimerases de E. coli
-	DNA polimerase
-	I	IIa	III	IVa	Va
-Gene estruturalb	polA	polB	polC (dnaE)	dinB	umuC
-Subunidades (número de tipos diferentes)	1	7	9	1	3
-Mr	103.000	88.000c	1.065.400	39.100	110.000
-Exonuclease 3' → 5' (revisão)	Sim	Sim	Sim	Não	Não
-Exonuclease 5' → 3'	Sim	Não	Não	Não	Não
-Taxa de polimerização (nucleotídeos/s)	10–20	40	250–1.000	2–3	1
-Processividade (nucleotídeos adicionados antes da dissociação da polimerase)	3–200	1.500	≥500.000	1	6–8
-aDNA polimerases translesão (mutagênicas). Para a DNA polimerase IV, a processividade é aumentada substancialmente pela associação com um grampo β. Essas polimerases são retardadas quando uma lesão no DNA está presente na fita molde do DNA.
-bPara enzimas com mais de uma subunidade, o gene listado aqui codifica a subunidade com atividade de polimerização. Observe que dnaE é uma designação anterior para o gene agora referido como polC.
-cApenas a subunidade de polimerização. A DNA polimerase II compartilha várias subunidades com a DNA polimerase III, incluindo as subunidades β, δ, δ', χ e ψ (ver Tabela 25-2).
+## Existem pelo menos cinco DNA polimerases em E. coli
 
-# Slide 35:
-A DNA polimerase I também tem atividade exonucleásica 5'→3'
+- A DNA polimerase I é abundante mas não é ideal para replicação.
+    - taxa (600 nucleotídeos/min) é mais lenta que a observada para o movimento da forquilha de replicação
+    - tem baixa processividade
+    - função primária é na limpeza
+- A DNA polimerase III é a principal polimerase de replicação.
+- As DNA polimerases II, IV e V estão envolvidas no reparo do DNA.
+
+## TABELA 25-1 — Comparação das cinco DNA polimerases de E. coli {.smaller}
+
+*DNA polimerase*
+
+|  | I | IIa | III | IVa | Va |
+|:--|:--|:--|:--|:--|:--|
+| Gene estruturalb | polA | polB | polC (dnaE) | dinB | umuC |
+| Subunidades (número de tipos diferentes) | 1 | 7 | 9 | 1 | 3 |
+| Mr | 103.000 | 88.000c | 1.065.400 | 39.100 | 110.000 |
+| Exonuclease 3' → 5' (revisão) | Sim | Sim | Sim | Não | Não |
+| Exonuclease 5' → 3' | Sim | Não | Não | Não | Não |
+| Taxa de polimerização (nucleotídeos/s) | 10–20 | 40 | 250–1.000 | 2–3 | 1 |
+| Processividade (nucleotídeos adicionados antes da dissociação da polimerase) | 3–200 | 1.500 | ≥500.000 | 1 | 6–8 <br> aDNA polimerases translesão (mutagênicas). Para a DNA polimerase IV, a processividade é aumentada substancialmente pela associação com um grampo β. Essas polimerases são retardadas quando uma lesão no DNA está presente na fita molde do DNA. |
+
+<small>bPara enzimas com mais de uma subunidade, o gene listado aqui codifica a subunidade com atividade de polimerização. Observe que dnaE é uma designação anterior para o gene agora referido como polC.</small>
+
+<small>cApenas a subunidade de polimerização. A DNA polimerase II compartilha várias subunidades com a DNA polimerase III, incluindo as subunidades β, δ, δ', χ e ψ (ver Tabela 25-2).</small>
+
+## A DNA polimerase I também tem atividade exonucleásica 5'→3'
+
+::: {style="text-align:center"}
 Além da atividade exonucleásica 3'→5'
-Move-se à frente da enzima, hidrolisa o que está em seu caminho
-Faz tradução de corte ― uma quebra de fita se move junto com a enzima
-Esta atividade e a atividade de polimerase estão no fragmento de Klenow ― um domínio distinto que pode ser separado por tratamento com protease.
+:::
 
-# Slide 36:
-Tradução de corte
+- Move-se à frente da enzima, hidrolisa o que está em seu caminho
+- Faz tradução de corte ― uma quebra de fita se move junto com a enzima
+- Esta atividade e a atividade de polimerase estão no fragmento de Klenow ― um domínio distinto que pode ser separado por tratamento com protease.
 
-# Slide 37:
-DNA polimerase III
-Estrutura complexa com 10 tipos de subunidades
-Dois domínios centrais das subunidades α, ε e θ
-Os domínios centrais são ligados pelo complexo "carregador de grampo" τ2γδδ'.
-Os domínios centrais interagem cada um com um dímero de subunidades β que aumentam a processividade do complexo.
-formam um grampo deslizante que previne a dissociação
-a processividade da DNA Pol III é >500.000 pb por causa dos grampos β
+## Tradução de corte
 
-# Slide 38:
-DNA polimerase III
+![](../imgs/cap25_image13.jpg)
 
-# Slide 39:
-TABELA 25-2 Subunidades da DNA polimerase III de E. coli
-Subunidade	Número de subunidades por holoenzima	Mr da subunidade	Gene	Função da subunidade
-α	3	129.900	polC (dnaE)	Atividade de polimerização	Polimerase central
-ε	3	27.500	dnaQ (mutD)	Exonuclease de revisão 3' → 5'
-θ	3	8.600	holE	Estabilização da subunidade ε
-τ	3	71.100	dnaX	Ligação estável ao molde; dimerização da enzima central	Complexo carregador de grampo (γ) que carrega subunidades β na fita retardada em cada fragmento de Okazakia
-δ	1	38.700	holA	Abridor de grampo
-δ'	1	36.900	holB	Carregador de grampo
-χ	1	16.600	holC	Interação com SSB
-ψ	1	15.200	holD	Interação com τ e χ
-β	6	40.600	dnaN	Grampo de DNA necessário para processividade ótima
-aO complexo carregador de grampo também é chamado de complexo γ, devido à existência de outra versão do complexo em que três subunidades chamadas γ substituem as subunidades τ. A subunidade γ é codificada por uma porção do gene para a subunidade τ (dnaX), de modo que os 66% amino-terminais da subunidade τ têm a mesma sequência de aminoácidos que a subunidade γ. A subunidade γ é gerada por um mecanismo de mudança de quadro traducional (p. 1085) que leva à terminação traducional prematura. A subunidade γ compartilha as funções de carregamento de grampo de τ, mas carece dos segmentos proteicos que interagem com a polimerase central ou com a helicase DnaB. Complexos carregadores de grampo incorporando subunidades γ podem operar independentemente da holoenzima DNA polimerase III, promovendo o descarregamento de grampos β descartados na fita retardada à medida que a forquilha de replicação avança. Eles também podem promover o carregamento de grampos β para alguns processos de reparo do DNA que requerem síntese de DNA longe da forquilha de replicação.
+## DNA polimerase III
 
-# Slide 40:
-Requisitos para a replicação do DNA de E. coli
-E. coli requer mais de 20 enzimas e proteínas.
-O conjunto é chamado de replissomo.
-Inclui:
-helicases (usam ATP para desenrolar as fitas de DNA)
-topoisomerases (aliviam a tensão causada pelo desenrolamento)
-proteínas de ligação ao DNA para estabilizar as fitas separadas
-primases para fazer primers de RNA
-DNA ligases para selar cortes entre nucleotídeos sucessivos na mesma fita (ou seja, fragmentos de Okazaki)
+- Estrutura complexa com 10 tipos de subunidades
+- Dois domínios centrais das subunidades α, ε e θ
+- Os domínios centrais são ligados pelo complexo "carregador de grampo" τ2γδδ'.
+- Os domínios centrais interagem cada um com um dímero de subunidades β que aumentam a processividade do complexo.
+    - formam um grampo deslizante que previne a dissociação
+    - a processividade da DNA Pol III é >500.000 pb por causa dos grampos β
 
-# Slide 41:
-Iniciação da replicação em E. coli
-Começa no sítio oriC (245 pb de comprimento)
-Contém elementos de sequência altamente conservados
-cinco repetições de uma sequência de 9 pb (sítios R) que formam sítio de ligação para a proteína iniciadora DnaA
-Uma região rica em A = T (elemento de desenrolamento do DNA (DUE))
-sítios adicionais incluem:
-DnaA (sítios I),
-IHF (fator de integração do hospedeiro)
-FIS (fator para estimulação de inversão)
+## DNA polimerase III
 
-# Slide 42:
-Arranjo das sequências conservadas de oriC
+![](../imgs/cap25_image14.jpg)
 
-# Slide 43:
-Requisitos da iniciação da replicação em E. coli
-Requer pelo menos 10 proteínas diferentes
-Ver Tabela 25-3
-Objetivo: abrir a hélice, formar o complexo de pré-iniciação
+## TABELA 25-2 — Subunidades da DNA polimerase III de E. coli {.smaller}
 
-# Slide 44:
-TABELA 25-3 Proteínas necessárias para iniciar a replicação na origem de E. coli
-Proteína	Mr	Número de subunidades	Função
-Proteína DnaA	52.000	1	Reconhece a sequência oriC; abre a dupla fita em sítios específicos na origem
-Proteína DnaB (helicase)	300.000	6a	Desenrola o DNA
-Proteína DnaC	174.000	6a	Necessária para a ligação de DnaB na origem
-HU	19.000	2	Proteína semelhante a histona; proteína de ligação ao DNA; estimula a iniciação
-FIS	22.500	2a	Proteína de ligação ao DNA; estimula a iniciação
-IHF	22.000	2	Proteína de ligação ao DNA; estimula a iniciação
-Primase (proteína DnaG)	60.000	1	Sintetiza primers de RNA
-Proteína de ligação ao DNA de fita simples (SSB)	75.000	4a	Liga-se ao DNA de fita simples
-DNA girase (DNA topoisomerase II)	400.000	4	Alivia a tensão torsional gerada pelo desenrolamento do DNA
-Dam metilase	32.000	1	Metila sequências (5')GATC em oriC
-aAs subunidades nesses casos são idênticas.
+| Subunidade | Número de subunidades por holoenzima | Mr da subunidade | Gene | Função da subunidade | Componente da holoenzima |
+|:--|:--|:--|:--|:--|:--|
+| α | 3 | 129.900 | polC (dnaE) | Atividade de polimerização | Polimerase central |
+| ε | 3 | 27.500 | dnaQ (mutD) | Exonuclease de revisão 3' → 5' |  |
+| θ | 3 | 8.600 | holE | Estabilização da subunidade ε |  |
+| τ | 3 | 71.100 | dnaX | Ligação estável ao molde; dimerização da enzima central | Complexo carregador de grampo (γ) que carrega subunidades β na fita retardada em cada fragmento de Okazakia |
+| δ | 1 | 38.700 | holA | Abridor de grampo |  |
+| δ' | 1 | 36.900 | holB | Carregador de grampo |  |
+| χ | 1 | 16.600 | holC | Interação com SSB |  |
+| ψ | 1 | 15.200 | holD | Interação com τ e χ |  |
+| β | 6 | 40.600 | dnaN | Grampo de DNA necessário para processividade ótima |  |
 
-# Slide 45:
-As proteínas DnaA se ligam nos sítios R e I em oriC
-As proteínas DnaA são ATPases.
-Oito DnaAs se ligam aos sítios R e I.
-O DNA se enrola em torno do complexo, formando um superenovelamento positivo.
-A tensão leva à desnaturação dos sítios DUE próximos.
-Proteínas associadas facilitam a curvatura do DNA.
+<small>aO complexo carregador de grampo também é chamado de complexo γ, devido à existência de outra versão do complexo em que três subunidades chamadas γ substituem as subunidades τ. A subunidade γ é codificada por uma porção do gene para a subunidade τ (dnaX), de modo que os 66% amino-terminais da subunidade τ têm a mesma sequência de aminoácidos que a subunidade γ. A subunidade γ é gerada por um mecanismo de mudança de quadro traducional (p. 1085) que leva à terminação traducional prematura. A subunidade γ compartilha as funções de carregamento de grampo de τ, mas carece dos segmentos proteicos que interagem com a polimerase central ou com a helicase DnaB. Complexos carregadores de grampo incorporando subunidades γ podem operar independentemente da holoenzima DNA polimerase III, promovendo o descarregamento de grampos β descartados na fita retardada à medida que a forquilha de replicação avança. Eles também podem promover o carregamento de grampos β para alguns processos de reparo do DNA que requerem síntese de DNA longe da forquilha de replicação.</small>
 
-# Slide 46:
-A helicase DnaB continua a iniciação
-A estrutura do hexâmero DnaB é aberta pela ligação de DnaC.
-DnaB então se liga às fitas separadas.
-DnaB migra ao longo do ssDNA 5'→3' e desenrola a hélice.
-Outras proteínas (DNA Pol III, etc.) se ligam a DnaB.
-A proteína de ligação ao DNA de fita simples (SSB) estabiliza as fitas separadas.
-A DNA girase alivia a tensão topológica à frente das forquilhas de replicação.
+## Requisitos para a replicação do DNA de E. coli
 
-# Slide 47:
-Iniciação da replicação
+- E. coli requer mais de 20 enzimas e proteínas.
+- O conjunto é chamado de replissomo.
+- **Inclui:**
+    - helicases (usam ATP para desenrolar as fitas de DNA)
+    - topoisomerases (aliviam a tensão causada pelo desenrolamento)
+    - proteínas de ligação ao DNA para estabilizar as fitas separadas
+    - primases para fazer primers de RNA
+- DNA ligases para selar cortes entre nucleotídeos sucessivos na mesma fita (ou seja, fragmentos de Okazaki)
 
-# Slide 48:
-A iniciação ocorre uma vez por ciclo celular
-Hda se liga às subunidades β da DNA Pol III e estimula a hidrólise do ATP de DnaA.
-Hda é homóloga a DnaA
-O complexo DnaA então se dissocia.
-ADP se dissocia.
-ATP se religa a DnaA para estimular tudo novamente.
-Escala de tempo: 20–40 mins
+## Iniciação da replicação em E. coli
 
-# Slide 49:
-Regulação da iniciação da replicação via metilação
-Após a replicação, oriC é hemimetilado pela Dam metilase.
-Dam = DNA adenina metilase
-metila N6 de A nas sequências palindrômicas GATC
-As sequências oriC hemimetiladas interagem com a membrana plasmática (usa proteína SeqA).
-Após um período, SeqA se dissocia, as sequências oriC são liberadas da membrana.
-A Dam metilase metila completamente o DNA para permitir que novo DnaA se ligue.
+- Começa no sítio oriC (245 pb de comprimento)
+- Contém elementos de sequência altamente conservados
+    - cinco repetições de uma sequência de 9 pb (sítios R) que formam sítio de ligação para a proteína iniciadora DnaA
+- Uma região rica em A = T (elemento de desenrolamento do DNA (DUE))
+    - sítios adicionais incluem:
+- DnaA (sítios I),
+- IHF (fator de integração do hospedeiro)
+- FIS (fator para estimulação de inversão)
 
-# Slide 50:
-Elongação da fita líder
-Abordagem direta
-A primase (DnaG) faz o primer de RNA (10–60 nt).
-A primase DnaG interage com a helicase DnaB, mas a primase se move na direção oposta à helicase.
-A DNA Pol III adiciona nucleotídeos à extremidade 3' da fita.
-A Pol III está ligada a DnaB, que está ancorada à fita oposta de DNA (3'→5').
-~1.000–2.000 nt/s
+## Arranjo das sequências conservadas de oriC
 
-# Slide 51:
-Elongação da fita retardada
-Como na síntese da fita líder, a primase faz o primer de RNA e a DNA Pol III adiciona nucleotídeos.
-A síntese prossegue com novos nucleotídeos sendo adicionados à extremidade 3' da nova fita.
-Esta fita é elongada para longe da forquilha de replicação.
-Um complexo dímero assimétrico de DNA Pol III sintetiza ambas as fitas!
-Como? O DNA da fita retardada forma uma alça.
+![](../imgs/cap25_image15.jpg)
 
-# Slide 52:
-Síntese da fita retardada
+## Requisitos da iniciação da replicação em E. coli
 
-# Slide 53:
-Síntese da fita líder e da fita retardada
+- Requer pelo menos 10 proteínas diferentes
+- Ver Tabela 25-3
+- Objetivo: abrir a hélice, formar o complexo de pré-iniciação
 
-# Slide 54:
+## TABELA 25-3 — Proteínas necessárias para iniciar a replicação na origem de E. coli {.smaller}
 
-# Slide 55:
+| Proteína | Mr | Número de subunidades | Função |
+|:--|:--|:--|:--|
+| Proteína DnaA | 52.000 | 1 | Reconhece a sequência oriC; abre a dupla fita em sítios específicos na origem |
+| Proteína DnaB (helicase) | 300.000 | 6a | Desenrola o DNA |
+| Proteína DnaC | 174.000 | 6a | Necessária para a ligação de DnaB na origem |
+| HU | 19.000 | 2 | Proteína semelhante a histona; proteína de ligação ao DNA; estimula a iniciação |
+| FIS | 22.500 | 2a | Proteína de ligação ao DNA; estimula a iniciação |
+| IHF | 22.000 | 2 | Proteína de ligação ao DNA; estimula a iniciação |
+| Primase (proteína DnaG) | 60.000 | 1 | Sintetiza primers de RNA |
+| Proteína de ligação ao DNA de fita simples (SSB) | 75.000 | 4a | Liga-se ao DNA de fita simples |
+| DNA girase (DNA topoisomerase II) | 400.000 | 4 | Alivia a tensão torsional gerada pelo desenrolamento do DNA |
+| Dam metilase | 32.000 | 1 | Metila sequências (5')GATC em oriC |
 
-# Slide 56:
+<small>aAs subunidades nesses casos são idênticas.</small>
 
-# Slide 57:
-Transição entre fragmentos de Okazaki
-As subunidades centrais da DNA Pol III se dissociam de um grampo β e se ligam a um novo.
-Ver Fig. 25-14.
-O primer de RNA é removido pela DNA Pol I ou RNase H1.
-A DNA Pol I preenche a lacuna.
-A DNA ligase sela o esqueleto.
+## As proteínas DnaA se ligam nos sítios R e I em oriC
 
-# Slide 58:
-Liberação e religação do grampo β
+- As proteínas DnaA são ATPases.
+- Oito DnaAs se ligam aos sítios R e I.
+- O DNA se enrola em torno do complexo, formando um superenovelamento positivo.
+- A tensão leva à desnaturação dos sítios DUE próximos.
+- Proteínas associadas facilitam a curvatura do DNA.
 
-# Slide 59:
-Etapas finais na síntese da fita retardada
+## A helicase DnaB continua a iniciação
 
-# Slide 60:
-A DNA ligase faz uma ligação entre um 3'-OH e um 5'-PO4
-O 5'-PO4 deve ser ativado pela ligação de AMP.
-O nucleófilo 3'-OH ataca este fosfato, deslocando AMP.
+- A estrutura do hexâmero DnaB é aberta pela ligação de DnaC.
+- DnaB então se liga às fitas separadas.
+- DnaB migra ao longo do ssDNA 5'→3' e desenrola a hélice.
+- Outras proteínas (DNA Pol III, etc.) se ligam a DnaB.
+- A proteína de ligação ao DNA de fita simples (SSB) estabiliza as fitas separadas.
+- A DNA girase alivia a tensão topológica à frente das forquilhas de replicação.
 
-# Slide 61:
-Mecanismo da reação da DNA ligase
+## Iniciação da replicação
 
-# Slide 62:
-Terceira etapa da replicação: Terminação
-As forquilhas de replicação se encontram em uma região com sequências de 20 pb Ter (TerA-TerF).
-Sítios Ter encontrados próximos uns dos outros, mas em direções opostas
-Criam um sítio que as forquilhas de replicação não podem deixar
-Ter também é um sítio de ligação para a proteína Tus.
-Tus = sequência de utilização do término
-faz com que uma forquilha de replicação pare
+![](../imgs/cap25_image16.jpg)
 
-# Slide 63:
-Terminação em E. coli
+## A iniciação ocorre uma vez por ciclo celular
 
-# Slide 64:
-Replicação em eucariotos
-Mais complexa que em bactérias
-Leveduras têm ~400 origens bem definidas
-chamadas sequências de replicação autônoma (ARS) ou replicadores
-Genoma inteiro replicado 1X/ciclo
-regulação devida a proteínas ciclinas e quinases dependentes de ciclina (CDKs)
-ciclinas ubiquitinadas para destruição proteolítica no final da fase M (mitose)
+- Hda se liga às subunidades β da DNA Pol III e estimula a hidrólise do ATP de DnaA.
+    - Hda é homóloga a DnaA
+- O complexo DnaA então se dissocia.
+- ADP se dissocia.
+- ATP se religa a DnaA para estimular tudo novamente.
+- Escala de tempo: 20–40 mins
 
-# Slide 65:
-Iniciação da replicação
-Requer um complexo pré-replicativo (pre-RCs)
-O complexo de reconhecimento de origem (ORC) carrega uma helicase no DNA.
-ORC funciona como DnaA bacteriana.
-A helicase é um hexâmero de proteínas de manutenção de minicromossomo (MCM2-7).
-MCM2-7 funcionam como a helicase DnaB bacteriana.
+## Regulação da iniciação da replicação via metilação
 
-# Slide 66:
-Montagem de um complexo pré-replicativo em uma origem eucariótica
+- Após a replicação, oriC é hemimetilado pela Dam metilase.
+- Dam = DNA adenina metilase
+    - metila N6 de A nas sequências palindrômicas GATC
+- As sequências oriC hemimetiladas interagem com a membrana plasmática (usa proteína SeqA).
+- Após um período, SeqA se dissocia, as sequências oriC são liberadas da membrana.
+- A Dam metilase metila completamente o DNA para permitir que novo DnaA se ligue.
 
-# Slide 67:
-Taxa de replicação eucariótica
-Ocorre mais lentamente que em E. coli
-Síntese ~50 nucleotídeos/s
-(~1/20 da taxa vista em E. coli)
-Compensada por origens a cada 30–300 kb
+## Elongação da fita líder
 
-# Slide 68:
-Múltiplas DNA polimerases na replicação nuclear eucariótica
-DNA Pol α - atividade de polimerase/primase
-tem atividade de primase em uma subunidade e polimerização em outra
+- Abordagem direta
+    - A primase (DnaG) faz o primer de RNA (10–60 nt).
+    - A primase DnaG interage com a helicase DnaB, mas a primase se move na direção oposta à helicase.
+    - A DNA Pol III adiciona nucleotídeos à extremidade 3' da fita.
+    - A Pol III está ligada a DnaB, que está ancorada à fita oposta de DNA (3'→5').
+- ~1.000–2.000 nt/s
+
+## Elongação da fita retardada
+
+- Como na síntese da fita líder, a primase faz o primer de RNA e a DNA Pol III adiciona nucleotídeos.
+- A síntese prossegue com novos nucleotídeos sendo adicionados à extremidade 3' da nova fita.
+- Esta fita é elongada para longe da forquilha de replicação.
+    - Um complexo dímero assimétrico de DNA Pol III sintetiza ambas as fitas!
+- Como? O DNA da fita retardada forma uma alça.
+
+## Síntese da fita retardada
+
+![](../imgs/cap25_image17.jpg)
+
+## Síntese da fita líder e da fita retardada
+
+![](../imgs/cap25_image18.jpg)
+
+---
+
+![](../imgs/cap25_image19.jpg)
+
+---
+
+![](../imgs/cap25_image20.jpg)
+
+---
+
+![](../imgs/cap25_image21.jpg)
+
+## Transição entre fragmentos de Okazaki
+
+- As subunidades centrais da DNA Pol III se dissociam de um grampo β e se ligam a um novo.
+- Ver Fig. 25-14.
+- O primer de RNA é removido pela DNA Pol I ou RNase H1.
+- A DNA Pol I preenche a lacuna.
+- A DNA ligase sela o esqueleto.
+
+## Liberação e religação do grampo β
+
+![](../imgs/cap25_image22.jpg)
+
+## Etapas finais na síntese da fita retardada
+
+![](../imgs/cap25_image23.jpg)
+
+## A DNA ligase faz uma ligação entre um 3'-OH e um 5'-PO4
+
+- O 5'-PO4 deve ser ativado pela ligação de AMP.
+- O nucleófilo 3'-OH ataca este fosfato, deslocando AMP.
+
+## Mecanismo da reação da DNA ligase
+
+![](../imgs/cap25_image24.jpg)
+
+## Terceira etapa da replicação: Terminação
+
+- As forquilhas de replicação se encontram em uma região com sequências de 20 pb Ter (TerA-TerF).
+    - Sítios Ter encontrados próximos uns dos outros, mas em direções opostas
+    - Criam um sítio que as forquilhas de replicação não podem deixar
+- Ter também é um sítio de ligação para a proteína Tus.
+- Tus = sequência de utilização do término
+    - faz com que uma forquilha de replicação pare
+
+## Terminação em E. coli
+
+![](../imgs/cap25_image25.jpg)
+
+## Replicação em eucariotos
+
+- Mais complexa que em bactérias
+- Leveduras têm ~400 origens bem definidas
+    - chamadas sequências de replicação autônoma (ARS) ou replicadores
+- Genoma inteiro replicado 1X/ciclo
+    - regulação devida a proteínas ciclinas e quinases dependentes de ciclina (CDKs)
+    - ciclinas ubiquitinadas para destruição proteolítica no final da fase M (mitose)
+
+## Iniciação da replicação
+
+- Requer um complexo pré-replicativo (pre-RCs)
+- O complexo de reconhecimento de origem (ORC) carrega uma helicase no DNA.
+- ORC funciona como DnaA bacteriana.
+- A helicase é um hexâmero de proteínas de manutenção de minicromossomo (MCM2-7).
+- MCM2-7 funcionam como a helicase DnaB bacteriana.
+
+## Montagem de um complexo pré-replicativo em uma origem eucariótica
+
+![](../imgs/cap25_image26.jpg)
+
+## Taxa de replicação eucariótica
+
+- Ocorre mais lentamente que em E. coli
+- Síntese ~50 nucleotídeos/s
+    - (~1/20 da taxa vista em E. coli)
+- Compensada por origens a cada 30–300 kb
+
+## Múltiplas DNA polimerases na replicação nuclear eucariótica
+
+- DNA Pol α - atividade de polimerase/primase
+    - tem atividade de primase em uma subunidade e polimerização em outra
+
+::: {style="text-align:center"}
 não tem revisão 3'→5'
-DNA Pol δ (fita retardada) e DNA Pol ε (fita líder) - associadas ao PCNA (antígeno nuclear de célula proliferante-proteína)
-ambas altamente processivas; comparáveis à DNA Pol III bacteriana
+:::
+
+- DNA Pol δ (fita retardada) e DNA Pol ε (fita líder) - associadas ao PCNA (antígeno nuclear de célula proliferante-proteína)
+    - ambas altamente processivas; comparáveis à DNA Pol III bacteriana
+
+::: {style="text-align:center"}
 ambas com revisão 3'→5'
+:::
 
-# Slide 69:
-Terminação da replicação
-A síntese de estruturas especializadas conhecidas como telômeros é encontrada nas extremidades lineares dos cromossomos nucleares.
-A enzima telomerase usa RNA e, portanto, é discutida no Capítulo 26.
+## Terminação da replicação
 
-# Slide 70:
-A DNA polimerase do HSV é inibida pelo aciclovir
-O vírus herpes simplex codifica suas próprias polimerases.
-O aciclovir (um derivado de guanina) é convertido em aciclo-GTP.
-O aciclo-GTP inibe competitivamente as DNA polimerases virais e termina a replicação.
+- A síntese de estruturas especializadas conhecidas como telômeros é encontrada nas extremidades lineares dos cromossomos nucleares.
+- A enzima telomerase usa RNA e, portanto, é discutida no Capítulo 26.
 
-# Slide 71:
-Reparo do DNA e mutações
-Reações químicas e alguns processos físicos danificam constantemente o DNA genômico.
-A maioria é corrigida usando a fita não danificada como molde.
-Algumas mudanças de base escapam do reparo, e uma base incorreta serve como molde na replicação.
-O DNA filho carrega uma sequência alterada em ambas as fitas.
-O acúmulo de mutações em células eucarióticas está fortemente correlacionado com o câncer; a maioria dos carcinógenos também são mutagênicos.
-Há milhares de lesões/dia (dano ao DNA não reparado), mas apenas 1/1.000 se torna uma mutação, graças ao reparo do DNA.
-O genoma humano contém genes para >130 proteínas de reparo.
+## A DNA polimerase do HSV é inibida pelo aciclovir
 
-# Slide 72:
-Vocabulário de lesões no DNA
-Lesão = dano ao DNA
-Se não reparada, a lesão se torna mutação
-Mutações podem ser substituições (mutações pontuais), deleções, adições
-Mutação silenciosa ― tem ~nenhum efeito na função gênica ou afeta uma região não essencial do DNA
+- O vírus herpes simplex codifica suas próprias polimerases.
+- O aciclovir (um derivado de guanina) é convertido em aciclo-GTP.
+- O aciclo-GTP inibe competitivamente as DNA polimerases virais e termina a replicação.
 
-# Slide 73:
-O teste de Ames
-Desenvolvido por Bruce Ames
-Indica o potencial mutagênico de um composto
-Usa uma linhagem de Salmonella com uma mutação que torna a bactéria incapaz de sintetizar His
-Adiciona o composto à placa de Salmonella, verifica se ela cresce em meio sem His
-Colônias (teste +) indicam que o composto mutou a Salmonella, restaurando a capacidade de sintetizar His
+![](../imgs/cap25_image27.jpg)
 
-# Slide 74:
-O teste de Ames
+## Reparo do DNA e mutações
 
-# Slide 75:
-Tipos de dano ao DNA
-Pareamentos incorretos surgem da incorporação ocasional de nucleotídeos incorretos.
-Bases anormais surgem de desaminação espontânea, alquilação química ou exposição a radicais livres.
-Dímeros de pirimidina se formam quando o DNA é exposto à luz UV.
-Lesões no esqueleto ocorrem pela exposição à radiação ionizante e radicais livres.
+- Reações químicas e alguns processos físicos danificam constantemente o DNA genômico.
+- A maioria é corrigida usando a fita não danificada como molde.
+- Algumas mudanças de base escapam do reparo, e uma base incorreta serve como molde na replicação.
+- O DNA filho carrega uma sequência alterada em ambas as fitas.
+- O acúmulo de mutações em células eucarióticas está fortemente correlacionado com o câncer; a maioria dos carcinógenos também são mutagênicos.
+- Há milhares de lesões/dia (dano ao DNA não reparado), mas apenas 1/1.000 se torna uma mutação, graças ao reparo do DNA.
+- O genoma humano contém genes para >130 proteínas de reparo.
 
-# Slide 76:
-TABELA 25-5 Tipos de sistemas de reparo do DNA em E. coli
-Enzimas/proteínas	Tipo de dano
-Reparo de pareamento incorreto
-Dam metilase
-Proteínas MutH, MutL, MutS
-DNA helicase II
-SSB
-DNA polimerase III
-Exonuclease I
-Exonuclease VII
-Nuclease RecJ
-Exonuclease X
-DNA ligase
-Pareamentos incorretos
-Reparo por excisão de base
-DNA glicosilases
-AP endonucleases
-DNA polimerase I
-DNA ligase
-Bases anormais (uracila, hipoxantina, xantina); bases alquiladas; em alguns outros organismos, dímeros de pirimidina
-Reparo por excisão de nucleotídeo
-ABC excinuclease
-DNA polimerase I
-DNA ligase
-Lesões no DNA que causam grande mudança estrutural (por exemplo, dímeros de pirimidina)
-Reparo direto
-DNA fotoliases	Dímeros de pirimidina
-O6-Metilguanina-DNA metiltransferase	O6-Metilguanina
-Proteína AlkB	1-Metilguanina, 3-metilcitosina
+## Vocabulário de lesões no DNA
 
-# Slide 77:
-O reparo de pareamento incorreto depende da metilação
-Como as enzimas de reparo "sabem" qual fita é a correta?
-Em E. coli, a fita parental é metilada.
-A Dam metilase insere CH3 em adeninas na sequência GATC.
-Após um curto período de tempo, a fita filha é então metilada.
+- Lesão = dano ao DNA
+- Se não reparada, a lesão se torna mutação
+- Mutações podem ser substituições (mutações pontuais), deleções, adições
+- Mutação silenciosa ― tem ~nenhum efeito na função gênica ou afeta uma região não essencial do DNA
 
-# Slide 78:
-Metilação do DNA e reparo
-A fita recém-sintetizada é não metilada por um curto período após a síntese.
-Quaisquer erros de replicação devem residir na fita não metilada.
-O sistema de reparo de pareamento incorreto direcionado por metilação clivará a fita não metilada na parte inicial do processo de reparo.
+## O teste de Ames
 
-# Slide 79:
-Reparo de pareamento incorreto e metilação
+- Desenvolvido por Bruce Ames
+- Indica o potencial mutagênico de um composto
+- Usa uma linhagem de Salmonella com uma mutação que torna a bactéria incapaz de sintetizar His
+- Adiciona o composto à placa de Salmonella, verifica se ela cresce em meio sem His
+- Colônias (teste +) indicam que o composto mutou a Salmonella, restaurando a capacidade de sintetizar His
 
-# Slide 80:
-Mecanismo de reconhecimento e reparo de pareamento incorreto em E. coli
-As proteínas MutL e MutS reconhecem GATC metilado.
-MutH se liga ao complexo MutL-MutS-DNA, formando uma alça de DNA.
-As fitas de DNA passam pelo complexo até que o GATC metilado seja encontrado.
-o pareamento incorreto pode estar a 1.000 pb de distância do GATC
+## O teste de Ames
 
-# Slide 81:
-Mecanismo de reparo de pareamento incorreto em E. coli
-MutH cliva a fita de DNA não metilada no lado 5' do G.
-O DNA se desenrola e é degradado 3'→5'.
-A helicase II (helicase UvrD), SSB e exonucleases trabalham para degradar o DNA não metilado em direção ao pareamento incorreto.
-A sequência removida é substituída usando DNA Pol III e DNA ligase.
+![](../imgs/cap25_image28.jpg)
 
-# Slide 82:
-Reparo de pareamento incorreto direcionado por metilação em E. coli: etapas iniciais
+## Tipos de dano ao DNA
 
-# Slide 83:
+- Pareamentos incorretos surgem da incorporação ocasional de nucleotídeos incorretos.
+- Bases anormais surgem de desaminação espontânea, alquilação química ou exposição a radicais livres.
+- Dímeros de pirimidina se formam quando o DNA é exposto à luz UV.
+- Lesões no esqueleto ocorrem pela exposição à radiação ionizante e radicais livres.
 
-# Slide 84:
+## TABELA 25-5 — Tipos de sistemas de reparo do DNA em E. coli {.smaller}
 
-# Slide 85:
+| Sistema de reparo | Enzimas/proteínas | Tipo de dano |
+|:--|:--|:--|
+| Reparo de pareamento incorreto | Dam metilase <br> Proteínas MutH, MutL, MutS <br> DNA helicase II <br> SSB <br> DNA polimerase III <br> Exonuclease I <br> Exonuclease VII <br> Nuclease RecJ <br> Exonuclease X <br> DNA ligase | Pareamentos incorretos |
+| Reparo por excisão de base | DNA glicosilases <br> AP endonucleases <br> DNA polimerase I <br> DNA ligase | Bases anormais (uracila, hipoxantina, xantina); bases alquiladas; em alguns outros organismos, dímeros de pirimidina |
+| Reparo por excisão de nucleotídeo | ABC excinuclease <br> DNA polimerase I <br> DNA ligase | Lesões no DNA que causam grande mudança estrutural (por exemplo, dímeros de pirimidina) |
+| Reparo direto | DNA fotoliases | Dímeros de pirimidina |
+|  | O6-Metilguanina-DNA metiltransferase | O6-Metilguanina |
+|  | Proteína AlkB | 1-Metilguanina, 3-metilcitosina |
 
-# Slide 86:
-Reparo do DNA direcionado por metilação
+## O reparo de pareamento incorreto depende da metilação
+
+- Como as enzimas de reparo "sabem" qual fita é a correta?
+- Em E. coli, a fita parental é metilada.
+- A Dam metilase insere CH3 em adeninas na sequência GATC.
+- Após um curto período de tempo, a fita filha é então metilada.
+
+## Metilação do DNA e reparo
+
+- A fita recém-sintetizada é não metilada por um curto período após a síntese.
+- Quaisquer erros de replicação devem residir na fita não metilada.
+- O sistema de reparo de pareamento incorreto direcionado por metilação clivará a fita não metilada na parte inicial do processo de reparo.
+
+## Reparo de pareamento incorreto e metilação
+
+![](../imgs/cap25_image29.jpg)
+
+## Mecanismo de reconhecimento e reparo de pareamento incorreto em E. coli
+
+- As proteínas MutL e MutS reconhecem GATC metilado.
+- MutH se liga ao complexo MutL-MutS-DNA, formando uma alça de DNA.
+- As fitas de DNA passam pelo complexo até que o GATC metilado seja encontrado.
+    - o pareamento incorreto pode estar a 1.000 pb de distância do GATC
+
+## Mecanismo de reparo de pareamento incorreto em E. coli
+
+- MutH cliva a fita de DNA não metilada no lado 5' do G.
+- O DNA se desenrola e é degradado 3'→5'.
+- A helicase II (helicase UvrD), SSB e exonucleases trabalham para degradar o DNA não metilado em direção ao pareamento incorreto.
+- A sequência removida é substituída usando DNA Pol III e DNA ligase.
+
+## Reparo de pareamento incorreto direcionado por metilação em E. coli: etapas iniciais
+
+![](../imgs/cap25_image30.jpg)
+
+---
+
+![](../imgs/cap25_image31.jpg)
+
+---
+
+![](../imgs/cap25_image32.jpg)
+
+---
+
+![](../imgs/cap25_image33.jpg)
+
+## Reparo do DNA direcionado por metilação
+
 em E. coli: etapas posteriores
 
-# Slide 87:
-Metilação do DNA e reparo
-A fita clivada com o nucleotídeo incorreto é degradada por exonucleases.
-É reconstruída por DNA polimerases.
-É selada com DNA ligase.
+![](../imgs/cap25_image34.jpg)
 
-# Slide 88:
-Reparo por excisão de base
-Usa DNA glicosilases específicas
-As DNA glicosilases reconhecem lesões específicas
+## Metilação do DNA e reparo
+
+- A fita clivada com o nucleotídeo incorreto é degradada por exonucleases.
+- É reconstruída por DNA polimerases.
+- É selada com DNA ligase.
+
+## Reparo por excisão de base
+
+- Usa DNA glicosilases específicas
+- As DNA glicosilases reconhecem lesões específicas
+
+::: {style="text-align:center"}
 → clivam a ligação N-glicosídica entre açúcar e base
-criam sítio apurínico/apirimidínico (AP)
-A uracila glicosilase remove uracila do DNA.
-importante porque C se desamina espontaneamente em U; U não pertence ao DNA
-a desaminação é 100× mais rápida em ssDNA
-Outras glicosilases fazem sítios AP em 8-hidroxiG, hipoxantina, 3-metiladenina, e assim por diante.
+:::
 
-# Slide 89:
-Reparo em sítios AP em bactérias
-O nucleotídeo inteiro é removido, não apenas a base danificada.
-Na verdade, às vezes a região ao redor do sítio AP é removida.
-As AP endonucleases cortam o esqueleto do DNA ao redor do sítio AP e removem o DNA.
-A DNA Pol I sintetiza novo DNA.
-A DNA ligase sela o corte.
+- criam sítio apurínico/apirimidínico (AP)
+- A uracila glicosilase remove uracila do DNA.
+    - importante porque C se desamina espontaneamente em U; U não pertence ao DNA
+    - a desaminação é 100× mais rápida em ssDNA
+- Outras glicosilases fazem sítios AP em 8-hidroxiG, hipoxantina, 3-metiladenina, e assim por diante.
 
-# Slide 90:
-Reparo por excisão de base
+## Reparo em sítios AP em bactérias
 
-# Slide 91:
-Grandes distorções no DNA são reparadas por excisão de nucleotídeo
-As lesões incluem:
-dímeros de pirimidina (formados pela luz UV)
-6,4-fotoprodutos (da luz UV)
-benzo[a]pirenoguanina (da fumaça do cigarro)
-A via envolve a remoção de um segmento de DNA por excinucleases.
+- O nucleotídeo inteiro é removido, não apenas a base danificada.
+- Na verdade, às vezes a região ao redor do sítio AP é removida.
+- As AP endonucleases cortam o esqueleto do DNA ao redor do sítio AP e removem o DNA.
+- A DNA Pol I sintetiza novo DNA.
+- A DNA ligase sela o corte.
 
-# Slide 92:
-O reparo por excisão de nucleotídeo em bactérias usa a ABC excinuclease
-As excinucleases clivam o esqueleto do DNA em dois locais.
-A ABC excinuclease contém UvrA, UvrB e UvrC.
-hidrolisam a quinta ligação no lado 3' da lesão e a oitava ligação no lado 5'
-removem 12–13 nucleotídeos
-DNA Pol I e DNA ligase para substituir o DNA e selar a lacuna
+## Reparo por excisão de base
 
-# Slide 93:
-Reparo por excisão de nucleotídeo (NER)
-em eucariotos
-Hidrolisam a sexta ligação no lado 3' e a vigésima segunda ligação no lado 5' da lesão
-removem 27–29 nucleotídeos
-Em humanos, a lacuna é preenchida usando DNA polimerase ε e DNA ligase
+![](../imgs/cap25_image35.jpg)
 
-# Slide 94:
-NER em bactérias e humanos
+## Grandes distorções no DNA são reparadas por excisão de nucleotídeo
 
-# Slide 95:
-Reparo direto
-As fotoliases usam energia luminosa para reparar dímeros de pirimidina.
-enzimas não encontradas em humanos e mamíferos placentários
-A O6-metilguanina-DNA metiltransferase repara guanina metilada.
-AlkB desmetila 1-metiladenina e 3-metilcitosina.
+- **As lesões incluem:**
+    - dímeros de pirimidina (formados pela luz UV)
+- 6,4-fotoprodutos (da luz UV)
+    - benzo[a]pirenoguanina (da fumaça do cigarro)
+- A via envolve a remoção de um segmento de DNA por excinucleases.
 
-# Slide 96:
-Reparo de dímeros de pirimidina com fotoliase
+## O reparo por excisão de nucleotídeo em bactérias usa a ABC excinuclease
 
-# Slide 97:
-Como O6-metilguanina leva à mutação
+- As excinucleases clivam o esqueleto do DNA em dois locais.
+- A ABC excinuclease contém UvrA, UvrB e UvrC.
+    - hidrolisam a quinta ligação no lado 3' da lesão e a oitava ligação no lado 5'
+    - removem 12–13 nucleotídeos
+- DNA Pol I e DNA ligase para substituir o DNA e selar a lacuna
 
-# Slide 98:
-Reparo direto de bases alquiladas por AlkB
+## Reparo por excisão de nucleotídeo (NER)
 
-# Slide 99:
-O que acontece quando não há DNA não danificado para usar como molde para reparo?
-Sem molde com dsb, ligações cruzadas ou dano em ssDNA
-Lesão não reparada pode fazer a forquilha de replicação estagnar
-Reparo usando
-outro cromossomo como molde (recombinação)
-síntese translesão propensa a erros (TLS)
+- em eucariotos
+- Hidrolisam a sexta ligação no lado 3' e a vigésima segunda ligação no lado 5' da lesão
+    - removem 27–29 nucleotídeos
+- Em humanos, a lacuna é preenchida usando DNA polimerase ε e DNA ligase
 
-# Slide 100:
-Lesão estagnando uma forquilha de replicação
+## NER em bactérias e humanos
 
-# Slide 101:
-TLS propensa a erros em bactérias
-A TLS é parte da "resposta SOS".
-resposta quando o dano ao DNA é extenso
-As proteínas SOS incluem UvrA, UvrB + UmuC e UmuD.
-Umu = Imutável (porque a falta de genes Umu abole a via)
-UmuD' clivado e UmuC se ligam com RecA para criar a DNA Pol V.
-Esta polimerase pode processar além da área danificada.
+![](../imgs/cap25_image36.jpg)
 
-# Slide 102:
-Por que ter reparo propenso a erros?
-Mata algumas células, muta o DNA em outras.
-Mas…algumas células sobrevivem.
+## Reparo direto
 
-# Slide 103:
-Polimerases TLS abundam em mamíferos
+- As fotoliases usam energia luminosa para reparar dímeros de pirimidina.
+    - enzimas não encontradas em humanos e mamíferos placentários
+- A O6-metilguanina-DNA metiltransferase repara guanina metilada.
+- AlkB desmetila 1-metiladenina e 3-metilcitosina.
+
+## Reparo de dímeros de pirimidina com fotoliase
+
+![](../imgs/cap25_image37.jpg)
+
+## Como O6-metilguanina leva à mutação
+
+:::: {.columns}
+::: {.column width="50%"}
+![](../imgs/cap25_image38.jpg)
+:::
+
+::: {.column width="50%"}
+![](../imgs/cap25_image39.jpg)
+:::
+
+::::
+
+## Reparo direto de bases alquiladas por AlkB
+
+![](../imgs/cap25_image40.jpg)
+
+## O que acontece quando não há DNA não danificado para usar como molde para reparo?
+
+- Sem molde com dsb, ligações cruzadas ou dano em ssDNA
+- Lesão não reparada pode fazer a forquilha de replicação estagnar
+- Reparo usando
+    - outro cromossomo como molde (recombinação)
+    - síntese translesão propensa a erros (TLS)
+
+## Lesão estagnando uma forquilha de replicação
+
+![](../imgs/cap25_image41.jpg)
+
+## TLS propensa a erros em bactérias
+
+- A TLS é parte da "resposta SOS".
+    - resposta quando o dano ao DNA é extenso
+- As proteínas SOS incluem UvrA, UvrB + UmuC e UmuD.
+    - Umu = Imutável (porque a falta de genes Umu abole a via)
+- UmuD' clivado e UmuC se ligam com RecA para criar a DNA Pol V.
+- Esta polimerase pode processar além da área danificada.
+
+## Por que ter reparo propenso a erros?
+
+- Mata algumas células, muta o DNA em outras.
+- Mas…algumas células sobrevivem.
+
+## Polimerases TLS abundam em mamíferos
+
 A maioria reconhece tipos específicos de dano e tem resposta apropriada.
+
+::: {.callout-tip appearance="simple"}
 Exemplo: DNA Pol η (eta) auxilia quando um dímero T-T estagna uma forquilha de replicação.
+:::
+
 A maioria das polimerases TLS é limitada a regiões curtas de DNA, minimizando o potencial mutagênico.
 
-# Slide 104:
-Recombinação do DNA
-Segmentos de DNA podem rearranjar sua localização
-dentro de um cromossomo
-de um cromossomo para outro
-Tal recombinação está envolvida em muitos processos biológicos.
-reparo do DNA
-segregação de cromossomos durante a meiose
-aumento da diversidade genética
-Em organismos com reprodução sexuada, recombinação e mutações são duas forças motrizes da evolução.
-A recombinação de genomas virais coinfectantes pode aumentar a virulência e fornecer resistência a antivirais.
+## Recombinação do DNA
 
-# Slide 105:
-Três classes de recombinação
-Recombinação homóloga/geral
-troca entre dois DNAs que compartilham uma região estendida de sequência similar
-Recombinação sítio-específica
-troca apenas em uma sequência particular
-Transposição de DNA
-"genes saltadores" – DNAs curtos que podem se mover de um cromossomo para outro
+- Segmentos de DNA podem rearranjar sua localização
+    - dentro de um cromossomo
+    - de um cromossomo para outro
+- Tal recombinação está envolvida em muitos processos biológicos.
+    - reparo do DNA
+    - segregação de cromossomos durante a meiose
+    - aumento da diversidade genética
+- Em organismos com reprodução sexuada, recombinação e mutações são duas forças motrizes da evolução.
+- A recombinação de genomas virais coinfectantes pode aumentar a virulência e fornecer resistência a antivirais.
 
-# Slide 106:
-Três funções da recombinação homóloga
-Auxilia no reparo do DNA
-Liga cromossomos irmãos para segregá-los adequadamente entre células-filhas
-Fonte de troca de DNA e, portanto, diversidade genética
+## Três classes de recombinação
 
-# Slide 107:
-Recombinação homóloga em bactérias
-Ver Fig. 25-30
-A forquilha de replicação encontra dano na fita molde
-A forquilha de replicação colapsa devido à criação de uma quebra de dupla fita (DSB)
+- Recombinação homóloga/geral
+    - troca entre dois DNAs que compartilham uma região estendida de sequência similar
+- Recombinação sítio-específica
+    - troca apenas em uma sequência particular
+- Transposição de DNA
+- "genes saltadores" – DNAs curtos que podem se mover de um cromossomo para outro
 
-# Slide 108:
-Recombinação bacteriana (cont.)
-deixa duas partes de uma fita para serem processadas
-A fita com extremidade 5' é degradada.
-A extensão de fita simples com extremidade 3' é ligada por uma recombinase, pareia com sequência complementar no DNA duplex intacto e "invade" o duplex.
-→ cria estrutura ramificada de três fitas.
-O ramo se move para criar uma estrutura em forma de X conhecida como "junção de Holliday" ou "intermediário de Holliday".
-Uma nuclease e ligase restauram a estrutura da forquilha de replicação.
+## Três funções da recombinação homóloga
 
-# Slide 109:
-Reparo recombinacional do DNA
+- Auxilia no reparo do DNA
+- Liga cromossomos irmãos para segregá-los adequadamente entre células-filhas
+- Fonte de troca de DNA e, portanto, diversidade genética
 
-# Slide 110:
-Enzima RecBCD
-Uma nuclease/helicase processa as extremidades do DNA.
-Ela se liga a uma extremidade quebrada e então desenrola e hidrolisa o DNA.
-RecB se move ao longo de uma fita 3'→5'.
-RecD se move ao longo da outra fita 5'→3'.
-A subunidade RecC se liga à sequência chi (GCTGGTGG) e altera a atividade do complexo enzimático.
+## Recombinação homóloga em bactérias
 
-# Slide 111:
-Helicase/nuclease RecBCD
+- Ver Fig. 25-30
+- A forquilha de replicação encontra dano na fita molde
+- A forquilha de replicação colapsa devido à criação de uma quebra de dupla fita (DSB)
 
-# Slide 112:
+## Recombinação bacteriana (cont.)
 
-A sequência chi na fita com extremidade 3' se liga firmemente a RecC.
->1.000 sequências chi em E. coli
-a ligação de RecC a chi interrompe o movimento da fita com extremidade 3' através do complexo
-A fita com extremidade 5' continua a ser degradada.
-A recombinase RecA se torna ativa via a montagem de milhares de subunidades.
-As subunidades se montam cooperativamente no DNA em etapas de nucleação e extensão.
+- deixa duas partes de uma fita para serem processadas
+- A fita com extremidade 5' é degradada.
+- A extensão de fita simples com extremidade 3' é ligada por uma recombinase, pareia com sequência complementar no DNA duplex intacto e "invade" o duplex.
+- → cria estrutura ramificada de três fitas.
+- O ramo se move para criar uma estrutura em forma de X conhecida como "junção de Holliday" ou "intermediário de Holliday".
+- Uma nuclease e ligase restauram a estrutura da forquilha de replicação.
 
-Enzima RecBCD
+## Reparo recombinacional do DNA
 
-# Slide 113:
-Helicase/nuclease RecBCD
+![](../imgs/cap25_image42.jpg)
 
-# Slide 114:
-Formação do filamento de RecA
+## Enzima RecBCD
 
-# Slide 115:
-Filamento de RecA ligado ao DNA
+- Uma nuclease/helicase processa as extremidades do DNA.
+- Ela se liga a uma extremidade quebrada e então desenrola e hidrolisa o DNA.
+- RecB se move ao longo de uma fita 3'→5'.
+- RecD se move ao longo da outra fita 5'→3'.
+- A subunidade RecC se liga à sequência chi (GCTGGTGG) e altera a atividade do complexo enzimático.
 
-# Slide 116:
-Filamento de RecA com três voltas helicoidais de DNA
+## Helicase/nuclease RecBCD
 
-# Slide 117:
-O complexo RuvAB promove a migração de ramo
-Ver Fig. 25-33a.
-RuvA se liga onde os quatro braços da junção de Holliday se encontram.
-Hexâmeros de RuvB se ligam a braços opostos e usam ATP para impulsionar o DNA para fora.
+![](../imgs/cap25_image43.jpg)
 
-# Slide 118:
-A junção de Holliday é clivada por RuvC
-RuvC é uma nuclease.
-Liga-se ao complexo RuvAB.
-Ela cliva o intermediário de Holliday em lados opostos.
-A DNA ligase sela o corte.
-Ver Fig. 25-33b.
+## Enzima RecBCD
 
-# Slide 119:
-Clivagem da junção de Holliday
+- A sequência chi na fita com extremidade 3' se liga firmemente a RecC.
+- >1.000 sequências chi em E. coli
+    - a ligação de RecC a chi interrompe o movimento da fita com extremidade 3' através do complexo
+- A fita com extremidade 5' continua a ser degradada.
+- A recombinase RecA se torna ativa via a montagem de milhares de subunidades.
+- As subunidades se montam cooperativamente no DNA em etapas de nucleação e extensão.
 
-# Slide 120:
-Replicação homóloga em eucariotos
-Ocorre frequentemente durante a meiose
-Meiose: quando células germinativas diploides se dividem para produzir células haploides
-Inicialmente produz quatro cromossomos homólogos (um tétrade).
-Os dois pares de cromátides irmãs estão conectados nos centrômeros.
-As células então se dividem duas vezes
-Os cromossomos homólogos são segregados em células-filhas separadas no final da meiose I.
-As cromátides irmãs são separadas durante a meiose II.
+## Helicase/nuclease RecBCD
 
-# Slide 121:
-Meiose em células germinativas animais
+![](../imgs/cap25_image44.jpg)
 
-# Slide 122:
-A recombinação liga as cromátides irmãs
-A recombinação (crossing over) ocorre na primeira divisão meiótica.
-Sequências chamadas quiasmas são onde as quebras de fita e a religação ocorrem.
-Isso ocorre mais frequentemente em "pontos quentes".
-Este processo não apenas alinha os cromossomos irmãos para segregação adequada, mas permite a troca de informação genética, aumentando assim a diversidade genética.
-Na segunda divisão meiótica, as ligações físicas criadas pelas coesinas alinham as cromátides e ajudam-nas a segregar adequadamente.
+## Formação do filamento de RecA
 
-# Slide 123:
-Modelo de recombinação homóloga na meiose
-Os cromossomos se alinham (chame-os de A e B)
-Uma quebra de dupla fita ocorre no cromossomo A.
-A exonuclease degrada as extremidades da dsb para fazer uma lacuna maior.
-As fitas com extremidade 3' da lacuna "invadem" o cromossomo B → elas pareiam com uma região complementar no cromossomo B.
-Isso desloca uma fita no cromossomo B; ela se liga ao cromossomo A.
-A região deslocada do cromossomo B (agora pareada com o cromossomo A) serve como molde para substituir o DNA ausente.
+![](../imgs/cap25_image45.jpg)
 
-# Slide 124:
-Crossing-over/recombinação na meiose
+## Filamento de RecA ligado ao DNA
 
-# Slide 125:
+![](../imgs/cap25_image46.jpg)
 
-# Slide 126:
-Recombinação homóloga e mapeamento gênico
-Em geral, a frequência de recombinação homóloga entre dois pontos em um cromossomo é aproximadamente proporcional à distância.
-Permite determinar a posição dos genes (mapeamento gênico) e a ligação.
-  
-# Slide 127:
-A distribuição independente dos cromossomos irmãos contribui para a diversidade genética
+## Filamento de RecA com três voltas helicoidais de DNA
 
-# Slide 128:
-Segregação imprópria de cromossomos
-Aneuploidia = número errado de cromossomos
-Alinhamento e/ou recombinação impróprios podem resultar em gametas sem cópias de um cromossomo particular ou com duas cópias.
-A aneuploidia pode levar a aborto espontâneo ou deficiência de desenvolvimento.
-Frequentemente ocorre quando um gameta com uma cópia (normal) se une a outro gameta:
+![](../imgs/cap25_image47.jpg)
+
+## O complexo RuvAB promove a migração de ramo
+
+- Ver Fig. 25-33a.
+- RuvA se liga onde os quatro braços da junção de Holliday se encontram.
+- Hexâmeros de RuvB se ligam a braços opostos e usam ATP para impulsionar o DNA para fora.
+
+## A junção de Holliday é clivada por RuvC
+
+- RuvC é uma nuclease.
+- Liga-se ao complexo RuvAB.
+- Ela cliva o intermediário de Holliday em lados opostos.
+- A DNA ligase sela o corte.
+- Ver Fig. 25-33b.
+
+## Clivagem da junção de Holliday
+
+![](../imgs/cap25_image48.jpg)
+
+## Replicação homóloga em eucariotos
+
+- Ocorre frequentemente durante a meiose
+- Meiose: quando células germinativas diploides se dividem para produzir células haploides
+- Inicialmente produz quatro cromossomos homólogos (um tétrade).
+- Os dois pares de cromátides irmãs estão conectados nos centrômeros.
+    - As células então se dividem duas vezes
+- Os cromossomos homólogos são segregados em células-filhas separadas no final da meiose I.
+- As cromátides irmãs são separadas durante a meiose II.
+
+## Meiose em células germinativas animais
+
+![](../imgs/cap25_image49.jpg)
+
+## A recombinação liga as cromátides irmãs
+
+- A recombinação (crossing over) ocorre na primeira divisão meiótica.
+- Sequências chamadas quiasmas são onde as quebras de fita e a religação ocorrem.
+- Isso ocorre mais frequentemente em "pontos quentes".
+- Este processo não apenas alinha os cromossomos irmãos para segregação adequada, mas permite a troca de informação genética, aumentando assim a diversidade genética.
+- Na segunda divisão meiótica, as ligações físicas criadas pelas coesinas alinham as cromátides e ajudam-nas a segregar adequadamente.
+
+## Modelo de recombinação homóloga na meiose
+
+- Os cromossomos se alinham (chame-os de A e B)
+- Uma quebra de dupla fita ocorre no cromossomo A.
+- A exonuclease degrada as extremidades da dsb para fazer uma lacuna maior.
+- As fitas com extremidade 3' da lacuna "invadem" o cromossomo B → elas pareiam com uma região complementar no cromossomo B.
+- Isso desloca uma fita no cromossomo B; ela se liga ao cromossomo A.
+- A região deslocada do cromossomo B (agora pareada com o cromossomo A) serve como molde para substituir o DNA ausente.
+
+## Crossing-over/recombinação na meiose
+
+![](../imgs/cap25_image50.jpg)
+
+---
+
+![](../imgs/cap25_image51.jpg)
+
+## Recombinação homóloga e mapeamento gênico
+
+- Em geral, a frequência de recombinação homóloga entre dois pontos em um cromossomo é aproximadamente proporcional à distância.
+- Permite determinar a posição dos genes (mapeamento gênico) e a ligação.
+
+## A distribuição independente dos cromossomos irmãos contribui para a diversidade genética
+
+![](../imgs/cap25_image52.jpg)
+
+## Segregação imprópria de cromossomos
+
+- Aneuploidia = número errado de cromossomos
+- Alinhamento e/ou recombinação impróprios podem resultar em gametas sem cópias de um cromossomo particular ou com duas cópias.
+- A aneuploidia pode levar a aborto espontâneo ou deficiência de desenvolvimento.
+- Frequentemente ocorre quando um gameta com uma cópia (normal) se une a outro gameta:
+
+::: {style="text-align:center"}
 contendo duas cópias → trissomia
+:::
+
 Trissomia do cromossomo 21 é a síndrome de Down.
+
+::: {style="text-align:center"}
 contendo nenhuma cópia → monossomia
+:::
+
 Monossomia do cromossomo X é a síndrome de Turner.
 
-# Slide 129:
-Diferenças na meiose masculina versus feminina explicam a aneuploidia
-Machos: As células germinativas começam a sofrer meiose na puberdade…o processo é rápido e frequente.
-Fêmeas: Há um processo de muito mais longo prazo com uma fase estendida de "animação suspensa".
-As células germinativas começam a sofrer meiose no estágio fetal…os cromossomos se alinham e sofrem crossing-over, então o processo para por 13–50 anos até que os óvulos amadureçam (prófase I).
-Perturbações nos crossovers durante este estágio produzem aneuploidia.
-A probabilidade de dano aumenta com a idade.
+## Diferenças na meiose masculina versus feminina explicam a aneuploidia
 
-# Slide 130:
-Junção de extremidades não homólogas (NHEJ)
-Outra maneira de reparar DSB
-não ideal mas melhor que a morte celular
-As extremidades quebradas do cromossomo são simplesmente processadas e religadas.
-Sem conservação da sequência de DNA
-As proteínas Ku70 e Ku80 se ligam às extremidades do DNA seguidas por outras proteínas—DNA-PKcs (quinase) e Artemis (nuclease).
-DNA-PKcs se autofosforila em vários locais e fosforila Artemis.
+- Machos: As células germinativas começam a sofrer meiose na puberdade…o processo é rápido e frequente.
+- Fêmeas: Há um processo de muito mais longo prazo com uma fase estendida de "animação suspensa".
+- As células germinativas começam a sofrer meiose no estágio fetal…os cromossomos se alinham e sofrem crossing-over, então o processo para por 13–50 anos até que os óvulos amadureçam (prófase I).
+- Perturbações nos crossovers durante este estágio produzem aneuploidia.
+- A probabilidade de dano aumenta com a idade.
 
-# Slide 131:
-Junção de extremidades não homólogas (NHEJ)
-Artemis agora remove nucleotídeos de fita simples 5' ou 3' ou grampos que se formaram.
-A helicase separa as extremidades.
-O corte restante é selado por um complexo consistindo de XRCC4, XLF e DNA ligase IV.
-Esta forma de reparo tipicamente ocorre quando os cromossomos estão condensados e restritos, assim as extremidades estão próximas umas das outras.
+## Junção de extremidades não homólogas (NHEJ)
 
-# Slide 132:
-Junção de extremidades não homólogas
+- Outra maneira de reparar DSB
+    - não ideal mas melhor que a morte celular
+- As extremidades quebradas do cromossomo são simplesmente processadas e religadas.
+    - Sem conservação da sequência de DNA
+- As proteínas Ku70 e Ku80 se ligam às extremidades do DNA seguidas por outras proteínas—DNA-PKcs (quinase) e Artemis (nuclease).
+- DNA-PKcs se autofosforila em vários locais e fosforila Artemis.
 
-# Slide 133:
-Recombinação sítio-específica
-É limitada a sequências específicas.
-Usa enzimas recombinases com Tyr ou Ser.
-A recombinase faz ligação covalente com o DNA (ligação fosfotirosina, etc.).
-A fita clivada se une a novos parceiros.
-A troca é recíproca.
+## Junção de extremidades não homólogas (NHEJ)
 
-# Slide 134:
-Recombinação sítio-específica
+- Artemis agora remove nucleotídeos de fita simples 5' ou 3' ou grampos que se formaram.
+- A helicase separa as extremidades.
+- O corte restante é selado por um complexo consistindo de XRCC4, XLF e DNA ligase IV.
+- Esta forma de reparo tipicamente ocorre quando os cromossomos estão condensados e restritos, assim as extremidades estão próximas umas das outras.
 
-# Slide 135:
-Uma recombinase ligada a um intermediário de Holliday
+## Junção de extremidades não homólogas
 
-# Slide 136:
-Resultados potenciais da recombinação sítio-específica
-Inversão ou deleção
-ocorre se os sítios de recombinação estão no mesmo DNA
-Recombinação intermolecular
-ocorre se os sítios de recombinação estão em DNAs diferentes
-Inserção
-ocorre se o DNA é circular
+![](../imgs/cap25_image53.jpg)
 
-# Slide 137:
-Efeitos da recombinação sítio-específica
+## Recombinação sítio-específica
 
-# Slide 138:
-O reparo recombinacional do DNA circular pode produzir um genoma dimérico
-A resolução da junção de Holliday pode criar DNAs diméricos.
-Um sistema especial de recombinação sítio-específica converte o dímero em monômeros.
+- É limitada a sequências específicas.
+- Usa enzimas recombinases com Tyr ou Ser.
+- A recombinase faz ligação covalente com o DNA (ligação fosfotirosina, etc.).
+- A fita clivada se une a novos parceiros.
+- A troca é recíproca.
 
-# Slide 139:
-Como um genoma dimérico é criado e resolvido
+## Recombinação sítio-específica
 
-# Slide 140:
-Elementos genéticos transponíveis (transposons)
-Certos segmentos de DNA podem mudar sua posição relativa (mover-se para uma região ou um novo cromossomo).
-Eles carregam genes para transposases, mas alguns podem conter genes extras (por exemplo, resistência a antibióticos).
-Em bactérias, sequências curtas (5–10 pb) atuam como sítios de ligação para transposases.
-Esses sítios se tornam duplicados.
-Ver Fig. 25-40.
+![](../imgs/cap25_image54.jpg)
 
-# Slide 141:
-Inserção de um transposon
+## Uma recombinase ligada a um intermediário de Holliday
 
-# Slide 142:
-Transposição replicativa
-Transposição anterior (direta/simples): "cortar e colar"
-Transposição replicativa: "copiar e colar"
-O transposon inteiro é replicado
+![](../imgs/cap25_image55.jpg)
 
-# Slide 143:
-Transposição direta versus replicativa
+## Resultados potenciais da recombinação sítio-específica
 
-# Slide 144:
-Genes de imunoglobulina se montam por recombinação
+- Inversão ou deleção
+    - ocorre se os sítios de recombinação estão no mesmo DNA
+- Recombinação intermolecular
+    - ocorre se os sítios de recombinação estão em DNAs diferentes
+- Inserção
+    - ocorre se o DNA é circular
+
+## Efeitos da recombinação sítio-específica
+
+![](../imgs/cap25_image56.jpg)
+
+## O reparo recombinacional do DNA circular pode produzir um genoma dimérico
+
+- A resolução da junção de Holliday pode criar DNAs diméricos.
+- Um sistema especial de recombinação sítio-específica converte o dímero em monômeros.
+
+## Como um genoma dimérico é criado e resolvido
+
+![](../imgs/cap25_image57.jpg)
+
+## Elementos genéticos transponíveis (transposons)
+
+- Certos segmentos de DNA podem mudar sua posição relativa (mover-se para uma região ou um novo cromossomo).
+- Eles carregam genes para transposases, mas alguns podem conter genes extras (por exemplo, resistência a antibióticos).
+- Em bactérias, sequências curtas (5–10 pb) atuam como sítios de ligação para transposases.
+- Esses sítios se tornam duplicados.
+- Ver Fig. 25-40.
+
+## Inserção de um transposon
+
+![](../imgs/cap25_image58.jpg)
+
+## Transposição replicativa
+
+- Transposição anterior (direta/simples): "cortar e colar"
+- Transposição replicativa: "copiar e colar"
+- O transposon inteiro é replicado
+
+## Transposição direta versus replicativa
+
+![](../imgs/cap25_image59.jpg)
+
+## Genes de imunoglobulina se montam por recombinação
+
 O genoma humano contém ~20.000 genes, mas milhões de anticorpos (imunoglobulinas) podem ser criados a partir dos conjuntos separados de segmentos gênicos.
 
-# Slide 145:
-Genes de imunoglobulina sofrem recombinação
-Estrutura: (exemplo da classe IgG)
-Duas cadeias polipeptídicas pesadas, duas leves
-As cadeias leves podem ser capa ou gama.
-Cada cadeia tem região variável (V) e região constante.
-A recombinação entre clusters desses genes produz diferentes anticorpos.
+## Genes de imunoglobulina sofrem recombinação
 
-# Slide 146:
-Segmentos V, J e C da cadeia capa sofrem recombinação
-O gene da cadeia capa tem:
-~300 V (segmentos variáveis)
-~4 J (de junção)
-1 C (constante)
+- Estrutura: (exemplo da classe IgG)
+- Duas cadeias polipeptídicas pesadas, duas leves
+- As cadeias leves podem ser capa ou gama.
+- Cada cadeia tem região variável (V) e região constante.
+- A recombinação entre clusters desses genes produz diferentes anticorpos.
+
+## Segmentos V, J e C da cadeia capa sofrem recombinação
+
+- **O gene da cadeia capa tem:**
+    - ~300 V (segmentos variáveis)
+- ~4 J (de junção)
+- 1 C (constante)
+
+::: {style="text-align:center"}
 → 300 × 4 = 1.200 arranjos V-J possíveis
-A sequência da junção V-J não é precisa, produzindo mais variação (2,5×): ↑ para 3.000 combinações possíveis
-A cadeia pesada e as cadeias lambda têm mais combinações.
-Em última análise, > 1,5 × 107 moléculas de IgG possíveis!
+:::
 
-# Slide 147:
-Recombinação dos segmentos gênicos V e J da cadeia leve capa de IgG humana
+- A sequência da junção V-J não é precisa, produzindo mais variação (2,5×): ↑ para 3.000 combinações possíveis
+- A cadeia pesada e as cadeias lambda têm mais combinações.
+- Em última análise, > 1,5 × 107 moléculas de IgG possíveis!
 
-# Slide 148:
-Mecanismo de recombinação
-Sequências de sinal de recombinação (RSS) são encontradas entre os segmentos V e J.
-As RSS se ligam às proteínas RAG1 e RAG2.
-(para gene ativador de recombinação)
-As proteínas RAG catalisam a formação de dsb entre os segmentos a serem unidos.
-Ocorre à medida que as células-tronco da medula óssea amadurecem em linfócitos B.
-Cada linfócito B produz um tipo de anticorpo.
+## Recombinação dos segmentos gênicos V e J da cadeia leve capa de IgG humana
 
-# Slide 149:
-Mecanismo de rearranjo do gene de IgG
+![](../imgs/cap25_image60.jpg)
 
-# Slide 150:
-Capítulo 25: Resumo
+## Mecanismo de recombinação
 
-a replicação do DNA é catalisada por DNA polimerases que usam uma das fitas como molde enquanto adicionam novos nucleotídeos à extremidade 3' da cadeia recém-sintetizada
-vários mecanismos existem para corrigir pareamentos incorretos e outras mudanças no DNA
-durante o reparo do DNA, a informação codificada na fita parental pode ser usada para fazer correções na fita filha
-a recombinação homóloga envolve a troca de regiões de DNA com sequências similares
-Neste capítulo, aprendemos que:
+- Sequências de sinal de recombinação (RSS) são encontradas entre os segmentos V e J.
+- As RSS se ligam às proteínas RAG1 e RAG2.
+    - (para gene ativador de recombinação)
+- As proteínas RAG catalisam a formação de dsb entre os segmentos a serem unidos.
+- Ocorre à medida que as células-tronco da medula óssea amadurecem em linfócitos B.
+- Cada linfócito B produz um tipo de anticorpo.
+
+## Mecanismo de rearranjo do gene de IgG
+
+![](../imgs/cap25_image61.jpg)
+
+## Capítulo 25: Resumo
+
+**Neste capítulo, aprendemos que:**
+
+- a replicação do DNA é catalisada por DNA polimerases que usam uma das fitas como molde enquanto adicionam novos nucleotídeos à extremidade 3' da cadeia recém-sintetizada
+    - vários mecanismos existem para corrigir pareamentos incorretos e outras mudanças no DNA
+    - durante o reparo do DNA, a informação codificada na fita parental pode ser usada para fazer correções na fita filha
+    - a recombinação homóloga envolve a troca de regiões de DNA com sequências similares

@@ -1,6 +1,5 @@
 ---
-title: "Capítulo"
-# author: Nicholas Costa & Nicholas Barroso
+title: "Fosforilação Oxidativa"
 lang: pt-BR
 date: today
 date-format: "DD/MM/YYYY"
@@ -11,7 +10,6 @@ format:
 #    height: 900
     width: 960
     height: 720
-#    logo: imgs/logo.png
     incremental: false
     theme: tema_azul.scss
     lightbox: true
@@ -23,403 +21,475 @@ format:
     auto-stretch: true
 ---
 
-# Slide 1:
+## 19| Fosforilação Oxidativa
 
-19| Fosforilação Oxidativa
-© 2017 W. H. Freeman and Company
+![](../imgs/cap19_image01.png)
 
-# Slide 2:
-CAPÍTULO 19 
-Fosforilação Oxidativa
-Função da cadeia transportadora de elétrons nas mitocôndrias
-Captação de energia luminosa na fotossíntese
-Formação da força próton-motriz
-Síntese de ATP em mitocôndrias e cloroplastos
-Objetivos de aprendizagem: 
+<small>© 2017 W. H. Freeman and Company</small>
 
-# Slide 3:
-A Energia de Combustíveis Reduzidos É Usada para Sintetizar ATP nos Animais
-Carboidratos, lipídeos e aminoácidos são os principais combustíveis reduzidos da célula.
-Os elétrons dos combustíveis reduzidos são transferidos para os cofatores reduzidos NADH ou FADH2.
-Na fosforilação oxidativa, a energia do NADH e do FADH2 é usada para produzir ATP.
+## CAPÍTULO 19 — Fosforilação Oxidativa
 
-# Slide 4:
-Fluxo de Energia na Respiração Celular
+**Objetivos de aprendizagem:**
 
-# Slide 5:
-Teoria Quimiosmótica
-   ADP + Pi → ATP é altamente desfavorável do ponto de vista termodinâmico.
-Como isso se torna possível?
-A fosforilação do ADP não resulta de uma reação direta entre o ADP e algum carreador de fosfato de alta energia.
-A energia necessária para fosforilar o ADP é fornecida pelo fluxo de prótons a favor do gradiente eletroquímico.
-A energia liberada pelo transporte de elétrons é usada para transportar prótons contra o gradiente eletroquímico.
+1. Função da cadeia transportadora de elétrons nas mitocôndrias
+2. Captação de energia luminosa na fotossíntese
+3. Formação da força próton-motriz
+4. Síntese de ATP em mitocôndrias e cloroplastos
 
+## A Energia de Combustíveis Reduzidos É Usada para Sintetizar ATP nos Animais
 
-# Slide 6:
-O Acoplamento de Energia Quimiosmótico 
-Requer Membranas
-O gradiente de prótons necessário para a síntese de ATP pode ser estabelecido de forma estável através de uma membrana impermeável a íons.
-membrana plasmática em bactérias
-membrana interna em mitocôndrias
-membrana tilacoide em cloroplastos 
-A membrana deve conter proteínas que acoplem o fluxo “a favor do gradiente” de elétrons na cadeia de transferência de elétrons ao fluxo “contra o gradiente” de prótons através da membrana.
-A membrana deve conter uma proteína que acople o fluxo “a favor do gradiente” de prótons à fosforilação do ADP.  
+- Carboidratos, lipídeos e aminoácidos são os principais combustíveis reduzidos da célula.
+- Os elétrons dos combustíveis reduzidos são transferidos para os cofatores reduzidos NADH ou FADH2.
+- Na fosforilação oxidativa, a energia do NADH e do FADH2 é usada para produzir ATP.
 
-# Slide 7:
-Teoria Quimiosmótica
+## Fluxo de Energia na Respiração Celular
 
-# Slide 8:
-Estrutura de uma Mitocôndria
-A membrana dupla origina quatro compartimentos distintos:
- Membrana externa: 
-membrana relativamente porosa; permite a passagem de metabólitos
- Espaço intermembranas (EIM): 
-ambiente semelhante ao do citosol 
-maior concentração de prótons (menor pH)
- Membrana interna
-relativamente impermeável, com gradiente de prótons através dela
-local dos complexos da cadeia transportadora de elétrons
-As convoluções, chamadas cristas, aumentam a área de superfície.
- Matriz
-local do ciclo do ácido cítrico e de partes do metabolismo de lipídeos e aminoácidos
-menor concentração de prótons (maior pH)
+![](../imgs/cap19_image02.jpg)
 
-# Slide 9:
-Estrutura de uma Mitocôndria
+## Teoria Quimiosmótica
 
-# Slide 10:
-Os Complexos da Cadeia Transportadora de Elétrons Contêm uma Série de Carreadores de Elétrons
-Cada complexo contém múltiplos centros redox constituídos por:
-flavina mononucleotídeo (FMN) ou flavina adenina dinucleotídeo (FAD)
-citocromos a, b ou c
-agrupamento ferro-enxofre
-A ordem de transferência dos elétrons depende do potencial de redução:
+- ADP + Pi → ATP é altamente desfavorável do ponto de vista termodinâmico.
+    - Como isso se torna possível?
+- A fosforilação do ADP não resulta de uma reação direta entre o ADP e algum carreador de fosfato de alta energia.
+- A energia necessária para fosforilar o ADP é fornecida pelo fluxo de prótons a favor do gradiente eletroquímico.
+- A energia liberada pelo transporte de elétrons é usada para transportar prótons contra o gradiente eletroquímico.
+
+## O Acoplamento de Energia Quimiosmótico Requer Membranas
+
+- O gradiente de prótons necessário para a síntese de ATP pode ser estabelecido de forma estável através de uma membrana impermeável a íons.
+    - membrana plasmática em bactérias
+    - membrana interna em mitocôndrias
+    - membrana tilacoide em cloroplastos
+- A membrana deve conter proteínas que acoplem o fluxo “a favor do gradiente” de elétrons na cadeia de transferência de elétrons ao fluxo “contra o gradiente” de prótons através da membrana.
+- A membrana deve conter uma proteína que acople o fluxo “a favor do gradiente” de prótons à fosforilação do ADP.
+
+## Teoria Quimiosmótica
+
+![](../imgs/cap19_image03.jpg)
+
+## Estrutura de uma Mitocôndria
+
+- A membrana dupla origina quatro compartimentos distintos:
+    - Membrana externa:
+    - membrana relativamente porosa; permite a passagem de metabólitos
+- **Espaço intermembranas (EIM):**
+    - ambiente semelhante ao do citosol
+    - maior concentração de prótons (menor pH)
+- Membrana interna
+    - relativamente impermeável, com gradiente de prótons através dela
+    - local dos complexos da cadeia transportadora de elétrons
+    - As convoluções, chamadas cristas, aumentam a área de superfície.
+- Matriz
+    - local do ciclo do ácido cítrico e de partes do metabolismo de lipídeos e aminoácidos
+    - menor concentração de prótons (maior pH)
+
+## Estrutura de uma Mitocôndria
+
+![](../imgs/cap19_image04.jpg)
+
+## Os Complexos da Cadeia Transportadora de Elétrons Contêm uma Série de Carreadores de Elétrons
+
+- Cada complexo contém múltiplos centros redox constituídos por:
+    - flavina mononucleotídeo (FMN) ou flavina adenina dinucleotídeo (FAD)
+    - citocromos a, b ou c
+    - agrupamento ferro-enxofre
+- A ordem de transferência dos elétrons depende do potencial de redução:
 
 Adicionar Tabela 19-2
 
-# Slide 11:
-FMN e FAD: Funis de Elétrons
-O FMN e o FAD podem estar covalentemente ligados a proteínas e atuam canalizando e distribuindo elétrons.
-Aceitam dois elétrons de carreadores que são instáveis com elétrons isolados
-Doam um elétron por vez a aceptores que só podem aceitar elétrons isolados
+## FMN e FAD: Funis de Elétrons
 
-# Slide 12:
-Citocromos
-Carreadores de um elétron
-Derivados de anel porfirínico que coordenam ferro
-a, b ou c diferem por adições ao anel
+- O FMN e o FAD podem estar covalentemente ligados a proteínas e atuam canalizando e distribuindo elétrons.
+    - Aceitam dois elétrons de carreadores que são instáveis com elétrons isolados
+- Doam um elétron por vez a aceptores que só podem aceitar elétrons isolados
 
+![](../imgs/cap19_image05.jpg)
 
-# Slide 13:
-Agrupamentos Ferro-Enxofre
-Carreadores de um elétron
-Coordenados por cisteínas da proteína
-Contêm números iguais de átomos de ferro e de enxofre
+## Citocromos
 
+- Carreadores de um elétron
+- Derivados de anel porfirínico que coordenam ferro
+    - a, b ou c diferem por adições ao anel
 
-# Slide 14:
-Coenzima Q ou Ubiquinona
-A ubiquinona é um composto dicarbonílico conjugado lipossolúvel que aceita elétrons com facilidade.
-Ao aceitar dois elétrons, ela capta dois prótons e forma um álcool, o ubiquinol.
-O ubiquinol pode difundir-se livremente na membrana, transportando elétrons com prótons de um lado ao outro da membrana.
-A coenzima Q é um carreador móvel de elétrons que transporta elétrons dos Complexos I e II para o Complexo III.
+:::: {.columns}
+::: {.column width="50%"}
+![](../imgs/cap19_image06.jpg)
+:::
 
-# Slide 15:
-Coenzima Q ou Ubiquinona
+::: {.column width="50%"}
+![](../imgs/cap19_image07.jpg)
+:::
 
-# Slide 16:
-TABELA 19-3	Os Componentes Proteicos da Cadeia Respiratória Mitocondrial	
-Complexo enzimático/proteína	 Massa (kDa)	 Número de subunidades(a)	Grupo(s) prostético(s)	
-I NADH desidrogenase	850	45 (14)	FMN, Fe-S	
-II Succinato desidrogenase	140	4	FAD, Fe-S	
-III Ubiquinona:citocromo c oxidorredutase(b)	250	11	Heme, Fe-S	
-      Citocromo c(c)	13	1	Heme	
-IV Citocromo oxidase(b)	204	13 (3–4)	Heme; CuA, CuB	
-(a) Número de subunidades nos complexos bacterianos entre parênteses.
-(b) Massa e dados de subunidades referem-se à forma monomérica.
-(c) O citocromo c não faz parte de um complexo enzimático; move-se entre os Complexos III e IV como uma proteína livre e solúvel.	
+::::
 
-# Slide 17:
- NADH:Ubiquinona Oxidorredutase,
-também conhecida como Complexo I
-Um dos maiores complexos macromoleculares da célula de mamíferos
-Mais de 40 cadeias polipeptídicas diferentes, codificadas por genes nucleares e mitocondriais
-Sítio de ligação do NADH no lado da matriz
-A flavina mononucleotídeo (FMN), ligada de forma não covalente, aceita dois elétrons do NADH.
-Vários centros ferro-enxofre passam um elétron por vez em direção ao sítio de ligação da ubiquinona.
+## Agrupamentos Ferro-Enxofre
 
-# Slide 18:
-Complexo I
+- Carreadores de um elétron
+- Coordenados por cisteínas da proteína
+- Contêm números iguais de átomos de ferro e de enxofre
 
-# Slide 19:
-A NADH:Ubiquinona Oxidorredutase É uma Bomba de Prótons
-A transferência de dois elétrons do NADH para a ubiquinona é acompanhada pela transferência de prótons da matriz (N) para o espaço intermembranas (P) .
-Experimentos sugerem que cerca de quatro prótons são transportados por NADH.
+![](../imgs/cap19_image08.jpg)
 
-      NADH + Q + 5H+N = NAD+ + QH2 + 4 H+P
+## Coenzima Q ou Ubiquinona
 
-A coenzima Q reduzida capta dois prótons.
-Os prótons são transportados por “fios de prótons”.
-uma série de aminoácidos que sofrem protonação e desprotonação, resultando na transferência líquida de um próton de um lado da membrana para o outro
+- A ubiquinona é um composto dicarbonílico conjugado lipossolúvel que aceita elétrons com facilidade.
+- Ao aceitar dois elétrons, ela capta dois prótons e forma um álcool, o ubiquinol.
+- O ubiquinol pode difundir-se livremente na membrana, transportando elétrons com prótons de um lado ao outro da membrana.
+- A coenzima Q é um carreador móvel de elétrons que transporta elétrons dos Complexos I e II para o Complexo III.
 
-# Slide 20:
-Succinato Desidrogenase,
-também conhecida como Complexo II
-O FAD aceita dois elétrons do succinato.
-Os elétrons são passados, um de cada vez, por centros ferro-enxofre até a ubiquinona, que se torna QH2 reduzida.
-Não transporta prótons
-A succinato desidrogenase é uma única enzima com dupla função:
-converter succinato em fumarato no ciclo do ácido cítrico
-captar e doar elétrons na cadeia transportadora de elétrons 
-	
+## Coenzima Q ou Ubiquinona
 
-# Slide 21:
-Complexo II
+![](../imgs/cap19_image09.jpg)
 
-# Slide 22:
-Ubiquinona:Citocromo c Oxidorredutase, 
-também conhecida como Complexo III
-Usa dois elétrons do QH2 para reduzir duas moléculas de citocromo c
-Contém ainda agrupamentos ferro-enxofre, citocromo b e citocromo c
-A remoção de elétrons das quinonas reduzidas pelo ciclo Q resulta na translocação de quatro prótons adicionais para o espaço intermembranas. 
+## TABELA 19-3 — Os Componentes Proteicos da Cadeia Respiratória Mitocondrial
 
-# Slide 23:
-Complexo III
+| Complexo enzimático/proteína | Massa (kDa) | Número de subunidades(a) | Grupo(s) prostético(s) |
+|:--|:--|:--|:--|
+| I NADH desidrogenase | 850 | 45 (14) | FMN, Fe-S |
+| II Succinato desidrogenase | 140 | 4 | FAD, Fe-S |
+| III Ubiquinona:citocromo c oxidorredutase(b) | 250 | 11 | Heme, Fe-S |
+| Citocromo c(c) | 13 | 1 | Heme |
+| IV Citocromo oxidase(b) | 204 | 13 (3–4) | Heme; CuA, CuB |
 
-# Slide 24:
-O Ciclo Q
-Experimentalmente, quatro prótons são transportados através da membrana para cada dois elétrons que chegam ao cit c.
-Dois dos quatro prótons vêm do QH2.
-O ciclo Q é um bom modelo para explicar como dois prótons adicionais são captados da matriz.
-Duas moléculas de QH2 são oxidadas, liberando prótons no EIM.
-Uma molécula é rereduzida, resultando em transferência líquida de quatro prótons por coenzima Q reduzida.
+<small>(a) Número de subunidades nos complexos bacterianos entre parênteses.</small>
 
-# Slide 25:
-O Ciclo Q: Ciclo 1
+<small>(b) Massa e dados de subunidades referem-se à forma monomérica.</small>
 
-# Slide 26:
-O Ciclo Q: Ciclo 2
+<small>(c) O citocromo c não faz parte de um complexo enzimático; move-se entre os Complexos III e IV como uma proteína livre e solúvel.</small>
 
-# Slide 27:
-O Ciclo Q: Reação Global
+## NADH:Ubiquinona Oxidorredutase,
 
-# Slide 28:
-O segundo carreador móvel de elétrons
-A ubiquinona move-se pela membrana.
-O citocromo c move-se pelo espaço intermembranas.
-Uma proteína solúvel contendo heme no espaço intermembranas
-O ferro do heme pode ser ferroso (Fe3+, oxidado) ou férrico (Fe2+, reduzido). [N.T.: no original em inglês, as designações estão trocadas; o correto é ferroso = Fe2+ (reduzido) e férrico = Fe3+ (oxidado).]
-O citocromo c transporta um único elétron do complexo citocromo bc1 para a citocromo oxidase.
-Citocromo c
+- também conhecida como Complexo I
+- Um dos maiores complexos macromoleculares da célula de mamíferos
+- Mais de 40 cadeias polipeptídicas diferentes, codificadas por genes nucleares e mitocondriais
+- Sítio de ligação do NADH no lado da matriz
+- A flavina mononucleotídeo (FMN), ligada de forma não covalente, aceita dois elétrons do NADH.
+- Vários centros ferro-enxofre passam um elétron por vez em direção ao sítio de ligação da ubiquinona.
 
-# Slide 29:
-O Citocromo c Absorve Luz Visível
-A intensa banda de Soret, próxima de 400 nm, absorve luz azul e confere ao citocromo c uma intensa cor vermelha.
-Os citocromos são nomeados pela posição de seu pico (α) de maior comprimento de onda. 
+## Complexo I
 
-# Slide 30:
-Citocromo Oxidase, 
-também conhecida como Complexo IV
-A citocromo oxidase de mamíferos é uma proteína de membrana com 13 subunidades.
-Contém dois grupos heme: a e a3
-Contém íons cobre
-CuA: dois íons que aceitam elétrons do cit c
-CuB: ligado ao heme a3, formando um centro binuclear que transfere quatro elétrons ao oxigênio
+![](../imgs/cap19_image10.jpg)
 
-# Slide 31:
-Complexo IV
+## A NADH:Ubiquinona Oxidorredutase É uma Bomba de Prótons
 
-# Slide 32:
-A Citocromo Oxidase 
-Passa Elétrons para o O2
-Quatro elétrons são usados para reduzir uma molécula de oxigênio a duas moléculas de água.
-Quatro prótons são captados da matriz nesse processo.
-Quatro prótons adicionais são passados da matriz para o espaço intermembranas.
+- A transferência de dois elétrons do NADH para a ubiquinona é acompanhada pela transferência de prótons da matriz (N) para o espaço intermembranas (P) .
+- Experimentos sugerem que cerca de quatro prótons são transportados por NADH.
 
-# Slide 33:
-Fluxo de Elétrons pelo Complexo IV
+NADH + Q + 5H+N = NAD+ + QH2 + 4 H+P
 
-# Slide 34:
-Resumo do Fluxo de Elétrons 
-na Cadeia Respiratória
+- A coenzima Q reduzida capta dois prótons.
+- Os prótons são transportados por “fios de prótons”.
+    - uma série de aminoácidos que sofrem protonação e desprotonação, resultando na transferência líquida de um próton de um lado da membrana para o outro
 
-# Slide 35:
-Resumo do Transporte de Elétrons
+## Succinato Desidrogenase,
+
+- também conhecida como Complexo II
+- O FAD aceita dois elétrons do succinato.
+- Os elétrons são passados, um de cada vez, por centros ferro-enxofre até a ubiquinona, que se torna QH2 reduzida.
+    - Não transporta prótons
+- A succinato desidrogenase é uma única enzima com dupla função:
+    - converter succinato em fumarato no ciclo do ácido cítrico
+    - captar e doar elétrons na cadeia transportadora de elétrons
+
+![](../imgs/cap19_image11.jpg)
+
+## Complexo II
+
+![](../imgs/cap19_image12.jpg)
+
+## Ubiquinona:Citocromo c Oxidorredutase, também conhecida como Complexo III
+
+- Usa dois elétrons do QH2 para reduzir duas moléculas de citocromo c
+- Contém ainda agrupamentos ferro-enxofre, citocromo b e citocromo c
+- A remoção de elétrons das quinonas reduzidas pelo ciclo Q resulta na translocação de quatro prótons adicionais para o espaço intermembranas.
+
+## Complexo III
+
+![](../imgs/cap19_image13.jpg)
+
+## O Ciclo Q
+
+- Experimentalmente, quatro prótons são transportados através da membrana para cada dois elétrons que chegam ao cit c.
+- Dois dos quatro prótons vêm do QH2.
+- O ciclo Q é um bom modelo para explicar como dois prótons adicionais são captados da matriz.
+- Duas moléculas de QH2 são oxidadas, liberando prótons no EIM.
+- Uma molécula é rereduzida, resultando em transferência líquida de quatro prótons por coenzima Q reduzida.
+
+## O Ciclo Q: Ciclo 1
+
+![](../imgs/cap19_image14.jpg)
+
+## O Ciclo Q: Ciclo 2
+
+:::: {.columns}
+::: {.column width="50%"}
+![](../imgs/cap19_image15.png)
+:::
+
+::: {.column width="50%"}
+![](../imgs/cap19_image16.jpg)
+:::
+
+::::
+
+## O Ciclo Q: Reação Global
+
+![](../imgs/cap19_image17.jpg)
+
+## O segundo carreador móvel de elétrons
+
+- A ubiquinona move-se pela membrana.
+- O citocromo c move-se pelo espaço intermembranas.
+    - Uma proteína solúvel contendo heme no espaço intermembranas
+    - O ferro do heme pode ser ferroso (Fe3+, oxidado) ou férrico (Fe2+, reduzido). [N.T.: no original em inglês, as designações estão trocadas; o correto é ferroso = Fe2+ (reduzido) e férrico = Fe3+ (oxidado).]
+- O citocromo c transporta um único elétron do complexo citocromo bc1 para a citocromo oxidase.
+- Citocromo c
+
+![](../imgs/cap19_image18.jpg)
+
+## O Citocromo c Absorve Luz Visível
+
+- A intensa banda de Soret, próxima de 400 nm, absorve luz azul e confere ao citocromo c uma intensa cor vermelha.
+- Os citocromos são nomeados pela posição de seu pico (α) de maior comprimento de onda.
+
+![](../imgs/cap19_image19.jpg)
+
+## Citocromo Oxidase, também conhecida como Complexo IV
+
+- A citocromo oxidase de mamíferos é uma proteína de membrana com 13 subunidades.
+    - Contém dois grupos heme: a e a3
+    - Contém íons cobre
+    - CuA: dois íons que aceitam elétrons do cit c
+- CuB: ligado ao heme a3, formando um centro binuclear que transfere quatro elétrons ao oxigênio
+
+## Complexo IV
+
+![](../imgs/cap19_image20.jpg)
+
+## A Citocromo Oxidase Passa Elétrons para o O2
+
+- Quatro elétrons são usados para reduzir uma molécula de oxigênio a duas moléculas de água.
+- Quatro prótons são captados da matriz nesse processo.
+- Quatro prótons adicionais são passados da matriz para o espaço intermembranas.
+
+## Fluxo de Elétrons pelo Complexo IV
+
+![](../imgs/cap19_image21.jpg)
+
+## Resumo do Fluxo de Elétrons na Cadeia Respiratória
+
+![](../imgs/cap19_image22.jpg)
+
+## Resumo do Transporte de Elétrons
+
+::: {style="text-align:center"}
 Complexo I → Complexo IV
+:::
+
 1NADH + 11H+(N) + ½O2  ——>  NAD+ + 10H+(P) + H2O
 
+::: {style="text-align:center"}
 Complexo II → Complexo IV
+:::
+
 FADH2 + 6H+(N) + ½O2  ——>  FAD + 6H+(P) + H2O
 
 A diferença no número de prótons transportados reflete diferenças no ATP sintetizado.
 
+## Múltiplos Complexos Associam-se para Formar um Respirassomo
 
-# Slide 36:
-Múltiplos Complexos Associam-se 
-para Formar um Respirassomo
+![](../imgs/cap19_image23.jpg)
 
-# Slide 37:
-As Espécies Reativas de Oxigênio Podem Danificar Macromoléculas Biológicas
-A ubiquinona é naturalmente “vazante” e facilita a redução parcial de alvos que não o Complexo III. 
-As transferências de um único elétron resultam em radicais livres.
-Um dos métodos pelos quais a célula pode corrigir a produção de radicais livres é a glutationa reduzida, que alimenta o ciclo da glutationa
+## As Espécies Reativas de Oxigênio Podem Danificar Macromoléculas Biológicas
 
-# Slide 38:
-Força Próton-Motriz
-As proteínas da cadeia transportadora de elétrons criam o gradiente eletroquímico de prótons por um de três meios:
-transportando ativamente prótons através da membrana 
-Complexo I e Complexo IV
-removendo quimicamente prótons da matriz 
-redução da CoQ e redução do oxigênio
-liberando prótons no espaço intermembranas
-oxidação do QH2
+- A ubiquinona é naturalmente “vazante” e facilita a redução parcial de alvos que não o Complexo III.
+- As transferências de um único elétron resultam em radicais livres.
+- Um dos métodos pelos quais a célula pode corrigir a produção de radicais livres é a glutationa reduzida, que alimenta o ciclo da glutationa
 
-# Slide 39:
-Força Próton-Motriz
+![](../imgs/cap19_image24.jpg)
 
-# Slide 40:
-Modelo Quimiosmótico para a Síntese de ATP
- O transporte de elétrons estabelece uma força próton-motriz. 
- A energia da força próton-motriz impulsiona a síntese de ATP.
+## Força Próton-Motriz
 
-# Slide 41:
-Inibidores da Cadeia Transportadora de Elétrons Interrompem a Fosforilação Oxidativa
+- As proteínas da cadeia transportadora de elétrons criam o gradiente eletroquímico de prótons por um de três meios:
+    - transportando ativamente prótons através da membrana
+- Complexo I e Complexo IV
+    - removendo quimicamente prótons da matriz
+    - redução da CoQ e redução do oxigênio
+    - liberando prótons no espaço intermembranas
+    - oxidação do QH2
 
-# Slide 42:
-Relação entre a CTE e a Síntese de ATP
-Como descrito, a síntese de ATP requer transporte de elétrons.
-Mas o transporte de elétrons não requer síntese de ATP.
+## Força Próton-Motriz
 
+![](../imgs/cap19_image25.jpg)
 
-# Slide 43:
-Complexo da ATP-Sintase Mitocondrial 
-Contém duas unidades funcionais:
-F1
-complexo solúvel na matriz
-isoladamente, catalisa a hidrólise de ATP
-F0
-complexo integral de membrana
-transporta prótons do EIM para a matriz, dissipando o gradiente de prótons
-energia transferida para a F1 para catalisar a fosforilação do ADP
+## Modelo Quimiosmótico para a Síntese de ATP
 
-# Slide 44:
-A F1 catalisa ADP + Pi      ATP
-Hexâmero organizado em três dímeros αβ 
-Os dímeros podem existir em três conformações diferentes:
-aberta: vazia
-frouxa: liga ADP e Pi  
-firme: catalisa a formação de ATP e liga o produto
+- O transporte de elétrons estabelece uma força próton-motriz.
+- A energia da força próton-motriz impulsiona a síntese de ATP.
 
-# Slide 45:
-Modelo de Mudança de Ligação
+![](../imgs/cap19_image26.jpg)
+
+## Inibidores da Cadeia Transportadora de Elétrons Interrompem a Fosforilação Oxidativa
+
+![](../imgs/cap19_image27.jpg)
+
+## Relação entre a CTE e a Síntese de ATP
+
+- Como descrito, a síntese de ATP requer transporte de elétrons.
+- Mas o transporte de elétrons não requer síntese de ATP.
+
+![](../imgs/cap19_image28.jpg)
+
+## Complexo da ATP-Sintase Mitocondrial
+
+- **Contém duas unidades funcionais:**
+    - F1
+    - complexo solúvel na matriz
+    - isoladamente, catalisa a hidrólise de ATP
+- F0
+    - complexo integral de membrana
+    - transporta prótons do EIM para a matriz, dissipando o gradiente de prótons
+    - energia transferida para a F1 para catalisar a fosforilação do ADP
+
+![](../imgs/cap19_image29.jpg)
+
+## A F1 catalisa ADP + Pi      ATP
+
+- Hexâmero organizado em três dímeros αβ
+- Os dímeros podem existir em três conformações diferentes:
+    - aberta: vazia
+    - frouxa: liga ADP e Pi
+    - firme: catalisa a formação de ATP e liga o produto
+
+![](../imgs/cap19_image30.jpg)
+
+## Modelo de Mudança de Ligação
 
 A translocação de três prótons impulsiona a síntese de um ATP.
 
+![](../imgs/cap19_image31.jpg)
 
+## Acoplamento da Translocação de Prótons à Síntese de ATP
 
-# Slide 46:
-Acoplamento da Translocação de Prótons 
-à Síntese de ATP
-A translocação de prótons provoca a rotação da subunidade F0 e do eixo central γ.
-Isso causa uma mudança conformacional em todos os três pares αβ.
-A mudança conformacional em um dos três pares promove a condensação de ADP e Pi em ATP.
+- A translocação de prótons provoca a rotação da subunidade F0 e do eixo central γ.
+- Isso causa uma mudança conformacional em todos os três pares αβ.
+- A mudança conformacional em um dos três pares promove a condensação de ADP e Pi em ATP.
 
-# Slide 47:
-Evidências da Rotação
+## Evidências da Rotação
 
-# Slide 48:
-Transporte de ADP e Pi para a Matriz
+![](../imgs/cap19_image32.jpg)
+
+## Transporte de ADP e Pi para a Matriz
 
 A translocação de um quarto próton por ATP é necessária para facilitar o cotransporte de substratos e a saída de produtos da mitocôndria.
 
-# Slide 49:
-A Produção Líquida de ATP pela Oxidação da Glicose (e de Outros Combustíveis) Varia 
-Em sistemas procarióticos, as organelas não segregam a maquinaria, de modo que todos os carreadores de elétrons podem alimentar diretamente a cadeia transportadora de elétrons com facilidade.
-Em sistemas eucarióticos, a segregação em organelas impede que o NADH do citosol entre diretamente na cadeia transportadora de elétrons no Complexo I.
-Os conjuntos de NAD+ são mantidos segregados e não podem atravessar diretamente a membrana mitocondrial interna.
-Dois métodos são usados para transferir os elétrons do NADH do citosol para a mitocôndria:
-lançadeira malato-aspartato
-lançadeira glicerol 3-fosfato
+![](../imgs/cap19_image33.jpg)
 
-# Slide 50:
-Lançadeira Malato-Aspartato
+## A Produção Líquida de ATP pela Oxidação da Glicose (e de Outros Combustíveis) Varia
 
-# Slide 51:
-Lançadeira Glicerol 3-Fosfato
+- Em sistemas procarióticos, as organelas não segregam a maquinaria, de modo que todos os carreadores de elétrons podem alimentar diretamente a cadeia transportadora de elétrons com facilidade.
+- Em sistemas eucarióticos, a segregação em organelas impede que o NADH do citosol entre diretamente na cadeia transportadora de elétrons no Complexo I.
+- Os conjuntos de NAD+ são mantidos segregados e não podem atravessar diretamente a membrana mitocondrial interna.
+- Dois métodos são usados para transferir os elétrons do NADH do citosol para a mitocôndria:
+    - lançadeira malato-aspartato
+    - lançadeira glicerol 3-fosfato
 
-# Slide 52:
-Produção Líquida de ATP pelas Vias Catabólicas
-TABELA 19-5	Rendimento de ATP na Oxidação Completa da Glicose	
-Processo	Produto direto	ATP final	
-Glicólise	2 NADH (citosólico)
-2 ATP	3 ou 5(a)
-2	
-Oxidação do piruvato (duas por glicose)	2 NADH (matriz mitocondrial)	5	
-Oxidação do acetil-CoA no ciclo do ácido cítrico (duas por glicose)	6 NADH (matriz mitocondrial)
-2 FADH2
-2 ATP ou 2 GTP	15
-3
-2	
-      Rendimento total por glicose		30 ou 32	
-(a) Se a lançadeira malato-aspartato for usada para transferir equivalentes redutores para a mitocôndria, o rendimento é de 5 ATP. Se a lançadeira glicerol 3-fosfato for usada, o rendimento é de 3 ATP.	
+## Lançadeira Malato-Aspartato
 
-# Slide 53:
-Regulação da Fosforilação Oxidativa
-Regulada principalmente pela disponibilidade de substrato
-NADH e ADP/Pi
-Inibidor da F1 (IF1)
-impede a hidrólise de ATP durante hipóxia
-só é ativo em pH mais baixo, encontrado quando o transporte de elétrons está estagnado (isto é, baixo oxigênio)
-A inibição da FosOx leva ao acúmulo de NADH.
-causa uma cascata de inibição por retroalimentação até a PFK-1 na glicólise
+![](../imgs/cap19_image34.jpg)
 
-# Slide 54:
-Regulação da Fosforilação Oxidativa
+## Lançadeira Glicerol 3-Fosfato
 
-# Slide 55:
-A Síntese de ATP Pode Ser Desacoplada da CTE para Gerar Calor
-Proteína desacopladora 1 (UCP-1) em bebês
-Animais em hibernação
+![](../imgs/cap19_image35.jpg)
 
-# Slide 56:
-As Mitocôndrias Desempenham um Papel Iniciador na Apoptose
+## Produção Líquida de ATP pelas Vias Catabólicas
 
-# Slide 57:
-O DNA mitocondrial é circular e bem conservado.
-O genoma mitocondrial tem 37 genes e codifica rRNA, tRNA e enzimas do metabolismo central, incluindo o ciclo do ácido cítrico e a fosforilação oxidativa.
-As mitocôndrias têm seus próprios ribossomos, que permitem a síntese de proteínas dentro da organela.
-No entanto, a grande maioria das proteínas mitocondriais é codificada no DNA nuclear, sintetizada no citosol e importada para a mitocôndria.
-O DNA mitocondrial é de herança materna.
-As Mitocôndrias Contêm um Cromossomo Separado
+| Processo | Produto direto | ATP final |
+|:--|:--|:--|
+| Glicólise | 2 NADH (citosólico) <br> 2 ATP | 3 ou 5(a) <br> 2 |
+| Oxidação do piruvato (duas por glicose) | 2 NADH (matriz mitocondrial) | 5 |
+| Oxidação do acetil-CoA no ciclo do ácido cítrico (duas por glicose) | 6 NADH (matriz mitocondrial) <br> 2 FADH2 <br> 2 ATP ou 2 GTP | 15 <br> 3 <br> 2 |
+| Rendimento total por glicose |  | 30 ou 32 |
 
-# Slide 58:
-As Mitocôndrias Contêm um Cromossomo Separado
+: **TABELA 19-5** Rendimento de ATP na Oxidação Completa da Glicose
 
-# Slide 59:
-As espécies reativas de oxigênio (ERO) resultantes da cadeia transportadora de elétrons geram mutações.
-As mutações são assimétricas: algumas células terão mais mutações que outras.
-Quando as células se dividem, as células-filhas terão as mesmas mutações da célula-mãe.
-Alguns tipos celulares dividem-se com frequência (p. ex., epiteliais), enquanto outros ficam estagnados na vida adulta (p. ex., miócitos).
-As Mutações no Genoma Mitocondrial Acumulam-se
+<small>(a) Se a lançadeira malato-aspartato for usada para transferir equivalentes redutores para a mitocôndria, o rendimento é de 5 ATP. Se a lançadeira glicerol 3-fosfato for usada, o rendimento é de 3 ATP.</small>
 
-# Slide 60:
-Cada célula contém múltiplas mitocôndrias com quantidades variáveis de mutações.
-A divisão celular pode resultar em heteroplasmia: uma variação na composição genética das mitocôndrias dentro de uma célula.
-As Mutações no Genoma Mitocondrial Acumulam-se
+## Regulação da Fosforilação Oxidativa
 
-# Slide 61:
-As Mutações no Genoma Mitocondrial Resultam em Distúrbios
+- Regulada principalmente pela disponibilidade de substrato
+- NADH e ADP/Pi
+- Inibidor da F1 (IF1)
+    - impede a hidrólise de ATP durante hipóxia
+    - só é ativo em pH mais baixo, encontrado quando o transporte de elétrons está estagnado (isto é, baixo oxigênio)
+- A inibição da FosOx leva ao acúmulo de NADH.
+    - causa uma cascata de inibição por retroalimentação até a PFK-1 na glicólise
 
-# Slide 62:
-Defeitos na fosforilação oxidativa resultam em baixa [ATP] na célula.
-A insulina não pode ser liberada pela célula.
-Mutações Mitocondriais Resultam em uma Forma Rara de Diabetes
+## Regulação da Fosforilação Oxidativa
 
-# Slide 63:
-Capítulo 19: Resumo
-os cofatores reduzidos passam elétrons para a cadeia transportadora de elétrons na mitocôndria
-o transporte gradual de elétrons é acompanhado pelo transporte direcional de prótons através da membrana, contra seu gradiente de concentração
-a energia do gradiente eletroquímico de prótons impulsiona a síntese de ATP ao acoplar o fluxo de prótons pela ATP-sintase a mudanças conformacionais que favorecem a formação de ATP no sítio ativo  
-o DNA mitocondrial é de herança materna e forma uma população genética diversa no organismo devido ao acúmulo de mutações, e essas mutações podem resultar em distúrbios associados ao envelhecimento
+![](../imgs/cap19_image36.jpg)
 
-Neste capítulo, aprendemos que:
+## A Síntese de ATP Pode Ser Desacoplada da CTE para Gerar Calor
+
+- Proteína desacopladora 1 (UCP-1) em bebês
+- Animais em hibernação
+
+![](../imgs/cap19_image37.jpg)
+
+## As Mitocôndrias Desempenham um Papel Iniciador na Apoptose
+
+![](../imgs/cap19_image38.jpg)
+
+## O DNA mitocondrial é circular e bem conservado.
+
+- O genoma mitocondrial tem 37 genes e codifica rRNA, tRNA e enzimas do metabolismo central, incluindo o ciclo do ácido cítrico e a fosforilação oxidativa.
+- As mitocôndrias têm seus próprios ribossomos, que permitem a síntese de proteínas dentro da organela.
+- No entanto, a grande maioria das proteínas mitocondriais é codificada no DNA nuclear, sintetizada no citosol e importada para a mitocôndria.
+- O DNA mitocondrial é de herança materna.
+- As Mitocôndrias Contêm um Cromossomo Separado
+
+## As Mitocôndrias Contêm um Cromossomo Separado
+
+![](../imgs/cap19_image39.jpg)
+
+## As espécies reativas de oxigênio (ERO) resultantes da cadeia transportadora de elétrons geram mutações.
+
+- As mutações são assimétricas: algumas células terão mais mutações que outras.
+- Quando as células se dividem, as células-filhas terão as mesmas mutações da célula-mãe.
+- Alguns tipos celulares dividem-se com frequência (p. ex., epiteliais), enquanto outros ficam estagnados na vida adulta (p. ex., miócitos).
+- As Mutações no Genoma Mitocondrial Acumulam-se
+
+## Cada célula contém múltiplas mitocôndrias com quantidades variáveis de mutações.
+
+- A divisão celular pode resultar em heteroplasmia: uma variação na composição genética das mitocôndrias dentro de uma célula.
+- As Mutações no Genoma Mitocondrial Acumulam-se
+
+:::: {.columns}
+::: {.column width="50%"}
+![](../imgs/cap19_image40.jpg)
+:::
+
+::: {.column width="50%"}
+![](../imgs/cap19_image41.jpg)
+:::
+
+::::
+
+## As Mutações no Genoma Mitocondrial Resultam em Distúrbios
+
+![](../imgs/cap19_image42.jpg)
+
+## Defeitos na fosforilação oxidativa resultam em baixa [ATP] na célula.
+
+- A insulina não pode ser liberada pela célula.
+- Mutações Mitocondriais Resultam em uma Forma Rara de Diabetes
+
+![](../imgs/cap19_image43.jpg)
+
+## Capítulo 19: Resumo {.smaller}
+
+**Neste capítulo, aprendemos que:**
+
+- os cofatores reduzidos passam elétrons para a cadeia transportadora de elétrons na mitocôndria
+    - o transporte gradual de elétrons é acompanhado pelo transporte direcional de prótons através da membrana, contra seu gradiente de concentração
+    - a energia do gradiente eletroquímico de prótons impulsiona a síntese de ATP ao acoplar o fluxo de prótons pela ATP-sintase a mudanças conformacionais que favorecem a formação de ATP no sítio ativo o DNA mitocondrial é de herança materna e forma uma população genética diversa no organismo devido ao acúmulo de mutações, e essas mutações podem resultar em distúrbios associados ao envelhecimento

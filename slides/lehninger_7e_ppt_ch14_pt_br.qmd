@@ -1,6 +1,5 @@
 ---
-title: "Capítulo"
-# author: Nicholas Costa & Nicholas Barroso
+title: "Glicólise, Gliconeogênese e a Via das Pentoses-Fosfato"
 lang: pt-BR
 date: today
 date-format: "DD/MM/YYYY"
@@ -11,7 +10,6 @@ format:
 #    height: 900
     width: 960
     height: 720
-#    logo: imgs/logo.png
     incremental: false
     theme: tema_azul.scss
     lightbox: true
@@ -23,580 +21,642 @@ format:
     auto-stretch: true
 ---
 
-# Slide 1:
+## 14 | Glicólise, Gliconeogênese e a Via das Pentoses-Fosfato
 
-14 | Glicólise, Gliconeogênese e a Via das Pentoses-Fosfato
+![](../imgs/cap14_image01.png)
 
-© 2017 W. H. Freeman and Company
+<small>© 2017 W. H. Freeman and Company</small>
 
-# Slide 2:
-CAPÍTULO 14 
-Glicólise, Gliconeogênese e a Via das Pentoses-Fosfato
-Aproveitamento de energia da glicose via glicólise  
-Fermentação sob condições anaeróbias 
-Síntese de glicose a partir de compostos mais simples: gliconeogênese
-Oxidação da glicose na via das pentoses-fosfato  
-Objetivos de aprendizagem: 
+## CAPÍTULO 14 — Glicólise, Gliconeogênese e a Via das Pentoses-Fosfato
 
-# Slide 3:
-Importância Central da Glicose
-A glicose é um excelente combustível.
-rende boa quantidade de energia após oxidação
-−2840 kJ/mol de glicose
-pode ser eficientemente armazenada na forma polimérica 
-Muitos organismos e tecidos podem suprir suas necessidades energéticas apenas com glicose.
+**Objetivos de aprendizagem:**
 
-A glicose é um precursor bioquímico versátil.
-Muitos organismos podem usar a glicose para gerar:
-todos os aminoácidos
-lipídios de membrana
-nucleotídeos no DNA e RNA
-cofatores necessários para o metabolismo 
+1. Aproveitamento de energia da glicose via glicólise
+2. Fermentação sob condições anaeróbias
+3. Síntese de glicose a partir de compostos mais simples: gliconeogênese
+4. Oxidação da glicose na via das pentoses-fosfato
 
-# Slide 4:
-Quatro Principais Vias 
-de Utilização da Glicose
-Armazenamento
-pode ser armazenada na forma polimérica (amido, glicogênio)
-usada para necessidades energéticas posteriores
-Produção de energia
-gera energia via oxidação da glicose
-necessidades energéticas de curto prazo
-Produção de NADPH e pentoses
-gera NADPH para uso no alívio do estresse oxidativo e na síntese de ácidos graxos 
-gera pentoses-fosfato para uso na biossíntese de DNA/RNA  
-Produção de carboidratos estruturais
-usada para geração de carboidratos alternativos usados nas paredes celulares de bactérias, fungos e plantas
+## Importância Central da Glicose
 
-# Slide 5:
-Quatro Principais Vias 
-de Utilização da Glicose
+- A glicose é um excelente combustível.
+    - rende boa quantidade de energia após oxidação
+- −2840 kJ/mol de glicose
+    - pode ser eficientemente armazenada na forma polimérica
+- Muitos organismos e tecidos podem suprir suas necessidades energéticas apenas com glicose.
 
-# Slide 6:
-Glicólise: Importância
-Sequência de reações catalisadas por enzimas pela qual a glicose é convertida em piruvato
-O piruvato pode ser ainda oxidado aerobicamente.
-O piruvato pode ser usado como precursor na biossíntese.
+- A glicose é um precursor bioquímico versátil.
+- Muitos organismos podem usar a glicose para gerar:
+    - todos os aminoácidos
+    - lipídios de membrana
+    - nucleotídeos no DNA e RNA
+    - cofatores necessários para o metabolismo
+
+## Quatro Principais Vias de Utilização da Glicose
+
+- Armazenamento
+    - pode ser armazenada na forma polimérica (amido, glicogênio)
+    - usada para necessidades energéticas posteriores
+- Produção de energia
+    - gera energia via oxidação da glicose
+    - necessidades energéticas de curto prazo
+- Produção de NADPH e pentoses
+    - gera NADPH para uso no alívio do estresse oxidativo e na síntese de ácidos graxos gera pentoses-fosfato para uso na biossíntese de DNA/RNA
+- Produção de carboidratos estruturais
+    - usada para geração de carboidratos alternativos usados nas paredes celulares de bactérias, fungos e plantas
+
+## Quatro Principais Vias de Utilização da Glicose
+
+![](../imgs/cap14_image02.jpg)
+
+## Glicólise: Importância
+
+- Sequência de reações catalisadas por enzimas pela qual a glicose é convertida em piruvato
+- O piruvato pode ser ainda oxidado aerobicamente.
+- O piruvato pode ser usado como precursor na biossíntese.
 
 Parte da energia livre é capturada pela síntese de ATP e NADH.
 
-A pesquisa da glicólise desempenhou um grande papel no desenvolvimento da bioquímica moderna.
-compreensão do papel das coenzimas
-descoberta do papel fundamental do ATP
-desenvolvimento de métodos para purificação de enzimas
-inspiração para as próximas gerações de bioquímicos
+- A pesquisa da glicólise desempenhou um grande papel no desenvolvimento da bioquímica moderna.
+    - compreensão do papel das coenzimas
+    - descoberta do papel fundamental do ATP
+    - desenvolvimento de métodos para purificação de enzimas
+    - inspiração para as próximas gerações de bioquímicos
 
-# Slide 7:
-Glicólise: Visão Geral
-Na evolução da vida, a glicólise provavelmente foi uma das primeiras vias produtoras de energia.
-Desenvolveu-se antes da fotossíntese, quando a atmosfera ainda era anaeróbia.
-Assim, a tarefa dos primeiros organismos era como extrair energia livre da glicose anaerobicamente.
-A solução:
-Primeiro: Ativá-la por fosforilação.
-Segundo: Coletar energia dos metabólitos de alta energia.
+## Glicólise: Visão Geral
 
-# Slide 8:
-Glicólise: Visão Geral
+- Na evolução da vida, a glicólise provavelmente foi uma das primeiras vias produtoras de energia.
+- Desenvolveu-se antes da fotossíntese, quando a atmosfera ainda era anaeróbia.
+- Assim, a tarefa dos primeiros organismos era como extrair energia livre da glicose anaerobicamente.
+- **A solução:**
+    - Primeiro: Ativá-la por fosforilação.
+- Segundo: Coletar energia dos metabólitos de alta energia.
 
-# Slide 9:
-Glicólise: A Fase Preparatória
+## Glicólise: Visão Geral
 
-# Slide 10:
-Glicólise: A Fase de Pagamento (*Payoff*) 
+![](../imgs/cap14_image03.jpg)
 
-# Slide 11:
-Etapa 1: Fosforilação da Glicose
+## Glicólise: A Fase Preparatória
 
-# Slide 12:
-Etapa 1: Fosforilação da Glicose
-Racional
-aprisiona a glicose dentro da célula
-reduz a concentração intracelular de glicose (não fosforilada) para permitir maior captação
-Esse processo usa a energia do ATP.
-Existem múltiplas isoformas de hexoquinase nos organismos (ex.: hexoquinase I, II, III e IV (glicoquinase)).
-O oxigênio nucleofílico no C6 da glicose ataca o último fosfato (γ) do ATP.
-O Mg++ ligado ao ATP facilita esse processo blindando as cargas negativas no ATP.
-Altamente favorável termodinamicamente/irreversível
-regulada principalmente por inibição pelo produto/substrato
+![](../imgs/cap14_image04.jpg)
 
+## Glicólise: A Fase de Pagamento (*Payoff*)
 
-# Slide 13:
-Etapa 2: Isomerização da Fosfo-hexose
+![](../imgs/cap14_image05.jpg)
 
-# Slide 14:
-Etapa 2: Isomerização da Fosfo-hexose
-Racional
-facilita as próximas etapas (menos energia necessária):
-o C1 da frutose é mais fácil de fosforilar pela PFK
-permite a clivagem simétrica pela aldolase
-Uma aldose (glicose) pode isomerizar-se em uma cetose (frutose) via um intermediário enediol.
-A isomerização é catalisada pelo glutamato do sítio ativo via catálise ácido/base geral.
-Ligeiramente desfavorável termodinamicamente/reversível
-a concentração do produto é mantida baixa pelo acoplamento com a próxima etapa favorável para impulsionar a reação para frente
+## Etapa 1: Fosforilação da Glicose
 
-# Slide 15:
-Mecanismo da Fosfo-hexose Isomerase
+![](../imgs/cap14_image06.jpg)
 
-# Slide 16:
-Mecanismo da Fosfo-hexose Isomerase: Catálise Básica
+## Etapa 1: Fosforilação da Glicose
 
-# Slide 17:
-Mecanismo da Fosfo-hexose Isomerase: Catálise Ácida
+- Racional
+    - aprisiona a glicose dentro da célula
+    - reduz a concentração intracelular de glicose (não fosforilada) para permitir maior captação
+    - Esse processo usa a energia do ATP.
+    - Existem múltiplas isoformas de hexoquinase nos organismos (ex.: hexoquinase I, II, III e IV (glicoquinase)).
+    - O oxigênio nucleofílico no C6 da glicose ataca o último fosfato (γ) do ATP.
+    - O Mg++ ligado ao ATP facilita esse processo blindando as cargas negativas no ATP.
+- Altamente favorável termodinamicamente/irreversível
+    - regulada principalmente por inibição pelo produto/substrato
 
-# Slide 18:
-Etapa 3: 2ª Fosforilação de Ativação (*Priming*)
+## Etapa 2: Isomerização da Fosfo-hexose
 
-# Slide 19:
-Etapa 3: 2ª Fosforilação de Ativação pela Fosfofrutoquinase-1
-Racional 
-ativação adicional da glicose
-permite 1 fosfato/açúcar de 3 carbonos após a etapa 4
-Primeira etapa comprometida da glicólise
-a frutose 1,6-bisfosfato está comprometida a tornar-se piruvato e gerar energia
-Esse processo usa a energia do ATP.
-Altamente favorável termodinamicamente/irreversível
-A fosfofrutoquinase-1 é altamente regulada.
-por ATP, frutose-2,6-bisfosfato e outros metabólitos
-não queimar glicose se houver abundância de ATP 
+![](../imgs/cap14_image07.jpg)
 
-# Slide 20:
-Etapa 4: Clivagem Aldólica da F-1,6-bP
+## Etapa 2: Isomerização da Fosfo-hexose
 
-# Slide 21:
-Etapa 4: Clivagem Aldólica da F-1,6-bP pela Aldolase
-Racional
-O açúcar de seis carbonos é clivado em dois açúcares de três carbonos.
-Açúcares fosfato de alta energia são açúcares de três carbonos.
-O processo inverso é a familiar condensação aldólica.
-Múltiplos mecanismos para resultar no mesmo produto (ou seja, evolução convergente): 
-Aldolases animais e vegetais empregam catálise covalente.
-Aldolases fúngicas e bacterianas empregam catálise por íons metálicos.
-Termodinamicamente desfavorável/reversível
-a concentração do produto (GAP) é mantida baixa para puxar a reação para frente
+- Racional
+    - facilita as próximas etapas (menos energia necessária):
+    - o C1 da frutose é mais fácil de fosforilar pela PFK
+    - permite a clivagem simétrica pela aldolase
+    - Uma aldose (glicose) pode isomerizar-se em uma cetose (frutose) via um intermediário enediol.
+    - A isomerização é catalisada pelo glutamato do sítio ativo via catálise ácido/base geral.
+- Ligeiramente desfavorável termodinamicamente/reversível
+    - a concentração do produto é mantida baixa pelo acoplamento com a próxima etapa favorável para impulsionar a reação para frente
 
-# Slide 22:
-Mecanismo das Aldolases de Classe I
+## Mecanismo da Fosfo-hexose Isomerase
 
-# Slide 23:
-Mecanismo das Aldolases de Classe I:
-Catálise Covalente
+![](../imgs/cap14_image08.jpg)
 
-# Slide 24:
-Mecanismo das Aldolases de Classe I:
-Catálise Básica
+## Mecanismo da Fosfo-hexose Isomerase: Catálise Básica
 
-# Slide 25:
-Mecanismo das Aldolases de Classe I:
-Catálise Básica
+![](../imgs/cap14_image09.jpg)
 
-# Slide 26:
-Mecanismo das Aldolases de Classe I:
-Catálise Ácida
+## Mecanismo da Fosfo-hexose Isomerase: Catálise Ácida
 
-# Slide 27:
-Mecanismo das Aldolases de Classe I:
-Liberação do Produto
+![](../imgs/cap14_image10.jpg)
 
-# Slide 28:
-Etapa 5: Interconversão das Trioses-Fosfato
+## Etapa 3: 2ª Fosforilação de Ativação (*Priming*)
 
-# Slide 29:
-Etapa 5: Interconversão das Trioses-Fosfato pela Triose-Fosfato Isomerase
-Racional:
-permite que a glicólise prossiga para a fase de pagamento por uma única via química
-A aldolase cria duas trioses-fosfato: 
-di-hidroxiacetona fosfato (DHAP)
-gliceraldeído-3-fosfato (GAP)
-Apenas o GAP é substrato para a próxima enzima.
-A DHAP deve ser convertida em GAP pela triose-fosfato isomerase.
-Completa a fase preparatória da glicólise
-Termodinamicamente desfavorável/reversível
-a concentração de GAP é mantida baixa para puxar a reação para frente
+![](../imgs/cap14_image11.jpg)
 
-# Slide 30:
-Carbonos da Glicose no GAP
+## Etapa 3: 2ª Fosforilação de Ativação pela Fosfofrutoquinase-1
 
-# Slide 31:
-Etapa 6: Oxidação do GAP 
+- Racional
+    - ativação adicional da glicose
+    - permite 1 fosfato/açúcar de 3 carbonos após a etapa 4
+- Primeira etapa comprometida da glicólise
+    - a frutose 1,6-bisfosfato está comprometida a tornar-se piruvato e gerar energia
+- Esse processo usa a energia do ATP.
+- Altamente favorável termodinamicamente/irreversível
+    - A fosfofrutoquinase-1 é altamente regulada.
+    - por ATP, frutose-2,6-bisfosfato e outros metabólitos
+    - não queimar glicose se houver abundância de ATP
 
-# Slide 32:
-Etapa 6: Oxidação do GAP pela Gliceraldeído-3-Fosfato Desidrogenase 
-Racional:
-geração de um composto fosfato de alta energia
-incorpora fosfato inorgânico
-o que permite a produção líquida de ATP via glicólise!
-Primeira etapa produtora de energia na glicólise
-A oxidação do aldeído com NAD+ gera NADH.
-Cisteína do sítio ativo
-forma intermediário tioéster de alta energia
-sujeita à inativação por estresse oxidativo
-Termodinamicamente desfavorável/reversível
-acoplada à próxima reação para puxar para frente
+## Etapa 4: Clivagem Aldólica da F-1,6-bP
 
+![](../imgs/cap14_image12.jpg)
 
-# Slide 33:
-Mecanismo da GAPDH
+## Etapa 4: Clivagem Aldólica da F-1,6-bP pela Aldolase
 
-# Slide 34:
-Mecanismo da GAPDH:
-Ligação do Substrato
+- Racional
+    - O açúcar de seis carbonos é clivado em dois açúcares de três carbonos.
+    - Açúcares fosfato de alta energia são açúcares de três carbonos.
+    - O processo inverso é a familiar condensação aldólica.
+- Múltiplos mecanismos para resultar no mesmo produto (ou seja, evolução convergente):
+    - Aldolases animais e vegetais empregam catálise covalente.
+- Aldolases fúngicas e bacterianas empregam catálise por íons metálicos.
+- Termodinamicamente desfavorável/reversível
+    - a concentração do produto (GAP) é mantida baixa para puxar a reação para frente
 
-# Slide 35:
-Mecanismo da GAPDH:
-Catálise Covalente
+## Mecanismo das Aldolases de Classe I
 
-# Slide 36:
-Mecanismo da GAPDH:
-Oxidação pelo NAD+
+![](../imgs/cap14_image13.jpg)
 
-# Slide 37:
-Mecanismo da GAPDH:
-Substituição do Cossubstrato
+## Mecanismo das Aldolases de Classe I: Catálise Covalente
 
-# Slide 38:
-Mecanismo da GAPDH:
-Incorporação de Pi
+![](../imgs/cap14_image14.jpg)
 
-# Slide 39:
-Etapa 7: 1ª Produção de ATP 
+## Mecanismo das Aldolases de Classe I: Catálise Básica
 
-# Slide 40:
-Etapa 7: 1ª Produção de ATP pela Fosfoglicerato Quinase 
-Racional:
-fosforilação em nível de substrato para produzir ATP
-o 1,3-bisfosfoglicerato é um composto de alta energia 
- pode doar o grupo fosfato ao ADP para produzir ATP
-Quinases são enzimas que transferem grupos fosfato entre o ATP e vários substratos.
-Altamente favorável termodinamicamente/reversível
-é reversível devido ao acoplamento com a reação da GAPDH
+![](../imgs/cap14_image15.jpg)
 
-# Slide 41:
-Etapa 8: Migração do Fosfato
+## Mecanismo das Aldolases de Classe I: Catálise Básica
 
-# Slide 42:
-Etapa 8: Migração do Fosfato pela Fosfoglicerato Mutase
-Racional: 
-ser capaz de formar composto fosfato de alta energia 
-Mutases catalisam a migração (aparente) de grupos funcionais.
-Uma das histidinas do sítio ativo é modificada pós-traducionalmente para fosfo-histidina.
-A fosfo-histidina doa seu fosfato ao 3-fosfoglicerato no oxigênio do carbono 2 antes de recuperar outro fosfato do oxigênio do carbono 3.
+![](../imgs/cap14_image16.jpg)
+
+## Mecanismo das Aldolases de Classe I: Catálise Ácida
+
+![](../imgs/cap14_image17.jpg)
+
+## Mecanismo das Aldolases de Classe I: Liberação do Produto
+
+![](../imgs/cap14_image18.jpg)
+
+## Etapa 5: Interconversão das Trioses-Fosfato
+
+![](../imgs/cap14_image19.jpg)
+
+## Etapa 5: Interconversão das Trioses-Fosfato pela Triose-Fosfato Isomerase
+
+- **Racional:**
+    - permite que a glicólise prossiga para a fase de pagamento por uma única via química
+- **A aldolase cria duas trioses-fosfato:**
+    - di-hidroxiacetona fosfato (DHAP)
+    - gliceraldeído-3-fosfato (GAP)
+- Apenas o GAP é substrato para a próxima enzima.
+- A DHAP deve ser convertida em GAP pela triose-fosfato isomerase.
+    - Completa a fase preparatória da glicólise
+- Termodinamicamente desfavorável/reversível
+    - a concentração de GAP é mantida baixa para puxar a reação para frente
+
+## Carbonos da Glicose no GAP
+
+![](../imgs/cap14_image20.jpg)
+
+## Etapa 6: Oxidação do GAP
+
+![](../imgs/cap14_image21.jpg)
+
+## Etapa 6: Oxidação do GAP pela Gliceraldeído-3-Fosfato Desidrogenase
+
+- **Racional:**
+    - geração de um composto fosfato de alta energia
+    - incorpora fosfato inorgânico
+    - o que permite a produção líquida de ATP via glicólise!
+- Primeira etapa produtora de energia na glicólise
+- A oxidação do aldeído com NAD+ gera NADH.
+- Cisteína do sítio ativo
+    - forma intermediário tioéster de alta energia
+    - sujeita à inativação por estresse oxidativo
+- Termodinamicamente desfavorável/reversível
+    - acoplada à próxima reação para puxar para frente
+
+## Mecanismo da GAPDH
+
+![](../imgs/cap14_image22.jpg)
+
+## Mecanismo da GAPDH: Ligação do Substrato
+
+![](../imgs/cap14_image23.jpg)
+
+## Mecanismo da GAPDH: Catálise Covalente
+
+![](../imgs/cap14_image24.jpg)
+
+## Mecanismo da GAPDH: Oxidação pelo NAD+
+
+![](../imgs/cap14_image25.jpg)
+
+## Mecanismo da GAPDH: Substituição do Cossubstrato
+
+![](../imgs/cap14_image26.jpg)
+
+## Mecanismo da GAPDH: Incorporação de Pi
+
+![](../imgs/cap14_image27.jpg)
+
+## Etapa 7: 1ª Produção de ATP
+
+![](../imgs/cap14_image28.jpg)
+
+## Etapa 7: 1ª Produção de ATP pela Fosfoglicerato Quinase
+
+- **Racional:**
+    - fosforilação em nível de substrato para produzir ATP
+    - o 1,3-bisfosfoglicerato é um composto de alta energia pode doar o grupo fosfato ao ADP para produzir ATP
+- Quinases são enzimas que transferem grupos fosfato entre o ATP e vários substratos.
+- Altamente favorável termodinamicamente/reversível
+    - é reversível devido ao acoplamento com a reação da GAPDH
+
+## Etapa 8: Migração do Fosfato
+
+![](../imgs/cap14_image29.jpg)
+
+## Etapa 8: Migração do Fosfato pela Fosfoglicerato Mutase
+
+- **Racional:**
+    - ser capaz de formar composto fosfato de alta energia
+- Mutases catalisam a migração (aparente) de grupos funcionais.
+- Uma das histidinas do sítio ativo é modificada pós-traducionalmente para fosfo-histidina.
+- A fosfo-histidina doa seu fosfato ao 3-fosfoglicerato no oxigênio do carbono 2 antes de recuperar outro fosfato do oxigênio do carbono 3.
+
+::: {.callout-important appearance="simple"}
 Observe que o fosfato do substrato acaba ligado à enzima no final da reação.
-Termodinamicamente desfavorável/reversível
-a concentração do reagente é mantida alta pela PGK para empurrar para frente
+:::
 
+- Termodinamicamente desfavorável/reversível
+    - a concentração do reagente é mantida alta pela PGK para empurrar para frente
 
-# Slide 43:
-Mecanismo da Fosfoglicerato Mutase:
-Transferência de Fosforil Catalisada por Base
+## Mecanismo da Fosfoglicerato Mutase: Transferência de Fosforil Catalisada por Base
 
-# Slide 44:
-Mecanismo da Fosfoglicerato Mutase:
-Transferência de Fosforil Catalisada por Ácido
+![](../imgs/cap14_image30.jpg)
 
-# Slide 45:
-Etapa 9: Desidratação de 2-PG a PEP
+## Mecanismo da Fosfoglicerato Mutase: Transferência de Fosforil Catalisada por Ácido
 
-# Slide 46:
-Etapa 9: Desidratação de 2-PG a PEP
-Racional:
-gerar um composto fosfato de alta energia
-O 2-fosfoglicerato não é um doador de fosfato bom o suficiente para gerar ATP.
-duas cargas negativas no 2-PG estão bastante próximas
-mas a perda de fosfato do 2-PG geraria um álcool secundário sem estabilização adicional
-Ligeiramente desfavorável termodinamicamente/reversível
-a concentração do produto é mantida baixa para puxar para frente
+![](../imgs/cap14_image31.jpg)
 
-# Slide 47:
-Etapa 10: 2ª Produção de ATP
+## Etapa 9: Desidratação de 2-PG a PEP
 
-# Slide 48:
-Etapa 10: 2ª Produção de ATP pela Piruvato Quinase
-Racional:
-fosforilação em nível de substrato para produzir ATP
-produção líquida de 2 ATP/glicose
-A perda de fosfato do PEP produz um enol que tautomeriza em cetona.
-Tautomerização 
-diminui efetivamente a concentração do produto da reação
-impulsiona a reação em direção à formação de ATP 
-A piruvato quinase requer metais divalentes (Mg++ ou Mn++) para atividade.
-Altamente favorável termodinamicamente/irreversível
-regulada por ATP, metais divalentes e outros metabólitos
+![](../imgs/cap14_image32.jpg)
 
+## Etapa 9: Desidratação de 2-PG a PEP
 
-# Slide 49:
-A Tautomerização do Piruvato 
-Impulsiona a Produção de ATP
+- **Racional:**
+    - gerar um composto fosfato de alta energia
+- O 2-fosfoglicerato não é um doador de fosfato bom o suficiente para gerar ATP.
+    - duas cargas negativas no 2-PG estão bastante próximas
+    - mas a perda de fosfato do 2-PG geraria um álcool secundário sem estabilização adicional
+- Ligeiramente desfavorável termodinamicamente/reversível
+    - a concentração do produto é mantida baixa para puxar para frente
 
-# Slide 50:
-Resumo da Glicólise
-Consumidos:
-1 glicose; 2 ATP; 2 NAD+
-Produzidos:
-2 piruvatos
-vários destinos diferentes
-4 ATP
-usados para processos que requerem energia dentro da célula
-2 NADH
-devem ser reoxidados a NAD+ para que a glicólise continue
-A glicólise é fortemente regulada.
-garantir o uso adequado de nutrientes
-garantir a produção de ATP apenas quando necessário
+## Etapa 10: 2ª Produção de ATP
+
+![](../imgs/cap14_image33.jpg)
+
+## Etapa 10: 2ª Produção de ATP pela Piruvato Quinase
+
+- **Racional:**
+    - fosforilação em nível de substrato para produzir ATP
+    - produção líquida de 2 ATP/glicose
+- A perda de fosfato do PEP produz um enol que tautomeriza em cetona.
+- Tautomerização
+    - diminui efetivamente a concentração do produto da reação
+    - impulsiona a reação em direção à formação de ATP
+    - A piruvato quinase requer metais divalentes (Mg++ ou Mn++) para atividade.
+- Altamente favorável termodinamicamente/irreversível
+    - regulada por ATP, metais divalentes e outros metabólitos
+
+## A Tautomerização do Piruvato Impulsiona a Produção de ATP
+
+![](../imgs/cap14_image34.jpg)
+
+## Resumo da Glicólise
+
+- **Consumidos:**
+    - 1 glicose; 2 ATP; 2 NAD+
+- **Produzidos:**
+    - 2 piruvatos
+    - vários destinos diferentes
+- 4 ATP
+    - usados para processos que requerem energia dentro da célula
+- 2 NADH
+    - devem ser reoxidados a NAD+ para que a glicólise continue
+- A glicólise é fortemente regulada.
+    - garantir o uso adequado de nutrientes
+    - garantir a produção de ATP apenas quando necessário
+
+::: {style="text-align:center"}
 Glicose + 2 NAD+ + 2 ADP + 2 Pi → 2 Piruvato + 2 NADH + 2 H+ + 2 ATP
+:::
 
-# Slide 51:
-Lógica Química da Glicólise
+## Lógica Química da Glicólise
 
-# Slide 52:
-Vias Alimentadoras da Glicólise
-Moléculas de glicose são clivadas do glicogênio e do amido pela glicogênio fosforilase.
-gerando glicose-1-fosfato
-usa fosfato inorgânico como fonte de fosfato
-Dissacarídeos são hidrolisados.
-lactose: glicose e galactose
-sacarose: glicose e frutose
-Os monossacarídeos frutose, galactose e manose entram na glicólise em pontos diferentes.
+:::: {.columns}
+::: {.column width="50%"}
+![](../imgs/cap14_image35.jpg)
+:::
 
-# Slide 53:
-A Oxidação de Múltiplos Carboidratos Envolve a Glicólise
+::: {.column width="50%"}
+![](../imgs/cap14_image36.jpg)
+:::
 
-# Slide 54:
-Destinos do Piruvato
+::::
 
-# Slide 55:
-Glicólise Anaeróbia:
-Fermentação
-Geração de energia (ATP) sem consumir oxigênio ou NAD+
-Nenhuma mudança líquida no estado de oxidação dos açúcares
-Redução do piruvato a outro produto
-Regenera NAD+ para glicólise adicional sob condições anaeróbias
-O processo é usado na produção de alimentos, desde cerveja até iogurte e molho de soja.
+## Vias Alimentadoras da Glicólise
 
-# Slide 56:
-Animais Realizam 
-Fermentação Láctica
-Redução de piruvato a lactato, reversível
-Durante exercício extenuante, o lactato acumula-se no músculo.
-geralmente menos de 1 minuto
-A acidificação do músculo impede seu trabalho extenuante contínuo.
-O lactato pode ser transportado para o fígado e convertido em glicose lá.
-Requer um tempo de recuperação
-alta quantidade de consumo de oxigênio para alimentar a gliconeogênese
-restaura os estoques de glicogênio muscular
+- Moléculas de glicose são clivadas do glicogênio e do amido pela glicogênio fosforilase.
+    - gerando glicose-1-fosfato
+    - usa fosfato inorgânico como fonte de fosfato
+- Dissacarídeos são hidrolisados.
+    - lactose: glicose e galactose
+    - sacarose: glicose e frutose
+- Os monossacarídeos frutose, galactose e manose entram na glicólise em pontos diferentes.
 
-# Slide 57:
-Fermentação Láctica
+## A Oxidação de Múltiplos Carboidratos Envolve a Glicólise
 
-# Slide 58:
-Fermentação Láctica
+![](../imgs/cap14_image37.jpg)
 
-# Slide 59:
-A Glicólise Ocorre em Taxas Elevadas
- em Células Tumorais
-Células tumorais frequentemente crescem mais rápido do que a angiogênese permite o crescimento de capilares para oxigená-las, resultando em metabolismo anaeróbio.
-Células tumorais aumentam a expressão de LDH.
-Compostos que inibem etapas-chave na glicólise podem matar células cancerígenas limitando a produção de energia.
+## Destinos do Piruvato
 
-# Slide 60:
-Leveduras Realizam
-Fermentação Etanólica
-Redução em duas etapas do piruvato a etanol
-Humanos não possuem piruvato descarboxilase. 
-Expressamos álcool desidrogenase para o metabolismo do etanol, mas ela é amplamente usada na reação inversa.
-O CO2 produzido na primeira etapa é responsável por:
-carbonatação na cerveja 
-crescimento da massa ao assar pão
-Ambas as etapas requerem cofatores.
-piruvato descarboxilase: Mg++ e pirofosfato de tiamina
-álcool desidrogenase: Zn++ e NAD+
+![](../imgs/cap14_image38.jpg)
 
-# Slide 61:
-Fermentação Etanólica
+## Glicólise Anaeróbia: Fermentação
 
-# Slide 62:
-TPP É um Carreador Comum de Acetaldeído
+- Geração de energia (ATP) sem consumir oxigênio ou NAD+
+- Nenhuma mudança líquida no estado de oxidação dos açúcares
+- Redução do piruvato a outro produto
+- Regenera NAD+ para glicólise adicional sob condições anaeróbias
+- O processo é usado na produção de alimentos, desde cerveja até iogurte e molho de soja.
+
+## Animais Realizam Fermentação Láctica
+
+- Redução de piruvato a lactato, reversível
+- Durante exercício extenuante, o lactato acumula-se no músculo.
+    - geralmente menos de 1 minuto
+- A acidificação do músculo impede seu trabalho extenuante contínuo.
+- O lactato pode ser transportado para o fígado e convertido em glicose lá.
+- Requer um tempo de recuperação
+    - alta quantidade de consumo de oxigênio para alimentar a gliconeogênese
+    - restaura os estoques de glicogênio muscular
+
+## Fermentação Láctica
+
+![](../imgs/cap14_image39.jpg)
+
+## Fermentação Láctica
+
+![](../imgs/cap14_image40.jpg)
+
+## A Glicólise Ocorre em Taxas Elevadas
+
+- em Células Tumorais
+- Células tumorais frequentemente crescem mais rápido do que a angiogênese permite o crescimento de capilares para oxigená-las, resultando em metabolismo anaeróbio.
+- Células tumorais aumentam a expressão de LDH.
+- Compostos que inibem etapas-chave na glicólise podem matar células cancerígenas limitando a produção de energia.
+
+![](../imgs/cap14_image41.jpg)
+
+## Leveduras Realizam
+
+- Fermentação Etanólica
+- Redução em duas etapas do piruvato a etanol
+- Humanos não possuem piruvato descarboxilase.
+- Expressamos álcool desidrogenase para o metabolismo do etanol, mas ela é amplamente usada na reação inversa.
+- O CO2 produzido na primeira etapa é responsável por:
+    - carbonatação na cerveja
+    - crescimento da massa ao assar pão
+- Ambas as etapas requerem cofatores.
+    - piruvato descarboxilase: Mg++ e pirofosfato de tiamina
+    - álcool desidrogenase: Zn++ e NAD+
+
+## Fermentação Etanólica
+
+![](../imgs/cap14_image42.jpg)
+
+## TPP É um Carreador Comum de Acetaldeído
+
 O TPP forma uma ligação covalente com o carbono carbonílico, formando um álcool e resultando na liberação de CO2.
 
 O TPP então permite o rearranjo e a protonação do carbono carbonílico para liberação do complexo.
 
-# Slide 63:
-TPP É um Carreador Comum de Acetaldeído
+![](../imgs/cap14_image43.jpg)
 
-# Slide 64:
-Gliconeogênese: 
-Produzindo “Nova” Glicose
-Observe que mamíferos não conseguem converter ácidos graxos em açúcares. 
+## TPP É um Carreador Comum de Acetaldeído
 
-# Slide 65:
-Glicólise versus Gliconeogênese
-A gliconeogênese ocorre principalmente no fígado. 
-A glicólise ocorre principalmente no músculo e no cérebro.
+:::: {.columns}
+::: {.column width="33%"}
+![](../imgs/cap14_image44.jpg)
+:::
 
-# Slide 66:
-Glicólise versus Gliconeogênese
-Vias opostas que são ambas termodinamicamente favoráveis
-operam em direções opostas
- o produto final de uma é o composto inicial da outra
-Reações reversíveis são usadas por ambas as vias.
-Reações irreversíveis da glicólise devem ser contornadas (*bypassed*) na gliconeogênese.
-nenhum ATP é gerado durante a gliconeogênese
-enzimas diferentes nas diferentes vias
-reguladas diferencialmente para evitar um ciclo fútil
+::: {.column width="33%"}
+![](../imgs/cap14_image45.jpg)
+:::
 
-# Slide 67:
-Etapas 1 e 2: Piruvato a Fosfoenolpiruvato
-Requer duas etapas consumidoras de energia
-Na primeira etapa, a piruvato carboxilase converte piruvato em oxaloacetato.
-carboxilação usando um cofator de biotina
-requer transporte para dentro da mitocôndria
-Na segunda etapa, a fosfoenolpiruvato carboxiquinase converte oxaloacetato em PEP.
-fosforilação a partir de GTP e descarboxilação 
-ocorre na mitocôndria ou no citosol dependendo do organismo
-Durante essa conversão, o mesmo carbono é adicionado e imediatamente removido da estrutura. 
+::: {.column width="33%"}
+![](../imgs/cap14_image46.jpg)
+:::
 
-# Slide 68:
-Síntese de Oxaloacetato
+::::
 
-# Slide 69:
-Biotina É um Carreador de CO2
+## Gliconeogênese: Produzindo “Nova” Glicose
 
-# Slide 70:
-Oxaloacetato a Fosfoenolpiruvato
+::: {.callout-important appearance="simple"}
+Observe que mamíferos não conseguem converter ácidos graxos em açúcares.
+:::
 
-# Slide 71:
-Primeiras Etapas Gliconeogênicas Atravessam as Mitocôndrias
-A membrana mitocondrial interna é seletivamente permeável: malato, PEP e piruvato são permeáveis, enquanto o oxaloacetato não consegue escapar.
-O oxaloacetato pode ser utilizado no ciclo do ácido cítrico (ciclo de Krebs) se necessário.
-O oxaloacetato pode ser convertido em PEP ou malato para permitir o transporte para o citosol para a gliconeogênese.
+![](../imgs/cap14_image47.jpg)
 
-# Slide 72:
-Desvios (*Bypasses*) Adicionais
-Catalisam a reação inversa da etapa oposta na glicólise
-São irreversíveis por si mesmas
+## Glicólise versus Gliconeogênese
 
+- A gliconeogênese ocorre principalmente no fígado.
+- A glicólise ocorre principalmente no músculo e no cérebro.
+
+![](../imgs/cap14_image48.jpg)
+
+## Glicólise versus Gliconeogênese
+
+- Vias opostas que são ambas termodinamicamente favoráveis
+    - operam em direções opostas
+    - o produto final de uma é o composto inicial da outra
+- Reações reversíveis são usadas por ambas as vias.
+- Reações irreversíveis da glicólise devem ser contornadas (*bypassed*) na gliconeogênese.
+    - nenhum ATP é gerado durante a gliconeogênese
+    - enzimas diferentes nas diferentes vias
+    - reguladas diferencialmente para evitar um ciclo fútil
+
+## Etapas 1 e 2: Piruvato a Fosfoenolpiruvato
+
+- Requer duas etapas consumidoras de energia
+- Na primeira etapa, a piruvato carboxilase converte piruvato em oxaloacetato.
+    - carboxilação usando um cofator de biotina
+    - requer transporte para dentro da mitocôndria
+- Na segunda etapa, a fosfoenolpiruvato carboxiquinase converte oxaloacetato em PEP.
+    - fosforilação a partir de GTP e descarboxilação ocorre na mitocôndria ou no citosol dependendo do organismo
+- Durante essa conversão, o mesmo carbono é adicionado e imediatamente removido da estrutura.
+
+## Síntese de Oxaloacetato
+
+![](../imgs/cap14_image49.jpg)
+
+## Biotina É um Carreador de CO2
+
+![](../imgs/cap14_image50.jpg)
+
+## Oxaloacetato a Fosfoenolpiruvato
+
+![](../imgs/cap14_image51.jpg)
+
+## Primeiras Etapas Gliconeogênicas Atravessam as Mitocôndrias
+
+- A membrana mitocondrial interna é seletivamente permeável: malato, PEP e piruvato são permeáveis, enquanto o oxaloacetato não consegue escapar.
+- O oxaloacetato pode ser utilizado no ciclo do ácido cítrico (ciclo de Krebs) se necessário.
+- O oxaloacetato pode ser convertido em PEP ou malato para permitir o transporte para o citosol para a gliconeogênese.
+
+![](../imgs/cap14_image52.jpg)
+
+## Desvios (*Bypasses*) Adicionais
+
+- Catalisam a reação inversa da etapa oposta na glicólise
+- São irreversíveis por si mesmas
+
+::: {style="text-align:center"}
 Frutose 1,6-bisfosfato → frutose 6-fosfato
-pela frutose bisfosfatase-1
-regulada coordenadamente/opostamente com a PFK
-cliva o fosfato com água
-NÃO gera ATP
+:::
 
+- pela frutose bisfosfatase-1
+    - regulada coordenadamente/opostamente com a PFK
+    - cliva o fosfato com água
+- NÃO gera ATP
+
+::: {style="text-align:center"}
 Glicose 6-fosfato → glicose
-pela glicose 6-fosfatase
-segregada no retículo endoplasmático
-cliva o fosfato com água
-NÃO gera ATP
+:::
 
-# Slide 73:
-A Gliconeogênese É Cara (Energeticamente)
-Custa 4 ATP, 2 GTP e 2 NADH
-Fisiologicamente necessária: cérebro, sistema nervoso e hemácias geram ATP APENAS a partir de glicose.
-Permite a geração de glicose quando os estoques de glicogênio estão esgotados:
-durante o jejum prolongado/inanição
-durante exercício vigoroso
-pode gerar glicose a partir de aminoácidos, mas não de ácidos graxos
-2 Piruvato + 4 ATP + 2 GTP + 2 NADH + 2 H+ + 4 H2O → 
-			Glicose + 4 ADP + 2 GDP + 6 Pi  + 2 NAD+
+- pela glicose 6-fosfatase
+    - segregada no retículo endoplasmático
+    - cliva o fosfato com água
+- NÃO gera ATP
 
-# Slide 74:
-Precursores para a Gliconeogênese
-Animais podem produzir glicose a partir de açúcares ou proteínas.
-açúcares: piruvato, lactato ou oxaloacetato
-proteínas: a partir de aminoácidos que podem ser convertidos em intermediários do ciclo do ácido cítrico (ou aminoácidos glicogênicos) 
+## A Gliconeogênese É Cara (Energeticamente)
 
-Animais não conseguem produzir glicose a partir de ácidos graxos.
-o produto da degradação de ácidos graxos é acetil-CoA
-não pode haver conversão líquida de acetil-CoA em oxaloacetato
-Plantas, leveduras e muitas bactérias conseguem fazer isso, produzindo assim glicose a partir de ácidos graxos.
+- Custa 4 ATP, 2 GTP e 2 NADH
+- Fisiologicamente necessária: cérebro, sistema nervoso e hemácias geram ATP APENAS a partir de glicose.
+- Permite a geração de glicose quando os estoques de glicogênio estão esgotados:
+    - durante o jejum prolongado/inanição
+    - durante exercício vigoroso
+    - pode gerar glicose a partir de aminoácidos, mas não de ácidos graxos
 
-# Slide 75:
-TABELA 14-4	Aminoácidos Glicogênicos, Agrupados por Sítio de Entrada	
-Piruvato 
-Alanina 
-Cisteína 
-Glicina 
-Serina 
-Treonina 
-Triptofanoa	Succinil-CoA
-Isoleucinaa
-Metionina
-Treonina
-Valina	
-Fumarato
-Fenilalaninaa
-Tirosinaa	
-α-Cetoglutarato 
-Arginina 
-Glutamato 
-Glutamina 
-Histidina
-Prolina		
-	Oxaloacetato
-Asparagina
-Aspartato	
-Nota: Todos esses aminoácidos são precursores da glicose sanguínea ou do glicogênio hepático, pois podem ser convertidos em piruvato ou intermediários do ciclo do ácido cítrico. Dos 20 aminoácidos comuns, apenas leucina e lisina são incapazes de fornecer carbono para a síntese líquida de glicose.
-aEstes aminoácidos também são cetogênicos (ver Fig. 18-15).	
+::: {style="text-align:center"}
+2 Piruvato + 4 ATP + 2 GTP + 2 NADH + 2 H+ + 4 H2O → Glicose + 4 ADP + 2 GDP + 6 Pi  + 2 NAD+
+:::
 
-# Slide 76:
-Duas Fases da Via das Pentoses-Fosfato Simplificadas
+## Precursores para a Gliconeogênese
 
-# Slide 77:
-Via das Pentoses-Fosfato
-Os principais produtos são NADPH e ribose 5-fosfato.
-O NADPH é um doador de elétrons.
-biossíntese redutiva de ácidos graxos e esteroides
-reparo de danos oxidativos
-A ribose-5-fosfato é um precursor biossintético de nucleotídeos.
-usada na síntese de DNA e RNA
-ou síntese de algumas coenzimas
+- Animais podem produzir glicose a partir de açúcares ou proteínas.
+    - açúcares: piruvato, lactato ou oxaloacetato
+    - proteínas: a partir de aminoácidos que podem ser convertidos em intermediários do ciclo do ácido cítrico (ou aminoácidos glicogênicos)
 
-# Slide 78:
-A Fase Oxidativa Gera NADPH e uma Pentose 
+- Animais não conseguem produzir glicose a partir de ácidos graxos.
+    - o produto da degradação de ácidos graxos é acetil-CoA
+    - não pode haver conversão líquida de acetil-CoA em oxaloacetato
+- Plantas, leveduras e muitas bactérias conseguem fazer isso, produzindo assim glicose a partir de ácidos graxos.
 
-# Slide 79:
-A Fase Oxidativa Gera NADPH e uma Pentose 
+## TABELA 14-4 — Aminoácidos Glicogênicos, Agrupados por Sítio de Entrada
+
+| Piruvato | Succinil-CoA | Fumarato | α-Cetoglutarato | Oxaloacetato |
+|:--|:--|:--|:--|:--|
+| Alanina <br> Cisteína <br> Glicina <br> Serina <br> Treonina <br> Triptofanoa | Isoleucinaa <br> Metionina <br> Treonina <br> Valina | Fenilalaninaa <br> Tirosinaa | Arginina <br> Glutamato <br> Glutamina <br> Histidina <br> Prolina | Asparagina <br> Aspartato |
+
+::: {.callout-note appearance="simple" title="Nota"}
+Todos esses aminoácidos são precursores da glicose sanguínea ou do glicogênio hepático, pois podem ser convertidos em piruvato ou intermediários do ciclo do ácido cítrico. Dos 20 aminoácidos comuns, apenas leucina e lisina são incapazes de fornecer carbono para a síntese líquida de glicose.
+:::
+
+<small>aEstes aminoácidos também são cetogênicos (ver Fig. 18-15).</small>
+
+## Duas Fases da Via das Pentoses-Fosfato Simplificadas
+
+![](../imgs/cap14_image53.jpg)
+
+## Via das Pentoses-Fosfato
+
+- Os principais produtos são NADPH e ribose 5-fosfato.
+- O NADPH é um doador de elétrons.
+    - biossíntese redutiva de ácidos graxos e esteroides
+    - reparo de danos oxidativos
+- A ribose-5-fosfato é um precursor biossintético de nucleotídeos.
+    - usada na síntese de DNA e RNA
+    - ou síntese de algumas coenzimas
+
+## A Fase Oxidativa Gera NADPH e uma Pentose
+
+![](../imgs/cap14_image54.jpg)
+
+## A Fase Oxidativa Gera NADPH e uma Pentose
+
 A ribulose-5-fosfato pode ser usada para gerar ribose-5-fosfato para DNA/RNA.
 
+A ribulose-5-fosfato também pode ser usada para gerar xilulose-5-fosfato para a via das pentoses-fosfato não oxidativa.
 
+:::: {.columns}
+::: {.column width="33%"}
+![](../imgs/cap14_image55.jpg)
+:::
 
+::: {.column width="33%"}
+![](../imgs/cap14_image56.png)
+:::
 
+::: {.column width="33%"}
+![](../imgs/cap14_image57.jpg)
+:::
 
+::::
 
+## Fase Não Oxidativa
 
+- Regenera G-6-P a partir de R-5-P
+- Usada em tecidos que requerem mais NADPH do que R-5-P
+    - como o fígado e o tecido adiposo
 
+![](../imgs/cap14_image58.jpg)
 
+## Nenhum ATP é usado na fase não oxidativa.
 
-A ribulose-5-fosfato também pode ser usada para 
-gerar xilulose-5-fosfato para a 
-via das pentoses-fosfato não oxidativa.
-
-# Slide 80:
-Fase Não Oxidativa
-Regenera G-6-P a partir de R-5-P
-Usada em tecidos que requerem mais NADPH do que R-5-P
-como o fígado e o tecido adiposo
-
-
-# Slide 81:
-Nenhum ATP é usado na fase não oxidativa.
 A conversão completa de ribose-5-fosfato em glicose-6-fosfato requer 6 R5P para produzir 5 G6P.
 
 A Fase Não Oxidativa Resulta em Perda Líquida de Carbonos, mas Não de Energia
 
-# Slide 82:
-O NADPH Regula a Partição entre a Glicólise versus Via das Pentoses-Fosfato
+![](../imgs/cap14_image59.jpg)
 
-# Slide 83:
-Pode ser fatal em casos de alto estresse oxidativo.
-certos fármacos, herbicidas e alguns alimentos
-Resistência à malária devido ao alto estresse oxidativo nas hemácias
-Deficiência de G-6-P Desidrogenase
+## O NADPH Regula a Partição entre a Glicólise versus Via das Pentoses-Fosfato
 
-# Slide 84:
-Capítulo 14: Resumo
-Glicólise, um processo pelo qual as células podem extrair uma quantidade limitada de energia da glicose 
-Fermentação, um processo pelo qual as células podem continuar usando a glicólise para extrair energia em condições anaeróbias
-Gliconeogênese, um processo pelo qual as células podem usar uma variedade de metabólitos para a síntese de glicose
-As diferenças entre glicólise e gliconeogênese 
-como ambas são tornadas termodinamicamente favoráveis 
-como são reguladas diferencialmente para evitar um ciclo fútil 
-A via das pentoses-fosfato, um processo pelo qual as células podem gerar pentoses-fosfato e NADPH. As pentoses-fosfato podem ser regeneradas em glicose-6-fosfato, o que não requer ATP.
-Neste capítulo, aprendemos sobre:
+![](../imgs/cap14_image60.jpg)
+
+## Pode ser fatal em casos de alto estresse oxidativo.
+
+- certos fármacos, herbicidas e alguns alimentos
+- Resistência à malária devido ao alto estresse oxidativo nas hemácias
+- Deficiência de G-6-P Desidrogenase
+
+![](../imgs/cap14_image61.jpg)
+
+## Capítulo 14: Resumo {.smaller}
+
+**Neste capítulo, aprendemos sobre:**
+
+- Glicólise, um processo pelo qual as células podem extrair uma quantidade limitada de energia da glicose
+- Fermentação, um processo pelo qual as células podem continuar usando a glicólise para extrair energia em condições anaeróbias
+- Gliconeogênese, um processo pelo qual as células podem usar uma variedade de metabólitos para a síntese de glicose
+- As diferenças entre glicólise e gliconeogênese como ambas são tornadas termodinamicamente favoráveis como são reguladas diferencialmente para evitar um ciclo fútil
+- A via das pentoses-fosfato, um processo pelo qual as células podem gerar pentoses-fosfato e NADPH. As pentoses-fosfato podem ser regeneradas em glicose-6-fosfato, o que não requer ATP.

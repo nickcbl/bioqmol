@@ -1,17 +1,15 @@
 ---
-title: "Capítulo"
-# author: Nicholas Costa & Nicholas Barroso
+title: "Água, o solvente da vida"
 lang: pt-BR
 date: today
 date-format: "DD/MM/YYYY"
 format:
   revealjs:
     pdf-separate-fragments: true
-#    width: 1600
-#    height: 900
+##    width: 1600
+##    height: 900
     width: 960
     height: 720
-#    logo: imgs/logo.png
     incremental: false
     theme: tema_azul.scss
     lightbox: true
@@ -50,7 +48,7 @@ format:
 
 <!-- Slide 2 -->
 
-# CAPÍTULO 2<br>Água {.smaller}
+## CAPÍTULO 2<br>Água {.smaller}
 
 *Objetivos de aprendizagem:*
 
@@ -64,7 +62,7 @@ format:
 
 <!-- Slide 3 -->
 
-# A Água É o Meio para a Vida
+## A Água É o Meio para a Vida
 
 - A vida evoluiu na água devido à proteção que ela oferece contra a luz UV.
 
@@ -76,7 +74,7 @@ format:
 
 <!-- Slide 4 -->
 
-# Estrutura da Molécula de Água {.smaller}
+## Estrutura da Molécula de Água {.smaller}
 
 - A regra do octeto dita que existem quatro pares de elétrons ao redor de um átomo de oxigênio na água.
 - Esses elétrons estão em quatro orbitais *sp*^3^.
@@ -94,7 +92,7 @@ format:
 
 <!-- Slide 6 -->
 
-# Ligações de Hidrogênio
+## Ligações de Hidrogênio
 
 - Ligações de hidrogênio são fortes interações dipolo-dipolo ou carga-dipolo que surgem entre um hidrogênio ligado covalentemente e um par isolado de elétrons.
 - Elas geralmente envolvem dois átomos eletronegativos (frequentemente nitrogênio e oxigênio).
@@ -109,7 +107,7 @@ format:
 
 <!-- Slide 8 -->
 
-# Ligações de Hidrogênio na Água {.smaller}
+## Ligações de Hidrogênio na Água {.smaller}
 
 - A água pode atuar tanto como:
   - doadora de H
@@ -129,7 +127,7 @@ format:
 
 <!-- Slide 10 -->
 
-# Importância das Ligações de Hidrogênio {.smaller}
+## Importância das Ligações de Hidrogênio {.smaller}
 
 - Fonte das propriedades únicas da água
 - Estrutura e função das proteínas
@@ -147,13 +145,13 @@ format:
 
 <!-- Slide 11 -->
 
-# Relevância Biológica das Ligações de Hidrogênio
+## Relevância Biológica das Ligações de Hidrogênio
 
 ![](../imgs/cap02.image7.jpg){.r-stretch fig-align="center"}
 
 <!-- Slide 12 -->
 
-# Gelo: Água no Estado Sólido
+## Gelo: Água no Estado Sólido
 
 - A água possui muitas formas cristalinas diferentes; o gelo hexagonal é o mais comum.
 - O gelo hexagonal forma uma rede organizada e, portanto, tem baixa entropia.
@@ -169,7 +167,7 @@ format:
 
 <!-- Slide 14 -->
 
-# Água como Solvente
+## Água como Solvente
 
 - A água é um bom solvente para substâncias carregadas e polares:
   - aminoácidos e peptídeos
@@ -189,7 +187,7 @@ format:
 
 <!-- Slide 16 -->
 
-# Física das Interações Não Covalentes {.smaller}
+## Física das Interações Não Covalentes {.smaller}
 
 Interações não covalentes não envolvem o compartilhamento de um par de elétrons. Com base em sua origem física, pode-se distinguir entre:
 
@@ -205,25 +203,25 @@ Interações não covalentes não envolvem o compartilhamento de um par de elét
 
 <!-- Slide 17 -->
 
-# Exemplos de Interações Não Covalentes
+## Exemplos de Interações Não Covalentes
 
 ![](../imgs/cap02.image22.jpg){.r-stretch fig-align="center"}
 
 <!-- Slide 18 -->
 
-# Dissolver Sais Envolve Quebrar Interações Iônicas
+## Dissolver Sais Envolve Quebrar Interações Iônicas
 
 ![](../imgs/cap02.image10.png){.r-stretch fig-align="center"}
 
 <!-- Slide 19 -->
 
-# Dissolver Sais Envolve Quebrar Interações Iônicas
+## Dissolver Sais Envolve Quebrar Interações Iônicas
 
 ![](../imgs/cap02.image14.jpg){.r-stretch fig-align="center"}
 
 <!-- Slide 20 -->
 
-# Interações de van der Waals {.smaller}
+## Interações de van der Waals {.smaller}
 
 - As interações de van der Waals têm dois componentes:
   - força atrativa (dispersão de London), que depende da polarizabilidade
@@ -234,7 +232,7 @@ Interações não covalentes não envolvem o compartilhamento de um par de elét
 
 <!-- Slide 21 -->
 
-# Significado Bioquímico das <br>Interações de van der Waals
+## Significado Bioquímico das <br>Interações de van der Waals
 
 - Fracas individualmente
   - facilmente quebradas, reversíveis
@@ -247,7 +245,7 @@ Interações não covalentes não envolvem o compartilhamento de um par de elét
 
 <!-- Slide 22 -->
 
-# O Efeito Hidrofóbico {.smaller}
+## O Efeito Hidrofóbico {.smaller}
 
 - Refere-se à associação ou interação de moléculas apolares ou componentes de moléculas em solução aquosa
 - É um dos principais fatores por trás de:
@@ -259,7 +257,7 @@ Interações não covalentes não envolvem o compartilhamento de um par de elét
 
 <!-- Slide 23 -->
 
-# Solubilidade de Solutos Polares e Apolares
+## Solubilidade de Solutos Polares e Apolares
 
 ![](../imgs/cap02.image40.jpg){.r-stretch fig-align="center"}
 
@@ -267,7 +265,7 @@ Interações não covalentes não envolvem o compartilhamento de um par de elét
 
 <!-- Slide 24 -->
 
-# A Água ao Redor de Solutos Apolares Tem Menor Entropia
+## A Água ao Redor de Solutos Apolares Tem Menor Entropia
 
 ![](../imgs/cap02.image3.jpg){.absolute left=144 top=154 width=568 height=502}
 
@@ -290,7 +288,7 @@ Baixa entropia é termodinamicamente desfavorável, portanto solutos hidrofóbic
 
 <!-- Slide 25 -->
 
-# Origem do Efeito Hidrofóbico {.smaller}
+## Origem do Efeito Hidrofóbico {.smaller}
 
 ::: {.absolute left=24 top=160 width=522}
 - Considere lipídios anfipáticos na água.
@@ -305,7 +303,7 @@ Baixa entropia é termodinamicamente desfavorável, portanto solutos hidrofóbic
 
 <!-- Slide 26 -->
 
-# Origem do Efeito Hidrofóbico {.smaller}
+## Origem do Efeito Hidrofóbico {.smaller}
 
 - Porções apolares da molécula anfipática agregam-se para que menos moléculas de água fiquem ordenadas e a entropia aumente.
 - Todos os grupos apolares são sequestrados da água, e as moléculas de água liberadas aumentam ainda mais a entropia.
@@ -317,7 +315,7 @@ Baixa entropia é termodinamicamente desfavorável, portanto solutos hidrofóbic
 
 <!-- Slide 27 -->
 
-# Origem do Efeito Hidrofóbico
+## Origem do Efeito Hidrofóbico
 
 - Com concentração suficientemente alta de moléculas anfipáticas, é possível a agregação completa em micelas.
 
@@ -331,7 +329,7 @@ Baixa entropia é termodinamicamente desfavorável, portanto solutos hidrofóbic
 
 <!-- Slide 28 -->
 
-# O Efeito Hidrofóbico Favorece a Ligação de Ligantes
+## O Efeito Hidrofóbico Favorece a Ligação de Ligantes
 
 - Sítios de ligação em enzimas e receptores são frequentemente hidrofóbicos.
 
@@ -347,7 +345,7 @@ Baixa entropia é termodinamicamente desfavorável, portanto solutos hidrofóbic
 
 <!-- Slide 30 -->
 
-# Solutos Podem Alterar as Propriedades da Água {.smaller}
+## Solutos Podem Alterar as Propriedades da Água {.smaller}
 
 - Propriedades coligativas:
   - ponto de ebulição, ponto de fusão e osmolaridade
@@ -359,7 +357,7 @@ Baixa entropia é termodinamicamente desfavorável, portanto solutos hidrofóbic
 
 <!-- Slide 31 -->
 
-# Pressão Osmótica {.smaller}
+## Pressão Osmótica {.smaller}
 
 - A água move-se de áreas de alta concentração de água (baixa concentração de soluto) para áreas de baixa concentração de água (alta concentração de soluto).
 - Pressão osmótica (*π*) é a força necessária para resistir a esse movimento.
@@ -368,19 +366,19 @@ Baixa entropia é termodinamicamente desfavorável, portanto solutos hidrofóbic
 
 <!-- Slide 32 -->
 
-# Pressão Osmótica
+## Pressão Osmótica
 
 ![](../imgs/cap02.image13.jpg){.r-stretch fig-align="center"}
 
 <!-- Slide 33 -->
 
-# Efeito da Pressão Osmótica nas Células
+## Efeito da Pressão Osmótica nas Células
 
 ![](../imgs/cap02.image8.jpg){.r-stretch fig-align="center"}
 
 <!-- Slide 34 -->
 
-# Ionização da Água {.smaller}
+## Ionização da Água {.smaller}
 
 $$\mathrm{H_2O} \rightleftharpoons \mathrm{H^+} + \mathrm{OH^-}$$
 
@@ -393,7 +391,7 @@ $$\mathrm{H_2O} \rightleftharpoons \mathrm{H^+} + \mathrm{OH^-}$$
 
 <!-- Slide 35 -->
 
-# Hidratação de Prótons {.smaller}
+## Hidratação de Prótons {.smaller}
 
 - Prótons não existem livres em solução.
 - Eles são imediatamente hidratados para formar íons hidrônio (H~3~O^+^).
@@ -406,13 +404,13 @@ $$\mathrm{H_2O} \rightleftharpoons \mathrm{H^+} + \mathrm{OH^-}$$
 
 <!-- Slide 36 -->
 
-# Salto de Prótons (*Proton Hopping*)
+## Salto de Prótons (*Proton Hopping*)
 
 ![](../imgs/cap02.image15.jpg){.r-stretch fig-align="center"}
 
 <!-- Slide 37 -->
 
-# Ionização da Água: <br>Tratamento Quantitativo {.smaller}
+## Ionização da Água: <br>Tratamento Quantitativo {.smaller}
 
 As concentrações das espécies participantes em um processo de equilíbrio não são independentes, mas estão relacionadas pela constante de equilíbrio:
 
@@ -430,7 +428,7 @@ $$K_w = K_{eq} \cdot [\mathrm{H_2O}] = [\mathrm{H^+}][\mathrm{OH^-}] = 1 \cdot 1
 
 <!-- Slide 38 -->
 
-# O Que É pH? {.smaller}
+## O Que É pH? {.smaller}
 
 ::::: {.columns}
 
@@ -462,7 +460,7 @@ $$\mathrm{pH} + \mathrm{pOH} = 14$$
 
 <!-- Slide 39 -->
 
-# A Escala de pH É Logarítmica: <br>1 unidade = 10 vezes
+## A Escala de pH É Logarítmica: <br>1 unidade = 10 vezes
 
 ::: {.tabela-ph}
 
@@ -494,13 +492,13 @@ $$\mathrm{pH} + \mathrm{pOH} = 14$$
 
 <!-- Slide 40 -->
 
-# pH de Alguns Líquidos Comuns
+## pH de Alguns Líquidos Comuns
 
 ![](../imgs/cap02.image25.jpg){.r-stretch fig-align="center"}
 
 <!-- Slide 41 -->
 
-# Dissociação de Eletrólitos Fracos: <br>Princípio {.smaller}
+## Dissociação de Eletrólitos Fracos: <br>Princípio {.smaller}
 
 ::: {.columns}
 
@@ -522,7 +520,7 @@ $$K_a = \frac{[\mathrm{H^+}][\mathrm{CH_3COO^-}]}{[\mathrm{CH_3COOH}]} = 1{,}74 
 
 <!-- Slide 42 -->
 
-# Dissociação de Eletrólitos Fracos: Exemplo {.smaller}
+## Dissociação de Eletrólitos Fracos: Exemplo {.smaller}
 
 [Qual é o pH final de uma solução quando 0,1 mol de ácido acético é adicionado à água para um volume final de 1 L?]{.vermelho}
 
@@ -564,7 +562,7 @@ x = 0,001310,     pH = 2,883
 
 <!-- Slide 43 -->
 
-# Dissociação de Eletrólitos Fracos: Simplificação {.smaller}
+## Dissociação de Eletrólitos Fracos: Simplificação {.smaller}
 
 ![](../imgs/cap02.image17.png){.absolute left=56 top=227 width=456}
 
@@ -612,7 +610,7 @@ x = 0,00132,     pH = 2,880
 
 <!-- Slide 44 -->
 
-# p*K*~a~ Mede a Acidez
+## p*K*~a~ Mede a Acidez
 
 ::: {.vermelho style="font-weight:bold; text-align:center;"}
 p*K*~a~ = –log *K*~a~
@@ -622,7 +620,7 @@ p*K*~a~ = –log *K*~a~
 
 <!-- Slide 45 -->
 
-# Tampões São Misturas de Ácidos Fracos e Seus Ânions (Base Conjugada) {.smaller}
+## Tampões São Misturas de Ácidos Fracos e Seus Ânions (Base Conjugada) {.smaller}
 
 - Tampões resistem a mudanças no pH.
 - Em pH = p*K*~a~, há uma mistura 50:50 das formas ácida e aniônica do composto.
@@ -637,13 +635,13 @@ p*K*~a~ = –log *K*~a~
 
 <!-- Slide 47 -->
 
-# Ácidos Fracos Têm Diferentes p*K*~a~s
+## Ácidos Fracos Têm Diferentes p*K*~a~s
 
 ![](../imgs/cap02.image30.jpg){.r-stretch fig-align="center"}
 
 <!-- Slide 48 -->
 
-# Equação de Henderson–Hasselbalch: Derivação
+## Equação de Henderson–Hasselbalch: Derivação
 
 ::: {.absolute left=100 top=164 width=290 style="text-align:center;"}
 $\mathrm{HA} \rightleftharpoons \mathrm{H^+} + \mathrm{A^-}$
@@ -669,7 +667,7 @@ $\displaystyle \mathrm{pH} = \mathrm{p}K_a + \log\frac{[\mathrm{A^-}]}{[\mathrm{
 
 <!-- Slide 49 -->
 
-# Equação de Henderson–Hasselbalch: Exemplo
+## Equação de Henderson–Hasselbalch: Exemplo
 
 ::: {.vermelho}
 Um tampão é composto por 0,1 M de ácido acético (CH~3~COOH, p*K*~a~ = 4,76) e 0,05 M de acetato de sódio (CH~3~COONa). Qual é o pH final do tampão?
@@ -683,7 +681,7 @@ pH final do tampão = 4,45
 
 <!-- Slide 50 -->
 
-# Sistemas Tampão Biológicos {.smaller}
+## Sistemas Tampão Biológicos {.smaller}
 
 - A manutenção do pH intracelular é vital para todas as células.
   - Reações catalisadas por enzimas têm pH ótimo.
@@ -702,25 +700,25 @@ pH final do tampão = 4,45
 
 <!-- Slide 51 -->
 
-# A Água Ligada a Proteínas É <br>Essencial para Sua Função
+## A Água Ligada a Proteínas É <br>Essencial para Sua Função
 
 ![](../imgs/cap02.image37.jpg){.r-stretch fig-align="center"}
 
 <!-- Slide 52 -->
 
-# A Água Ligada a Proteínas É <br>Essencial para Sua Função
+## A Água Ligada a Proteínas É <br>Essencial para Sua Função
 
 ![](../imgs/cap02.image33.jpg){.r-stretch fig-align="center"}
 
 <!-- Slide 53 -->
 
-# A Água Ligada a Proteínas É <br>Essencial para Sua Função
+## A Água Ligada a Proteínas É <br>Essencial para Sua Função
 
 ![](../imgs/cap02.image42.jpg){.r-stretch fig-align="center"}
 
 <!-- Slide 54 -->
 
-# Capítulo 2: Resumo
+## Capítulo 2: Resumo
 
 Neste capítulo, aprendemos sobre a:
 

@@ -1,5 +1,5 @@
 ---
-title: "Capítulo"
+title: "Estrutura tridimensional das proteínas"
 # author: Nicholas Costa & Nicholas Barroso
 lang: pt-BR
 date: today
@@ -11,7 +11,6 @@ format:
 #    height: 900
     width: 960
     height: 720
-#    logo: imgs/logo.png
     incremental: false
     theme: tema_azul.scss
     lightbox: true

@@ -1,6 +1,5 @@
 ---
-title: "Capítulo"
-# author: Nicholas Costa & Nicholas Barroso
+title: "Introdução ao metabolismo"
 lang: pt-BR
 date: today
 date-format: "DD/MM/YYYY"
@@ -11,7 +10,6 @@ format:
 #    height: 900
     width: 960
     height: 720
-#    logo: imgs/logo.png
     incremental: false
     theme: tema_azul.scss
     lightbox: true
@@ -22,382 +20,409 @@ format:
     center: true
     auto-stretch: true
 ---
-# Slide 1:
 
-13 | Bioenergética e Tipos de Reações Bioquímicas
-© 2017 W. H. Freeman and Company
+## 13 | Bioenergética e Tipos de Reações Bioquímicas
 
-# Slide 2:
-CAPÍTULO 13 
-Bioenergética e Tipos de Reações Bioquímicas
-Aplicação da termodinâmica à bioquímica
-Princípios comuns de química orgânica na bioquímica
-Algumas biomoléculas são de “alta energia” com respeito à sua hidrólise e transferência de grupos. 
-A energia armazenada em compostos orgânicos reduzidos pode ser usada para reduzir cofatores como NAD+ e FAD, que servem como carreadores universais de elétrons. 
-Objetivos de aprendizagem: 
+![](../imgs/cap13_image01.png)
 
-# Slide 3:
-A Vida Precisa de Energia
+<small>© 2017 W. H. Freeman and Company</small>
+
+## CAPÍTULO 13 — Bioenergética e Tipos de Reações Bioquímicas
+
+**Objetivos de aprendizagem:**
+
+1. Aplicação da termodinâmica à bioquímica
+2. Princípios comuns de química orgânica na bioquímica
+3. Algumas biomoléculas são de “alta energia” com respeito à sua hidrólise e transferência de grupos.
+4. A energia armazenada em compostos orgânicos reduzidos pode ser usada para reduzir cofatores como NAD+ e FAD, que servem como carreadores universais de elétrons.
+
+## A Vida Precisa de Energia
+
+::: {.callout-important appearance="simple"}
 Lembre-se de que os organismos vivos são construídos a partir de estruturas complexas.
-Construir estruturas complexas que têm baixa entropia só é possível quando energia é gasta no processo.
-A fonte final dessa energia na Terra é a luz solar.
+:::
 
-# Slide 4:
-Metabolismo É a Soma de Todas as Reações Químicas na Célula
+- Construir estruturas complexas que têm baixa entropia só é possível quando energia é gasta no processo.
+- A fonte final dessa energia na Terra é a luz solar.
 
-# Slide 5:
-As Leis da Termodinâmica 
-Aplicam-se aos Organismos Vivos
-Os organismos vivos não podem criar energia do nada.
-Os organismos vivos não podem destruir energia em nada.
-O organismo vivo pode transformar energia de uma forma para outra.
-No processo de transformação de energia, os organismos vivos devem aumentar a entropia do universo.
-Para manter a organização dentro de si mesmos, os sistemas vivos devem ser capazes de extrair energia utilizável de seu entorno e liberar energia inutilizável (calor) de volta para o ambiente. 
+![](../imgs/cap13_image02.jpg)
 
-# Slide 6:
+## Metabolismo É a Soma de Todas as Reações Químicas na Célula
 
-# Slide 7:
-A Energia Livre, ou a Constante de Equilíbrio, Determina a Espontaneidade dos Processos 
-TABELA 13-2	Relação entre Constantes de Equilíbrio e Variações de Energia Livre Padrão de Reações Químicas	
- 	ΔG'°	
-K'eq	(kJ/mol)	(kcal/mol)a	
-103	–17,1	–4,1	
-102	–11,4	–2,7	
-101	–5,7	–1,4	
-1	0,0	0,0	
-10–1	5,7	1,4	
-10–2	11,4	2,7	
-10–3	17,1	4,1	
-10–4	22,8	5,5	
-10–5	28,5	6,8	
-10–6	34,2	8,2	
-a Embora joules e kilojoules sejam as unidades padrão de energia e sejam usados em todo
-este texto, bioquímicos e nutricionistas às vezes expressam os valores de ΔG'° em quilocalorias
-por mol. Portanto, incluímos valores tanto em kilojoules quanto em quilocalorias nesta
-tabela e nas Tabelas 13-4 e 13-6. Para converter kilojoules em quilocalorias, divida o número
-de kilojoules por 4,184.	
+![](../imgs/cap13_image03.jpg)
 
-# Slide 8:
-A Energia Livre, ou a Constante de Equilíbrio, Determina a Espontaneidade dos Processos 
-TABELA 13-3	Relações entre K'eq, ΔG'° e a Direção das Reações Químicas	
-Quando K'eq é . . .	ΔG'° é . . .	Começando com todos os componentes a 1 M, a reação . . .	
->1,0	negativo	prossegue no sentido direto	
-1,0	zero	está em equilíbrio	
-<1,0	positivo	prossegue no sentido inverso	
+## As Leis da Termodinâmica Aplicam-se aos Organismos Vivos
 
-# Slide 9:
-TABELA 13-4	Variações de Energia Livre Padrão de Algumas Reações Químicas	
- 	ΔG'°	
-Tipo de reação	(kJ/mol)	(kcal/mol)	
-Reações de hidrólise
-Anidridos ácidos
-   Anidrido acético + H2O → 2 acetato
-   ATP + H2O → ADP + Pi
-   ATP + H2O → AMP + PPi
-   PPi + H2O → 2Pi
-   UDP-glicose + H2O → UMP + glicose 1-fosfato	
+- Os organismos vivos não podem criar energia do nada.
+- Os organismos vivos não podem destruir energia em nada.
+- O organismo vivo pode transformar energia de uma forma para outra.
+- No processo de transformação de energia, os organismos vivos devem aumentar a entropia do universo.
+- Para manter a organização dentro de si mesmos, os sistemas vivos devem ser capazes de extrair energia utilizável de seu entorno e liberar energia inutilizável (calor) de volta para o ambiente.
 
-–91,1
-–30,5
-–45,6
-–19,2
-–43,0	
+---
 
-–21,8
-–7,3
-–10,9
-–4,6
-–10,3	
-Ésteres
-   Acetato de etila + H2O → etanol + acetato 
-   Glicose 6-fosfato + H2O → glicose + Pi	–19,6
-–13,8	–4,7
-–3,3	
-Amidas e peptídeos
-   Glutamina + H2O → glutamato + NH4+
-   Glicilglicina + H2O → 2 glicina	–14,2
-–9,2	–3,4
-–2,2	
-Glicosídeos
-   Maltose + H2O → 2 glicose
-   Lactose + H2O → glicose + galactose	–15,5
-–15,9	–3,7
-–3,8	
-Rearranjos
-   Glicose 1-fosfato → glicose 6-fosfato 
-   Frutose 6-fosfato → glicose 6-fosfato	–7,3
-–1,7	–1,7
-–0,4	
-Eliminação de água
-   Malato → fumarato + H2O	3,1	0,8	
-Oxidações com oxigênio molecular
-   Glicose + 6O2 → 6CO2 + 6H2O
-   Palmitato + 23O2 → 16CO2 + 16H2O	–2.840
-–9.770	–686
-–2.338	
+![](../imgs/cap13_image04.jpg)
 
-# Slide 10:
-Energética de Algumas Reações Químicas
-Reações de hidrólise tendem a ser fortemente favoráveis (espontâneas).
-Reações de isomerização têm variações de energia livre menores.
-isomerização entre enantiômeros: ΔG° = 0
-A oxidação completa de compostos reduzidos é fortemente favorável. 
-É assim que os quimiotróficos obtêm a maior parte de sua energia.
-Em bioquímica, a oxidação de combustíveis reduzidos com O2 é gradual e controlada.
+## A Energia Livre, ou a Constante de Equilíbrio, Determina a Espontaneidade dos Processos {.smaller}
+
+| K'eq | (kJ/mol) | (kcal/mol)a |
+|:--|:--|:--|
+| 103 | –17,1 | –4,1 |
+| 102 | –11,4 | –2,7 |
+| 101 | –5,7 | –1,4 |
+| 1 | 0,0 | 0,0 |
+| 10–1 | 5,7 | 1,4 |
+| 10–2 | 11,4 | 2,7 |
+| 10–3 | 17,1 | 4,1 |
+| 10–4 | 22,8 | 5,5 |
+| 10–5 | 28,5 | 6,8 |
+| 10–6 | 34,2 | 8,2 |
+
+: **TABELA 13-2** Relação entre Constantes de Equilíbrio e Variações de Energia Livre Padrão de Reações Químicas (ΔG'°)
+
+<small>a Embora joules e kilojoules sejam as unidades padrão de energia e sejam usados em todo</small>
+
+<small>este texto, bioquímicos e nutricionistas às vezes expressam os valores de ΔG'° em quilocalorias</small>
+
+<small>por mol. Portanto, incluímos valores tanto em kilojoules quanto em quilocalorias nesta</small>
+
+<small>tabela e nas Tabelas 13-4 e 13-6. Para converter kilojoules em quilocalorias, divida o número</small>
+
+<small>de kilojoules por 4,184.</small>
+
+## A Energia Livre, ou a Constante de Equilíbrio, Determina a Espontaneidade dos Processos
+
+| Quando K'eq é . . . | ΔG'° é . . . | Começando com todos os componentes a 1 M, a reação . . . |
+|:--|:--|:--|
+| >1,0 | negativo | prossegue no sentido direto |
+| 1,0 | zero | está em equilíbrio |
+| <1,0 | positivo | prossegue no sentido inverso |
+
+: **TABELA 13-3** Relações entre K'eq, ΔG'° e a Direção das Reações Químicas
+
+## TABELA 13-4 — Variações de Energia Livre Padrão de Algumas Reações Químicas {.smaller}
+
+*ΔG'°*
+
+| Tipo de reação | (kJ/mol) | (kcal/mol) |
+|:--|:--|:--|
+| Reações de hidrólise <br> Anidridos ácidos <br> Anidrido acético + H2O → 2 acetato <br> ATP + H2O → ADP + Pi <br> ATP + H2O → AMP + PPi <br> PPi + H2O → 2Pi <br> UDP-glicose + H2O → UMP + glicose 1-fosfato | –91,1 <br> –30,5 <br> –45,6 <br> –19,2 <br> –43,0 | –21,8 <br> –7,3 <br> –10,9 <br> –4,6 <br> –10,3 |
+| Ésteres <br> Acetato de etila + H2O → etanol + acetato <br> Glicose 6-fosfato + H2O → glicose + Pi | –19,6 <br> –13,8 | –4,7 <br> –3,3 |
+| Amidas e peptídeos <br> Glutamina + H2O → glutamato + NH4+ <br> Glicilglicina + H2O → 2 glicina | –14,2 <br> –9,2 | –3,4 <br> –2,2 |
+| Glicosídeos <br> Maltose + H2O → 2 glicose <br> Lactose + H2O → glicose + galactose | –15,5 <br> –15,9 | –3,7 <br> –3,8 |
+| Rearranjos <br> Glicose 1-fosfato → glicose 6-fosfato <br> Frutose 6-fosfato → glicose 6-fosfato | –7,3 <br> –1,7 | –1,7 <br> –0,4 |
+| Eliminação de água <br> Malato → fumarato + H2O | 3,1 | 0,8 |
+| Oxidações com oxigênio molecular <br> Glicose + 6O2 → 6CO2 + 6H2O <br> Palmitato + 23O2 → 16CO2 + 16H2O | –2.840 <br> –9.770 | –686 <br> –2.338 |
+
+## Energética de Algumas Reações Químicas
+
+- Reações de hidrólise tendem a ser fortemente favoráveis (espontâneas).
+- Reações de isomerização têm variações de energia livre menores.
+    - isomerização entre enantiômeros: ΔG° = 0
+- A oxidação completa de compostos reduzidos é fortemente favorável.
+- É assim que os quimiotróficos obtêm a maior parte de sua energia.
+- Em bioquímica, a oxidação de combustíveis reduzidos com O2 é gradual e controlada.
+
+::: {.callout-important appearance="simple"}
 Lembre-se de que ser termodinamicamente favorável não é o mesmo que ser cineticamente rápido.
+:::
 
-# Slide 11:
-A Energética Dentro da Célula Não É Padrão
-A variação de energia livre real de uma reação na célula depende de:
-a variação padrão na energia livre
-as concentrações reais de produtos e reagentes
-Para a reação aA + bB          cC + dD:
+## A Energética Dentro da Célula Não É Padrão
 
-		
+- A variação de energia livre real de uma reação na célula depende de:
+    - a variação padrão na energia livre
+    - as concentrações reais de produtos e reagentes
+- Para a reação aA + bB          cC + dD:
 
-Variações de energia livre padrão são aditivas:
-	  (1)    A  →  B	ΔG1
-	  (2)    B  →  C	ΔG2
-	Soma:  A  →  C	ΔG1 + ΔG2
+**Variações de energia livre padrão são aditivas:**
 
+::: {style="text-align:center"}
+(1)    A  →  B    ΔG1
+:::
 
+::: {style="text-align:center"}
+(2)    B  →  C    ΔG2
+:::
 
-# Slide 12:
-Reatividade Química
-A maioria das reações enquadra-se em poucas categorias: 
-Clivagem e formação de ligações C–C
-Clivagem e formação de ligações polares
-mecanismo de substituição nucleofílica
-mecanismo de adição–eliminação
- reações de hidrólise e condensação
-Rearranjos internos
-Eliminações (sem clivagem)
-Transferências de grupos (H+, CH3+, PO32–)
-Oxidações-reduções (transferências de e–) 
+::: {style="text-align:center"}
+Soma:  A  →  C    ΔG1 + ΔG2
+:::
 
-# Slide 13:
-Química no Carbono: Clivagem Homolítica versus Heterolítica
-Ligações covalentes podem ser quebradas de duas maneiras.
-A clivagem homolítica é muito rara.
-A clivagem heterolítica é comum, mas os produtos são altamente instáveis, ditando a química que ocorre.
+![](../imgs/cap13_image05.png)
 
+## Reatividade Química
 
-# Slide 14:
-Nucleófilos e Eletrófilos 
+- A maioria das reações enquadra-se em poucas categorias:
+    - Clivagem e formação de ligações C–C
+- Clivagem e formação de ligações polares
+    - mecanismo de substituição nucleofílica
+    - mecanismo de adição–eliminação
+    - reações de hidrólise e condensação
+- Rearranjos internos
+- Eliminações (sem clivagem)
+- Transferências de grupos (H+, CH3+, PO32–)
+- Oxidações-reduções (transferências de e–)
+
+## Química no Carbono: Clivagem Homolítica versus Heterolítica
+
+- Ligações covalentes podem ser quebradas de duas maneiras.
+- A clivagem homolítica é muito rara.
+- A clivagem heterolítica é comum, mas os produtos são altamente instáveis, ditando a química que ocorre.
+
+![](../imgs/cap13_image06.jpg)
+
+## Nucleófilos e Eletrófilos
+
 em Bioquímica
-Definição: -filo (sufixo, grego/latim): amar, ou demonstrar afinidade por 
-Nucleófilos amam núcleos. O núcleo de um átomo contém partículas carregadas positivamente (prótons), então os nucleófilos adoram reagir com cargas positivas e são ricos em elétrons.
-Eletrófilos amam elétrons. Elétrons são carregados negativamente, então os eletrófilos devem ser carregados positivamente (ou deficientes em elétrons).
 
-# Slide 15:
-Exemplos de Reações Nucleofílicas de Formação de Ligação Carbono-Carbono
+::: {.callout-tip appearance="simple" title="Definição"}
+-filo (sufixo, grego/latim): amar, ou demonstrar afinidade por
+:::
 
-# Slide 16:
-Reações de Adição–Eliminação
-A substituição a partir de carbono sp3 prossegue normalmente via mecanismo de substituição nucleofílica (SN1 ou SN2).
-A substituição a partir de carbono sp2 prossegue normalmente via mecanismo de adição–eliminação nucleofílica.
-o nucleófilo adiciona-se ao centro sp2, gerando um intermediário tetraédrico 
-o grupo abandonador elimina-se do intermediário tetraédrico
-o grupo abandonador pode capturar um próton
+- Nucleófilos amam núcleos. O núcleo de um átomo contém partículas carregadas positivamente (prótons), então os nucleófilos adoram reagir com cargas positivas e são ricos em elétrons.
+- Eletrófilos amam elétrons. Elétrons são carregados negativamente, então os eletrófilos devem ser carregados positivamente (ou deficientes em elétrons).
 
-# Slide 17:
-Reações de Adição–Eliminação
+![](../imgs/cap13_image07.jpg)
 
-# Slide 18:
-Isomerizações e Eliminações:
-Sem Mudança no Estado de Oxidação
+## Exemplos de Reações Nucleofílicas de Formação de Ligação Carbono-Carbono
 
-# Slide 19:
-Reações de Transferência de Grupo
- Transferência de próton, muito comum
- Transferência de metil, várias biossínteses
- Transferência de acil, biossíntese de ácidos graxos
- Transferência de glicosil, ligação de açúcares 
- Transferência de fosforil, para ativar metabólitos
-  também importante na transdução de sinal
+![](../imgs/cap13_image08.jpg)
 
-# Slide 20:
-Deslocamento Nucleofílico
-A substituição a partir de fósforo sp3 prossegue via mecanismo de substituição nucleofílica (geralmente associativo, tipo SN2).
-O nucleófilo forma uma ligação parcial com o centro de fósforo, gerando um intermediário pentacovalente ou um estado de transição pentacoordenado.
+## Reações de Adição–Eliminação
 
-# Slide 21:
-Transferência de Fosforil a Partir do ATP
+- A substituição a partir de carbono sp3 prossegue normalmente via mecanismo de substituição nucleofílica (SN1 ou SN2).
+- A substituição a partir de carbono sp2 prossegue normalmente via mecanismo de adição–eliminação nucleofílica.
+    - o nucleófilo adiciona-se ao centro sp2, gerando um intermediário tetraédrico o grupo abandonador elimina-se do intermediário tetraédrico
+    - o grupo abandonador pode capturar um próton
+
+## Reações de Adição–Eliminação
+
+![](../imgs/cap13_image09.jpg)
+
+## Isomerizações e Eliminações: Sem Mudança no Estado de Oxidação
+
+![](../imgs/cap13_image10.jpg)
+
+## Reações de Transferência de Grupo
+
+- Transferência de próton, muito comum
+- Transferência de metil, várias biossínteses
+- Transferência de acil, biossíntese de ácidos graxos
+- Transferência de glicosil, ligação de açúcares
+- Transferência de fosforil, para ativar metabólitos
+    - também importante na transdução de sinal
+
+## Deslocamento Nucleofílico
+
+- A substituição a partir de fósforo sp3 prossegue via mecanismo de substituição nucleofílica (geralmente associativo, tipo SN2).
+- O nucleófilo forma uma ligação parcial com o centro de fósforo, gerando um intermediário pentacovalente ou um estado de transição pentacoordenado.
+
+![](../imgs/cap13_image11.jpg)
+
+## Transferência de Fosforil a Partir do ATP
+
 O ATP é frequentemente o doador do fosfato na biossíntese de ésteres de fosfato.
 
-# Slide 22:
-A Hidrólise do ATP É Altamente Favorável
-Sob Condições Padrão
-Melhor separação de cargas nos produtos
-Melhor solvatação dos produtos
-Estabilização por ressonância mais favorável dos produtos
+![](../imgs/cap13_image12.jpg)
 
+## A Hidrólise do ATP É Altamente Favorável
 
-# Slide 23:
-O ΔG° da Hidrólise do ATP É 
-Dependente de Mg++
+- Sob Condições Padrão
+- Melhor separação de cargas nos produtos
+- Melhor solvatação dos produtos
+- Estabilização por ressonância mais favorável dos produtos
 
-# Slide 24:
-O ΔG Real da Hidrólise do ATP 
-Difere do ΔG°’ 
-A variação de energia livre real em um processo depende de:
-a energia livre padrão
-as concentrações reais de reagentes e produtos
-A variação de energia livre é mais favorável se a concentração do reagente exceder sua concentração de equilíbrio.
-O verdadeiro reagente e produto são Mg-ATP e Mg-ADP, respectivamente.
-O ΔG° também é dependente de Mg++
+![](../imgs/cap13_image13.jpg)
 
+## O ΔG° da Hidrólise do ATP É Dependente de Mg++
 
-# Slide 25:
-A concentração celular de ATP está geralmente muito acima da concentração de equilíbrio, tornando o ATP uma fonte muito potente de energia química. 
-TABELA 13-5	Concentrações Totais de Nucleotídeos de Adenina, Fosfato Inorgânico e Fosfocreatina em Algumas Células	
-	Concentração (mM)a	
-	ATP	ADPb	AMP	Pi	PCr	
-Hepatócito de rato	3,38	1,32	0,29	4,8	0	
-Miócito de rato	8,05	0,93	0,04	8,05	28	
-Neurônio de rato	2,59	0,73	0,06	2,72	4,7	
-Eritrócito humano	2,25	0,25	0,02	1,65	0	
-Célula de E. coli	7,90	1,04	0,82	7,9	0	
-a Para eritrócitos, as concentrações são as do citosol (eritrócitos humanos carecem de núcleo e mitocôndrias). Nos outros tipos de células, os dados referem-se a todo o conteúdo celular, embora o citosol e as mitocôndrias tenham concentrações muito diferentes de ADP. PCr é fosfocreatina, discutida na p. 516.
-b Este valor reflete a concentração total; o valor real para ADP livre pode ser muito menor (p. 509).	
+![](../imgs/cap13_image14.jpg)
 
-# Slide 26:
-Vários Compostos Fosforilados Têm Grande ΔG°’ de Hidrólise
-Novamente, a repulsão eletrostática dentro da molécula reagente é aliviada.
-Os produtos são estabilizados por ressonância ou por solvatação mais favorável.
-O produto sofre tautomerização adicional.
+## O ΔG Real da Hidrólise do ATP Difere do ΔG°’
 
-# Slide 27:
-Fosfatos: Classificação pela Energia Livre Padrão de Hidrólise
-Reações como:
+- A variação de energia livre real em um processo depende de:
+    - a energia livre padrão
+    - as concentrações reais de reagentes e produtos
+- A variação de energia livre é mais favorável se a concentração do reagente exceder sua concentração de equilíbrio.
+- O verdadeiro reagente e produto são Mg-ATP e Mg-ADP, respectivamente.
+- O ΔG° também é dependente de Mg++
+
+![](../imgs/cap13_image15.png)
+
+## TABELA 13-5 — Concentrações Totais de Nucleotídeos de Adenina, Fosfato Inorgânico e Fosfocreatina em Algumas Células
+
+A concentração celular de ATP está geralmente muito acima da concentração de equilíbrio, tornando o ATP uma fonte muito potente de energia química.
+
+*Concentração (mM)a*
+
+|  | ATP | ADPb | AMP | Pi | PCr |
+|:--|:--|:--|:--|:--|:--|
+| Hepatócito de rato | 3,38 | 1,32 | 0,29 | 4,8 | 0 |
+| Miócito de rato | 8,05 | 0,93 | 0,04 | 8,05 | 28 |
+| Neurônio de rato | 2,59 | 0,73 | 0,06 | 2,72 | 4,7 |
+| Eritrócito humano | 2,25 | 0,25 | 0,02 | 1,65 | 0 |
+| Célula de E. coli | 7,90 | 1,04 | 0,82 | 7,9 | 0 |
+
+<small>a Para eritrócitos, as concentrações são as do citosol (eritrócitos humanos carecem de núcleo e mitocôndrias). Nos outros tipos de células, os dados referem-se a todo o conteúdo celular, embora o citosol e as mitocôndrias tenham concentrações muito diferentes de ADP. PCr é fosfocreatina, discutida na p. 516.</small>
+
+<small>b Este valor reflete a concentração total; o valor real para ADP livre pode ser muito menor (p. 509).</small>
+
+## Vários Compostos Fosforilados Têm Grande ΔG°’ de Hidrólise
+
+- Novamente, a repulsão eletrostática dentro da molécula reagente é aliviada.
+- Os produtos são estabilizados por ressonância ou por solvatação mais favorável.
+- O produto sofre tautomerização adicional.
+
+![](../imgs/cap13_image16.jpg)
+
+## Fosfatos: Classificação pela Energia Livre Padrão de Hidrólise
+
+**Reações como:**
 
 PEP + ADP => Piruvato + ATP
 
-são favoráveis e podem ser usadas para sintetizar ATP.
-O fosfato pode ser transferido de compostos com maior ΔG°’ para aqueles com menor ΔG°’.
+- são favoráveis e podem ser usadas para sintetizar ATP.
+- O fosfato pode ser transferido de compostos com maior ΔG°’ para aqueles com menor ΔG°’.
 
-# Slide 28:
-Transferências de Grupo em Duas Etapas Facilitam Reações Dependentes de ATP
+![](../imgs/cap13_image17.jpg)
 
-# Slide 29:
-Hidrólise de Tioésteres
-A hidrólise de tioésteres é fortemente favorável.
-como a acetil-CoA
-A acetil-CoA é um importante doador de grupos acil.
-alimentando unidades de dois carbonos nas vias metabólicas
-síntese de ácidos graxos
-Nas transferências de acil, outras moléculas além da água aceitam o grupo acil.
+## Transferências de Grupo em Duas Etapas Facilitam Reações Dependentes de ATP
 
-# Slide 30:
-Reações de Oxidação-Redução
+![](../imgs/cap13_image18.jpg)
+
+## Hidrólise de Tioésteres
+
+- A hidrólise de tioésteres é fortemente favorável.
+    - como a acetil-CoA
+- A acetil-CoA é um importante doador de grupos acil.
+    - alimentando unidades de dois carbonos nas vias metabólicas
+    - síntese de ácidos graxos
+- Nas transferências de acil, outras moléculas além da água aceitam o grupo acil.
+
+![](../imgs/cap13_image19.jpg)
+
+## Reações de Oxidação-Redução
+
 Compostos orgânicos reduzidos servem como combustíveis dos quais elétrons podem ser retirados durante a oxidação.
 
-# Slide 31:
-Oxidação Reversível de 
-um Álcool Secundário a uma Cetona
-Muitas reações bioquímicas de oxidação-redução envolvem a transferência de dois elétrons.
-Para manter as cargas em equilíbrio, a transferência de prótons frequentemente acompanha a transferência de elétrons.
-Em muitas desidrogenases, a reação prossegue por transferências graduais de próton (H+) e hidreto (:H–).
+![](../imgs/cap13_image20.jpg)
 
-# Slide 32:
-O Potencial de Redução Determina o Fluxo de Elétrons
-Potencial de redução (E)
-afinidade por elétrons; maior E, maior afinidade
-elétrons transferidos de menor para maior E
+## Oxidação Reversível de um Álcool Secundário a uma Cetona
 
-ΔE°’ = −(RT/nF)ln (Keq) = ΔG°’/nF 
+- Muitas reações bioquímicas de oxidação-redução envolvem a transferência de dois elétrons.
+- Para manter as cargas em equilíbrio, a transferência de prótons frequentemente acompanha a transferência de elétrons.
+- Em muitas desidrogenases, a reação prossegue por transferências graduais de próton (H+) e hidreto (:H–).
+
+![](../imgs/cap13_image21.jpg)
+
+## O Potencial de Redução Determina o Fluxo de Elétrons
+
+- Potencial de redução (E)
+    - afinidade por elétrons; maior E, maior afinidade
+    - elétrons transferidos de menor para maior E
+
+ΔE°’ = −(RT/nF)ln (Keq) = ΔG°’/nF
 
 ∆E°’ = E°’(aceptor de e−) – E°’(doador de e−)
 
-∆G°’ = –nF∆E°’
-Para ΔG negativo, é necessário ΔE positivo
-E(aceptor) > E(doador)
+- ∆G°’ = –nF∆E°’
+- Para ΔG negativo, é necessário ΔE positivo
+- E(aceptor) > E(doador)
 
-		
+## TABELA 13-7a — Potenciais de Redução Padrão de Algumas Semirreações Biologicamente Importantes {.smaller .scrollable}
 
-# Slide 33:
-TABELA 13-7a	Potenciais de Redução Padrão de Algumas Semirreações Biologicamente Importantes	
-Semirreação	E'° (V)	
-1/2 O2 + 2H+ + 2e– → H2O	0,816	
-Fe3+ + e– → Fe2+	0,771	
-NO3– + 2H+ + 2e– → NO2– + H2O	0,421	
-Citocromo f (Fe3+) + e– → citocromo f (Fe2+)	0,365	
-Fe(CN)63– (ferricianeto) + e– → Fe(CN)64–	0,36	
-Citocromo a3 (Fe3+) + e– → citocromo a3 (Fe2+)	0,35	
-O2 + 2H+ + 2e– → H2O2	0,295	
-Citocromo a (Fe3+) + e– → citocromo a (Fe2+)	0,29	
-Citocromo c (Fe3+) + e– → citocromo c (Fe2+)	0,254	
-Citocromo c1 (Fe3+) + e– → citocromo c1 (Fe2+)	0,22	
-Citocromo b (Fe3+) + e– → citocromo b (Fe2+)	0,077	
-Ubiquinona + 2H+ + 2e– → ubiquinol	0,045	
-Fumarato2– + 2H+ + 2e– → succinato2–	0,031	
-2H+ + 2e– → H2 (em condições padrão, pH 0)	0,000	
-Crotonil-CoA + 2H+ + 2e– → butiril-CoA	–0,015	
-Oxaloacetato2– + 2H+ + 2e– → malato2–	–0,166	
-Fonte: Dados principalmente de R. A. Loach, em Handbook of Biochemistry and Molecular Biology, 3ª ed. (G. D. Fasman, ed.), Physical and Chemical Data, Vol. 1, p. 122, CRC Press, 1976.
-aEste é o valor para FAD livre; o FAD ligado a uma flavoproteína específica (ex.: succinato desidrogenase) tem um E'° diferente que depende de seu ambiente proteico.	
+| Semirreação | E'° (V) |
+|:--|:--|
+| 1/2 O2 + 2H+ + 2e– → H2O | 0,816 |
+| Fe3+ + e– → Fe2+ | 0,771 |
+| NO3– + 2H+ + 2e– → NO2– + H2O | 0,421 |
+| Citocromo f (Fe3+) + e– → citocromo f (Fe2+) | 0,365 |
+| Fe(CN)63– (ferricianeto) + e– → Fe(CN)64– | 0,36 |
+| Citocromo a3 (Fe3+) + e– → citocromo a3 (Fe2+) | 0,35 |
+| O2 + 2H+ + 2e– → H2O2 | 0,295 |
+| Citocromo a (Fe3+) + e– → citocromo a (Fe2+) | 0,29 |
+| Citocromo c (Fe3+) + e– → citocromo c (Fe2+) | 0,254 |
+| Citocromo c1 (Fe3+) + e– → citocromo c1 (Fe2+) | 0,22 |
+| Citocromo b (Fe3+) + e– → citocromo b (Fe2+) | 0,077 |
+| Ubiquinona + 2H+ + 2e– → ubiquinol | 0,045 |
+| Fumarato2– + 2H+ + 2e– → succinato2– | 0,031 |
+| 2H+ + 2e– → H2 (em condições padrão, pH 0) | 0,000 |
+| Crotonil-CoA + 2H+ + 2e– → butiril-CoA | –0,015 |
+| Oxaloacetato2– + 2H+ + 2e– → malato2– | –0,166 |
 
-# Slide 34:
-TABELA 13-7b	Potenciais de Redução Padrão de Algumas Semirreações Biologicamente Importantes	
-Semirreação	E'° (V)	
-Piruvato– + 2H + 2e– → lactato–  	–0,185	
-Acetaldeído + 2H+ + 2e– → etanol	–0,197	
-FAD + 2H+ + 2e– → FADH2	–0,219a	
-Glutationa + 2H+ + 2e– → 2 glutationa reduzida	–0,23	
-S + 2H+ + 2e– → H2S	–0,243	
-Ácido lipoico + 2H+ + 2e– → ácido di-hidrolipoico	–0,29	
-NAD+ + H+ + 2e– → NADH	–0,320	
-NADP+ + H+ + 2e– → NADPH	–0,324	
-Acetoacetato + 2H+ + 2e– → β-hidroxibutirato	–0,346	
-α-Cetoglutarato + CO2 + 2H+ + 2e– → isocitrato	–0,38	
-2H+ + 2e– → H2 (em pH 7)	–0,414	
-Ferredoxina (Fe3+) + e– → ferredoxina (Fe2+)	–0,432	
-Fonte: Dados principalmente de R. A. Loach, em Handbook of Biochemistry and Molecular Biology, 3ª ed. (G. D. Fasman, ed.), Physical and Chemical Data, Vol. 1, p. 122, CRC Press, 1976.
-aEste é o valor para FAD livre; o FAD ligado a uma flavoproteína específica (ex.: succinato desidrogenase) tem um E'° diferente que depende de seu ambiente proteico.	
+::: {.callout-note appearance="simple" title="Fonte"}
+Dados principalmente de R. A. Loach, em Handbook of Biochemistry and Molecular Biology, 3ª ed. (G. D. Fasman, ed.), Physical and Chemical Data, Vol. 1, p. 122, CRC Press, 1976.
+:::
 
-# Slide 35:
-NAD e NADP São 
-Cofatores Redox Comuns
-São comumente chamados de nucleotídeos de piridina.
-Podem dissociar-se da enzima após a reação.
-Em uma reação típica de oxidação biológica, o hidreto de um álcool é transferido para o NAD+, gerando NADH.
+<small>aEste é o valor para FAD livre; o FAD ligado a uma flavoproteína específica (ex.: succinato desidrogenase) tem um E'° diferente que depende de seu ambiente proteico.</small>
 
-# Slide 36:
-NAD e NADP São 
-Cofatores Redox Comuns
+## TABELA 13-7b — Potenciais de Redução Padrão de Algumas Semirreações Biologicamente Importantes {.smaller}
 
-# Slide 37:
-A Formação de NADH Pode Ser Monitorada 
-por Espectrofotometria UV 
-Medir a mudança de absorbância em 340 nm
-Sinal muito útil ao estudar a cinética de 
-	desidrogenases dependentes de NAD
+| Semirreação | E'° (V) |
+|:--|:--|
+| Piruvato– + 2H + 2e– → lactato– | –0,185 |
+| Acetaldeído + 2H+ + 2e– → etanol | –0,197 |
+| FAD + 2H+ + 2e– → FADH2 | –0,219a |
+| Glutationa + 2H+ + 2e– → 2 glutationa reduzida | –0,23 |
+| S + 2H+ + 2e– → H2S | –0,243 |
+| Ácido lipoico + 2H+ + 2e– → ácido di-hidrolipoico | –0,29 |
+| NAD+ + H+ + 2e– → NADH | –0,320 |
+| NADP+ + H+ + 2e– → NADPH | –0,324 |
+| Acetoacetato + 2H+ + 2e– → β-hidroxibutirato | –0,346 |
+| α-Cetoglutarato + CO2 + 2H+ + 2e– → isocitrato | –0,38 |
+| 2H+ + 2e– → H2 (em pH 7) | –0,414 |
+| Ferredoxina (Fe3+) + e– → ferredoxina (Fe2+) | –0,432 |
 
-# Slide 38:
-Lição em Química Quântica
-A maioria das moléculas orgânicas, incluindo os combustíveis reduzidos, está no estado de spin singleto.
-Todos os elétrons estão pareados em pares de elétrons.
-O oxigênio molecular está no estado de spin tripleto.
-Dois elétrons estão desemparelhados.
-A transferência direta de elétrons de uma espécie reduzida singleto para uma espécie oxidante tripleto é quanticamente desfavorável.
-É por isso que a oxidação direta (combustão espontânea) de biomoléculas não ocorre prontamente.
-Cofatores, como íons de metais de transição e flavina adenina dinucleotídeo, são capazes de catalisar transferências consecutivas de um único elétron necessárias para a utilização de O2.
+::: {.callout-note appearance="simple" title="Fonte"}
+Dados principalmente de R. A. Loach, em Handbook of Biochemistry and Molecular Biology, 3ª ed. (G. D. Fasman, ed.), Physical and Chemical Data, Vol. 1, p. 122, CRC Press, 1976.
+:::
 
-# Slide 39:
-Cofatores de Flavina Permitem 
-Transferências de um Único Elétron
-Permitem o uso de oxigênio molecular como aceptor final de elétrons
-oxidases dependentes de flavina
-Cofatores de flavina estão fortemente ligados às proteínas.
+<small>aEste é o valor para FAD livre; o FAD ligado a uma flavoproteína específica (ex.: succinato desidrogenase) tem um E'° diferente que depende de seu ambiente proteico.</small>
 
-# Slide 40:
-Capítulo 13: Resumo
-As regras da termodinâmica e da química orgânica ainda se aplicam aos sistemas vivos  
-As reações são favoráveis quando a energia livre dos produtos é muito menor que a energia livre dos reagentes  
-Reações bioquímicas de transferência de fosforil são favoráveis quando:
-os doadores de fosfato são desestabilizados por repulsão eletrostática 
-os produtos da reação são frequentemente estabilizados por ressonância
-Reações desfavoráveis podem tornar-se possíveis acoplando quimicamente uma reação altamente favorável à reação desfavorável
-Reações de oxidação-redução comumente envolvem transferência de elétrons de compostos orgânicos reduzidos para cofatores redox especializados  
-Cofatores reduzidos podem ser usados na biossíntese ou podem servir como fonte de energia para a síntese de ATP. 
-Neste capítulo, aprendemos que:
+## NAD e NADP São Cofatores Redox Comuns
+
+- São comumente chamados de nucleotídeos de piridina.
+- Podem dissociar-se da enzima após a reação.
+- Em uma reação típica de oxidação biológica, o hidreto de um álcool é transferido para o NAD+, gerando NADH.
+
+## NAD e NADP São Cofatores Redox Comuns
+
+![](../imgs/cap13_image22.jpg)
+
+## A Formação de NADH Pode Ser Monitorada por Espectrofotometria UV
+
+- Medir a mudança de absorbância em 340 nm
+- Sinal muito útil ao estudar a cinética de
+    - desidrogenases dependentes de NAD
+
+![](../imgs/cap13_image23.jpg)
+
+## Lição em Química Quântica {.smaller}
+
+- A maioria das moléculas orgânicas, incluindo os combustíveis reduzidos, está no estado de spin singleto.
+- Todos os elétrons estão pareados em pares de elétrons.
+- O oxigênio molecular está no estado de spin tripleto.
+- Dois elétrons estão desemparelhados.
+- A transferência direta de elétrons de uma espécie reduzida singleto para uma espécie oxidante tripleto é quanticamente desfavorável.
+- É por isso que a oxidação direta (combustão espontânea) de biomoléculas não ocorre prontamente.
+- Cofatores, como íons de metais de transição e flavina adenina dinucleotídeo, são capazes de catalisar transferências consecutivas de um único elétron necessárias para a utilização de O2.
+
+## Cofatores de Flavina Permitem Transferências de um Único Elétron
+
+- Permitem o uso de oxigênio molecular como aceptor final de elétrons
+    - oxidases dependentes de flavina
+- Cofatores de flavina estão fortemente ligados às proteínas.
+
+![](../imgs/cap13_image24.jpg)
+
+## Capítulo 13: Resumo {.smaller}
+
+**Neste capítulo, aprendemos que:**
+
+- As regras da termodinâmica e da química orgânica ainda se aplicam aos sistemas vivos
+- As reações são favoráveis quando a energia livre dos produtos é muito menor que a energia livre dos reagentes
+- Reações bioquímicas de transferência de fosforil são favoráveis quando:
+    - os doadores de fosfato são desestabilizados por repulsão eletrostática os produtos da reação são frequentemente estabilizados por ressonância
+- Reações desfavoráveis podem tornar-se possíveis acoplando quimicamente uma reação altamente favorável à reação desfavorável
+- Reações de oxidação-redução comumente envolvem transferência de elétrons de compostos orgânicos reduzidos para cofatores redox especializados
+- Cofatores reduzidos podem ser usados na biossíntese ou podem servir como fonte de energia para a síntese de ATP.

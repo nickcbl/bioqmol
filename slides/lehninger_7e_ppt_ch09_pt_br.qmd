@@ -1,6 +1,5 @@
 ---
-title: "Capítulo"
-# author: Nicholas Costa & Nicholas Barroso
+title: "Tecnologias da informação baseadas no DNA"
 lang: pt-BR
 date: today
 date-format: "DD/MM/YYYY"
@@ -11,7 +10,6 @@ format:
 #    height: 900
     width: 960
     height: 720
-#    logo: imgs/logo.png
     incremental: false
     theme: tema_azul.scss
     lightbox: true
@@ -22,404 +20,482 @@ format:
     center: true
     auto-stretch: true
 ---
-# Slide 1:
 
-9 | Tecnologias da Informação Baseadas em DNA
-© 2017 W. H. Freeman and Company
+## 9 | Tecnologias da Informação Baseadas em DNA
 
-# Slide 2:
-CAPÍTULO 9 
- Tecnologias da Informação Baseadas em DNA
-Técnicas de clonagem de DNA
-Expressão de proteínas recombinantes
-Métodos de análise de DNA
-Tecnologia de microarranjos de DNA (*DNA microarrays*)
+![](../imgs/cap09_image01.png)
 
-Objetivos de aprendizagem: 
+<small>© 2017 W. H. Freeman and Company</small>
 
-# Slide 3:
-DNA Recombinante
-DNA criado artificialmente que combina sequências que não ocorrem juntas na natureza
-Base de grande parte da biologia molecular moderna
-clonagem molecular de genes
-superexpressão de proteínas
-alimentos e animais transgênicos... 
+## CAPÍTULO 9 — Tecnologias da Informação Baseadas em DNA
 
-# Slide 4:
-Clonagem de DNA
-Clonagem de organismos:
-Criação de cópias geneticamente idênticas de um organismo
-Os organismos podem não parecer idênticos devido à regulação da expressão gênica durante o desenvolvimento.
-Clonagem de DNA: 
-Criação de cópias idênticas de um fragmento de DNA (gene)
-Isolar um gene específico do organismo fonte e amplificá-lo no organismo alvo.
-Etapas básicas:
-Cortar o DNA fonte nos limites do gene.
-Selecionar um DNA carreador adequado (vetor).
-Inserir o gene no vetor.
-Inserir o vetor recombinante na célula hospedeira.
-Deixar o hospedeiro produzir múltiplas cópias do DNA recombinante.
+**Objetivos de aprendizagem:**
 
-# Slide 5:
-Clonagem de DNA: Etapa 1
+1. Técnicas de clonagem de DNA
+2. Expressão de proteínas recombinantes
+3. Métodos de análise de DNA
+4. Tecnologia de microarranjos de DNA (*DNA microarrays*)
+
+## DNA Recombinante
+
+- DNA criado artificialmente que combina sequências que não ocorrem juntas na natureza
+- Base de grande parte da biologia molecular moderna
+    - clonagem molecular de genes
+    - superexpressão de proteínas
+    - alimentos e animais transgênicos...
+
+## Clonagem de DNA
+
+- **Clonagem de organismos:**
+    - Criação de cópias geneticamente idênticas de um organismo
+- Os organismos podem não parecer idênticos devido à regulação da expressão gênica durante o desenvolvimento.
+- **Clonagem de DNA:**
+    - Criação de cópias idênticas de um fragmento de DNA (gene)
+- Isolar um gene específico do organismo fonte e amplificá-lo no organismo alvo.
+- **Etapas básicas:**
+    - Cortar o DNA fonte nos limites do gene.
+- Selecionar um DNA carreador adequado (vetor).
+- Inserir o gene no vetor.
+- Inserir o vetor recombinante na célula hospedeira.
+- Deixar o hospedeiro produzir múltiplas cópias do DNA recombinante.
+
+## Clonagem de DNA: Etapa 1
+
 Gerar Vetor Recombinante
 
-# Slide 6:
-Endonucleases de Restrição
-Clivam ligações fosfodiéster do DNA em sequências específicas
-Comuns em bactérias
-eliminam DNA viral infeccioso
-Algumas fazem cortes escalonados.
-extremidades coesivas (*sticky ends*)
-Algumas fazem cortes retos.
-extremidades abruptas ou cegas (*blunt ends*)
-Grande número conhecido 
-comercialmente disponíveis
-bem documentadas: REBASE
-http://rebase.neb.com/rebase/rebase.html 
+:::: {.columns}
+::: {.column width="50%"}
+![](../imgs/cap09_image02.jpg)
+:::
 
+::: {.column width="50%"}
+![](../imgs/cap09_image03.png)
+:::
 
-# Slide 7:
-Endonucleases de Restrição
+::::
 
-# Slide 8:
- Enzima que une covalentemente dois fragmentos de DNA
- Normalmente atua no reparo do DNA
- A DNA ligase humana usa ATP.
- A DNA ligase bacteriana usa NAD.
-DNA Ligase
+## Endonucleases de Restrição
 
-# Slide 9:
-Clonagem de DNA: Etapa 2
+- Clivam ligações fosfodiéster do DNA em sequências específicas
+- Comuns em bactérias
+    - eliminam DNA viral infeccioso
+    - Algumas fazem cortes escalonados.
+    - extremidades coesivas (*sticky ends*)
+    - Algumas fazem cortes retos.
+    - extremidades abruptas ou cegas (*blunt ends*)
+- Grande número conhecido
+    - comercialmente disponíveis
+    - bem documentadas: REBASE
+    - http://rebase.neb.com/rebase/rebase.html
+
+## Endonucleases de Restrição
+
+![](../imgs/cap09_image04.jpg)
+
+## DNA Ligase
+
+- Enzima que une covalentemente dois fragmentos de DNA
+- Normalmente atua no reparo do DNA
+- A DNA ligase humana usa ATP.
+- A DNA ligase bacteriana usa NAD.
+
+## Clonagem de DNA: Etapa 2
+
 Introduzir DNA no Organismo
 
-# Slide 10:
-Seleção por Antibiótico
-Antibióticos, como penicilina e ampicilina, matam bactérias.
-Plasmídeos podem carregar genes que conferem à bactéria hospedeira resistência contra antibióticos.
-Permite o crescimento (seleção) de bactérias que incorporaram o plasmídeo
+:::: {.columns}
+::: {.column width="50%"}
+![](../imgs/cap09_image05.jpg)
+:::
+
+::: {.column width="50%"}
+![](../imgs/cap09_image06.png)
+:::
+
+::::
+
+## Seleção por Antibiótico
+
+- Antibióticos, como penicilina e ampicilina, matam bactérias.
+- Plasmídeos podem carregar genes que conferem à bactéria hospedeira resistência contra antibióticos.
+- Permite o crescimento (seleção) de bactérias que incorporaram o plasmídeo
 
 Ampicilina
 
-# Slide 11:
-Seleção por Antibiótico
+![](../imgs/cap09_image07.png)
 
-# Slide 12:
-Identificação de Plasmídeos Vazios
+## Seleção por Antibiótico
 
-# Slide 13:
-Vetores de Clonagem
-Plasmídeos
-moléculas circulares de DNA separadas do DNA genômico bacteriano
-podem replicar-se autonomamente
-origens de replicação para uso em bactérias e/ou leveduras
-carregam genes de resistência a antibióticos
-permitem a clonagem de DNA de até 15.000 pb
+![](../imgs/cap09_image08.jpg)
 
-Para clonar cromossomos inteiros (até 300.000 pb)
-cromossomo artificial bacteriano (BAC)
-para uso em bactérias
-cromossomo artificial de levedura (YAC)
-para uso em leveduras
+## Identificação de Plasmídeos Vazios
 
+![](../imgs/cap09_image09.jpg)
 
-# Slide 14:
-Vetores de Clonagem: Plasmídeo
+## Vetores de Clonagem
 
-# Slide 15:
-Vetores de Clonagem: BAC
-O processo de clonagem via BAC é muito semelhante ao uso de plasmídeos. 
-Frequentemente, uma abordagem colorimétrica usando X-gal é empregada para selecionar colônias contendo o inserto cromossômico. 
+- Plasmídeos
+    - moléculas circulares de DNA separadas do DNA genômico bacteriano
+    - podem replicar-se autonomamente
+    - origens de replicação para uso em bactérias e/ou leveduras
+    - carregam genes de resistência a antibióticos
+    - permitem a clonagem de DNA de até 15.000 pb
 
-# Slide 16:
-Vetores de Clonagem: YAC
-Leveduras são os eucariotos mais simples para recombinação de DNA. 
-Possuem cromossomos lineares com extremidades teloméricas, que podem ser instáveis in vitro. 
-O YAC é circular para acomodar replicação rápida e armazenamento estável, mas possui um segmento removível que lineariza o produto para transformação.
+- Para clonar cromossomos inteiros (até 300.000 pb)
+    - cromossomo artificial bacteriano (BAC)
+    - para uso em bactérias
+    - cromossomo artificial de levedura (YAC)
+    - para uso em leveduras
 
+## Vetores de Clonagem: Plasmídeo
 
-# Slide 17:
-Alterando o Código Genético: Mutagênese Sítio-Dirigida
-Compreender a função das proteínas frequentemente requer que um resíduo específico de aminoácido seja mutado.
-Para mutar um aminoácido, altera-se o(s) nucleotídeo(s) no DNA codificador e expressa-se o gene mutado.
-A mutagênese sítio-dirigida geralmente baseia-se em *primers* (iniciadores) mutados sintetizados quimicamente que são incorporados ao DNA recém-sintetizado.
-Plasmídeos mutados são sempre sequenciados para confirmar que a mutação desejada (e apenas a desejada) está presente.
+![](../imgs/cap09_image10.jpg)
 
-# Slide 18:
-Reação em Cadeia da Polimerase (PCR)
-Usada para amplificar DNA no tubo de ensaio
-pode amplificar regiões de interesse (genes) dentro de DNA linear
-pode amplificar plasmídeos circulares completos
-Misture:
-DNA alvo
-*primers* (oligonucleotídeos complementares ao alvo)
-nucleotídeos: dATP, dCTP, dGTP, dTTP
-DNA polimerase termoestável 
-Coloque a mistura em um termociclador.
-Desnature (*melt*) o DNA a cerca de 95°C.
-Resfrie as fitas separadas a cerca de 50–60°C.
-Os *primers* anelam-se ao alvo.
-A polimerase estende os *primers* na direção 5’ → 3’.
-Após o término de uma rodada de alongamento, repita as etapas.
+## Vetores de Clonagem: BAC
 
+- O processo de clonagem via BAC é muito semelhante ao uso de plasmídeos.
+- Frequentemente, uma abordagem colorimétrica usando X-gal é empregada para selecionar colônias contendo o inserto cromossômico.
 
-# Slide 19:
-Etapas Gerais da PCR
+![](../imgs/cap09_image11.jpg)
 
-# Slide 20:
-Repita as Etapas 1–3 Muitas Vezes
-Após 25 ciclos, o DNA foi amplificado cerca de 106 vezes. 
+## Vetores de Clonagem: YAC
 
-# Slide 21:
-Separação de DNA por Eletroforese
-O DNA carregado negativamente migra para o ânodo na presença de um campo elétrico.
-O gel de agarose dificulta a mobilidade das moléculas de DNA.
-A mobilidade depende do tamanho e da forma.
-moléculas pequenas são mais rápidas
-moléculas compactas são mais rápidas
-Uso prático
-análise de DNA
-purificação de DNA
-estudos de interação DNA-proteína
+- Leveduras são os eucariotos mais simples para recombinação de DNA.
+- Possuem cromossomos lineares com extremidades teloméricas, que podem ser instáveis in vitro.
+- O YAC é circular para acomodar replicação rápida e armazenamento estável, mas possui um segmento removível que lineariza o produto para transformação.
 
+![](../imgs/cap09_image12.jpg)
 
-# Slide 22:
-Aplicações e Adaptações da PCR
-Aplicações: 
-Clonagem
-usar *primers* flanqueadores para replicar e amplificar um segmento específico de DNA 
-Mutagênese sítio-dirigida (dirigida por oligonucleotídeos)
-usar *primers* “sanduíche” para fazer pequenas alterações no segmento de DNA e depois amplificar o DNA alterado
-Impressão digital de DNA (*DNA fingerprinting*)
-usar *primers* para localizações cromossômicas específicas para amplificar e determinar o número de repetições curtas em tandem (STRs) para fins de identificação
-Adaptações:
-PCR com transcriptase reversa (RT-PCR)
-usada para converter o código de RNA em DNA e amplificar segmentos específicos
-PCR quantitativa (qPCR)
-usada para mostrar diferenças quantitativas nos níveis gênicos 
+## Alterando o Código Genético: Mutagênese Sítio-Dirigida
 
-# Slide 23:
-Mutagênese Sítio-Dirigida
+- Compreender a função das proteínas frequentemente requer que um resíduo específico de aminoácido seja mutado.
+- Para mutar um aminoácido, altera-se o(s) nucleotídeo(s) no DNA codificador e expressa-se o gene mutado.
+- A mutagênese sítio-dirigida geralmente baseia-se em *primers* (iniciadores) mutados sintetizados quimicamente que são incorporados ao DNA recém-sintetizado.
+- Plasmídeos mutados são sempre sequenciados para confirmar que a mutação desejada (e apenas a desejada) está presente.
 
-# Slide 24:
-qPCR
+## Reação em Cadeia da Polimerase (PCR)
 
-# Slide 25:
-Impressão Digital de DNA (*DNA Fingerprinting*)
-Humanos possuem sequências curtas que se repetem lado a lado. 
-repetições curtas em tandem (STR)
-Diferenças no número de repetições causam variações no comprimento dos fragmentos formados quando uma amostra é submetida à PCR usando um *primer* específico para aquela região.
-Os tamanhos dos fragmentos podem ser determinados usando um gel capilar.
-Existem múltiplas localizações de STR no genoma humano.
-Permite comparar amostras “suspeitas” com indivíduos conhecidos
-Treze localizações bem estudadas são usadas em identificações.
-com base no número de alelos observados em cada localização, com erro de identificação inferior a 1 em 1018 (quando bons dados são obtidos) 
+- Usada para amplificar DNA no tubo de ensaio
+    - pode amplificar regiões de interesse (genes) dentro de DNA linear
+    - pode amplificar plasmídeos circulares completos
+- **Misture:**
+    - DNA alvo
+- *primers* (oligonucleotídeos complementares ao alvo)
+    - nucleotídeos: dATP, dCTP, dGTP, dTTP
+- DNA polimerase termoestável
+    - Coloque a mistura em um termociclador.
+    - Desnature (*melt*) o DNA a cerca de 95°C.
+    - Resfrie as fitas separadas a cerca de 50–60°C.
+    - Os *primers* anelam-se ao alvo.
+    - A polimerase estende os *primers* na direção 5’ → 3’.
+    - Após o término de uma rodada de alongamento, repita as etapas.
 
-# Slide 26:
-Impressão Digital de DNA (*DNA Fingerprinting*)
+## Etapas Gerais da PCR
 
-# Slide 27:
+![](../imgs/cap09_image13.jpg)
 
-# Slide 28:
-Expressão Gênica Eucariótica em Bactérias
-Um gene eucariótico proveniente do genoma eucariótico não será expresso corretamente na bactéria.
-Genes eucarióticos têm:
-éxons: regiões codificadoras
-íntrons: regiões não codificadoras
-Os íntrons em genes eucarióticos representam problemas.
-Bactérias não conseguem remover íntrons (*splicing*) do DNA codificador.
-O mRNA é material genético livre de íntrons, pois os códons já sofreram *splicing*.
+## Repita as Etapas 1–3 Muitas Vezes
 
+Após 25 ciclos, o DNA foi amplificado cerca de 106 vezes.
 
-# Slide 29:
+![](../imgs/cap09_image14.jpg)
 
-# Slide 30:
-Construção de cDNA
-O mRNA pode ser extraído de células eucarióticas.
-Todas as moléculas de mRNA têm uma cauda poli(A).
-ajuda na purificação do mRNA
-serve como um molde universal
-Uma fita de DNA pode ser sintetizada usando mRNA como molde.
-Isso é catalisado pela transcriptase reversa.
-O resultado final é um híbrido onde a fita de DNA é complementar ao mRNA.
-O híbrido pode ser convertido em DNA dupla-fita, conhecido como cDNA.
+## Separação de DNA por Eletroforese
 
-# Slide 31:
-Construção de cDNA
+- O DNA carregado negativamente migra para o ânodo na presença de um campo elétrico.
+- O gel de agarose dificulta a mobilidade das moléculas de DNA.
+- A mobilidade depende do tamanho e da forma.
+    - moléculas pequenas são mais rápidas
+    - moléculas compactas são mais rápidas
+- Uso prático
+    - análise de DNA
+    - purificação de DNA
+    - estudos de interação DNA-proteína
 
-# Slide 32:
-Construção de cDNA
+## Aplicações e Adaptações da PCR {.smaller}
 
-# Slide 33:
-Expressão de Genes Clonados
-Queremos estudar o produto proteico do gene.
-Plasmídeos especiais, chamados vetores de expressão, contêm sequências que permitem a transcrição do gene inserido.
-Vetores de expressão diferem dos vetores de clonagem por possuírem:
-sequências promotoras
-sequências operadoras
-código para sítio de ligação ao ribossomo
-sequências de término da transcrição 
+- **Aplicações:**
+    - Clonagem
+    - usar *primers* flanqueadores para replicar e amplificar um segmento específico de DNA
+- Mutagênese sítio-dirigida (dirigida por oligonucleotídeos)
+    - usar *primers* “sanduíche” para fazer pequenas alterações no segmento de DNA e depois amplificar o DNA alterado
+- Impressão digital de DNA (*DNA fingerprinting*)
+    - usar *primers* para localizações cromossômicas específicas para amplificar e determinar o número de repetições curtas em tandem (STRs) para fins de identificação
+- **Adaptações:**
+    - PCR com transcriptase reversa (RT-PCR)
+    - usada para converter o código de RNA em DNA e amplificar segmentos específicos
+- PCR quantitativa (qPCR)
+    - usada para mostrar diferenças quantitativas nos níveis gênicos
 
-# Slide 34:
-Vetor de Expressão Típico
+## Mutagênese Sítio-Dirigida
 
-# Slide 35:
-Purificação de Genes Recombinantes
-A purificação de proteínas naturais é difícil.
-Proteínas recombinantes podem receber etiquetas (*tags*) para purificação.
-A etiqueta liga-se à resina de afinidade, prendendo a proteína de interesse a uma coluna de purificação.
-TABELA 9-3	Etiquetas (*Tags*) Proteicas Comumente Usadas	
-Proteína/peptídeo etiqueta	Massa molecular (kDa)	Ligante imobilizado	
-Proteína A	59	Porção Fc da IgG	
-(His)6	0,8	Ni2+	
-Glutationa-S-transferase (GST)	26	Glutationa	
-Proteína ligante de maltose (MBP)	41	Maltose	
-β-Galactosidase	116	p-Aminofenil-β-D-tiogalactosídeo (TPEG)	
-Domínio de ligação à quitina	5,7	Quitina	
+![](../imgs/cap09_image15.jpg)
 
-# Slide 36:
-Purificação de Genes Recombinantes
+## qPCR
 
-# Slide 37:
-A Fluorescência Pode Ser Usada 
-para Determinar a Localização Proteica In Vivo
-Proteína verde fluorescente (GFP)
-usar tecnologias de DNA recombinante para anexar GFP à proteína de interesse 
-visualizar com um microscópio de fluorescência
-Imunofluorescência
-marcar a proteína com anticorpo primário e detectar com anticorpo secundário contendo marcador fluorescente
-A proteína também pode ser fusionada a um epítopo curto, e o anticorpo primário que detecta o epítopo pode ser marcado fluorescentemente.
+![](../imgs/cap09_image16.jpg)
 
-# Slide 38:
-Localização de Proteína Marcada com GFP
+## Impressão Digital de DNA (*DNA Fingerprinting*) {.smaller}
 
-# Slide 39:
-Imunofluorescência
+- Humanos possuem sequências curtas que se repetem lado a lado.
+    - repetições curtas em tandem (STR)
+- Diferenças no número de repetições causam variações no comprimento dos fragmentos formados quando uma amostra é submetida à PCR usando um *primer* específico para aquela região.
+- Os tamanhos dos fragmentos podem ser determinados usando um gel capilar.
+- Existem múltiplas localizações de STR no genoma humano.
+    - Permite comparar amostras “suspeitas” com indivíduos conhecidos
+- Treze localizações bem estudadas são usadas em identificações.
+    - com base no número de alelos observados em cada localização, com erro de identificação inferior a 1 em 1018 (quando bons dados são obtidos)
 
-# Slide 40:
-Visualização da Localização Proteica a Partir de uma Biblioteca de cDNA Marcada com GFP
+## Impressão Digital de DNA (*DNA Fingerprinting*)
 
-# Slide 41:
-Identificando Interações Proteína–Proteína
-Isolamento de complexos proteicos
-Uma proteína no complexo é marcada com um epítopo (*epitope tagged*).
-O isolamento suave da proteína marcada com epítopo também isolará proteínas que interagem de forma estável.
-Todas as proteínas isoladas podem ser separadas e identificadas.
-O uso de etiquetas de purificação por afinidade em tandem (TAP) aprimorou o procedimento.
-permite duas etapas de purificação, eliminando proteínas fracamente associadas e minimizando ligações inespecíficas
+![](../imgs/cap09_image17.jpg)
 
-# Slide 42:
-Identificando Interações Proteína-Proteína
-Método Clássico:
-Método TAP-tag:
+---
 
-# Slide 43:
-Identificando Interações Proteína-Proteína
-Sistema duplo-híbrido de levedura (*Yeast two-hybrid*)
-A proteína de interesse é marcada com o domínio de ativação de GAL4.
-A biblioteca de DNA com todos os genes de levedura é marcada com o domínio de ligação de Gal4.
-O gene repórter está sob o controle de Gal4.
-As proteínas marcadas diferencialmente devem interagir para que ocorra a expressão do gene repórter.
+![](../imgs/cap09_image18.jpg)
 
+## Expressão Gênica Eucariótica em Bactérias
 
-# Slide 44:
-Microarranjos de DNA (*DNA Microarrays*) Mostram 
-Diferenças na Expressão Gênica
-Chips de microarranjo contêm fragmentos de genes do grupo a ser analisado.
-genoma completo de bactérias ou leveduras, ou famílias codificadoras de proteínas de genomas maiores
-mRNA ou cDNA de diferentes amostras são marcados diferencialmente.
-A análise no mesmo chip mostra diferenças.
+- Um gene eucariótico proveniente do genoma eucariótico não será expresso corretamente na bactéria.
+- **Genes eucarióticos têm:**
+    - éxons: regiões codificadoras
+    - íntrons: regiões não codificadoras
+- Os íntrons em genes eucarióticos representam problemas.
+- Bactérias não conseguem remover íntrons (*splicing*) do DNA codificador.
+- O mRNA é material genético livre de íntrons, pois os códons já sofreram *splicing*.
 
-# Slide 45:
-Síntese Fotolitográfica de Microchips Contendo DNA
+---
 
-# Slide 46:
-Análise de Microarranjo de DNA de Duas Cores em 
- “Chips Genômicos”
+![](../imgs/cap09_image19.jpg)
 
-# Slide 47:
-Microarranjos de DNA: Aplicações
-Microarranjos de DNA permitem triagem simultânea de muitos milhares de genes: triagem de alto rendimento (*high-throughput screening*).
-Genotipagem ampla do genoma
-Quais genes estão presentes neste indivíduo?
-Expressão gênica tecido-específica
-Quais genes são usados para produzir proteínas?
-Análise mutacional
-Quais genes sofreram mutação?
+## Construção de cDNA
 
+- O mRNA pode ser extraído de células eucarióticas.
+- Todas as moléculas de mRNA têm uma cauda poli(A).
+    - ajuda na purificação do mRNA
+    - serve como um molde universal
+- Uma fita de DNA pode ser sintetizada usando mRNA como molde.
+- Isso é catalisado pela transcriptase reversa.
+- O resultado final é um híbrido onde a fita de DNA é complementar ao mRNA.
+- O híbrido pode ser convertido em DNA dupla-fita, conhecido como cDNA.
 
-# Slide 48:
-Nova Geração de 
-Análise de Sequência de DNA
-O genoma completo é imobilizado em um chip em fragmentos de algumas centenas de bases de comprimento.
-Todos são sequenciados de uma vez, permitindo detecção mais rápida.
-Pirosequenciamento
-Envolve a síntese de DNA a partir do molde.
-Um único nucleotídeo está disponível por vez.
-Cada nucleotídeo adicionado resulta em um pulso de luz.
-Pode ler 400–500 nucleotídeos na sequência.
-Sequenciamento por terminador reversível
-Um nucleotídeo terminal marcado fluorescentemente é adicionado à sequência e detectado.
-Um nucleotídeo terminal é removido, a sequência é estendida e o próximo nucleotídeo é detectado.
+## Construção de cDNA
 
-# Slide 49:
-Pirosequenciamento
+![](../imgs/cap09_image20.jpg)
 
-# Slide 50:
-Sequenciamento por Terminador Reversível
+## Construção de cDNA
 
-# Slide 51:
-O Projeto Genoma Humano
-O sequenciamento do genoma humano permite:
-identificação e categorização de diferentes haplótipos
-compreensão das diferenças entre humanos e chimpanzés
-com base em árvores filogenéticas e comparação de diferenças
-especialmente em sequências regulatórias, que podem ser mais importantes para a evolução do que alterações em proteínas
-identificação de genes envolvidos em doenças
-rastreamento da rota da migração humana
+![](../imgs/cap09_image21.jpg)
 
-# Slide 52:
-Sequenciamento Genômico
+## Expressão de Genes Clonados
 
-# Slide 53:
-O Genoma Humano Contém 
-Muitos Tipos Diferentes de Sequências
+- Queremos estudar o produto proteico do gene.
+- Plasmídeos especiais, chamados vetores de expressão, contêm sequências que permitem a transcrição do gene inserido.
+- Vetores de expressão diferem dos vetores de clonagem por possuírem:
+    - sequências promotoras
+    - sequências operadoras
+    - código para sítio de ligação ao ribossomo
+    - sequências de término da transcrição
 
-# Slide 54:
-O Genoma Humano Contém 
-Muitos Tipos Diferentes de Proteínas
+## Vetor de Expressão Típico
 
-# Slide 55:
-Polimorfismos de Nucleotídeo Único (SNPs) Podem Distinguir Populações Humanas
+![](../imgs/cap09_image22.jpg)
 
-# Slide 56:
-A Ligação de SNPs à Herança de Doenças 
-Pode Identificar Genes Envolvidos
+## Purificação de Genes Recombinantes {.smaller}
 
-# Slide 57:
-Árvores Evolutivas Mostram a Relação Entre Humanos e Chimpanzés
+- A purificação de proteínas naturais é difícil.
+- Proteínas recombinantes podem receber etiquetas (*tags*) para purificação.
+- A etiqueta liga-se à resina de afinidade, prendendo a proteína de interesse a uma coluna de purificação.
 
-# Slide 58:
-Grupos Externos (*Outgroups*) Ajudam a Identificar 
-Mudanças Dentro da Linhagem Humana
+| Proteína/peptídeo etiqueta | Massa molecular (kDa) | Ligante imobilizado |
+|:--|:--|:--|
+| Proteína A | 59 | Porção Fc da IgG |
+| (His)6 | 0,8 | Ni2+ |
+| Glutationa-S-transferase (GST) | 26 | Glutationa |
+| Proteína ligante de maltose (MBP) | 41 | Maltose |
+| β-Galactosidase | 116 | p-Aminofenil-β-D-tiogalactosídeo (TPEG) |
+| Domínio de ligação à quitina | 5,7 | Quitina |
 
-# Slide 59:
-Evolução Acelerada Identificada em Sequências Regulatórias
+: **TABELA 9-3** Etiquetas (*Tags*) Proteicas Comumente Usadas
 
-# Slide 60:
-O Mapeamento de Haplótipos Pode Identificar Rotas de Migração Ancestrais
+## Purificação de Genes Recombinantes
 
-# Slide 61:
-Humanos e Neandertais Compartilham um Ancestral Comum:
+![](../imgs/cap09_image23.jpg)
+
+## A Fluorescência Pode Ser Usada para Determinar a Localização Proteica In Vivo
+
+- Proteína verde fluorescente (GFP)
+    - usar tecnologias de DNA recombinante para anexar GFP à proteína de interesse visualizar com um microscópio de fluorescência
+- Imunofluorescência
+    - marcar a proteína com anticorpo primário e detectar com anticorpo secundário contendo marcador fluorescente
+    - A proteína também pode ser fusionada a um epítopo curto, e o anticorpo primário que detecta o epítopo pode ser marcado fluorescentemente.
+
+## Localização de Proteína Marcada com GFP
+
+![](../imgs/cap09_image24.jpg)
+
+## Imunofluorescência
+
+![](../imgs/cap09_image25.jpg)
+
+## Visualização da Localização Proteica a Partir de uma Biblioteca de cDNA Marcada com GFP
+
+![](../imgs/cap09_image26.jpg)
+
+## Identificando Interações Proteína–Proteína
+
+- Isolamento de complexos proteicos
+- Uma proteína no complexo é marcada com um epítopo (*epitope tagged*).
+- O isolamento suave da proteína marcada com epítopo também isolará proteínas que interagem de forma estável.
+- Todas as proteínas isoladas podem ser separadas e identificadas.
+- O uso de etiquetas de purificação por afinidade em tandem (TAP) aprimorou o procedimento.
+    - permite duas etapas de purificação, eliminando proteínas fracamente associadas e minimizando ligações inespecíficas
+
+## Identificando Interações Proteína-Proteína
+
+- **Método Clássico:**
+    - Método TAP-tag:
+
+:::: {.columns}
+::: {.column width="50%"}
+![](../imgs/cap09_image27.jpg)
+:::
+
+::: {.column width="50%"}
+![](../imgs/cap09_image28.jpg)
+:::
+
+::::
+
+## Identificando Interações Proteína-Proteína
+
+- Sistema duplo-híbrido de levedura (*Yeast two-hybrid*)
+- A proteína de interesse é marcada com o domínio de ativação de GAL4.
+- A biblioteca de DNA com todos os genes de levedura é marcada com o domínio de ligação de Gal4.
+- O gene repórter está sob o controle de Gal4.
+- As proteínas marcadas diferencialmente devem interagir para que ocorra a expressão do gene repórter.
+
+![](../imgs/cap09_image29.jpg)
+
+## Microarranjos de DNA (*DNA Microarrays*) Mostram Diferenças na Expressão Gênica
+
+- Chips de microarranjo contêm fragmentos de genes do grupo a ser analisado.
+    - genoma completo de bactérias ou leveduras, ou famílias codificadoras de proteínas de genomas maiores
+    - mRNA ou cDNA de diferentes amostras são marcados diferencialmente.
+- A análise no mesmo chip mostra diferenças.
+
+## Síntese Fotolitográfica de Microchips Contendo DNA
+
+![](../imgs/cap09_image30.jpg)
+
+## Análise de Microarranjo de DNA de Duas Cores em
+
+“Chips Genômicos”
+
+![](../imgs/cap09_image31.jpg)
+
+## Microarranjos de DNA: Aplicações
+
+- Microarranjos de DNA permitem triagem simultânea de muitos milhares de genes: triagem de alto rendimento (*high-throughput screening*).
+    - Genotipagem ampla do genoma
+    - Quais genes estão presentes neste indivíduo?
+    - Expressão gênica tecido-específica
+    - Quais genes são usados para produzir proteínas?
+- Análise mutacional
+
+::: {.callout-tip appearance="simple" icon="false"}
+**Quais genes sofreram mutação?**
+:::
+
+## Nova Geração de Análise de Sequência de DNA
+
+- O genoma completo é imobilizado em um chip em fragmentos de algumas centenas de bases de comprimento.
+- Todos são sequenciados de uma vez, permitindo detecção mais rápida.
+- Pirosequenciamento
+    - Envolve a síntese de DNA a partir do molde.
+    - Um único nucleotídeo está disponível por vez.
+    - Cada nucleotídeo adicionado resulta em um pulso de luz.
+    - Pode ler 400–500 nucleotídeos na sequência.
+- Sequenciamento por terminador reversível
+- Um nucleotídeo terminal marcado fluorescentemente é adicionado à sequência e detectado.
+- Um nucleotídeo terminal é removido, a sequência é estendida e o próximo nucleotídeo é detectado.
+
+## Pirosequenciamento
+
+![](../imgs/cap09_image32.jpg)
+
+## Sequenciamento por Terminador Reversível
+
+![](../imgs/cap09_image33.jpg)
+
+## O Projeto Genoma Humano
+
+- **O sequenciamento do genoma humano permite:**
+    - identificação e categorização de diferentes haplótipos
+    - compreensão das diferenças entre humanos e chimpanzés
+    - com base em árvores filogenéticas e comparação de diferenças
+    - especialmente em sequências regulatórias, que podem ser mais importantes para a evolução do que alterações em proteínas
+    - identificação de genes envolvidos em doenças
+    - rastreamento da rota da migração humana
+
+## Sequenciamento Genômico
+
+![](../imgs/cap09_image34.jpg)
+
+## O Genoma Humano Contém Muitos Tipos Diferentes de Sequências
+
+![](../imgs/cap09_image35.jpg)
+
+## O Genoma Humano Contém Muitos Tipos Diferentes de Proteínas
+
+![](../imgs/cap09_image36.jpg)
+
+## Polimorfismos de Nucleotídeo Único (SNPs) Podem Distinguir Populações Humanas
+
+![](../imgs/cap09_image37.jpg)
+
+## A Ligação de SNPs à Herança de Doenças Pode Identificar Genes Envolvidos
+
+![](../imgs/cap09_image38.jpg)
+
+## Árvores Evolutivas Mostram a Relação Entre Humanos e Chimpanzés
+
+:::: {.columns}
+::: {.column width="50%"}
+![](../imgs/cap09_image39.jpg)
+:::
+
+::: {.column width="50%"}
+![](../imgs/cap09_image40.jpg)
+:::
+
+::::
+
+## Grupos Externos (*Outgroups*) Ajudam a Identificar Mudanças Dentro da Linhagem Humana
+
+![](../imgs/cap09_image41.jpg)
+
+## Evolução Acelerada Identificada em Sequências Regulatórias
+
+![](../imgs/cap09_image42.jpg)
+
+## O Mapeamento de Haplótipos Pode Identificar Rotas de Migração Ancestrais
+
+![](../imgs/cap09_image43.jpg)
+
+## Humanos e Neandertais Compartilham um Ancestral Comum:
+
 Há 700.000 Anos
 
-# Slide 62:
-Capítulo 9: Resumo
-como produzir DNA recombinante
-como usar bactérias para clonagem de DNA
-como analisar DNA por tamanho e sequência
-como mutar e amplificar DNA em tubo de ensaio
-como expressar e purificar genes eucarióticos
-como determinar níveis de expressão de genes
+![](../imgs/cap09_image44.jpg)
 
-Neste capítulo, aprendemos:
+## Capítulo 9: Resumo
+
+**Neste capítulo, aprendemos:**
+
+- como produzir DNA recombinante
+    - como usar bactérias para clonagem de DNA
+    - como analisar DNA por tamanho e sequência
+    - como mutar e amplificar DNA em tubo de ensaio
+    - como expressar e purificar genes eucarióticos
+    - como determinar níveis de expressão de genes

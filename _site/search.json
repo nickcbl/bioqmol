@@ -411,5 +411,663 @@
     "title": "Os Fundamentos da Bioquímica",
     "section": "Cu",
     "text": "Cu\n\n\n     \n\n\n\nProteínas enoveladas\n\n\nPeptídeo traduzido"
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch02_pt_br.html#capítulo-2-água",
+    "href": "slides/lehninger_7e_ppt_ch02_pt_br.html#capítulo-2-água",
+    "title": "Capítulo",
+    "section": "CAPÍTULO 2Água",
+    "text": "CAPÍTULO 2Água\nObjetivos de aprendizagem:\n\nQue tipos de interações ocorrem entre as moléculas\nPor que a água é um bom meio para a vida\nPor que porções apolares se agregam na água\nComo moléculas dissolvidas alteram as propriedades da água\nComo ácidos e bases fracos se comportam na água\nComo os tampões funcionam e por que precisamos deles\nComo a água participa das reações bioquímicas"
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch02_pt_br.html#a-água-é-o-meio-para-a-vida",
+    "href": "slides/lehninger_7e_ppt_ch02_pt_br.html#a-água-é-o-meio-para-a-vida",
+    "title": "Capítulo",
+    "section": "A Água É o Meio para a Vida",
+    "text": "A Água É o Meio para a Vida\n\nA vida evoluiu na água devido à proteção que ela oferece contra a luz UV.\nOs organismos contêm tipicamente 70–90% de água.\nAs reações químicas ocorrem em meio aquoso.\nA água é um determinante crítico da estrutura e função de proteínas, ácidos nucleicos e membranas."
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch02_pt_br.html#estrutura-da-molécula-de-água",
+    "href": "slides/lehninger_7e_ppt_ch02_pt_br.html#estrutura-da-molécula-de-água",
+    "title": "Capítulo",
+    "section": "Estrutura da Molécula de Água",
+    "text": "Estrutura da Molécula de Água\n\nA regra do octeto dita que existem quatro pares de elétrons ao redor de um átomo de oxigênio na água.\nEsses elétrons estão em quatro orbitais sp3.\nDois desses pares ligam covalentemente dois átomos de hidrogênio a um átomo central de oxigênio.\nOs dois pares restantes permanecem não ligantes (pares isolados).\nA geometria da água é um tetraedro distorcido.\nA eletronegatividade do átomo de oxigênio induz um momento de dipolo resultante.\nDevido ao momento de dipolo, a água pode atuar tanto como doadora quanto como aceptora de ligações de hidrogênio."
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch02_pt_br.html#ligações-de-hidrogênio",
+    "href": "slides/lehninger_7e_ppt_ch02_pt_br.html#ligações-de-hidrogênio",
+    "title": "Capítulo",
+    "section": "Ligações de Hidrogênio",
+    "text": "Ligações de Hidrogênio\n\nLigações de hidrogênio são fortes interações dipolo-dipolo ou carga-dipolo que surgem entre um hidrogênio ligado covalentemente e um par isolado de elétrons.\nElas geralmente envolvem dois átomos eletronegativos (frequentemente nitrogênio e oxigênio).\nAs ligações de hidrogênio são mais fortes quando as moléculas ligadas permitem padrões de ligação lineares.\nIdealmente, os três átomos envolvidos estão em linha reta."
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch02_pt_br.html#ligações-de-hidrogênio-na-água",
+    "href": "slides/lehninger_7e_ppt_ch02_pt_br.html#ligações-de-hidrogênio-na-água",
+    "title": "Capítulo",
+    "section": "Ligações de Hidrogênio na Água",
+    "text": "Ligações de Hidrogênio na Água\n\nA água pode atuar tanto como:\n\ndoadora de H\naceptora de H\n\nAté quatro ligações de H por molécula de água conferem à água seu:\n\nponto de ebulição anomalamente alto\nponto de fusão anomalamente alto\ntensão superficial excepcionalmente grande\n\nA ligação de hidrogênio na água é cooperativa.\nAs ligações de hidrogênio entre moléculas vizinhas são fracas (20 kJ/mol) em relação às ligações covalentes H–O (420 kJ/mol)."
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch02_pt_br.html#importância-das-ligações-de-hidrogênio",
+    "href": "slides/lehninger_7e_ppt_ch02_pt_br.html#importância-das-ligações-de-hidrogênio",
+    "title": "Capítulo",
+    "section": "Importância das Ligações de Hidrogênio",
+    "text": "Importância das Ligações de Hidrogênio\n\nFonte das propriedades únicas da água\nEstrutura e função das proteínas\nEstrutura e função do DNA\nEstrutura e função dos polissacarídeos\nLigação de substratos às enzimas\nLigação de hormônios aos receptores\nPareamento de mRNA e tRNA\n\n“Acredito que, à medida que os métodos da química estrutural forem aplicados a problemas fisiológicos, descobrir-se-á que a importância da ligação de hidrogênio para a fisiologia é maior do que a de qualquer outra característica estrutural isolada.”\n\n–Linus Pauling, A Natureza da Ligação Química, 1939"
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch02_pt_br.html#relevância-biológica-das-ligações-de-hidrogênio",
+    "href": "slides/lehninger_7e_ppt_ch02_pt_br.html#relevância-biológica-das-ligações-de-hidrogênio",
+    "title": "Capítulo",
+    "section": "Relevância Biológica das Ligações de Hidrogênio",
+    "text": "Relevância Biológica das Ligações de Hidrogênio"
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch02_pt_br.html#gelo-água-no-estado-sólido",
+    "href": "slides/lehninger_7e_ppt_ch02_pt_br.html#gelo-água-no-estado-sólido",
+    "title": "Capítulo",
+    "section": "Gelo: Água no Estado Sólido",
+    "text": "Gelo: Água no Estado Sólido\n\nA água possui muitas formas cristalinas diferentes; o gelo hexagonal é o mais comum.\nO gelo hexagonal forma uma rede organizada e, portanto, tem baixa entropia.\nO gelo hexagonal contém o máximo de ligações de hidrogênio por molécula de água, forçando as moléculas de água a um arranjo equidistante. Assim:\n\no gelo tem densidade menor que a água líquida\no gelo flutua"
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch02_pt_br.html#água-como-solvente",
+    "href": "slides/lehninger_7e_ppt_ch02_pt_br.html#água-como-solvente",
+    "title": "Capítulo",
+    "section": "Água como Solvente",
+    "text": "Água como Solvente\n\nA água é um bom solvente para substâncias carregadas e polares:\n\naminoácidos e peptídeos\npequenos álcoois\ncarboidratos\n\nA água é um mau solvente para substâncias apolares:\n\ngases apolares\nporções aromáticas\ncadeias alifáticas"
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch02_pt_br.html#física-das-interações-não-covalentes",
+    "href": "slides/lehninger_7e_ppt_ch02_pt_br.html#física-das-interações-não-covalentes",
+    "title": "Capítulo",
+    "section": "Física das Interações Não Covalentes",
+    "text": "Física das Interações Não Covalentes\nInterações não covalentes não envolvem o compartilhamento de um par de elétrons. Com base em sua origem física, pode-se distinguir entre:\n\nInterações iônicas (Coulômbicas)\n\ninterações eletrostáticas entre espécies permanentemente carregadas, ou entre o íon e um dipolo permanente\n\nInterações dipolo\n\ninterações eletrostáticas entre moléculas não carregadas, mas polares\n\nInterações de van der Waals\n\ninterações fracas entre todos os átomos, independentemente da polaridade\ncomponente atrativo (dispersão) e repulsivo (estérico)\n\nEfeito Hidrofóbico\n\nfenômeno complexo associado à ordenação de moléculas de água ao redor de substâncias apolares"
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch02_pt_br.html#exemplos-de-interações-não-covalentes",
+    "href": "slides/lehninger_7e_ppt_ch02_pt_br.html#exemplos-de-interações-não-covalentes",
+    "title": "Capítulo",
+    "section": "Exemplos de Interações Não Covalentes",
+    "text": "Exemplos de Interações Não Covalentes"
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch02_pt_br.html#dissolver-sais-envolve-quebrar-interações-iônicas",
+    "href": "slides/lehninger_7e_ppt_ch02_pt_br.html#dissolver-sais-envolve-quebrar-interações-iônicas",
+    "title": "Capítulo",
+    "section": "Dissolver Sais Envolve Quebrar Interações Iônicas",
+    "text": "Dissolver Sais Envolve Quebrar Interações Iônicas"
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch02_pt_br.html#dissolver-sais-envolve-quebrar-interações-iônicas-1",
+    "href": "slides/lehninger_7e_ppt_ch02_pt_br.html#dissolver-sais-envolve-quebrar-interações-iônicas-1",
+    "title": "Capítulo",
+    "section": "Dissolver Sais Envolve Quebrar Interações Iônicas",
+    "text": "Dissolver Sais Envolve Quebrar Interações Iônicas"
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch02_pt_br.html#interações-de-van-der-waals",
+    "href": "slides/lehninger_7e_ppt_ch02_pt_br.html#interações-de-van-der-waals",
+    "title": "Capítulo",
+    "section": "Interações de van der Waals",
+    "text": "Interações de van der Waals\n\nAs interações de van der Waals têm dois componentes:\n\nforça atrativa (dispersão de London), que depende da polarizabilidade\nforça repulsiva (repulsão estérica), que depende do tamanho dos átomos\n\nA atração domina em distâncias maiores (tipicamente 0,4–0,7 nm).\nA repulsão domina em distâncias muito curtas.\nExiste uma distância de energia mínima (distância de contato de van der Waals)."
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch02_pt_br.html#significado-bioquímico-das-interações-de-van-der-waals",
+    "href": "slides/lehninger_7e_ppt_ch02_pt_br.html#significado-bioquímico-das-interações-de-van-der-waals",
+    "title": "Capítulo",
+    "section": "Significado Bioquímico das Interações de van der Waals",
+    "text": "Significado Bioquímico das Interações de van der Waals\n\nFracas individualmente\n\nfacilmente quebradas, reversíveis\n\nUniversais\n\nocorrem entre quaisquer dois átomos que estejam próximos um do outro\n\nImportância\n\ndeterminam a complementaridade estérica\nestabilizam macromoléculas biológicas (empilhamento no DNA)\nfacilitam a ligação de ligantes polarizáveis"
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch02_pt_br.html#o-efeito-hidrofóbico",
+    "href": "slides/lehninger_7e_ppt_ch02_pt_br.html#o-efeito-hidrofóbico",
+    "title": "Capítulo",
+    "section": "O Efeito Hidrofóbico",
+    "text": "O Efeito Hidrofóbico\n\nRefere-se à associação ou interação de moléculas apolares ou componentes de moléculas em solução aquosa\nÉ um dos principais fatores por trás de:\n\nenovelamento proteico\nassociação proteína-proteína\nformação de micelas lipídicas\nligação de hormônios esteroides aos seus receptores\n\nNão surge devido a alguma força atrativa direta entre duas moléculas apolares"
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch02_pt_br.html#solubilidade-de-solutos-polares-e-apolares",
+    "href": "slides/lehninger_7e_ppt_ch02_pt_br.html#solubilidade-de-solutos-polares-e-apolares",
+    "title": "Capítulo",
+    "section": "Solubilidade de Solutos Polares e Apolares",
+    "text": "Solubilidade de Solutos Polares e Apolares\n\nPor que moléculas apolares são pouco solúveis em água?"
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch02_pt_br.html#a-água-ao-redor-de-solutos-apolares-tem-menor-entropia",
+    "href": "slides/lehninger_7e_ppt_ch02_pt_br.html#a-água-ao-redor-de-solutos-apolares-tem-menor-entropia",
+    "title": "Capítulo",
+    "section": "A Água ao Redor de Solutos Apolares Tem Menor Entropia",
+    "text": "A Água ao Redor de Solutos Apolares Tem Menor Entropia\n\n\n\n\n\nAlta entropia\n\n\n\n\n\nBaixaEntropia\n\n\nBaixa entropia é termodinamicamente desfavorável, portanto solutos hidrofóbicos têm baixa solubilidade."
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch02_pt_br.html#origem-do-efeito-hidrofóbico",
+    "href": "slides/lehninger_7e_ppt_ch02_pt_br.html#origem-do-efeito-hidrofóbico",
+    "title": "Capítulo",
+    "section": "Origem do Efeito Hidrofóbico",
+    "text": "Origem do Efeito Hidrofóbico\n\n\nConsidere lipídios anfipáticos na água.\nMoléculas lipídicas dispersam-se na solução; as caudas apolares das moléculas lipídicas são cercadas por moléculas de água ordenadas.\nA entropia do sistema diminui.\nO sistema está agora em um estado desfavorável."
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch02_pt_br.html#origem-do-efeito-hidrofóbico-1",
+    "href": "slides/lehninger_7e_ppt_ch02_pt_br.html#origem-do-efeito-hidrofóbico-1",
+    "title": "Capítulo",
+    "section": "Origem do Efeito Hidrofóbico",
+    "text": "Origem do Efeito Hidrofóbico\n\nPorções apolares da molécula anfipática agregam-se para que menos moléculas de água fiquem ordenadas e a entropia aumente.\nTodos os grupos apolares são sequestrados da água, e as moléculas de água liberadas aumentam ainda mais a entropia.\nApenas os “grupos cabeça” polares ficam expostos."
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch02_pt_br.html#origem-do-efeito-hidrofóbico-2",
+    "href": "slides/lehninger_7e_ppt_ch02_pt_br.html#origem-do-efeito-hidrofóbico-2",
+    "title": "Capítulo",
+    "section": "Origem do Efeito Hidrofóbico",
+    "text": "Origem do Efeito Hidrofóbico\n\nCom concentração suficientemente alta de moléculas anfipáticas, é possível a agregação completa em micelas."
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch02_pt_br.html#o-efeito-hidrofóbico-favorece-a-ligação-de-ligantes",
+    "href": "slides/lehninger_7e_ppt_ch02_pt_br.html#o-efeito-hidrofóbico-favorece-a-ligação-de-ligantes",
+    "title": "Capítulo",
+    "section": "O Efeito Hidrofóbico Favorece a Ligação de Ligantes",
+    "text": "O Efeito Hidrofóbico Favorece a Ligação de Ligantes\n\nSítios de ligação em enzimas e receptores são frequentemente hidrofóbicos.\nTais sítios podem ligar substratos e ligantes hidrofóbicos, como hormônios esteroides, que deslocam a água e aumentam a entropia do sistema.\nMuitos fármacos são projetados para tirar proveito do efeito hidrofóbico."
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch02_pt_br.html#solutos-podem-alterar-as-propriedades-da-água",
+    "href": "slides/lehninger_7e_ppt_ch02_pt_br.html#solutos-podem-alterar-as-propriedades-da-água",
+    "title": "Capítulo",
+    "section": "Solutos Podem Alterar as Propriedades da Água",
+    "text": "Solutos Podem Alterar as Propriedades da Água\n\nPropriedades coligativas:\n\nponto de ebulição, ponto de fusão e osmolaridade\nnão dependem da natureza do soluto, apenas da concentração\n\nPropriedades não coligativas:\n\nviscosidade, tensão superficial, sabor e cor\ndependem da natureza química do soluto\n\nO citoplasma das células são soluções altamente concentradas e têm alta pressão osmótica devido aos solutos dissolvidos."
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch02_pt_br.html#pressão-osmótica",
+    "href": "slides/lehninger_7e_ppt_ch02_pt_br.html#pressão-osmótica",
+    "title": "Capítulo",
+    "section": "Pressão Osmótica",
+    "text": "Pressão Osmótica\n\nA água move-se de áreas de alta concentração de água (baixa concentração de soluto) para áreas de baixa concentração de água (alta concentração de soluto).\nPressão osmótica (π) é a força necessária para resistir a esse movimento.\nA pressão osmótica é influenciada pela concentração de cada soluto em solução.\nComponentes dissociados de um soluto influenciam individualmente a pressão osmótica."
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch02_pt_br.html#pressão-osmótica-1",
+    "href": "slides/lehninger_7e_ppt_ch02_pt_br.html#pressão-osmótica-1",
+    "title": "Capítulo",
+    "section": "Pressão Osmótica",
+    "text": "Pressão Osmótica"
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch02_pt_br.html#efeito-da-pressão-osmótica-nas-células",
+    "href": "slides/lehninger_7e_ppt_ch02_pt_br.html#efeito-da-pressão-osmótica-nas-células",
+    "title": "Capítulo",
+    "section": "Efeito da Pressão Osmótica nas Células",
+    "text": "Efeito da Pressão Osmótica nas Células"
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch02_pt_br.html#ionização-da-água",
+    "href": "slides/lehninger_7e_ppt_ch02_pt_br.html#ionização-da-água",
+    "title": "Capítulo",
+    "section": "Ionização da Água",
+    "text": "Ionização da Água\n\\[\\mathrm{H_2O} \\rightleftharpoons \\mathrm{H^+} + \\mathrm{OH^-}\\]\n\nLigações O-H são polares e podem dissociar-se heteroliticamente.\nOs produtos são um próton (H+) e um íon hidróxido (OH–).\nA dissociação da água é um processo reversível rápido.\nA maioria das moléculas de água permanece não ionizada; assim, a água pura tem condutividade elétrica muito baixa (resistência: 18 MΩ•cm).\nO equilíbrio está fortemente deslocado para a esquerda (baixo Keq).\nA extensão da dissociação depende da temperatura."
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch02_pt_br.html#hidratação-de-prótons",
+    "href": "slides/lehninger_7e_ppt_ch02_pt_br.html#hidratação-de-prótons",
+    "title": "Capítulo",
+    "section": "Hidratação de Prótons",
+    "text": "Hidratação de Prótons\n\nPrótons não existem livres em solução.\nEles são imediatamente hidratados para formar íons hidrônio (H3O+).\n\n\n\n\n\n\n\nUm íon hidrônio é uma molécula de água com um próton associado a um dos pares de elétrons não ligantes.\nÍons hidrônio são solvatados por moléculas de água próximas.\nAs ligações covalentes e de hidrogênio são intercambiáveis. Isso permite uma mobilidade extremamente rápida de prótons na água via “salto de prótons” (proton hopping)."
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch02_pt_br.html#salto-de-prótons-proton-hopping",
+    "href": "slides/lehninger_7e_ppt_ch02_pt_br.html#salto-de-prótons-proton-hopping",
+    "title": "Capítulo",
+    "section": "Salto de Prótons (Proton Hopping)",
+    "text": "Salto de Prótons (Proton Hopping)"
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch02_pt_br.html#ionização-da-água-tratamento-quantitativo",
+    "href": "slides/lehninger_7e_ppt_ch02_pt_br.html#ionização-da-água-tratamento-quantitativo",
+    "title": "Capítulo",
+    "section": "Ionização da Água: Tratamento Quantitativo",
+    "text": "Ionização da Água: Tratamento Quantitativo\nAs concentrações das espécies participantes em um processo de equilíbrio não são independentes, mas estão relacionadas pela constante de equilíbrio:\n\\[\\mathrm{H_2O} \\rightleftharpoons \\mathrm{H^+} + \\mathrm{OH^-} \\qquad\\qquad K_{eq} = \\frac{[\\mathrm{H^+}] \\cdot [\\mathrm{OH^-}]}{[\\mathrm{H_2O}]}\\]\nKeq pode ser determinado experimentalmente, sendo 1,8 • 10–16 M a 25°C.\n[H2O] pode ser determinado a partir da densidade da água, sendo 55,5 M.\n\nProduto iônico da água:\n\n\\[K_w = K_{eq} \\cdot [\\mathrm{H_2O}] = [\\mathrm{H^+}][\\mathrm{OH^-}] = 1 \\cdot 10^{-14}\\,\\mathrm{M^2}\\]\n\nNa água pura, [H+] = [OH–] = 10–7 M."
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch02_pt_br.html#o-que-é-ph",
+    "href": "slides/lehninger_7e_ppt_ch02_pt_br.html#o-que-é-ph",
+    "title": "Capítulo",
+    "section": "O Que É pH?",
+    "text": "O Que É pH?\n\n\n\n\\(\\mathbf{pH = -\\log[H^+]}\\)\n\n\\[K_w = [\\mathrm{H^+}][\\mathrm{OH^-}] = 1 \\cdot 10^{-14}\\,\\mathrm{M^2}\\]\n\\[-\\log[\\mathrm{H^+}] - \\log[\\mathrm{OH^-}] = +14\\]\n\\[\\mathrm{pH} + \\mathrm{pOH} = 14\\]\n\n\nO pH é definido como o logaritmo negativo da concentração de íons hidrogênio.\nSimplifica equações\nO pH e o pOH devem sempre somar 14.\nEm solução neutra, [H+] = [OH–] e o pH é 7.\nO pH pode ser negativo ([H+] = 6 M)."
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch02_pt_br.html#a-escala-de-ph-é-logarítmica-1-unidade-10-vezes",
+    "href": "slides/lehninger_7e_ppt_ch02_pt_br.html#a-escala-de-ph-é-logarítmica-1-unidade-10-vezes",
+    "title": "Capítulo",
+    "section": "A Escala de pH É Logarítmica: 1 unidade = 10 vezes",
+    "text": "A Escala de pH É Logarítmica: 1 unidade = 10 vezes\n\n\nTABELA 2-6 A Escala de pH\n\n\n\n\n\n\n\n\n[H+] (M)\npH\n[OH–] (M)\npOHa\n\n\n\n\n100 (1)\n0\n10–14\n14\n\n\n10–1\n1\n10–13\n13\n\n\n10–2\n2\n10–12\n12\n\n\n10–3\n3\n10–11\n11\n\n\n10–4\n4\n10–10\n10\n\n\n10–5\n5\n10–9\n9\n\n\n10–6\n6\n10–8\n8\n\n\n10–7\n7\n10–7\n7\n\n\n10–8\n8\n10–6\n6\n\n\n10–9\n9\n10–5\n5\n\n\n10–10\n10\n10–4\n4\n\n\n10–11\n11\n10–3\n3\n\n\n10–12\n12\n10–2\n2\n\n\n10–13\n13\n10–1\n1\n\n\n10–14\n14\n100 (1)\n0\n\n\n\n\naA expressão pOH é às vezes usada para descrever a basicidade, ou concentração de OH–, de uma solução; pOH é definido pela expressão pOH = −log [OH–], que é análoga à expressão para pH. Observe que em todos os casos, pH + pOH = 14."
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch02_pt_br.html#ph-de-alguns-líquidos-comuns",
+    "href": "slides/lehninger_7e_ppt_ch02_pt_br.html#ph-de-alguns-líquidos-comuns",
+    "title": "Capítulo",
+    "section": "pH de Alguns Líquidos Comuns",
+    "text": "pH de Alguns Líquidos Comuns"
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch02_pt_br.html#dissociação-de-eletrólitos-fracos-princípio",
+    "href": "slides/lehninger_7e_ppt_ch02_pt_br.html#dissociação-de-eletrólitos-fracos-princípio",
+    "title": "Capítulo",
+    "section": "Dissociação de Eletrólitos Fracos: Princípio",
+    "text": "Dissociação de Eletrólitos Fracos: Princípio\n\n\n\n\\[K_a = \\frac{[\\mathrm{H^+}][\\mathrm{CH_3COO^-}]}{[\\mathrm{CH_3COOH}]} = 1{,}74 \\cdot 10^{-5}\\,\\mathrm{M}\\]\n\n\nEletrólitos fracos dissociam-se apenas parcialmente na água.\nA extensão da dissociação é determinada pela constante de dissociação ácida Ka.\nPodemos calcular o pH se o Ka for conhecido. Mas é necessária alguma álgebra!"
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch02_pt_br.html#dissociação-de-eletrólitos-fracos-exemplo",
+    "href": "slides/lehninger_7e_ppt_ch02_pt_br.html#dissociação-de-eletrólitos-fracos-exemplo",
+    "title": "Capítulo",
+    "section": "Dissociação de Eletrólitos Fracos: Exemplo",
+    "text": "Dissociação de Eletrólitos Fracos: Exemplo\nQual é o pH final de uma solução quando 0,1 mol de ácido acético é adicionado à água para um volume final de 1 L?\n\n\n0,1 – x\n\n\nx\n\n\nx\n\n\n\\(\\displaystyle K_a = \\frac{[x][x]}{[0{,}1 - x]} = 1{,}74 \\cdot 10^{-5}\\,\\mathrm{M}\\)\n\n\n\\(x^2 = 1{,}74 \\cdot 10^{-6} - 1{,}74 \\cdot 10^{-5}\\,x\\)\n\n\n\\(x^2 + 1{,}74 \\cdot 10^{-5}\\,x - 1{,}74 \\cdot 10^{-6} = 0\\)\n\n\nx = 0,001310, pH = 2,883\n\n\n\nAssumimos que a única fonte de H+ é o ácido fraco.\nPara encontrar [H+], uma equação quadrática deve ser resolvida."
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch02_pt_br.html#dissociação-de-eletrólitos-fracos-simplificação",
+    "href": "slides/lehninger_7e_ppt_ch02_pt_br.html#dissociação-de-eletrólitos-fracos-simplificação",
+    "title": "Capítulo",
+    "section": "Dissociação de Eletrólitos Fracos: Simplificação",
+    "text": "Dissociação de Eletrólitos Fracos: Simplificação\n\n\n0,1 – x\n\n\nx\n\n\nx\n\n\n0,1\n\n\nx\n\n\nx\n\n\n\\(\\displaystyle K_a = \\frac{[x][x]}{[0{,}1]} = 1{,}74 \\cdot 10^{-5}\\,\\mathrm{M}\\)\n\n\n\\(x^2 = 1{,}74 \\cdot 10^{-6}\\)\n\n\nx = 0,00132, pH = 2,880\n\n\n\nA equação pode ser simplificada se a quantidade de espécies dissociadas for muito menor do que a quantidade de ácido não dissociado.\nA aproximação funciona para ácidos e bases suficientemente fracos.\nVerifique se x &lt; [ácido total]."
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch02_pt_br.html#pka-mede-a-acidez",
+    "href": "slides/lehninger_7e_ppt_ch02_pt_br.html#pka-mede-a-acidez",
+    "title": "Capítulo",
+    "section": "pKa Mede a Acidez",
+    "text": "pKa Mede a Acidez\n\npKa = –log Ka"
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch02_pt_br.html#tampões-são-misturas-de-ácidos-fracos-e-seus-ânions-base-conjugada",
+    "href": "slides/lehninger_7e_ppt_ch02_pt_br.html#tampões-são-misturas-de-ácidos-fracos-e-seus-ânions-base-conjugada",
+    "title": "Capítulo",
+    "section": "Tampões São Misturas de Ácidos Fracos e Seus Ânions (Base Conjugada)",
+    "text": "Tampões São Misturas de Ácidos Fracos e Seus Ânions (Base Conjugada)\n\nTampões resistem a mudanças no pH.\nEm pH = pKa, há uma mistura 50:50 das formas ácida e aniônica do composto.\nA capacidade tamponante do sistema ácido/ânion é máxima em pH = pKa.\nA capacidade tamponante é perdida quando o pH difere do pKa em mais de 1 unidade de pH."
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch02_pt_br.html#ácidos-fracos-têm-diferentes-pkas",
+    "href": "slides/lehninger_7e_ppt_ch02_pt_br.html#ácidos-fracos-têm-diferentes-pkas",
+    "title": "Capítulo",
+    "section": "Ácidos Fracos Têm Diferentes pKas",
+    "text": "Ácidos Fracos Têm Diferentes pKas"
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch02_pt_br.html#equação-de-hendersonhasselbalch-derivação",
+    "href": "slides/lehninger_7e_ppt_ch02_pt_br.html#equação-de-hendersonhasselbalch-derivação",
+    "title": "Capítulo",
+    "section": "Equação de Henderson–Hasselbalch: Derivação",
+    "text": "Equação de Henderson–Hasselbalch: Derivação\n\n\\(\\mathrm{HA} \\rightleftharpoons \\mathrm{H^+} + \\mathrm{A^-}\\)\n\n\n\\(\\displaystyle K_a = \\frac{[\\mathrm{H^+}][\\mathrm{A^-}]}{[\\mathrm{HA}]}\\)\n\n\n\\(\\displaystyle [\\mathrm{H^+}] = K_a \\frac{[\\mathrm{HA}]}{[\\mathrm{A^-}]}\\)\n\n\n\\(\\displaystyle -\\log[\\mathrm{H^+}] = -\\log K_a - \\log\\frac{[\\mathrm{HA}]}{[\\mathrm{A^-}]}\\)\n\n\n\n\n\n\\(\\displaystyle \\mathrm{pH} = \\mathrm{p}K_a + \\log\\frac{[\\mathrm{A^-}]}{[\\mathrm{HA}]}\\)"
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch02_pt_br.html#equação-de-hendersonhasselbalch-exemplo",
+    "href": "slides/lehninger_7e_ppt_ch02_pt_br.html#equação-de-hendersonhasselbalch-exemplo",
+    "title": "Capítulo",
+    "section": "Equação de Henderson–Hasselbalch: Exemplo",
+    "text": "Equação de Henderson–Hasselbalch: Exemplo\n\nUm tampão é composto por 0,1 M de ácido acético (CH3COOH, pKa = 4,76) e 0,05 M de acetato de sódio (CH3COONa). Qual é o pH final do tampão?\n\\[\\mathrm{pH} = 4{,}76 + \\log \\frac{[0{,}05]}{[0{,}1]}\\]\n\npH final do tampão = 4,45"
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch02_pt_br.html#sistemas-tampão-biológicos",
+    "href": "slides/lehninger_7e_ppt_ch02_pt_br.html#sistemas-tampão-biológicos",
+    "title": "Capítulo",
+    "section": "Sistemas Tampão Biológicos",
+    "text": "Sistemas Tampão Biológicos\n\nA manutenção do pH intracelular é vital para todas as células.\n\nReações catalisadas por enzimas têm pH ótimo.\nA solubilidade de moléculas polares depende de doadores e aceptores de ligações de H.\nO equilíbrio entre o gás CO2 e o HCO3– dissolvido depende do pH.\n\nSistemas tampão in vivo são baseados principalmente em:\n\nfosfato, concentração na faixa milimolar\nbicarbonato, importante para o plasma sanguíneo\nhistidina, tampão eficiente em pH neutro\n\nSistemas tampão in vitro são frequentemente baseados em ácidos sulfônicos de aminas cíclicas.\n\nHEPES\nPIPES\nCHES"
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch02_pt_br.html#a-água-ligada-a-proteínas-é-essencial-para-sua-função",
+    "href": "slides/lehninger_7e_ppt_ch02_pt_br.html#a-água-ligada-a-proteínas-é-essencial-para-sua-função",
+    "title": "Capítulo",
+    "section": "A Água Ligada a Proteínas É Essencial para Sua Função",
+    "text": "A Água Ligada a Proteínas É Essencial para Sua Função"
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch02_pt_br.html#a-água-ligada-a-proteínas-é-essencial-para-sua-função-1",
+    "href": "slides/lehninger_7e_ppt_ch02_pt_br.html#a-água-ligada-a-proteínas-é-essencial-para-sua-função-1",
+    "title": "Capítulo",
+    "section": "A Água Ligada a Proteínas É Essencial para Sua Função",
+    "text": "A Água Ligada a Proteínas É Essencial para Sua Função"
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch02_pt_br.html#a-água-ligada-a-proteínas-é-essencial-para-sua-função-2",
+    "href": "slides/lehninger_7e_ppt_ch02_pt_br.html#a-água-ligada-a-proteínas-é-essencial-para-sua-função-2",
+    "title": "Capítulo",
+    "section": "A Água Ligada a Proteínas É Essencial para Sua Função",
+    "text": "A Água Ligada a Proteínas É Essencial para Sua Função"
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch02_pt_br.html#capítulo-2-resumo",
+    "href": "slides/lehninger_7e_ppt_ch02_pt_br.html#capítulo-2-resumo",
+    "title": "Capítulo",
+    "section": "Capítulo 2: Resumo",
+    "text": "Capítulo 2: Resumo\nNeste capítulo, aprendemos sobre a:\n\nnatureza das forças intermoleculares\npropriedades e estrutura da água líquida\ncomportamento de ácidos e bases fracos na água\nmaneira como a água pode participar de reações bioquímicas"
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch08_pt_br.html#nucleotídeos-e-ácidos-nucleicos",
+    "href": "slides/lehninger_7e_ppt_ch08_pt_br.html#nucleotídeos-e-ácidos-nucleicos",
+    "title": "Nucleotídeos e ácidos nucleicos",
+    "section": "8 | Nucleotídeos e Ácidos Nucleicos",
+    "text": "8 | Nucleotídeos e Ácidos Nucleicos\n\n© 2017 W. H. Freeman and Company"
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch08_pt_br.html#capítulo-8-nucleotídeos-e-ácidos-nucleicos",
+    "href": "slides/lehninger_7e_ppt_ch08_pt_br.html#capítulo-8-nucleotídeos-e-ácidos-nucleicos",
+    "title": "Nucleotídeos e ácidos nucleicos",
+    "section": "CAPÍTULO 8 — Nucleotídeos e Ácidos Nucleicos",
+    "text": "CAPÍTULO 8 — Nucleotídeos e Ácidos Nucleicos\nObjetivos de aprendizagem:\n\nFunção biológica dos nucleotídeos e ácidos nucleicos\nEstruturas dos nucleotídeos comuns\nEstrutura do DNA de fita dupla\nEstruturas dos ácidos ribonucleicos\nDesnaturação e anelamento do DNA\nQuímica dos ácidos nucleicos; mutagênese"
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch08_pt_br.html#funções-dos-nucleotídeos-e-ácidos-nucleicos",
+    "href": "slides/lehninger_7e_ppt_ch08_pt_br.html#funções-dos-nucleotídeos-e-ácidos-nucleicos",
+    "title": "Nucleotídeos e ácidos nucleicos",
+    "section": "Funções dos Nucleotídeos e Ácidos Nucleicos",
+    "text": "Funções dos Nucleotídeos e Ácidos Nucleicos\n\nÁcidos nucleicos são polímeros de nucleotídeos usados para:\n\narmazenamento de informação genética (DNA)\ntransmissão de informação genética (mRNA)\nprocessamento de informação genética (ribozimas)\nsíntese proteica (tRNA e rRNA)\n\nNucleotídeos também são usados na forma monomérica para funções celulares:\n\nenergia para o metabolismo (ATP)\ncofatores enzimáticos (NAD+)\ntransdução de sinal (cAMP)"
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch08_pt_br.html#nucleotídeos-e-nucleosídeos",
+    "href": "slides/lehninger_7e_ppt_ch08_pt_br.html#nucleotídeos-e-nucleosídeos",
+    "title": "Nucleotídeos e ácidos nucleicos",
+    "section": "Nucleotídeos e Nucleosídeos",
+    "text": "Nucleotídeos e Nucleosídeos\n\nNucleotídeo =\n\nbase nitrogenada\npentose\nfosfato\n\nNucleosídeo =\n\nbase nitrogenada\npentose\n\nOs átomos de carbono E nitrogênio na base nitrogenada são numerados em formato cíclico.\nOs carbonos da pentose são designados como N’ para evitar confusão."
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch08_pt_br.html#grupo-fosfato",
+    "href": "slides/lehninger_7e_ppt_ch08_pt_br.html#grupo-fosfato",
+    "title": "Nucleotídeos e ácidos nucleicos",
+    "section": "Grupo Fosfato",
+    "text": "Grupo Fosfato\n\nCarregado negativamente em pH neutro\nTipicamente ligado à posição 5’\nÁcidos nucleicos são construídos usando a versão 5’-trifosfato do nucleotídeo.\n\nATP, GTP, TTP, CTP\n\nDois dos três fosfatos usados para construir ácidos nucleicos formam um grupo abandonador, e os ácidos nucleicos completos contêm uma porção fosfato por nucleotídeo.\nPode estar ligado a outras posições para funções especializadas"
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch08_pt_br.html#outros-nucleotídeos-grupo-monofosfato-em-diferentes-posições",
+    "href": "slides/lehninger_7e_ppt_ch08_pt_br.html#outros-nucleotídeos-grupo-monofosfato-em-diferentes-posições",
+    "title": "Nucleotídeos e ácidos nucleicos",
+    "section": "Outros Nucleotídeos: Grupo Monofosfato em Diferentes Posições",
+    "text": "Outros Nucleotídeos: Grupo Monofosfato em Diferentes Posições"
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch08_pt_br.html#as-formas-de-pentose-diferem-em-alguns-ácidos-nucleicos-e-nucleotídeos",
+    "href": "slides/lehninger_7e_ppt_ch08_pt_br.html#as-formas-de-pentose-diferem-em-alguns-ácidos-nucleicos-e-nucleotídeos",
+    "title": "Nucleotídeos e ácidos nucleicos",
+    "section": "As Formas de Pentose Diferem em Alguns Ácidos Nucleicos e Nucleotídeos",
+    "text": "As Formas de Pentose Diferem em Alguns Ácidos Nucleicos e Nucleotídeos\n\nβ-D-ribofuranose no RNA\nβ-2’-desoxi-D-ribofuranose no DNA\n\nDiferentes conformações dobradas (puckered) do anel de açúcar são possíveis."
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch08_pt_br.html#bases-nitrogenadas",
+    "href": "slides/lehninger_7e_ppt_ch08_pt_br.html#bases-nitrogenadas",
+    "title": "Nucleotídeos e ácidos nucleicos",
+    "section": "Bases Nitrogenadas",
+    "text": "Bases Nitrogenadas\n\nDerivadas de pirimidina ou purina\nMoléculas heteroaromáticas contendo nitrogênio\nEstruturas planares ou quase planares\nAbsorvem luz UV em torno de 250–270 nm"
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch08_pt_br.html#bases-pirimidínicas",
+    "href": "slides/lehninger_7e_ppt_ch08_pt_br.html#bases-pirimidínicas",
+    "title": "Nucleotídeos e ácidos nucleicos",
+    "section": "Bases Pirimidínicas",
+    "text": "Bases Pirimidínicas\n\nCitosina, adenina e guanina são encontradas tanto no DNA quanto no RNA.\nTimina é encontrada apenas no DNA.\nUracila é encontrada apenas no RNA.\nTodas são boas doadoras e aceptoras de ligações de H.\nMoléculas neutras em pH 7"
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch08_pt_br.html#nomenclatura",
+    "href": "slides/lehninger_7e_ppt_ch08_pt_br.html#nomenclatura",
+    "title": "Nucleotídeos e ácidos nucleicos",
+    "section": "Nomenclatura",
+    "text": "Nomenclatura\n\nTABELA 8-1 Nomenclatura de Nucleotídeos e Ácidos Nucleicos\n\n\n\n\n\n\n\n\nBase\nNucleosídeo\nNucleotídeo\nÁcido nucleico\n\n\n\n\nPurinas\n\n\n\n\n\nAdenina\nAdenosina  Desoxiadenosina\nAdenilato  Desoxiadenilato\nRNA  DNA\n\n\nGuanina\nGuanosina  Desoxiguanosina\nGuanilato  Desoxiguanilato\nRNA  DNA\n\n\nPirimidinas\n\n\n\n\n\nCitosina\nCitidina  Desoxicitidina\nCitidilato  Desoxicitidilato\nRNA  DNA\n\n\nTimina\nTimidina ou desoxitimidina\nTimidilato ou desoxitimidilato\nDNA\n\n\nUracila\nUridina\nUridilato\nRNA\n\n\n\n\n\n\n\n\n\nNota\n\n\n“Nucleosídeo” e “nucleotídeo” são termos genéricos que incluem tanto as formas ribo- quanto desoxirribo-. Além disso, ribonucleosídeos e ribonucleotídeos são aqui designados simplesmente como nucleosídeos e nucleotídeos (ex.: riboadenosina como adenosina), e desoxirribonucleosídeos e desoxirribonucleotídeos como desoxinucleosídeos e desoxinucleotídeos (ex.: desoxirriboadenosina como desoxiadenosina). Ambas as formas de nomenclatura são aceitáveis, mas os nomes abreviados são mais comumente usados. A timina é uma exceção; “ribotimidina” é usado para descrever sua ocorrência incomum no RNA."
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch08_pt_br.html#nomenclatura-desoxirribonucleotídeos",
+    "href": "slides/lehninger_7e_ppt_ch08_pt_br.html#nomenclatura-desoxirribonucleotídeos",
+    "title": "Nucleotídeos e ácidos nucleicos",
+    "section": "Nomenclatura: Desoxirribonucleotídeos",
+    "text": "Nomenclatura: Desoxirribonucleotídeos\n\n\n\n\n\n\nVocê precisa saber estruturas, nomes e símbolos (tanto os códigos de duas letras (dA) quanto de quatro letras (dAMP))."
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch08_pt_br.html#nomenclatura-ribonucleotídeos",
+    "href": "slides/lehninger_7e_ppt_ch08_pt_br.html#nomenclatura-ribonucleotídeos",
+    "title": "Nucleotídeos e ácidos nucleicos",
+    "section": "Nomenclatura: Ribonucleotídeos",
+    "text": "Nomenclatura: Ribonucleotídeos\n\n\n\n\n\n\nVocê precisa saber estruturas, nomes e símbolos (tanto os códigos de duas letras (dA) quanto de quatro letras (dAMP))."
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch08_pt_br.html#ligação-β-n-glicosídica",
+    "href": "slides/lehninger_7e_ppt_ch08_pt_br.html#ligação-β-n-glicosídica",
+    "title": "Nucleotídeos e ácidos nucleicos",
+    "section": "Ligação β-N-Glicosídica",
+    "text": "Ligação β-N-Glicosídica\n\nNos nucleotídeos, o anel da pentose está ligado à base nitrogenada por meio de uma ligação N-glicosídica.\nA ligação é formada com o carbono anomérico do açúcar na configuração β.\nA ligação é formada:\n\nna posição N1 nas pirimidinas\nna posição N9 nas purinas\n\nEssa ligação é bastante estável à hidrólise, especialmente nas pirimidinas.\nA clivagem da ligação é catalisada por ácido."
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch08_pt_br.html#conformação-em-torno-da-ligação-n-glicosídica",
+    "href": "slides/lehninger_7e_ppt_ch08_pt_br.html#conformação-em-torno-da-ligação-n-glicosídica",
+    "title": "Nucleotídeos e ácidos nucleicos",
+    "section": "Conformação em Torno da Ligação N-Glicosídica",
+    "text": "Conformação em Torno da Ligação N-Glicosídica\nPode ocorrer rotação relativamente livre em torno da ligação N-glicosídica em nucleotídeos livres.\n\nA sequência de átomos escolhida para definir esse ângulo é O4’-C1’-N9-C4 para purinas, e O4’-C1’-N1-C2 para derivados de pirimidina.\nÂngulo próximo a 0° corresponde à conformação syn.\nÂngulo próximo a 180° corresponde à conformação anti.\nA conformação anti é encontrada no B-DNA normal."
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch08_pt_br.html#conformação-em-torno-da-ligação-n-glicosídica-1",
+    "href": "slides/lehninger_7e_ppt_ch08_pt_br.html#conformação-em-torno-da-ligação-n-glicosídica-1",
+    "title": "Nucleotídeos e ácidos nucleicos",
+    "section": "Conformação em Torno da Ligação N-Glicosídica",
+    "text": "Conformação em Torno da Ligação N-Glicosídica\nA dobra do anel (ring pucker) limita o ângulo de torção, χ, possível para a ligação N-glicosídica entre a base nitrogenada e a pentose."
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch08_pt_br.html#tautomerismo-das-bases-nitrogenadas",
+    "href": "slides/lehninger_7e_ppt_ch08_pt_br.html#tautomerismo-das-bases-nitrogenadas",
+    "title": "Nucleotídeos e ácidos nucleicos",
+    "section": "Tautomerismo das Bases Nitrogenadas",
+    "text": "Tautomerismo das Bases Nitrogenadas\n\nTautômeros prototrópicos são isômeros estruturais que diferem na localização dos prótons.\nO tautomerismo ceto-enólico é comum em cetonas.\nO tautomerismo lactama-lactima ocorre em alguns heterociclos.\nAmbos os tautômeros existem em solução, mas as formas lactama são predominantes em pH neutro."
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch08_pt_br.html#absorção-uv-das-nucleobases",
+    "href": "slides/lehninger_7e_ppt_ch08_pt_br.html#absorção-uv-das-nucleobases",
+    "title": "Nucleotídeos e ácidos nucleicos",
+    "section": "Absorção UV das Nucleobases",
+    "text": "Absorção UV das Nucleobases\n\nA absorção de luz UV em 250–270 nm deve-se a transições eletrônicas π → π*.\nOs estados excitados das nucleobases comuns decaem rapidamente por meio de transições não radiativas.\n\nfotoproteção eficaz do material genético\nausência de fluorescência dos ácidos nucleicos"
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch08_pt_br.html#nucleosídeos-menores-no-dna",
+    "href": "slides/lehninger_7e_ppt_ch08_pt_br.html#nucleosídeos-menores-no-dna",
+    "title": "Nucleotídeos e ácidos nucleicos",
+    "section": "Nucleosídeos Menores no DNA",
+    "text": "Nucleosídeos Menores no DNA\n\nA modificação é feita após a síntese do DNA.\nA 5-metilcitosina é comum em eucariotos e também é encontrada em bactérias.\nA N6-metiladenosina é comum em bactérias, mas não é encontrada em eucariotos.\nMarcador epigenético:\n\nmaneira de marcar o próprio DNA para que as células possam degradar DNA estranho (procariotos)\nmaneira de marcar quais genes devem estar ativos (eucariotos)\n\n\n\n\n\nPoderia o ambiente ligar e desligar genes de maneira hereditária?"
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch08_pt_br.html#nucleosídeos-menores-no-rna",
+    "href": "slides/lehninger_7e_ppt_ch08_pt_br.html#nucleosídeos-menores-no-rna",
+    "title": "Nucleotídeos e ácidos nucleicos",
+    "section": "Nucleosídeos Menores no RNA",
+    "text": "Nucleosídeos Menores no RNA\n\nA inosina é às vezes encontrada na “posição oscilante” (wobble position) do anticódon no tRNA.\n\nproduzida pela desaminação da adenosina\nfornece um código genético mais rico\n\nA pseudouridina (Ψ) é amplamente encontrada no tRNA e rRNA.\n\nmais comum em eucariotos, mas também encontrada em eubactérias\nproduzida a partir da uridina por isomerização enzimática após a síntese do RNA\npode estabilizar a estrutura do tRNA\npode ajudar no enovelamento do rRNA"
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch08_pt_br.html#polinucleotídeos",
+    "href": "slides/lehninger_7e_ppt_ch08_pt_br.html#polinucleotídeos",
+    "title": "Nucleotídeos e ácidos nucleicos",
+    "section": "Polinucleotídeos",
+    "text": "Polinucleotídeos\n\nLigações covalentes são formadas por meio de ligações fosfodiéster.\n\ncadeia principal (backbone) carregada negativamente\n\nA cadeia principal do DNA é bastante estável.\n\nDNA de mamutes?\nHidrólise acelerada por enzimas (DNase)\n\nA cadeia principal do RNA é instável.\nNa água, o RNA dura alguns anos.\nNas células, o mRNA é degradado em poucas horas.\nPolímeros lineares\n\nsem ramificações ou ligações cruzadas\n\nDirecionalidade\n\nA extremidade 5’ é diferente da extremidade 3’.\nLemos a sequência de 5’ para 3’."
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch08_pt_br.html#hidrólise-do-rna",
+    "href": "slides/lehninger_7e_ppt_ch08_pt_br.html#hidrólise-do-rna",
+    "title": "Nucleotídeos e ácidos nucleicos",
+    "section": "Hidrólise do RNA",
+    "text": "Hidrólise do RNA\n\nO RNA é instável sob condições alcalinas.\nA hidrólise também é catalisada por enzimas (RNase).\nEnzimas RNase são abundantes ao nosso redor.\nA S-RNase em plantas previne a endogamia.\nA RNase P é uma ribozima (enzima feita de RNA) que processa precursores de tRNA.\nDicer é uma enzima que cliva RNA de fita dupla em oligonucleotídeos.\n\nproteção contra genomas virais\ntecnologia de interferência de RNA"
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch08_pt_br.html#mecanismo-da-hidrólise-do-rna-catalisada-por-base",
+    "href": "slides/lehninger_7e_ppt_ch08_pt_br.html#mecanismo-da-hidrólise-do-rna-catalisada-por-base",
+    "title": "Nucleotídeos e ácidos nucleicos",
+    "section": "Mecanismo da Hidrólise do RNA Catalisada por Base",
+    "text": "Mecanismo da Hidrólise do RNA Catalisada por Base"
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch08_pt_br.html#interações-por-ligações-de-hidrogênio",
+    "href": "slides/lehninger_7e_ppt_ch08_pt_br.html#interações-por-ligações-de-hidrogênio",
+    "title": "Nucleotídeos e ácidos nucleicos",
+    "section": "Interações por Ligações de Hidrogênio",
+    "text": "Interações por Ligações de Hidrogênio\n\nDuas bases podem formar ligações de hidrogênio para constituir um par de bases.\nPara monômeros, um grande número de pares de bases é possível.\nEm polinucleotídeos, existem apenas algumas possibilidades.\nOs pares de bases de Watson-Crick predominam no DNA de fita dupla.\nA pareia com T.\nC pareia com G.\nPurina pareia com pirimidina."
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch08_pt_br.html#pares-de-bases-at-e-gc",
+    "href": "slides/lehninger_7e_ppt_ch08_pt_br.html#pares-de-bases-at-e-gc",
+    "title": "Nucleotídeos e ácidos nucleicos",
+    "section": "Pares de Bases AT e GC",
+    "text": "Pares de Bases AT e GC"
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch08_pt_br.html#descoberta-da-estrutura-do-dna",
+    "href": "slides/lehninger_7e_ppt_ch08_pt_br.html#descoberta-da-estrutura-do-dna",
+    "title": "Nucleotídeos e ácidos nucleicos",
+    "section": "Descoberta da Estrutura do DNA",
+    "text": "Descoberta da Estrutura do DNA\n\nUma das descobertas mais importantes da biologia\nPor que isso é importante?\n\n\n“Esta estrutura possui características inéditas que são de considerável interesse biológico.”\n— Watson e Crick, Nature, 1953\n\n\nBoa ilustração da ciência em ação\n\npassos em falso no caminho para uma descoberta\nvalor do conhecimento\nvalor da colaboração\ncusto de compartilhar seus dados cedo demais"
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch08_pt_br.html#estrutura-covalente-do-dna-18681935",
+    "href": "slides/lehninger_7e_ppt_ch08_pt_br.html#estrutura-covalente-do-dna-18681935",
+    "title": "Nucleotídeos e ácidos nucleicos",
+    "section": "Estrutura Covalente do DNA (1868–1935)",
+    "text": "Estrutura Covalente do DNA (1868–1935)\nFriedrich Miescher isola a “nucleína” dos núcleos celulares\n\nHidrólise da nucleína\n\nfosfato\npentose\ne uma base nitrogenada\n\nAnálise química\n\nligações fosfodiéster\na pentose é ribofuranosídeo\n\nEstrutura do DNA:\n\n1929\n(Levene & London)\n\nEstrutura do DNA:\n\n1935\n(Levene & Tipson)"
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch08_pt_br.html#caminho-para-a-dupla-hélice",
+    "href": "slides/lehninger_7e_ppt_ch08_pt_br.html#caminho-para-a-dupla-hélice",
+    "title": "Nucleotídeos e ácidos nucleicos",
+    "section": "Caminho para a Dupla Hélice",
+    "text": "Caminho para a Dupla Hélice\n\nFranklin e Wilkins\n“Cruz” significa hélice\n“Losangos” significam\n\nque a cadeia principal\naçúcar-fosfato\nestá por fora\n\nParâmetros helicoidais\n\ncalculados\n\nWatson e Crick\nCamada ausente significa\n\npadrão alternado\n(sulco maior e sulco menor)\n\nLigações de hidrogênio:\n\nA pareia com T\n\nG pareia com C\nA dupla hélice ajusta-se aos dados!\nWatson, Crick e Wilkins compartilharam\n\no Prêmio Nobel de 1962.\n\nFranklin faleceu em 1958."
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch08_pt_br.html#modelo-de-watson-crick-do-b-dna",
+    "href": "slides/lehninger_7e_ppt_ch08_pt_br.html#modelo-de-watson-crick-do-b-dna",
+    "title": "Nucleotídeos e ácidos nucleicos",
+    "section": "Modelo de Watson-Crick do B-DNA",
+    "text": "Modelo de Watson-Crick do B-DNA"
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch08_pt_br.html#outras-formas-de-dna",
+    "href": "slides/lehninger_7e_ppt_ch08_pt_br.html#outras-formas-de-dna",
+    "title": "Nucleotídeos e ácidos nucleicos",
+    "section": "Outras Formas de DNA",
+    "text": "Outras Formas de DNA"
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch08_pt_br.html#complementaridade-das-fitas-de-dna",
+    "href": "slides/lehninger_7e_ppt_ch08_pt_br.html#complementaridade-das-fitas-de-dna",
+    "title": "Nucleotídeos e ácidos nucleicos",
+    "section": "Complementaridade das Fitas de DNA",
+    "text": "Complementaridade das Fitas de DNA\n\nDuas cadeias diferem na sequência\n\n(a sequência é lida de 5’ para 3’).\n\nDuas cadeias são complementares.\nDuas cadeias correm de forma antiparalela.\n\n\n“Não escapou à nossa atenção que o pareamento específico que postulamos sugere imediatamente um possível mecanismo de cópia para o material genético.”\n— Watson e Crick, Nature, 1953"
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch08_pt_br.html#replicação-do-código-genético",
+    "href": "slides/lehninger_7e_ppt_ch08_pt_br.html#replicação-do-código-genético",
+    "title": "Nucleotídeos e ácidos nucleicos",
+    "section": "Replicação do Código Genético",
+    "text": "Replicação do Código Genético\n\nA separação das fitas ocorre primeiro.\nCada fita serve como molde (template) para a síntese de uma nova fita.\nA síntese é catalisada por enzimas conhecidas como DNA polimerases.\nUma molécula de DNA recém-sintetizada tem uma fita filha e uma fita parental."
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch08_pt_br.html#rna-mensageiro-portador-do-código-para-a-sequência-de-proteínas",
+    "href": "slides/lehninger_7e_ppt_ch08_pt_br.html#rna-mensageiro-portador-do-código-para-a-sequência-de-proteínas",
+    "title": "Nucleotídeos e ácidos nucleicos",
+    "section": "RNA Mensageiro: Portador do Código para a Sequência de Proteínas",
+    "text": "RNA Mensageiro: Portador do Código para a Sequência de Proteínas\n\nÉ sintetizado usando um molde de DNA e geralmente ocorre como fita simples\nContém ribose em vez de desoxirribose\nContém uracila em vez de timina\nUm mRNA pode codificar mais de uma proteína\nJuntamente com o RNA transportador (tRNA), transfere a informação genética do DNA para as proteínas"
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch08_pt_br.html#sequências-palindrômicas-podem-formar-grampos-hairpins-e-cruciformes",
+    "href": "slides/lehninger_7e_ppt_ch08_pt_br.html#sequências-palindrômicas-podem-formar-grampos-hairpins-e-cruciformes",
+    "title": "Nucleotídeos e ácidos nucleicos",
+    "section": "Sequências Palindrômicas Podem Formar Grampos (Hairpins) e Cruciformes",
+    "text": "Sequências Palindrômicas Podem Formar Grampos (Hairpins) e Cruciformes\nPalíndromos: palavras ou frases que são iguais quando lidas de trás para frente ou de frente para trás.\n\nCivic\nRacecar\nRotator\nSaippuakuppinippukauppias (palavra finlandesa para “comerciante de lotes de saboneteiras”)\nΝίψον ἀνομήματα, μὴ μόναν ὄψιν (texto de fonte grega antiga: “Lave o pecado assim como o rosto”)"
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch08_pt_br.html#moléculas-de-rna-têm-estruturas-bastante-complexas",
+    "href": "slides/lehninger_7e_ppt_ch08_pt_br.html#moléculas-de-rna-têm-estruturas-bastante-complexas",
+    "title": "Nucleotídeos e ácidos nucleicos",
+    "section": "Moléculas de RNA Têm Estruturas Bastante Complexas",
+    "text": "Moléculas de RNA Têm Estruturas Bastante Complexas"
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch08_pt_br.html#estruturas-complexas-são-estabilizadas-por-interações-de-pareamento-não-watson-crick",
+    "href": "slides/lehninger_7e_ppt_ch08_pt_br.html#estruturas-complexas-são-estabilizadas-por-interações-de-pareamento-não-watson-crick",
+    "title": "Nucleotídeos e ácidos nucleicos",
+    "section": "Estruturas Complexas São Estabilizadas por Interações de Pareamento Não Watson-Crick",
+    "text": "Estruturas Complexas São Estabilizadas por Interações de Pareamento Não Watson-Crick"
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch08_pt_br.html#desnaturação-do-dna",
+    "href": "slides/lehninger_7e_ppt_ch08_pt_br.html#desnaturação-do-dna",
+    "title": "Nucleotídeos e ácidos nucleicos",
+    "section": "Desnaturação do DNA",
+    "text": "Desnaturação do DNA\n\nLigações covalentes permanecem intactas.\nO código genético permanece intacto.\nLigações de hidrogênio são quebradas.\nAs duas fitas se separam.\nO empilhamento de bases é perdido.\nA absorbância UV aumenta.\n\nA desnaturação pode ser induzida por alta temperatura ou mudança de pH.\nA desnaturação pode ser reversível: anelamento (annealing)."
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch08_pt_br.html#desnaturação-térmica-do-dna-melting",
+    "href": "slides/lehninger_7e_ppt_ch08_pt_br.html#desnaturação-térmica-do-dna-melting",
+    "title": "Nucleotídeos e ácidos nucleicos",
+    "section": "Desnaturação Térmica do DNA (Melting)",
+    "text": "Desnaturação Térmica do DNA (Melting)\n\nO DNA existe como dupla hélice em temperaturas normais.\nAs duas fitas de DNA dissociam-se em temperaturas elevadas.\nAs duas fitas reanelam quando a temperatura é reduzida.\nA desnaturação térmica reversível e o anelamento formam a base para a reação em cadeia da polimerase (PCR).\nA desnaturação do DNA é comumente monitorada por espectrofotometria UV a 260 nm."
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch08_pt_br.html#fatores-que-afetam-a-desnaturação-do-dna",
+    "href": "slides/lehninger_7e_ppt_ch08_pt_br.html#fatores-que-afetam-a-desnaturação-do-dna",
+    "title": "Nucleotídeos e ácidos nucleicos",
+    "section": "Fatores que Afetam a Desnaturação do DNA",
+    "text": "Fatores que Afetam a Desnaturação do DNA\n\nO ponto médio de fusão (Tm) depende da composição de bases.\nAlto teor de CG aumenta a Tm.\nA Tm depende do comprimento do DNA.\nDNA mais longo tem Tm mais alta.\nÉ importante para DNAs curtos.\nA Tm depende do pH e da força iônica.\nAlta concentração salina aumenta a Tm."
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch08_pt_br.html#a-desnaturação-de-grandes-moléculas-de-dna-não-é-uniforme",
+    "href": "slides/lehninger_7e_ppt_ch08_pt_br.html#a-desnaturação-de-grandes-moléculas-de-dna-não-é-uniforme",
+    "title": "Nucleotídeos e ácidos nucleicos",
+    "section": "A Desnaturação de Grandes Moléculas de DNA Não É Uniforme",
+    "text": "A Desnaturação de Grandes Moléculas de DNA Não É Uniforme\nRegiões ricas em AT desnaturam (melt) a uma temperatura mais baixa do que regiões ricas em GC."
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch08_pt_br.html#aplicações-de-híbridos-quase-complementares-em-dna-e-rna",
+    "href": "slides/lehninger_7e_ppt_ch08_pt_br.html#aplicações-de-híbridos-quase-complementares-em-dna-e-rna",
+    "title": "Nucleotídeos e ácidos nucleicos",
+    "section": "Aplicações de Híbridos Quase Complementares em DNA e RNA",
+    "text": "Aplicações de Híbridos Quase Complementares em DNA e RNA\n\nDetecção de uma molécula específica de DNA em mistura complexa\n\ndetecção radioativa\nchips de DNA fluorescentes\n\nAmplificação de DNA específico\n\nreação em cadeia da polimerase (PCR)\nmutagênese sítio-dirigida\n\nRelações evolutivas\nTerapia antissenso"
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch08_pt_br.html#mutagênese-espontânea-desaminação",
+    "href": "slides/lehninger_7e_ppt_ch08_pt_br.html#mutagênese-espontânea-desaminação",
+    "title": "Nucleotídeos e ácidos nucleicos",
+    "section": "Mutagênese Espontânea: Desaminação",
+    "text": "Mutagênese Espontânea: Desaminação\n\nDesaminação\n\nreações muito lentas\ngrande número de resíduos\nO efeito líquido é significativo: 100 eventos C → U/dia em uma célula de mamífero.\n\nMecanismos Moleculares da"
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch08_pt_br.html#mecanismos-moleculares-da-mutagênese-espontânea-depurinação",
+    "href": "slides/lehninger_7e_ppt_ch08_pt_br.html#mecanismos-moleculares-da-mutagênese-espontânea-depurinação",
+    "title": "Nucleotídeos e ácidos nucleicos",
+    "section": "Mecanismos Moleculares da Mutagênese Espontânea: Depurinação",
+    "text": "Mecanismos Moleculares da Mutagênese Espontânea: Depurinação\n\nDepurinação\n\na ligação N-glicosídica é hidrolisada\n\nSignificativa para purinas: 10.000 purinas perdidas/dia em uma célula de mamífero"
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch08_pt_br.html#mecanismos-moleculares-da-mutagênese-oxidativa-e-química",
+    "href": "slides/lehninger_7e_ppt_ch08_pt_br.html#mecanismos-moleculares-da-mutagênese-oxidativa-e-química",
+    "title": "Nucleotídeos e ácidos nucleicos",
+    "section": "Mecanismos Moleculares da Mutagênese Oxidativa e Química",
+    "text": "Mecanismos Moleculares da Mutagênese Oxidativa e Química\n\nDano oxidativo\n\nhidroxilação da guanina\no DNA mitocondrial é mais suscetível\n\nAlquilação química\n\nmetilação da guanina\n\n\nAs células têm mecanismos para corrigir a maioria dessas modificações."
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch08_pt_br.html#mecanismos-moleculares-da-mutagênese-induzida-por-radiação",
+    "href": "slides/lehninger_7e_ppt_ch08_pt_br.html#mecanismos-moleculares-da-mutagênese-induzida-por-radiação",
+    "title": "Nucleotídeos e ácidos nucleicos",
+    "section": "Mecanismos Moleculares da Mutagênese Induzida por Radiação",
+    "text": "Mecanismos Moleculares da Mutagênese Induzida por Radiação\n\nA luz UV induz a dimerização de pirimidinas; este pode ser o principal mecanismo para cânceres de pele.\nA radiação ionizante (raios X e raios γ) causa abertura de anéis e quebra de fitas.\nEstes danos são difíceis de consertar.\nAs células podem reparar algumas dessas modificações, mas outras causam mutações. O acúmulo de mutações está ligado ao envelhecimento e à carcinogênese."
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch08_pt_br.html#outras-funções-dos-nucleotídeos-fonte-de-energia",
+    "href": "slides/lehninger_7e_ppt_ch08_pt_br.html#outras-funções-dos-nucleotídeos-fonte-de-energia",
+    "title": "Nucleotídeos e ácidos nucleicos",
+    "section": "Outras Funções dos Nucleotídeos: Fonte de Energia",
+    "text": "Outras Funções dos Nucleotídeos: Fonte de Energia"
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch08_pt_br.html#outras-funções-dos-nucleotídeos-coenzimas",
+    "href": "slides/lehninger_7e_ppt_ch08_pt_br.html#outras-funções-dos-nucleotídeos-coenzimas",
+    "title": "Nucleotídeos e ácidos nucleicos",
+    "section": "Outras Funções dos Nucleotídeos: Coenzimas",
+    "text": "Outras Funções dos Nucleotídeos: Coenzimas"
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch08_pt_br.html#outras-funções-dos-nucleotídeos-moléculas-regulatórias",
+    "href": "slides/lehninger_7e_ppt_ch08_pt_br.html#outras-funções-dos-nucleotídeos-moléculas-regulatórias",
+    "title": "Nucleotídeos e ácidos nucleicos",
+    "section": "Outras Funções dos Nucleotídeos: Moléculas Regulatórias",
+    "text": "Outras Funções dos Nucleotídeos: Moléculas Regulatórias"
+  },
+  {
+    "objectID": "slides/lehninger_7e_ppt_ch08_pt_br.html#capítulo-8-resumo",
+    "href": "slides/lehninger_7e_ppt_ch08_pt_br.html#capítulo-8-resumo",
+    "title": "Nucleotídeos e ácidos nucleicos",
+    "section": "Capítulo 8: Resumo",
+    "text": "Capítulo 8: Resumo\nNeste capítulo, aprendemos sobre:\n\nFunção dos nucleotídeos e ácidos nucleicos\nNomes e estruturas dos nucleotídeos comuns\nBase estrutural da função do DNA\nDesnaturação reversível dos ácidos nucleicos\nBase química da mutagênese"
   }
 ]

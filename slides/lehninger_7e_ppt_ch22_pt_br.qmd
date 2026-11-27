@@ -1,6 +1,5 @@
 ---
-title: "Capítulo"
-# author: Nicholas Costa & Nicholas Barroso
+title: "Biossíntese de Aminoácidos, Nucleotídeos e Moléculas Relacionadas"
 lang: pt-BR
 date: today
 date-format: "DD/MM/YYYY"
@@ -11,7 +10,6 @@ format:
 #    height: 900
     width: 960
     height: 720
-#    logo: imgs/logo.png
     incremental: false
     theme: tema_azul.scss
     lightbox: true
@@ -23,692 +21,904 @@ format:
     auto-stretch: true
 ---
 
-# Slide 1:
+## 22 | Biossíntese de Aminoácidos, Nucleotídeos e Moléculas Relacionadas
 
-22 | Biossíntese de Aminoácidos, Nucleotídeos e Moléculas Relacionadas
+![](../imgs/cap22_image01.png)
 
-© 2017 W. H. Freeman and Company
+<small>© 2017 W. H. Freeman and Company</small>
 
-# Slide 2:
-CAPÍTULO 22
-Biossíntese de Aminoácidos, Nucleotídeos e Moléculas Relacionadas
-Fixação de nitrogênio
-Incorporação de amônia em biomoléculas
-Biossíntese de aminoácidos
-Biossíntese e degradação do heme
-Biossíntese de nucleotídeos
-Catabolismo de purinas
-Objetivos de aprendizagem:
+## CAPÍTULO 22 — Biossíntese de Aminoácidos, Nucleotídeos e Moléculas Relacionadas
 
-# Slide 3:
-Importância do nitrogênio na bioquímica
-O nitrogênio (com H, O e C) é um importante constituinte elementar dos organismos vivos.
-Principalmente em ácidos nucleicos e proteínas
-Mas também encontrado em:
-vários cofatores (NAD, FAD, biotina…)
-muitos hormônios pequenos (epinefrina)
-muitos neurotransmissores (serotonina)
-muitos pigmentos (clorofila)
-muitas substâncias químicas de defesa (amanitina)
+**Objetivos de aprendizagem:**
 
-# Slide 4:
-Bioquímica do nitrogênio molecular
-A atmosfera é 80% N2, mas em forma não utilizável
-N2 é quimicamente inerte
+1. Fixação de nitrogênio
+2. Incorporação de amônia em biomoléculas
+3. Biossíntese de aminoácidos
+4. Biossíntese e degradação do heme
+5. Biossíntese de nucleotídeos
+6. Catabolismo de purinas
+
+## Importância do nitrogênio na bioquímica
+
+- O nitrogênio (com H, O e C) é um importante constituinte elementar dos organismos vivos.
+    - Principalmente em ácidos nucleicos e proteínas
+- **Mas também encontrado em:**
+    - vários cofatores (NAD, FAD, biotina…)
+    - muitos hormônios pequenos (epinefrina)
+    - muitos neurotransmissores (serotonina)
+    - muitos pigmentos (clorofila)
+    - muitas substâncias químicas de defesa (amanitina)
+
+## Bioquímica do nitrogênio molecular
+
+- A atmosfera é 80% N2, mas em forma não utilizável
+- N2 é quimicamente inerte
+
+::: {style="text-align:center"}
 necessita de N2 + 3 H2 → 2 NH3
-Embora ΔG′°= –33,5 kJ/mol… quebrar uma ligação tripla tem alta energia de ativação.
-pode ser realizado usando processos não biológicos:
+:::
+
+- Embora ΔG′°= –33,5 kJ/mol… quebrar uma ligação tripla tem alta energia de ativação.
+    - pode ser realizado usando processos não biológicos:
+
+::: {style="text-align:center"}
 N2 e O2 → NO via relâmpagos
+:::
+
+::: {style="text-align:center"}
 N2 e H2 → NH3 via processo industrial Haber
+:::
+
 requer T>400°C, P>200 atm
 
-# Slide 5:
-Alguns organismos podem "fixar" o N2
+## Alguns organismos podem "fixar" o N2
+
 em formas úteis
 
-A maioria são procariotos unicelulares (arquéias).
-Alguns vivem em simbiose com plantas.
-(por exemplo, proteobactérias com leguminosas como amendoim, feijão)
-Alguns vivem em simbiose com animais.
-(por exemplo, espiroqueta com cupins)
+- A maioria são procariotos unicelulares (arquéias).
+- Alguns vivem em simbiose com plantas.
+    - (por exemplo, proteobactérias com leguminosas como amendoim, feijão)
+- Alguns vivem em simbiose com animais.
+    - (por exemplo, espiroqueta com cupins)
 
 Eles têm enzimas que superam a alta energia de ativação ligando e hidrolisando ATP.
 
-# Slide 6:
-Impacto mais amplo da compreensão da fixação de nitrogênio
-A síntese industrial de NH3 via processo Haber é um dos processos químicos mais significativos da humanidade.
-tornou possível o fertilizante químico!
-produz mais de 100 milhões de toneladas de fertilizante anualmente
-sustenta a vida de mais de um terço da população humana na Terra
-consome energia não renovável (1–2% da energia anual total)
-Imitar a fixação biológica de nitrogênio (fixação de nitrogênio biomimética) pode gerar economias significativas de energia, ou permitir o uso de fontes de energia renováveis.
+## Impacto mais amplo da compreensão da fixação de nitrogênio
 
-# Slide 7:
-Revisão: Estados de oxidação de compostos de nitrogênio
-Nitrogênio
-NO3
-N+5 O3–
-Nitrato
-"ato" é o estado de oxidação mais alto.
+- A síntese industrial de NH3 via processo Haber é um dos processos químicos mais significativos da humanidade.
+    - tornou possível o fertilizante químico!
+    - produz mais de 100 milhões de toneladas de fertilizante anualmente
+    - sustenta a vida de mais de um terço da população humana na Terra
+    - consome energia não renovável (1–2% da energia anual total)
+- Imitar a fixação biológica de nitrogênio (fixação de nitrogênio biomimética) pode gerar economias significativas de energia, ou permitir o uso de fontes de energia renováveis.
 
-Nitrato
-Nitrito
-Amônia
-NO2
-N+3 O2–
-Nitrito
-"ito" tem menos oxigênio e estado de oxidação menor.
+## Revisão: Estados de oxidação de compostos de nitrogênio
 
-N2
-Ligação tripla covalente
+- Nitrogênio
+    - NO3
+- N+5 O3–
+- Nitrato
+    - "ato" é o estado de oxidação mais alto.
 
-NH3
-N3- H3+
-NH3: N tem estado de oxidação –3.
+- Nitrato
+- Nitrito
+- Amônia
+    - NO2
+- N+3 O2–
+- Nitrito
+    - "ito" tem menos oxigênio e estado de oxidação menor.
 
-# Slide 8:
-O ciclo do nitrogênio
-Transformações químicas mantêm um equilíbrio entre N2 e formas biologicamente úteis de nitrogênio.
-Fixação. Bactérias reduzem N2 a NH3/NH4+.
-Nitrificação. Bactérias oxidam amônia em nitrito (NO2–) e nitrato (NO3–).
-Assimilação. Plantas e microrganismos reduzem NO2– e NO3– a NH3 via nitrito redutases e nitrato redutases.
-NH3 é incorporada em aminoácidos, e assim por diante.
-Organismos morrem, retornando NH3 ao solo.
-Bactérias nitrificantes novamente convertem NH3 em nitrito e nitrato.
-Desnitrificação. O nitrato é reduzido a N2 em condições anaeróbias.
-NO3– é o aceptor final de elétrons em vez do O2.
+- N2
+- Ligação tripla covalente
 
-# Slide 9:
-O ciclo do nitrogênio
+- NH3
+    - N3- H3+
+- NH3: N tem estado de oxidação –3.
 
-# Slide 10:
-Duas enzimas importantes na assimilação de nitrogênio
+## O ciclo do nitrogênio
+
+- Transformações químicas mantêm um equilíbrio entre N2 e formas biologicamente úteis de nitrogênio.
+- Fixação. Bactérias reduzem N2 a NH3/NH4+.
+- Nitrificação. Bactérias oxidam amônia em nitrito (NO2–) e nitrato (NO3–).
+- Assimilação. Plantas e microrganismos reduzem NO2– e NO3– a NH3 via nitrito redutases e nitrato redutases.
+- NH3 é incorporada em aminoácidos, e assim por diante.
+- Organismos morrem, retornando NH3 ao solo.
+- Bactérias nitrificantes novamente convertem NH3 em nitrito e nitrato.
+- Desnitrificação. O nitrato é reduzido a N2 em condições anaeróbias.
+- NO3– é o aceptor final de elétrons em vez do O2.
+
+## O ciclo do nitrogênio
+
+![](../imgs/cap22_image02.jpg)
+
+## Duas enzimas importantes na assimilação de nitrogênio
+
+::: {style="text-align:center"}
 1. Nitrato redutase NO3– + 2 e– → NO2–
-proteína grande e solúvel
-contém cofator Mo novo
-e– do NADH
+:::
 
-# Slide 11:
-Duas enzimas importantes na assimilação de nitrogênio
+- proteína grande e solúvel
+    - contém cofator Mo novo
+    - e– do NADH
+
+![](../imgs/cap22_image03.jpg)
+
+## Duas enzimas importantes na assimilação de nitrogênio
+
+::: {style="text-align:center"}
 2. Nitrito redutase NO2– + 6 e– → NH4+
-encontrada em cloroplastos em plantas: e– vem da ferredoxina
-em micróbios não fotossintéticos: e– vem do NADPH
+:::
 
-# Slide 12:
-A fixação de nitrogênio é realizada pelo complexo nitrogenase
-N2 + 3 H2 = 2 NH3
-exergônica (ΔG° = –33,5 kJ/mol), mas muito lenta devido à alta energia de ativação da ligação tripla
-O complexo nitrogenase usa ATP para superar a energia de ativação.
-Passa elétrons para N2 e catalisa uma redução gradual de N2 a NH3
-N2 + 8 H+ + 8 e– + nATP = 2 NH3 + H2 + nADP + nPi
-2 NH3 + 2 H+ = 2 NH4+
-Cerca de 16 moléculas de ADP são consumidas por um N2.
+- encontrada em cloroplastos em plantas: e– vem da ferredoxina
+    - em micróbios não fotossintéticos: e– vem do NADPH
 
-# Slide 13:
-Enzimas e cofatores no complexo nitrogenase
+![](../imgs/cap22_image04.jpg)
+
+## A fixação de nitrogênio é realizada pelo complexo nitrogenase
+
+- N2 + 3 H2 = 2 NH3
+    - exergônica (ΔG° = –33,5 kJ/mol), mas muito lenta devido à alta energia de ativação da ligação tripla
+- O complexo nitrogenase usa ATP para superar a energia de ativação.
+    - Passa elétrons para N2 e catalisa uma redução gradual de N2 a NH3
+    - N2 + 8 H+ + 8 e– + nATP = 2 NH3 + H2 + nADP + nPi
+    - 2 NH3 + 2 H+ = 2 NH4+
+- Cerca de 16 moléculas de ADP são consumidas por um N2.
+
+## Enzimas e cofatores no complexo nitrogenase
+
 A fonte de e– varia entre organismos.
+
+::: {style="text-align:center"}
 frequentemente piruvato → ferredoxina
-A hidrólise de ATP e a ligação de ATP ajudam a superar a alta energia de ativação.
-Tem regiões homólogas a proteínas ligantes de GTP usadas na sinalização
-Tem cofator FeMo novo (ou V em alguns organismos)
+:::
 
-# Slide 14:
-O cofator Fe-Mo na subunidade dinitrogenase
-Consiste em:
-7 átomos de Fe
-9 átomos de S
-1 átomo de Mo
-1 homocitrato ligado
-O nitrogênio se liga ao centro da gaiola Mo-FeS e é coordenado ao átomo de molibdênio.
-Os elétrons são passados para o nitrogênio ligado ao molibdênio via o complexo ferro-enxofre.
+- A hidrólise de ATP e a ligação de ATP ajudam a superar a alta energia de ativação.
+    - Tem regiões homólogas a proteínas ligantes de GTP usadas na sinalização
+- Tem cofator FeMo novo (ou V em alguns organismos)
 
-# Slide 15:
-Os cofatores de transferência de elétrons
+![](../imgs/cap22_image05.jpg)
 
-# Slide 16:
-Fixação de nitrogênio pelo complexo nitrogenase
-O piruvato passa e– para ferredoxina ou flavodoxina.
-Ferredoxina ou flavodoxina passam e– para dinitrogenase redutase.
-A redutase passa e– para dinitrogenase.
-Dinitrogenase passa e– para o nitrogênio (ou para prótons) para produzir NH3.
-A formação de H2 parece ser uma reação lateral obrigatória.
+## O cofator Fe-Mo na subunidade dinitrogenase
 
-# Slide 17:
-Reações redox na dinitrogenase
-A reação líquida do complexo nitrogenase:
-N2 + 8 H+ + 8 e– + 16 ATP = 2 NH3 + H2 + 16 ADP + 16 Pi
-A dinitrogenase redutase catalisa:
-transferência de 8 e– para dinitrogenase
-hidrólise de ATP com liberação de prótons
-A dinitrogenase catalisa:
-transferência de 6 e– para o nitrogênio: formação de NH3
-transferência de 2 e– para prótons: formação de H2
-O mecanismo da dinitrogenase é pouco compreendido:
-reação redox extremamente complexa que envolve vários átomos metálicos como cofatores e/ou transportadores de elétrons
-dois mecanismos plausíveis que envolvem o cofator Fe-Mo ligando-se diretamente ao N
+- **Consiste em:**
+    - 7 átomos de Fe
+- 9 átomos de S
+- 1 átomo de Mo
+- 1 homocitrato ligado
+- O nitrogênio se liga ao centro da gaiola Mo-FeS e é coordenado ao átomo de molibdênio.
+- Os elétrons são passados para o nitrogênio ligado ao molibdênio via o complexo ferro-enxofre.
 
-# Slide 18:
-Duas hipóteses para os intermediários da redução de N2
+## Os cofatores de transferência de elétrons
 
-# Slide 19:
-Bactérias fixadoras de nitrogênio em nódulos radiculares de leguminosas
-Cuida da exigência de energia e da labilidade ao O2
-As bactérias têm acesso aos carboidratos e intermediários do CAC da planta para energia.
-As bactérias são cobertas com leghemoglobina para ligar O2 e evitar a corrupção do catalisador na dinitrogenase.
-Podem produzir mais NH3 do que a planta necessita; o excesso é liberado no solo
+![](../imgs/cap22_image06.jpg)
 
-# Slide 20:
-Nódulos fixadores de nitrogênio
+## Fixação de nitrogênio pelo complexo nitrogenase
 
-# Slide 21:
-Assimilação de nitrogênio versus fixação de nitrogênio
-Ambos:
-São processos de transferência de elétrons
-Usam cofator Mo
-Envolvem múltiplos cofatores redox, como Fe-S, NADH, NADPH, ferredoxina, flavodoxina, e assim por diante
-Converte N2 em NH3
-Requer múltiplos ATP
-Usa elétrons do piruvato
+- O piruvato passa e– para ferredoxina ou flavodoxina.
+- Ferredoxina ou flavodoxina passam e– para dinitrogenase redutase.
+- A redutase passa e– para dinitrogenase.
+- Dinitrogenase passa e– para o nitrogênio (ou para prótons) para produzir NH3.
+- A formação de H2 parece ser uma reação lateral obrigatória.
 
-Converte NO3 ou NO2 em NH3
-Usa elétrons do NADH, NADPH ou transferência fotossintética da ferredoxina
+![](../imgs/cap22_image07.jpg)
 
-# Slide 22:
-As reações anammox
+## Reações redox na dinitrogenase {.smaller}
+
+- **A reação líquida do complexo nitrogenase:**
+    - N2 + 8 H+ + 8 e– + 16 ATP = 2 NH3 + H2 + 16 ADP + 16 Pi
+- **A dinitrogenase redutase catalisa:**
+    - transferência de 8 e– para dinitrogenase
+    - hidrólise de ATP com liberação de prótons
+- **A dinitrogenase catalisa:**
+    - transferência de 6 e– para o nitrogênio: formação de NH3
+    - transferência de 2 e– para prótons: formação de H2
+- O mecanismo da dinitrogenase é pouco compreendido:
+    - reação redox extremamente complexa que envolve vários átomos metálicos como cofatores e/ou transportadores de elétrons
+    - dois mecanismos plausíveis que envolvem o cofator Fe-Mo ligando-se diretamente ao N
+
+## Duas hipóteses para os intermediários da redução de N2
+
+![](../imgs/cap22_image08.jpg)
+
+## Bactérias fixadoras de nitrogênio em nódulos radiculares de leguminosas
+
+- Cuida da exigência de energia e da labilidade ao O2
+- As bactérias têm acesso aos carboidratos e intermediários do CAC da planta para energia.
+- As bactérias são cobertas com leghemoglobina para ligar O2 e evitar a corrupção do catalisador na dinitrogenase.
+- Podem produzir mais NH3 do que a planta necessita; o excesso é liberado no solo
+
+## Nódulos fixadores de nitrogênio
+
+![](../imgs/cap22_image09.jpg)
+
+## Assimilação de nitrogênio versus fixação de nitrogênio
+
+- **Ambos:**
+    - São processos de transferência de elétrons
+- Usam cofator Mo
+- Envolvem múltiplos cofatores redox, como Fe-S, NADH, NADPH, ferredoxina, flavodoxina, e assim por diante
+- Converte N2 em NH3
+- Requer múltiplos ATP
+- Usa elétrons do piruvato
+
+- Converte NO3 ou NO2 em NH3
+- Usa elétrons do NADH, NADPH ou transferência fotossintética da ferredoxina
+
+## As reações anammox
+
 Oxidação anaeróbia de amônia
 
-Habilidade recém-descoberta de algumas bactérias de oxidar NH3 e NO2– em N2
-"Curto-circuita" o ciclo do nitrogênio (sem desnitrificação)
-Usada no tratamento de resíduos para remoção mais barata de amônia
+- Habilidade recém-descoberta de algumas bactérias de oxidar NH3 e NO2– em N2
+- "Curto-circuita" o ciclo do nitrogênio (sem desnitrificação)
+- Usada no tratamento de resíduos para remoção mais barata de amônia
 
-# Slide 23:
-Reações anammox
+## Reações anammox
 
-# Slide 24:
-Características surpreendentes das reações anammox
-As bactérias são do filo incomum Planctomycetes
-têm DNA encerrado em membrana
+![](../imgs/cap22_image10.jpg)
+
+## Características surpreendentes das reações anammox
+
+- As bactérias são do filo incomum Planctomycetes
+    - têm DNA encerrado em membrana
+
+::: {style="text-align:center"}
 usam hidrazina (N2H4) → (combustível de foguete), tóxica, reativa, apolar e difunde-se através de membranas
-Fosfolipídios feitos de ladderanos
-As cadeias de ácidos graxos contêm anéis de ciclobutano que se empilham firmemente e retardam a difusão de N2H2.
+:::
 
-# Slide 25:
-Lipídios ladderanos
+- Fosfolipídios feitos de ladderanos
+- As cadeias de ácidos graxos contêm anéis de ciclobutano que se empilham firmemente e retardam a difusão de N2H2.
 
-# Slide 26:
-A amônia é incorporada em biomoléculas através de Glu e Gln
+## Lipídios ladderanos
+
+![](../imgs/cap22_image11.jpg)
+
+## A amônia é incorporada em biomoléculas através de Glu e Gln
+
 A glutamina é produzida a partir de Glu pela glutamina sintetase em um processo de duas etapas.
 
 A fosforilação de Glu cria um bom grupo de saída que pode ser facilmente deslocado pela amônia.
 
-# Slide 27:
-Estrutura da Gln sintetase
+![](../imgs/cap22_image12.jpg)
 
-# Slide 28:
-Adenililação da glutamina sintetase
-A adenililação (ligação de AMP) à Tyr-397 auxilia na inibição.
-Aumenta a sensibilidade aos inibidores
-Parte de uma cascata complexa que depende de [Glu], [α-cetoglutarato], [ATP] e [Pi]
-Atividade da adenililtransferase regulada pela ligação à proteína reguladora PII
+## Estrutura da Gln sintetase
 
-# Slide 29:
-PII é regulada por uridililação
-(Lembre-se de que PII regula a adenililtransferase, que ajuda a inibir a Gln sintetase.)
-Quando PII é uridililada, a adenililtransferase estimula a desadenililação da Gln sintetase (aumentando a atividade desta última).
-ALÉM DISSO, PII uridililada regula positivamente a transcrição da Gln sintetase.
+![](../imgs/cap22_image13.jpg)
 
-# Slide 30:
-Biossíntese de aminoácidos e nucleotídeos ― Múltiplas transaminações
-Transaminações e rearranjos usando piridoxal fosfato (PLP)
-PLP é a forma ativa da vitamina B6
-Catalisadas por amidotransferases
-PLP tem grupo aldeído que forma base de Schiff com Lys da aminotransferase
+## Adenililação da glutamina sintetase
 
-# Slide 31:
-Mecanismo proposto para glutamina amidotransferases
-Dois domínios:
-um liga Gln
-outro é aceptor de grupo amino e liga o substrato
-Cys atua como nucleófilo para clivar a ligação amida da Gln
+- A adenililação (ligação de AMP) à Tyr-397 auxilia na inibição.
+    - Aumenta a sensibilidade aos inibidores
+    - Parte de uma cascata complexa que depende de [Glu], [α-cetoglutarato], [ATP] e [Pi]
+- Atividade da adenililtransferase regulada pela ligação à proteína reguladora PII
+
+![](../imgs/cap22_image14.jpg)
+
+## PII é regulada por uridililação
+
+- (Lembre-se de que PII regula a adenililtransferase, que ajuda a inibir a Gln sintetase.)
+- Quando PII é uridililada, a adenililtransferase estimula a desadenililação da Gln sintetase (aumentando a atividade desta última).
+- ALÉM DISSO, PII uridililada regula positivamente a transcrição da Gln sintetase.
+
+## Biossíntese de aminoácidos e nucleotídeos ― Múltiplas transaminações
+
+- Transaminações e rearranjos usando piridoxal fosfato (PLP)
+- PLP é a forma ativa da vitamina B6
+- Catalisadas por amidotransferases
+- PLP tem grupo aldeído que forma base de Schiff com Lys da aminotransferase
+
+![](../imgs/cap22_image15.png)
+
+## Mecanismo proposto para glutamina amidotransferases
+
+- **Dois domínios:**
+    - um liga Gln
+    - outro é aceptor de grupo amino e liga o substrato
+- Cys atua como nucleófilo para clivar a ligação amida da Gln
+
+::: {style="text-align:center"}
 → Forma intermediário glutamil-enzima
+:::
+
 Então o segundo substrato se liga para aceitar o grupo amino da enzima
 
-# Slide 32:
-Visão geral da síntese de aminoácidos
-Fonte de N é Glu ou Gln
-Derivam de intermediários de:
-glicólise
-ciclo do ácido cítrico
-via das pentoses fosfato
-Bactérias podem sintetizar todos os 20.
-Mamíferos requerem alguns na dieta.
+![](../imgs/cap22_image16.jpg)
 
-# Slide 33:
-Todos os aminoácidos derivam de um de sete precursores
+## Visão geral da síntese de aminoácidos
 
-CAC:
-α-cetoglutarato, oxaloacetato
-Glicólise
-piruvato, 3-fosfoglicerato, fosfoenolpiruvato
-Via das pentoses fosfato
-ribose 5-fosfato, eritrose 4-fosfato
+- Fonte de N é Glu ou Gln
+- **Derivam de intermediários de:**
+    - glicólise
+    - ciclo do ácido cítrico
+    - via das pentoses fosfato
+- Bactérias podem sintetizar todos os 20.
+- Mamíferos requerem alguns na dieta.
 
-# Slide 34:
-TABELA 22-1 Famílias biossintéticas de aminoácidos, agrupadas por precursor metabólico
-α-Cetoglutarato
-Glutamato
-Glutamina
-Prolina
-Arginina	Piruvato
-Alanina
-Valinaa
-Leucinaa
-Isoleucinaa
-3-Fosfoglicerato
-Serina
-Glicina
-Cisteína	Fosfoenolpiruvato e eritrose 4-fosfato
-Triptofanoa
-Fenilalaninaa
-Tirosinab
-Oxaloacetato
-Aspartato
-Asparagina
-Metioninaa
-Treoninaa
-Lisinaa	Ribose 5-fosfato
-Histidinaa
-aAminoácidos essenciais em mamíferos.
-bDerivada da fenilalanina em mamíferos.
+![](../imgs/cap22_image17.jpg)
 
-# Slide 35:
-Prolina e arginina derivam do glutamato
+## Todos os aminoácidos derivam de um de sete precursores
+
+- **CAC:**
+    - α-cetoglutarato, oxaloacetato
+- Glicólise
+    - piruvato, 3-fosfoglicerato, fosfoenolpiruvato
+- Via das pentoses fosfato
+    - ribose 5-fosfato, eritrose 4-fosfato
+
+## TABELA 22-1 — Famílias biossintéticas de aminoácidos, agrupadas por precursor metabólico
+
+| α-Cetoglutarato | Piruvato | 3-Fosfoglicerato | Fosfoenolpiruvato e eritrose 4-fosfato | Oxaloacetato | Ribose 5-fosfato |
+|:--|:--|:--|:--|:--|:--|
+| Glutamato <br> Glutamina <br> Prolina <br> Arginina | Alanina <br> Valinaa <br> Leucinaa <br> Isoleucinaa | Serina <br> Glicina <br> Cisteína | Triptofanoa <br> Fenilalaninaa <br> Tirosinab | Aspartato <br> Asparagina <br> Metioninaa <br> Treoninaa <br> Lisinaa | Histidinaa |
+
+<small>aAminoácidos essenciais em mamíferos.</small>
+
+<small>bDerivada da fenilalanina em mamíferos.</small>
+
+## Prolina e arginina derivam do glutamato
+
 O glutamato é derivado da transaminação do α-cetoglutarato, como visto no Capítulo 18.
 
-# Slide 36:
-Biossíntese de Pro e Arg a partir de Glu em bactérias
-O ATP reage com o grupo γ-carboxil → acil fosfato.
-NADPH ou NADH reduz o acil fosfato a um semialdeído que cicliza rapidamente.
-A etapa final de redução produz prolina.
+![](../imgs/cap22_image18.jpg)
 
-# Slide 37:
-Em animais, a prolina TAMBÉM pode ser sintetizada a partir de arginina
-A ornitina é derivada do ciclo da ureia ou da degradação da arginina.
-A ornitina δ-aminotransferase converte ornitina em glutamato γ-semialdeído que cicliza e se converte em Pro.
+## Biossíntese de Pro e Arg a partir de Glu em bactérias
 
-# Slide 38:
-A arginina é sintetizada a partir de ornitina em animais
+- O ATP reage com o grupo γ-carboxil → acil fosfato.
+- NADPH ou NADH reduz o acil fosfato a um semialdeído que cicliza rapidamente.
+- A etapa final de redução produz prolina.
+
+![](../imgs/cap22_image19.jpg)
+
+## Em animais, a prolina TAMBÉM pode ser sintetizada a partir de arginina
+
+- A ornitina é derivada do ciclo da ureia ou da degradação da arginina.
+- A ornitina δ-aminotransferase converte ornitina em glutamato γ-semialdeído que cicliza e se converte em Pro.
+
+![](../imgs/cap22_image20.jpg)
+
+## A arginina é sintetizada a partir de ornitina em animais
+
 A ornitina vem do ciclo da ureia.
 
 Em bactérias, a ornitina tem uma via de síntese especial.
 
-# Slide 39:
-A serina deriva do 3-fosfoglicerato da glicólise
-Mesma via em todos os organismos até agora
-Requer Glu como fonte do grupo NH2
+![](../imgs/cap22_image21.jpg)
+
+## A serina deriva do 3-fosfoglicerato da glicólise
+
+- Mesma via em todos os organismos até agora
+- Requer Glu como fonte do grupo NH2
+
+::: {style="text-align:center"}
 Oxidação → transaminação → desfosforilação para produzir serina
+:::
 
-# Slide 40:
-A glicina deriva da serina
-O carbono é removido usando tetraidrofolato (H4 folato) para aceitar o átomo de C e piridoxal fosfato (PLP)
-A reação usa serina hidroximetiltransferase
+![](../imgs/cap22_image22.jpg)
 
-# Slide 41:
-A cisteína também deriva da serina
+## A glicina deriva da serina
+
+- O carbono é removido usando tetraidrofolato (H4 folato) para aceitar o átomo de C e piridoxal fosfato (PLP)
+- A reação usa serina hidroximetiltransferase
+
+![](../imgs/cap22_image23.jpg)
+
+## A cisteína também deriva da serina
+
 Em bactérias e plantas, os sulfatos são a fonte de S.
 
-# Slide 42:
-Biossíntese de Cys a partir de homocisteína e Ser em mamíferos
+![](../imgs/cap22_image24.jpg)
+
+## Biossíntese de Cys a partir de homocisteína e Ser em mamíferos
+
 Em mamíferos, o enxofre é reciclado da degradação da metionina.
 
-# Slide 43:
-Oxaloacetato produz Asp, que produz Asn, Met, Lys e Thr
+![](../imgs/cap22_image25.jpg)
 
-# Slide 44:
-Oxaloacetato produz Asp, que produz Asn, Met, Lys e Thr
-Consulte a Figura 22-17.
-O aspartato é formado pela transaminação do oxaloacetato.
-O aspartato é a raiz dos outros aminoácidos.
+## Oxaloacetato produz Asp, que produz Asn, Met, Lys e Thr
 
-# Slide 45:
-Piruvato produz Ala, Val, Leu e Ile
+![](../imgs/cap22_image26.jpg)
 
-# Slide 46:
-Aminoácidos aromáticos derivam de fosfoenolpiruvato e eritrose 4-fosfato
-Química muito complicada!
-Os anéis devem ser sintetizados e fechados e depois oxidados para criar ligações duplas.
-O corismato é um intermediário comum.
+## Oxaloacetato produz Asp, que produz Asn, Met, Lys e Thr
 
-# Slide 47:
-Biossíntese de corismato, um intermediário-chave na biossíntese de aminoácidos aromáticos
+- Consulte a Figura 22-17.
+- O aspartato é formado pela transaminação do oxaloacetato.
+- O aspartato é a raiz dos outros aminoácidos.
 
-# Slide 48:
-His deriva do metabólito da PPP ribose 5-fosfato
+## Piruvato produz Ala, Val, Leu e Ile
 
-# Slide 49:
-Várias vias compartilham 5-fosforribosil-1-pirofosfato (PRPP) como intermediário
-Sintetizado a partir de ribose 5-fosfato da PPP via ribose fosfato pirofosfoquinase
-uma enzima alostérica altamente regulada
+![](../imgs/cap22_image27.jpg)
 
-# Slide 50:
-Regulação da biossíntese de aminoácidos
-Abordagem em múltiplas camadas: Frequentemente, mais de um mecanismo de regulação é utilizado.
-inibição por retroalimentação dos produtos
-uso de isoenzimas para regulação de vias específicas
+## Aminoácidos aromáticos derivam de fosfoenolpiruvato e eritrose 4-fosfato
 
-# Slide 51:
-Inibição por retroalimentação na síntese de Ile a partir de Thr
+- Química muito complicada!
+- Os anéis devem ser sintetizados e fechados e depois oxidados para criar ligações duplas.
+- O corismato é um intermediário comum.
 
-# Slide 52:
-O uso de isoenzimas é outro meio importante de regulação
+:::: {.columns}
+::: {.column width="50%"}
+![](../imgs/cap22_image28.png)
+:::
+
+::: {.column width="50%"}
+![](../imgs/cap22_image29.jpg)
+:::
+
+::::
+
+## Biossíntese de corismato, um intermediário-chave na biossíntese de aminoácidos aromáticos
+
+![](../imgs/cap22_image30.jpg)
+
+## His deriva do metabólito da PPP ribose 5-fosfato
+
+![](../imgs/cap22_image31.jpg)
+
+## Várias vias compartilham 5-fosforribosil-1-pirofosfato (PRPP) como intermediário
+
+- Sintetizado a partir de ribose 5-fosfato da PPP via ribose fosfato pirofosfoquinase
+    - uma enzima alostérica altamente regulada
+
+![](../imgs/cap22_image32.jpg)
+
+## Regulação da biossíntese de aminoácidos
+
+- Abordagem em múltiplas camadas: Frequentemente, mais de um mecanismo de regulação é utilizado.
+    - inibição por retroalimentação dos produtos
+    - uso de isoenzimas para regulação de vias específicas
+
+## Inibição por retroalimentação na síntese de Ile a partir de Thr
+
+![](../imgs/cap22_image33.jpg)
+
+## O uso de isoenzimas é outro meio importante de regulação
+
+::: {.callout-tip appearance="simple"}
 Exemplo: Asp pode levar a Lys, Met, Thr e Ile. O uso de isoenzimas, todas reguladas por diferentes efetores, permite que E. coli produza os aminoácidos quando necessário.
+:::
+
+::: {.callout-tip appearance="simple"}
 Exemplo: Na etapa 1, a isoenzima A1 é inibida se Ile estiver alta, mas não se Met ou Thr estiverem altas.
+:::
+
 Apenas a isoenzima A1 é inibida por Ile nesta etapa.
 
-# Slide 53:
-Regulação das vias derivadas do aspartato
+## Regulação das vias derivadas do aspartato
 
-# Slide 54:
-Metabólitos importantes são derivados de aminoácidos
-Anéis de porfirina (por exemplo, heme)
-Fosfocreatina
-Glutationa
-Neurotransmissores e moléculas de sinalização
-Constituintes da parede celular
+![](../imgs/cap22_image34.jpg)
 
-# Slide 55:
-Glicina ou glutamato é o precursor
-das porfirinas
-A porfirina compõe o heme da hemoglobina, citocromos, mioglobina.
-Em animais superiores, a porfirina surge da reação da glicina com succinil-CoA.
-Em plantas e bactérias, o glutamato é o precursor.
-A via gera duas moléculas do importante intermediário δ-aminolevulinato.
-O porfobilinogênio é outro intermediário importante.
+## Metabólitos importantes são derivados de aminoácidos
 
-# Slide 56:
-Síntese de δ-aminolevulinato em eucariotos superiores
+- Anéis de porfirina (por exemplo, heme)
+- Fosfocreatina
+- Glutationa
+- Neurotransmissores e moléculas de sinalização
+- Constituintes da parede celular
 
-# Slide 57:
-Síntese de δ-aminolevulinato em plantas e bactérias
+## Glicina ou glutamato é o precursor
 
-# Slide 58:
-Síntese de heme a partir de
-δ-aminolevulinato
-Duas moléculas de δ-aminolevulinato condensam para formar porfobilinogênio.
-Quatro moléculas de porfobilinogênio se combinam para formar protoporfirina.
-O íon Fe é inserido na protoporfirina com a enzima ferroquelatase.
+- das porfirinas
+- A porfirina compõe o heme da hemoglobina, citocromos, mioglobina.
+- Em animais superiores, a porfirina surge da reação da glicina com succinil-CoA.
+- Em plantas e bactérias, o glutamato é o precursor.
+- A via gera duas moléculas do importante intermediário δ-aminolevulinato.
+- O porfobilinogênio é outro intermediário importante.
 
-# Slide 59:
-Defeitos na biossíntese de heme
-A maioria dos animais sintetiza seu próprio heme.
-Mutações ou desregulação de enzimas na via de biossíntese de heme levam a porfirias.
-Precursores se acumulam em glóbulos vermelhos, fluidos corporais e fígado.
-Acúmulo do precursor uroporfirinogênio I
-A urina fica descolorida (rosa a púrpura escuro dependendo da exposição à luz e ao calor).
-Os dentes podem mostrar fluorescência vermelha sob luz UV.
-A pele é sensível à luz UV.
-Há um desejo por heme.
-Explorado como possível base bioquímica para mitos de vampiros
+## Síntese de δ-aminolevulinato em eucariotos superiores
 
-# Slide 60:
-O heme é a fonte dos pigmentos biliares
-O heme da degradação de eritrócitos é degradado em bilirrubina em duas etapas:
-A heme oxigenase lineariza o heme para criar biliverdina, um composto verde (visto em um hematoma).
-A biliverdina redutase converte biliverdina em bilirrubina, um composto amarelo que viaja ligado à albumina sérica na corrente sanguínea.
-principal pigmento da urina (degradação em urobilina)
-posteriormente degradado pela microbiota intestinal em estercobilina
+![](../imgs/cap22_image35.jpg)
 
-# Slide 61:
-Formação e degradação da bilirrubina
+## Síntese de δ-aminolevulinato em plantas e bactérias
 
-# Slide 62:
-A icterícia é causada pelo acúmulo de bilirrubina
-A icterícia (pigmentação amarelada da pele, branco dos olhos, etc.) pode resultar de:
-fígado comprometido (em câncer de fígado, hepatite)
-secreção biliar bloqueada (devido a cálculos biliares, câncer de pâncreas)
-transferase de glucuronil bilirrubina insuficiente para processar a bilirrubina (ocorre em bebês)
-tratada com UV para causar degradação fotoquímica da bilirrubina
+![](../imgs/cap22_image36.jpg)
 
-# Slide 63:
-Gly e Arg são precursores de creatina e fosfocreatina
+## Síntese de heme a partir de
+
+- δ-aminolevulinato
+- Duas moléculas de δ-aminolevulinato condensam para formar porfobilinogênio.
+- Quatro moléculas de porfobilinogênio se combinam para formar protoporfirina.
+- O íon Fe é inserido na protoporfirina com a enzima ferroquelatase.
+
+![](../imgs/cap22_image37.jpg)
+
+## Defeitos na biossíntese de heme
+
+- A maioria dos animais sintetiza seu próprio heme.
+- Mutações ou desregulação de enzimas na via de biossíntese de heme levam a porfirias.
+- Precursores se acumulam em glóbulos vermelhos, fluidos corporais e fígado.
+    - Acúmulo do precursor uroporfirinogênio I
+- A urina fica descolorida (rosa a púrpura escuro dependendo da exposição à luz e ao calor).
+- Os dentes podem mostrar fluorescência vermelha sob luz UV.
+- A pele é sensível à luz UV.
+- Há um desejo por heme.
+- Explorado como possível base bioquímica para mitos de vampiros
+
+## O heme é a fonte dos pigmentos biliares
+
+- O heme da degradação de eritrócitos é degradado em bilirrubina em duas etapas:
+    - A heme oxigenase lineariza o heme para criar biliverdina, um composto verde (visto em um hematoma).
+- A biliverdina redutase converte biliverdina em bilirrubina, um composto amarelo que viaja ligado à albumina sérica na corrente sanguínea.
+    - principal pigmento da urina (degradação em urobilina)
+    - posteriormente degradado pela microbiota intestinal em estercobilina
+
+## Formação e degradação da bilirrubina
+
+![](../imgs/cap22_image38.jpg)
+
+## A icterícia é causada pelo acúmulo de bilirrubina
+
+- A icterícia (pigmentação amarelada da pele, branco dos olhos, etc.) pode resultar de:
+    - fígado comprometido (em câncer de fígado, hepatite)
+    - secreção biliar bloqueada (devido a cálculos biliares, câncer de pâncreas)
+    - transferase de glucuronil bilirrubina insuficiente para processar a bilirrubina (ocorre em bebês)
+    - tratada com UV para causar degradação fotoquímica da bilirrubina
+
+## Gly e Arg são precursores de creatina e fosfocreatina
+
 A fosfocreatina é hidrolisada para energia no músculo.
 
 Gly e Arg se combinam, então a S-adenosil-metionina (Ado-Met) atua como doadora de metil.
 
-# Slide 64:
-Biossíntese de creatina e fosfocreatina
+![](../imgs/cap22_image39.jpg)
+
+## Biossíntese de creatina e fosfocreatina
+
 Requer glicina, arginina e S-adenosil-metionina
 
 A fosfocreatina pode ser fosforilada pelo ATP para uso como fonte de energia armazenada.
 
-# Slide 65:
-A glutationa (GSH) deriva de Glu, Cys e Gly
-A GSH está presente na maioria das células em altas quantidades.
-Agente redutor/antioxidante
-mantém proteínas e cátions metálicos reduzidos
-mantém enzimas redox no estado reduzido
-remove peróxidos tóxicos
-Oxidada a um dímero usando ligação dissulfeto (GSSG)
+![](../imgs/cap22_image40.jpg)
 
-# Slide 66:
-D-aminoácidos em bactérias surgem de racemases
-Os peptidoglicanos bacterianos contêm D-Al e D-Glu.
-As racemases atuam sobre D-aminoácidos e usam PLP como cofator.
-Inibidores de racemase são usados/estudados como alvos antibióticos.
-ciclosegina para tuberculose
-L-fluoroalanina como antibiótico geral
+## A glutationa (GSH) deriva de Glu, Cys e Gly
 
-# Slide 67:
-Aminoácidos aromáticos são precursores de ligninas, hormônios e produtos naturais de plantas
-Lignina (polímero rígido em plantas) de Phe e Tyr
-Auxina (hormônio de crescimento indol-3-acetato) de Trp
-Outros produtos naturais: especiarias (noz-moscada, baunilha), alcaloides (morfina), e assim por diante
+- A GSH está presente na maioria das células em altas quantidades.
+- Agente redutor/antioxidante
+    - mantém proteínas e cátions metálicos reduzidos
+    - mantém enzimas redox no estado reduzido
+    - remove peróxidos tóxicos
+- Oxidada a um dímero usando ligação dissulfeto (GSSG)
 
-# Slide 68:
-Biossíntese de auxina a partir de Trp e cinamato a partir de Phe
+![](../imgs/cap22_image41.jpg)
 
-# Slide 69:
-Alguns neurotransmissores são derivados de aminoácidos
+## D-aminoácidos em bactérias surgem de racemases
+
+- Os peptidoglicanos bacterianos contêm D-Al e D-Glu.
+- As racemases atuam sobre D-aminoácidos e usam PLP como cofator.
+- Inibidores de racemase são usados/estudados como alvos antibióticos.
+    - ciclosegina para tuberculose
+- L-fluoroalanina como antibiótico geral
+
+![](../imgs/cap22_image42.jpg)
+
+## Aminoácidos aromáticos são precursores de ligninas, hormônios e produtos naturais de plantas
+
+- Lignina (polímero rígido em plantas) de Phe e Tyr
+- Auxina (hormônio de crescimento indol-3-acetato) de Trp
+- Outros produtos naturais: especiarias (noz-moscada, baunilha), alcaloides (morfina), e assim por diante
+
+## Biossíntese de auxina a partir de Trp e cinamato a partir de Phe
+
+![](../imgs/cap22_image43.jpg)
+
+## Alguns neurotransmissores são derivados de aminoácidos
+
 Todos são descarboxilados usando enzimas dependentes de PLP.
 
-# Slide 70:
-Arg é o precursor do óxido nítrico (NO)
-Descoberta em meados dos anos 80 de que o poluente NO desempenhava um papel importante na regulação da pressão arterial, coagulação sanguínea, e assim por diante
-Sintetizado a partir de Arg via óxido nítrico sintase usando NADPH
-enzima semelhante à cit P450 redutase
-estimulada pela interação com Ca2+ e calmodulina
+![](../imgs/cap22_image44.jpg)
 
-# Slide 71:
-Biossíntese de nucleotídeos
-Os nucleotídeos podem ser sintetizados de novo ("do início") a partir de aminoácidos, ribose-5-fosfato, CO2 e NH3.
-Os nucleotídeos podem ser salvos a partir de RNA, DNA e degradação de cofatores.
-Muitos parasitas (por exemplo, malária) carecem de vias de biossíntese de novo e dependem exclusivamente da via de salvação.
-Compostos que inibem as vias de salvação são drogas antiparasitárias promissoras.
+## Arg é o precursor do óxido nítrico (NO)
 
-# Slide 72:
-Biossíntese de novo de nucleotídeos
-Aproximadamente a mesma em todos os organismos estudados
-Bases sintetizadas enquanto ligadas à ribose
-Glu fornece a maioria dos grupos amino.
-Gly é precursor de purinas
-Asp é precursor de pirimidinas
-Os pools de nucleotídeos são mantidos baixos, então as células devem sintetizá-los continuamente.
-Esta síntese pode realmente limitar as taxas de transcrição e replicação.
+- Descoberta em meados dos anos 80 de que o poluente NO desempenhava um papel importante na regulação da pressão arterial, coagulação sanguínea, e assim por diante
+- Sintetizado a partir de Arg via óxido nítrico sintase usando NADPH
+    - enzima semelhante à cit P450 redutase
+    - estimulada pela interação com Ca2+ e calmodulina
 
-# Slide 73:
-Origem dos átomos do anel nas purinas
+![](../imgs/cap22_image45.jpg)
 
-# Slide 74:
-Biossíntese de novo de purinas começa com PRPP
-Adenina e guanina são sintetizadas como AMP e GMP.
-A síntese começa com a reação de 5-fosforribosil 1-pirofosfato (PRPP) com Glu.
-O anel purínico é construído após a adição de três carbonos da glicina.
-O primeiro intermediário com um anel purínico completo é o inosinato (IMP).
+## Biossíntese de nucleotídeos
 
-# Slide 75:
-Construção do IMP
+- Os nucleotídeos podem ser sintetizados de novo ("do início") a partir de aminoácidos, ribose-5-fosfato, CO2 e NH3.
+- Os nucleotídeos podem ser salvos a partir de RNA, DNA e degradação de cofatores.
+- Muitos parasitas (por exemplo, malária) carecem de vias de biossíntese de novo e dependem exclusivamente da via de salvação.
+- Compostos que inibem as vias de salvação são drogas antiparasitárias promissoras.
 
-# Slide 76:
+## Biossíntese de novo de nucleotídeos
 
-# Slide 77:
+- Aproximadamente a mesma em todos os organismos estudados
+- Bases sintetizadas enquanto ligadas à ribose
+- Glu fornece a maioria dos grupos amino.
+    - Gly é precursor de purinas
+    - Asp é precursor de pirimidinas
+- Os pools de nucleotídeos são mantidos baixos, então as células devem sintetizá-los continuamente.
+- Esta síntese pode realmente limitar as taxas de transcrição e replicação.
 
-# Slide 78:
+## Origem dos átomos do anel nas purinas
 
-# Slide 79:
-Síntese de AMP e GMP a partir do IMP
+![](../imgs/cap22_image46.jpg)
+
+## Biossíntese de novo de purinas começa com PRPP
+
+- Adenina e guanina são sintetizadas como AMP e GMP.
+- A síntese começa com a reação de 5-fosforribosil 1-pirofosfato (PRPP) com Glu.
+- O anel purínico é construído após a adição de três carbonos da glicina.
+- O primeiro intermediário com um anel purínico completo é o inosinato (IMP).
+
+![](../imgs/cap22_image47.jpg)
+
+## Construção do IMP
+
+:::: {.columns}
+::: {.column width="50%"}
+![](../imgs/cap22_image48.jpg)
+:::
+
+::: {.column width="50%"}
+![](../imgs/cap22_image49.jpg)
+:::
+
+::::
+
+---
+
+:::: {.columns}
+::: {.column width="50%"}
+![](../imgs/cap22_image50.jpg)
+:::
+
+::: {.column width="50%"}
+![](../imgs/cap22_image51.jpg)
+:::
+
+::::
+
+---
+
+:::: {.columns}
+::: {.column width="50%"}
+![](../imgs/cap22_image52.jpg)
+:::
+
+::: {.column width="50%"}
+![](../imgs/cap22_image53.jpg)
+:::
+
+::::
+
+---
+
+:::: {.columns}
+::: {.column width="50%"}
+![](../imgs/cap22_image54.jpg)
+:::
+
+::: {.column width="50%"}
+![](../imgs/cap22_image55.jpg)
+:::
+
+::::
+
+## Síntese de AMP e GMP a partir do IMP
+
+::: {.callout-important appearance="simple"}
 Observe que o ATP é usado para fosforilar o precursor de GMP, enquanto o GTP é usado para fosforilar o precursor de AMP.
+:::
 
-# Slide 80:
-Regulação da biossíntese de purinas em E. coli consiste em grande parte em inibição por retroalimentação
-Quatro mecanismos principais
-Glutamina-PRPP amidotransferase é inibida pelos produtos finais IMP, AMP e GMP.
-O excesso de GMP inibe a formação de xantilato a partir de inosinato pela IMP desidrogenase.
-As concentrações de GMP e AMP inibem as etapas de fosforilação.
-A síntese de PRPP é inibida por ADP e GDP.
+![](../imgs/cap22_image56.jpg)
 
-# Slide 81:
-Síntese de novo de nucleotídeos de pirimidina (1)
+## Regulação da biossíntese de purinas em E. coli consiste em grande parte em inibição por retroalimentação
+
+- Quatro mecanismos principais
+    - Glutamina-PRPP amidotransferase é inibida pelos produtos finais IMP, AMP e GMP.
+    - O excesso de GMP inibe a formação de xantilato a partir de inosinato pela IMP desidrogenase.
+    - As concentrações de GMP e AMP inibem as etapas de fosforilação.
+    - A síntese de PRPP é inibida por ADP e GDP.
+
+![](../imgs/cap22_image57.jpg)
+
+## Síntese de novo de nucleotídeos de pirimidina (1)
+
 Diferentemente da síntese de purinas, a síntese de pirimidinas prossegue primeiro fazendo o anel pirimidínico (na forma de orotato) e depois ligando-o à ribose 5-fosfato.
 
 Aspartato e carbamoil fosfato fornecem os átomos para a estrutura do anel.
 
-# Slide 82:
-Síntese de novo de nucleotídeos de pirimidina (2)
+:::: {.columns}
+::: {.column width="50%"}
+![](../imgs/cap22_image58.jpg)
+:::
+
+::: {.column width="50%"}
+![](../imgs/cap22_image59.png)
+:::
+
+::::
+
+## Síntese de novo de nucleotídeos de pirimidina (2)
+
 Após a adição de ribose-5-fosfato via PRPP, o nucleotídeo resultante (orotidilato) é descarboxilado para formar uridilato (UMP), a primeira pirimidina possível.
 
-# Slide 83:
-Síntese de novo de nucleotídeos de pirimidina (3)
+![](../imgs/cap22_image60.jpg)
+
+## Síntese de novo de nucleotídeos de pirimidina (3)
+
 O UMP é fosforilado a UTP.
 
 Após a formação de UTP, a aminação pode converter UTP em CTP.
 
-# Slide 84:
-ATCase é inibida pelo produto final CTP e é acelerada pelo ATP.
+:::: {.columns}
+::: {.column width="50%"}
+![](../imgs/cap22_image61.jpg)
+:::
+
+::: {.column width="50%"}
+![](../imgs/cap22_image62.png)
+:::
+
+::::
+
+## ATCase é inibida pelo produto final CTP e é acelerada pelo ATP.
+
 A regulação da biossíntese de pirimidinas também é via inibição por retroalimentação
 
-# Slide 85:
-Ribonucleotídeos são precursores de desoxirribonucleotídeos
-A ligação 2’C-OH é diretamente reduzida a ligação 2’-H… sem ativar o carbono!
-catalisada por ribonucleotídeo redutase
-Mecanismo: Dois átomos de H são doados pelo NADPH e carregados pelas proteínas tiorredoxina ou glutarredoxina.
+![](../imgs/cap22_image63.jpg)
 
-# Slide 86:
-Redução de ribonucleotídeos
-pela ribonucleotídeo redutase
-NADPH serve como doador de elétrons.
+## Ribonucleotídeos são precursores de desoxirribonucleotídeos
+
+- A ligação 2’C-OH é diretamente reduzida a ligação 2’-H… sem ativar o carbono!
+    - catalisada por ribonucleotídeo redutase
+- Mecanismo: Dois átomos de H são doados pelo NADPH e carregados pelas proteínas tiorredoxina ou glutarredoxina.
+
+## Redução de ribonucleotídeos
+
+- pela ribonucleotídeo redutase
+- NADPH serve como doador de elétrons.
 
 Canalizado através da glutationa (a) ou vias da tiorredoxina (b)
 
-# Slide 87:
-Estrutura da ribonucleotídeo redutase
+![](../imgs/cap22_image64.jpg)
 
-# Slide 88:
-O mecanismo proposto da ribonucleotídeo redutase envolve radicais livres
-A maioria das formas da enzima tem duas subunidades catalíticas/reguladoras e duas subunidades geradoras de radicais.
-contêm Fe3+ e grupos ditiol
-a enzima cria um radical Tyr estável para abstrair H∙ do açúcar
-Um radical 3’-ribonucleotídeo se forma.
-O 2’-OH é protonado para ajudar a eliminar H2O e formar um carbocátion estabilizado por radical.
-Os elétrons são transferidos para o 2’-C.
+## Estrutura da ribonucleotídeo redutase
 
-# Slide 89:
-Mecanismo proposto para a ribonucleotídeo redutase
+:::: {.columns}
+::: {.column width="50%"}
+![](../imgs/cap22_image65.jpg)
+:::
 
-# Slide 90:
-A ribonucleotídeo redutase tem dois tipos de sítios reguladores
-Um tipo afeta a atividade.
-ATP ativa, dATP inibe
-O outro tipo afeta a especificidade do substrato para manter pools equilibrados de nucleotídeos.
-Se ATP ou dATP altos → menos especificidade para adenina e MAIS especificidade para UDP e CDP, e assim por diante.
-A enzima oligomeriza para realizar essa mudança.
+::: {.column width="50%"}
+![](../imgs/cap22_image66.jpg)
+:::
 
-# Slide 91:
-Regulação da ribonucleotídeo redutase por dNTPs
+::::
 
-# Slide 92:
-dTMP é produzido a partir de dUTP
-Via indireta…
-dUTP é produzido.
+## O mecanismo proposto da ribonucleotídeo redutase envolve radicais livres
+
+- A maioria das formas da enzima tem duas subunidades catalíticas/reguladoras e duas subunidades geradoras de radicais.
+    - contêm Fe3+ e grupos ditiol
+    - a enzima cria um radical Tyr estável para abstrair H∙ do açúcar
+- Um radical 3’-ribonucleotídeo se forma.
+- O 2’-OH é protonado para ajudar a eliminar H2O e formar um carbocátion estabilizado por radical.
+- Os elétrons são transferidos para o 2’-C.
+
+## Mecanismo proposto para a ribonucleotídeo redutase
+
+![](../imgs/cap22_image67.jpg)
+
+## A ribonucleotídeo redutase tem dois tipos de sítios reguladores
+
+- Um tipo afeta a atividade.
+    - ATP ativa, dATP inibe
+- O outro tipo afeta a especificidade do substrato para manter pools equilibrados de nucleotídeos.
+- Se ATP ou dATP altos → menos especificidade para adenina e MAIS especificidade para UDP e CDP, e assim por diante.
+- A enzima oligomeriza para realizar essa mudança.
+
+## Regulação da ribonucleotídeo redutase por dNTPs
+
+![](../imgs/cap22_image68.jpg)
+
+## dTMP é produzido a partir de dUTP
+
+- Via indireta…
+    - dUTP é produzido.
+
+::: {style="text-align:center"}
 dUTP → dUMP pela dUTPase
+:::
+
+::: {style="text-align:center"}
 dUMP → dTMP pela timidilato sintase
+:::
+
 - adiciona um grupo metil do tetraidrofolato
 
 A timidilato sintase é um alvo para algumas drogas anticâncer.
 
-# Slide 93:
-Biossíntese de dTMP
+## Biossíntese de dTMP
 
-# Slide 94:
-Conversão de dUMP em dTMP pela timidilato sintase
+![](../imgs/cap22_image69.jpg)
 
-# Slide 95:
-A deficiência de ácido fólico leva à síntese reduzida de timidilato
-A deficiência de ácido fólico é generalizada, especialmente em populações nutricionalmente pobres.
-A síntese reduzida de timidilato faz com que o uracilo seja incorporado ao DNA.
-Os mecanismos de reparo removem o uracilo criando quebras de fita que afetam a estrutura e a função do DNA.
-associada a câncer, doenças cardíacas, comprometimento neurológico
+## Conversão de dUMP em dTMP pela timidilato sintase
 
-# Slide 96:
-Catabolismo de purinas
-Desfosforilação (via 5’-nucleotidase)
-Desaminação e hidrólise da ribose levam à produção de xantina.
-Hipoxantina e xantina são então oxidadas em ácido úrico pela xantina oxidase.
+![](../imgs/cap22_image70.jpg)
+
+## A deficiência de ácido fólico leva à síntese reduzida de timidilato
+
+- A deficiência de ácido fólico é generalizada, especialmente em populações nutricionalmente pobres.
+- A síntese reduzida de timidilato faz com que o uracilo seja incorporado ao DNA.
+- Os mecanismos de reparo removem o uracilo criando quebras de fita que afetam a estrutura e a função do DNA.
+    - associada a câncer, doenças cardíacas, comprometimento neurológico
+
+## Catabolismo de purinas
+
+- Desfosforilação (via 5’-nucleotidase)
+    - Desaminação e hidrólise da ribose levam à produção de xantina.
+    - Hipoxantina e xantina são então oxidadas em ácido úrico pela xantina oxidase.
 
 Aranhas e outros aracnídeos não têm xantina oxidase.
 
-# Slide 97:
-Conversão de ácido úrico em alantoína, alantoato e ureia
+![](../imgs/cap22_image71.jpg)
+
+## Conversão de ácido úrico em alantoína, alantoato e ureia
+
 O grau de oxidação adicional do ácido úrico depende do organismo.
 
-# Slide 98:
-Excesso de ácido úrico observado na gota
-Articulações dolorosas (frequentemente nos dedos dos pés) devido a depósitos de cristais de urato de sódio
-Afeta principalmente homens
-Pode envolver subexcreção genética de urato e/ou pode envolver consumo excessivo de frutose
-Tratada com evitar alimentos ricos em purinas (frutos do mar, fígado) ou evitar frutose
-Também tratada com o inibidor da xantina oxidase alopurinol
+![](../imgs/cap22_image72.jpg)
 
-# Slide 99:
-Alopurinol inibe a xantina oxidase
+## Excesso de ácido úrico observado na gota
 
-# Slide 100:
-Catabolismo de pirimidinas
-Leva a NH4+ e ureia
-Pode produzir intermediários do CAC
+- Articulações dolorosas (frequentemente nos dedos dos pés) devido a depósitos de cristais de urato de sódio
+- Afeta principalmente homens
+- Pode envolver subexcreção genética de urato e/ou pode envolver consumo excessivo de frutose
+- Tratada com evitar alimentos ricos em purinas (frutos do mar, fígado) ou evitar frutose
+- Também tratada com o inibidor da xantina oxidase alopurinol
+
+## Alopurinol inibe a xantina oxidase
+
+![](../imgs/cap22_image73.jpg)
+
+## Catabolismo de pirimidinas
+
+- Leva a NH4+ e ureia
+- Pode produzir intermediários do CAC
+
+::: {.callout-tip appearance="simple"}
 Exemplo: A timina é degradada em succinil-CoA.
+:::
 
-# Slide 101:
-Bases purínicas e pirimidínicas são recicladas por vias de salvação
+![](../imgs/cap22_image74.jpg)
+
+## Bases purínicas e pirimidínicas são recicladas por vias de salvação
+
 Bases livres, liberadas no metabolismo, são reutilizadas.
+
+::: {.callout-tip appearance="simple"}
 Exemplo: A adenina reage com PRPP para formar o nucleotídeo adenina AMP.
-catalisada por adenosina fosforribosiltransferase
-O cérebro é especialmente dependente das vias de salvação.
-A falta de hipoxantina-guanina fosforribosiltransferase leva à síndrome de Lesch-Nyhan com comprometimento neurológico e comportamento de morder os dedos das mãos e dos pés.
+:::
 
-# Slide 102:
-Muitos agentes quimioterápicos visam a biossíntese de nucleotídeos
-Análogos de glutamina: azaserina, acivicina
-inibem glutamina amidotransferases
-Fluorouracila
-convertida pela via de salvação em FdUMP, que inibe a timidilato sintase
-Metotrexato e aminopterina
-inibem a diidrofolato redutase (inibidores competitivos)
+- catalisada por adenosina fosforribosiltransferase
+- O cérebro é especialmente dependente das vias de salvação.
+- A falta de hipoxantina-guanina fosforribosiltransferase leva à síndrome de Lesch-Nyhan com comprometimento neurológico e comportamento de morder os dedos das mãos e dos pés.
 
-# Slide 103:
-Antibióticos também visam a biossíntese de nucleotídeos
-Alopurinol, e assim por diante
-estudado contra a doença do sono africana (tripanossomíase) porque os tripanossomos carecem de enzimas para a síntese de nucleotídeos de novo
-Trimetoprima
-inibe a diidrofolato redutase bacteriana, mas liga-se à enzima humana várias ordens de magnitude menos fortemente
+## Muitos agentes quimioterápicos visam a biossíntese de nucleotídeos
 
-# Slide 104:
-Resumo do Capítulo
+- Análogos de glutamina: azaserina, acivicina
+    - inibem glutamina amidotransferases
+- Fluorouracila
+    - convertida pela via de salvação em FdUMP, que inibe a timidilato sintase
+- Metotrexato e aminopterina
+    - inibem a diidrofolato redutase (inibidores competitivos)
 
-métodos para ativação do nitrogênio molecular em nitratos, nitritos e amônia
-a glutamina serve como o principal doador de amônia na biossíntese de aminoácidos
-os 20 aminoácidos comuns são sintetizados a partir de α-cetoglutarato, 3-fosfoglicerato, oxaloacetato, piruvato, fosfoenolpiruvato, eritrose 4-fosfato e ribose-5-fosfato
-os nucleotídeos podem ser sintetizados de novo a partir de precursores simples, ou remontados a partir de nucleobases recicladas
-as purinas são sintetizadas sobre a ribose, enquanto os anéis de pirimidina são montados antes da ligação à ribose
-os ribonucleotídeos são construídos antes da modificação para produzir desoxirribonucleotídeos
-a via de degradação de purinas na maioria dos organismos leva ao ácido úrico, mas o destino do ácido úrico é específico da espécie
-Neste capítulo, aprendemos:
+## Antibióticos também visam a biossíntese de nucleotídeos
+
+- Alopurinol, e assim por diante
+    - estudado contra a doença do sono africana (tripanossomíase) porque os tripanossomos carecem de enzimas para a síntese de nucleotídeos de novo
+- Trimetoprima
+    - inibe a diidrofolato redutase bacteriana, mas liga-se à enzima humana várias ordens de magnitude menos fortemente
+
+## Resumo do Capítulo {.smaller}
+
+**Neste capítulo, aprendemos:**
+
+- métodos para ativação do nitrogênio molecular em nitratos, nitritos e amônia
+    - a glutamina serve como o principal doador de amônia na biossíntese de aminoácidos
+    - os 20 aminoácidos comuns são sintetizados a partir de α-cetoglutarato, 3-fosfoglicerato, oxaloacetato, piruvato, fosfoenolpiruvato, eritrose 4-fosfato e ribose-5-fosfato
+    - os nucleotídeos podem ser sintetizados de novo a partir de precursores simples, ou remontados a partir de nucleobases recicladas
+    - as purinas são sintetizadas sobre a ribose, enquanto os anéis de pirimidina são montados antes da ligação à ribose
+    - os ribonucleotídeos são construídos antes da modificação para produzir desoxirribonucleotídeos
+    - a via de degradação de purinas na maioria dos organismos leva ao ácido úrico, mas o destino do ácido úrico é específico da espécie

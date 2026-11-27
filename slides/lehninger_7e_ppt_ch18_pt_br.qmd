@@ -1,6 +1,5 @@
 ---
-title: "Capítulo"
-# author: Nicholas Costa & Nicholas Barroso
+title: "Oxidação de Aminoácidos e Produção de Ureia"
 lang: pt-BR
 date: today
 date-format: "DD/MM/YYYY"
@@ -11,7 +10,6 @@ format:
 #    height: 900
     width: 960
     height: 720
-#    logo: imgs/logo.png
     incremental: false
     theme: tema_azul.scss
     lightbox: true
@@ -23,336 +21,423 @@ format:
     auto-stretch: true
 ---
 
-# Slide 1:
+## 18| Oxidação de Aminoácidos e Produção de Ureia
 
-18| Oxidação de Aminoácidos e Produção de Ureia
-© 2017 W. H. Freeman and Company
+![](../imgs/cap18_image01.png)
 
-# Slide 2:
-CAPÍTULO 18 
-Oxidação de Aminoácidos e Produção de Ureia
-Como as proteínas são digeridas nos animais
-Como os aminoácidos são oxidados para obtenção de energia nos animais
-Como a ureia é produzida e excretada
-Objetivos de aprendizagem: 
+<small>© 2017 W. H. Freeman and Company</small>
 
-# Slide 3:
-O Uso de Aminoácidos como Combustível 
-Varia Muito entre os Organismos 
-Cerca de 90% das necessidades energéticas dos carnívoros podem ser supridas por aminoácidos logo após uma refeição.
-Os microrganismos capturam aminoácidos do ambiente para usá-los como combustível quando necessário.
-Apenas uma pequena fração das necessidades energéticas dos herbívoros é suprida por aminoácidos.
-As plantas não usam aminoácidos como fonte de combustível, mas podem degradá-los para formar outros metabólitos.
+## CAPÍTULO 18 — Oxidação de Aminoácidos e Produção de Ureia
 
-# Slide 4:
-Circunstâncias Metabólicas 
-da Oxidação de Aminoácidos
-Aminoácidos remanescentes do turnover normal de proteínas (p. ex., proteólise e regeneração de proteínas)
-Aminoácidos da dieta que excedem as necessidades de síntese proteica do organismo
-As proteínas do organismo podem ser degradadas para fornecer aminoácidos como fonte de energia quando os carboidratos são escassos (inanição, diabetes melito).
+**Objetivos de aprendizagem:**
 
-# Slide 5:
-As Proteínas da Dieta São Hidrolisadas Enzimaticamente em Aminoácidos
-A pepsina cliva as proteínas em peptídeos no estômago.
-A tripsina e a quimotripsina clivam proteínas e peptídeos maiores em peptídeos menores no intestino delgado.
-A aminopeptidase e as carboxipeptidases A e B degradam peptídeos em aminoácidos no intestino delgado.
+1. Como as proteínas são digeridas nos animais
+2. Como os aminoácidos são oxidados para obtenção de energia nos animais
+3. Como a ureia é produzida e excretada
 
-# Slide 6:
-A Proteína da Dieta É Degradada Enzimaticamente ao Longo do Trato Digestório
+## O Uso de Aminoácidos como Combustível Varia Muito entre os Organismos
 
-# Slide 7:
-Visão Geral do Catabolismo de Aminoácidos
-Uma vez decompostos em aminoácidos, todos os tipos de proteína são tratados da mesma maneira, conforme as necessidades energéticas do organismo: 
-1. Reciclados em novas proteínas
-2. Oxidados para obtenção de energia 
-remoção do grupo amino (ciclo da ureia)
-entrada no metabolismo central (glicólise, ciclo do ácido cítrico)
+- Cerca de 90% das necessidades energéticas dos carnívoros podem ser supridas por aminoácidos logo após uma refeição.
+- Os microrganismos capturam aminoácidos do ambiente para usá-los como combustível quando necessário.
+- Apenas uma pequena fração das necessidades energéticas dos herbívoros é suprida por aminoácidos.
+- As plantas não usam aminoácidos como fonte de combustível, mas podem degradá-los para formar outros metabólitos.
 
-# Slide 8:
-Visão Geral do Catabolismo de Aminoácidos
+## Circunstâncias Metabólicas da Oxidação de Aminoácidos
 
-# Slide 9:
-Destinos do Nitrogênio nos Organismos
-As plantas conservam quase todo o nitrogênio.
-Muitos vertebrados aquáticos liberam amônia para o ambiente.
-difusão passiva a partir de células epiteliais
-transporte ativo pelas brânquias
-Muitos vertebrados terrestres e tubarões excretam nitrogênio na forma de ureia.
-A ureia é muito menos tóxica que a amônia.
-A ureia tem solubilidade muito alta.
-Alguns animais, como aves e répteis, excretam nitrogênio como ácido úrico.
-O ácido úrico é bastante insolúvel.
-A excreção na forma de pasta permite que os animais conservem água.
-Humanos e grandes primatas excretam tanto ureia (dos aminoácidos) quanto ácido úrico (das purinas).
+- Aminoácidos remanescentes do turnover normal de proteínas (p. ex., proteólise e regeneração de proteínas)
+- Aminoácidos da dieta que excedem as necessidades de síntese proteica do organismo
+- As proteínas do organismo podem ser degradadas para fornecer aminoácidos como fonte de energia quando os carboidratos são escassos (inanição, diabetes melito).
 
-# Slide 10:
-Formas Excretórias de Nitrogênio
+## As Proteínas da Dieta São Hidrolisadas Enzimaticamente em Aminoácidos
 
-# Slide 11:
-Etapa 1: Remoção do Grupo Amino
-A liberação de amônia livre é tóxica.
-A amônia é capturada por uma série de transaminações.
-As transaminações permitem a transferência de uma amina para um metabólito comum (p. ex., α-cetoglutarato) e geram um aminoácido transportável (p. ex., glutamato).
+- A pepsina cliva as proteínas em peptídeos no estômago.
+- A tripsina e a quimotripsina clivam proteínas e peptídeos maiores em peptídeos menores no intestino delgado.
+- A aminopeptidase e as carboxipeptidases A e B degradam peptídeos em aminoácidos no intestino delgado.
 
-# Slide 12:
-Transaminação Enzimática
-Catalisada por aminotransferases 
-Utiliza o cofator piridoxal-fosfato
-Tipicamente, o α-cetoglutarato aceita os grupos amino.
-A transferência de uma amina para o α-cetoglutarato resulta na síntese de glutamato (p. ex., transaminação).
-A transferência de uma segunda amina resulta na síntese de glutamina (p. ex., glutamina-sintetase).
-A L-glutamina atua como armazenamento temporário de nitrogênio. 
-A L-glutamina pode doar o grupo amino quando necessário para a biossíntese de aminoácidos.
+## A Proteína da Dieta É Degradada Enzimaticamente ao Longo do Trato Digestório
 
-# Slide 13:
-Transaminação Enzimática a Glutamato
+![](../imgs/cap18_image02.jpg)
 
-# Slide 14:
-A Amônia É Transportada com Segurança na Corrente Sanguínea como Glutamina
+## Visão Geral do Catabolismo de Aminoácidos
+
+- Uma vez decompostos em aminoácidos, todos os tipos de proteína são tratados da mesma maneira, conforme as necessidades energéticas do organismo:
+    - 1. Reciclados em novas proteínas
+- 2. Oxidados para obtenção de energia
+    - remoção do grupo amino (ciclo da ureia)
+    - entrada no metabolismo central (glicólise, ciclo do ácido cítrico)
+
+## Visão Geral do Catabolismo de Aminoácidos
+
+![](../imgs/cap18_image03.jpg)
+
+## Destinos do Nitrogênio nos Organismos
+
+- As plantas conservam quase todo o nitrogênio.
+- Muitos vertebrados aquáticos liberam amônia para o ambiente.
+    - difusão passiva a partir de células epiteliais
+    - transporte ativo pelas brânquias
+- Muitos vertebrados terrestres e tubarões excretam nitrogênio na forma de ureia.
+- A ureia é muito menos tóxica que a amônia.
+- A ureia tem solubilidade muito alta.
+- Alguns animais, como aves e répteis, excretam nitrogênio como ácido úrico.
+- O ácido úrico é bastante insolúvel.
+- A excreção na forma de pasta permite que os animais conservem água.
+- Humanos e grandes primatas excretam tanto ureia (dos aminoácidos) quanto ácido úrico (das purinas).
+
+## Formas Excretórias de Nitrogênio
+
+![](../imgs/cap18_image04.jpg)
+
+## Etapa 1: Remoção do Grupo Amino
+
+- A liberação de amônia livre é tóxica.
+- A amônia é capturada por uma série de transaminações.
+- As transaminações permitem a transferência de uma amina para um metabólito comum (p. ex., α-cetoglutarato) e geram um aminoácido transportável (p. ex., glutamato).
+
+![](../imgs/cap18_image05.jpg)
+
+## Transaminação Enzimática
+
+- Catalisada por aminotransferases
+- Utiliza o cofator piridoxal-fosfato
+- Tipicamente, o α-cetoglutarato aceita os grupos amino.
+- A transferência de uma amina para o α-cetoglutarato resulta na síntese de glutamato (p. ex., transaminação).
+- A transferência de uma segunda amina resulta na síntese de glutamina (p. ex., glutamina-sintetase).
+- A L-glutamina atua como armazenamento temporário de nitrogênio.
+- A L-glutamina pode doar o grupo amino quando necessário para a biossíntese de aminoácidos.
+
+## Transaminação Enzimática a Glutamato
+
+![](../imgs/cap18_image06.jpg)
+
+## A Amônia É Transportada com Segurança na Corrente Sanguínea como Glutamina
+
 O excesso de glutamina é processado no intestino, nos rins e no fígado.
 
-# Slide 15:
-Estrutura do Piridoxal-Fosfato e do Piridoxamina-Fosfato
-Intermediário, transportador de grupos amino ligado à enzima 
-A forma aldeído pode reagir reversivelmente com grupos amino.
-A forma aminada pode reagir reversivelmente com grupos carbonila.
+![](../imgs/cap18_image07.jpg)
 
-# Slide 16:
-O Piridoxal-Fosfato Está Covalentemente Ligado à Enzima na Enzima em Repouso 
-Por uma aldimina interna
+## Estrutura do Piridoxal-Fosfato e do Piridoxamina-Fosfato
+
+- Intermediário, transportador de grupos amino ligado à enzima
+- A forma aldeído pode reagir reversivelmente com grupos amino.
+- A forma aminada pode reagir reversivelmente com grupos carbonila.
+
+![](../imgs/cap18_image08.jpg)
+
+## O Piridoxal-Fosfato Está Covalentemente Ligado à Enzima na Enzima em Repouso Por uma aldimina interna
 
 A ligação é feita por ataque nucleofílico do grupo amino de uma lisina do sítio ativo.
 
-# Slide 17:
-Aldimina Interna nas Aminotransferases
+![](../imgs/cap18_image09.jpg)
 
-# Slide 18:
-O PLP Também Catalisa a 
-Racemização de Aminoácidos 
-Desaminação
-Racemização
+## Aldimina Interna nas Aminotransferases
 
-# Slide 19:
-O PLP Também Catalisa a 
-Descarboxilação de Aminoácidos 
-Desaminação
-Descarboxilação
+:::: {.columns}
+::: {.column width="50%"}
+![](../imgs/cap18_image10.jpg)
+:::
 
-# Slide 20:
-A desaminação oxidativa ocorre na matriz mitocondrial.
-Pode usar NAD+ ou NADP+ como aceptor de elétrons.
-A amônia é processada em ureia para excreção.
-Via de excreção de amônia; transdesaminação = transaminação + desaminação oxidativa
+::: {.column width="50%"}
+![](../imgs/cap18_image11.jpg)
+:::
+
+::::
+
+## O PLP Também Catalisa a Racemização de Aminoácidos
+
+- Desaminação
+- Racemização
+
+:::: {.columns}
+::: {.column width="50%"}
+![](../imgs/cap18_image12.jpg)
+:::
+
+::: {.column width="50%"}
+![](../imgs/cap18_image13.png)
+:::
+
+::::
+
+## O PLP Também Catalisa a Descarboxilação de Aminoácidos
+
+- Desaminação
+- Descarboxilação
+
+:::: {.columns}
+::: {.column width="50%"}
+![](../imgs/cap18_image14.jpg)
+:::
+
+::: {.column width="50%"}
+![](../imgs/cap18_image15.png)
+:::
+
+::::
+
+## A desaminação oxidativa ocorre na matriz mitocondrial.
+
+- Pode usar NAD+ ou NADP+ como aceptor de elétrons.
+- A amônia é processada em ureia para excreção.
+- Via de excreção de amônia; transdesaminação = transaminação + desaminação oxidativa
 
 A Amônia Coletada no Glutamato É Removida pela Glutamato Desidrogenase
 
-# Slide 21:
-O Ciclo da Glicose-Alanina
-Músculos que trabalham vigorosamente operam quase em anaerobiose e dependem da glicólise para obter energia.
-A glicólise produz piruvato.
- Se não for eliminado, o ácido lático se acumulará.
-Esse piruvato pode ser convertido em alanina para transporte até o fígado. 
+![](../imgs/cap18_image16.jpg)
 
-# Slide 22:
-O Excesso de Glutamato É Metabolizado nas Mitocôndrias dos Hepatócitos 
+## O Ciclo da Glicose-Alanina
 
-# Slide 23:
-A Amônia É Recapturada por meio da 
-Síntese de Carbamoil-Fosfato
+- Músculos que trabalham vigorosamente operam quase em anaerobiose e dependem da glicólise para obter energia.
+- A glicólise produz piruvato.
+- Se não for eliminado, o ácido lático se acumulará.
+- Esse piruvato pode ser convertido em alanina para transporte até o fígado.
+
+![](../imgs/cap18_image17.jpg)
+
+## O Excesso de Glutamato É Metabolizado nas Mitocôndrias dos Hepatócitos
+
+:::: {.columns}
+::: {.column width="50%"}
+![](../imgs/cap18_image18.jpg)
+:::
+
+::: {.column width="50%"}
+![](../imgs/cap18_image19.png)
+:::
+
+::::
+
+## A Amônia É Recapturada por meio da Síntese de Carbamoil-Fosfato
+
 A primeira reação de aquisição de nitrogênio do ciclo da ureia
 
-# Slide 24:
-O Nitrogênio do Carbamoil-Fosfato Entra no Ciclo da Ureia 
-A maioria das reações do ciclo da ureia ocorre no citosol. 
-Para passar ao citosol, o carbamoil-fosfato precisa condensar-se com a ornitina para formar citrulina. Essa reação libera o fosfato do carbamoil-fosfato na matriz mitocondrial. A citrulina pode então ser transportada ao citosol. 
+![](../imgs/cap18_image20.jpg)
 
-# Slide 25:
-As Reações do Ciclo da Ureia
+## O Nitrogênio do Carbamoil-Fosfato Entra no Ciclo da Ureia
 
-# Slide 26:
-Entrada do Aspartato no Ciclo da Ureia
-Esta é a segunda reação de aquisição de nitrogênio.
-No citosol, a citrulina reage com ATP para produzir citrulil-AMP. 
-O AMP atua como bom grupo de saída, e o aspartato ataca o carbono imídico para produzir argininossuccinato. 
+- A maioria das reações do ciclo da ureia ocorre no citosol.
+- Para passar ao citosol, o carbamoil-fosfato precisa condensar-se com a ornitina para formar citrulina. Essa reação libera o fosfato do carbamoil-fosfato na matriz mitocondrial. A citrulina pode então ser transportada ao citosol.
 
-# Slide 27:
-Liberação de Ureia e Regeneração da Ornitina
-A argininossuccinase cliva o fumarato do argininossuccinato, resultando em arginina. 
-A arginina também pode entrar no ciclo da ureia nesse ponto.
-A arginase cliva da arginina ambos os nitrogênios adicionados no ciclo da ureia, resultando em ureia livre. 
-A ornitina pode servir como substrato para a próxima volta do ciclo. 
+![](../imgs/cap18_image21.jpg)
 
-# Slide 28:
-A Derivação Aspartato–Argininossuccinato Liga 
-o Ciclo da Ureia ao Ciclo do Ácido Cítrico
+## As Reações do Ciclo da Ureia
 
-# Slide 29:
-Regulação do Ciclo da Ureia
-A carbamoil-fosfato sintetase I é ativada pelo   	    N-acetilglutamato.
-Formado pela N-acetilglutamato sintase 
-quando as concentrações de glutamato e acetil-CoA estão altas
-ativada pela arginina
-A expressão das enzimas do ciclo da ureia aumenta quando necessário.
-dieta rica em proteínas
-inanição, quando a proteína está sendo degradada para obtenção de energia
+![](../imgs/cap18_image22.jpg)
 
+## Entrada do Aspartato no Ciclo da Ureia
 
-# Slide 30:
-Regulação do Ciclo da Ureia
+- Esta é a segunda reação de aquisição de nitrogênio.
+- No citosol, a citrulina reage com ATP para produzir citrulil-AMP.
+- O AMP atua como bom grupo de saída, e o aspartato ataca o carbono imídico para produzir argininossuccinato.
 
-# Slide 31:
-Aminoácidos Essenciais vs. Não Essenciais e Condicionalmente Essenciais
-Os aminoácidos essenciais precisam ser obtidos da proteína da dieta.
-Os aminoácidos não essenciais são facilmente produzidos a partir de metabólitos centrais.
-O consumo de uma variedade de alimentos fornece todos os aminoácidos essenciais. 
-TABELA 18-1	Aminoácidos Não Essenciais e Essenciais para Humanos e para o Rato Albino	
-Não essenciais	Condicionalmente essenciais(a)	Essenciais	
-Alanina	Arginina	Histidina	
-Asparagina	Cisteína	Isoleucina	
-Aspartato	Glutamina	Leucina	
-Glutamato	Glicina	Lisina	
-Serina	Prolina	Metionina	
-	Tirosina	Fenilalanina	
-		Treonina	
-		Triptofano	
-		Valina	
-(a) Necessários em certo grau em animais jovens em crescimento e/ou às vezes durante doenças.	
+![](../imgs/cap18_image23.jpg)
 
-# Slide 32:
-Produtos Finais da Degradação de Aminoácidos
-Intermediários da via metabólica central
-Alguns aminoácidos resultam em mais de um intermediário.
-Os aminoácidos cetogênicos podem ser convertidos em corpos cetônicos.
+## Liberação de Ureia e Regeneração da Ornitina
 
+- A argininossuccinase cliva o fumarato do argininossuccinato, resultando em arginina.
+- A arginina também pode entrar no ciclo da ureia nesse ponto.
+- A arginase cliva da arginina ambos os nitrogênios adicionados no ciclo da ureia, resultando em ureia livre.
+- A ornitina pode servir como substrato para a próxima volta do ciclo.
 
-Os aminoácidos glicogênicos podem ser convertidos em glicose.
-Seis para piruvato	Ala, Cys, Gly, Ser, Thr, Trp	
-Cinco para α-cetoglutarato	Arg, Glu, Gln, His, Pro	
-Quatro para succinil-CoA	Ile, Met, Thr, Val	
-Dois para fumarato	Phe, Tyr	
-Dois para oxaloacetato	Asp, Asn	
-Sete para acetil-CoA	Leu, Ile, Thr, Lys, Phe, Tyr, Trp	
+![](../imgs/cap18_image24.jpg)
 
-# Slide 33:
-Resumo do Catabolismo de Aminoácidos
+## A Derivação Aspartato–Argininossuccinato Liga o Ciclo da Ureia ao Ciclo do Ácido Cítrico
 
-# Slide 34:
-Degradação de Aminoácidos Cetogênicos
+![](../imgs/cap18_image25.jpg)
 
-# Slide 35:
-Os Intermediários da Degradação do Triptofano São Usados para Sintetizar Outras Moléculas
+## Regulação do Ciclo da Ureia
 
-# Slide 36:
-Defeitos Genéticos em Muitas Etapas da Degradação da Phe Levam a Doenças
+- A carbamoil-fosfato sintetase I é ativada pelo   	    N-acetilglutamato.
+- Formado pela N-acetilglutamato sintase
+    - quando as concentrações de glutamato e acetil-CoA estão altas
+    - ativada pela arginina
+- A expressão das enzimas do ciclo da ureia aumenta quando necessário.
+    - dieta rica em proteínas
+    - inanição, quando a proteína está sendo degradada para obtenção de energia
 
-# Slide 37:
-A Fenilcetonúria É Causada por um Defeito na Primeira Etapa da Degradação da Phe
-Acúmulo de fenilalanina e fenilpiruvato
-Prejudica o desenvolvimento neurológico, levando a déficits intelectuais
-Controlada pela limitação da ingestão alimentar de Phe
+## Regulação do Ciclo da Ureia
 
-# Slide 38:
-Degradação de Aminoácidos a Piruvato
+![](../imgs/cap18_image26.jpg)
 
-# Slide 39:
-Degradação da Glicina
+## Aminoácidos Essenciais vs. Não Essenciais e Condicionalmente Essenciais {.smaller}
+
+- Os aminoácidos essenciais precisam ser obtidos da proteína da dieta.
+- Os aminoácidos não essenciais são facilmente produzidos a partir de metabólitos centrais.
+- O consumo de uma variedade de alimentos fornece todos os aminoácidos essenciais.
+
+| Não essenciais | Condicionalmente essenciais(a) | Essenciais |
+|:--|:--|:--|
+| Alanina | Arginina | Histidina |
+| Asparagina | Cisteína | Isoleucina |
+| Aspartato | Glutamina | Leucina |
+| Glutamato | Glicina | Lisina |
+| Serina | Prolina | Metionina |
+|  | Tirosina | Fenilalanina |
+|  |  | Treonina |
+|  |  | Triptofano |
+|  |  | Valina |
+
+: **TABELA 18-1** Aminoácidos Não Essenciais e Essenciais para Humanos e para o Rato Albino
+
+<small>(a) Necessários em certo grau em animais jovens em crescimento e/ou às vezes durante doenças.</small>
+
+## Produtos Finais da Degradação de Aminoácidos
+
+- Intermediários da via metabólica central
+- Alguns aminoácidos resultam em mais de um intermediário.
+- Os aminoácidos cetogênicos podem ser convertidos em corpos cetônicos.
+
+- Os aminoácidos glicogênicos podem ser convertidos em glicose.
+    - Seis para piruvato	Ala, Cys, Gly, Ser, Thr, Trp
+    - Cinco para α-cetoglutarato	Arg, Glu, Gln, His, Pro
+    - Quatro para succinil-CoA	Ile, Met, Thr, Val
+    - Dois para fumarato	Phe, Tyr
+    - Dois para oxaloacetato	Asp, Asn
+- Sete para acetil-CoA	Leu, Ile, Thr, Lys, Phe, Tyr, Trp
+
+## Resumo do Catabolismo de Aminoácidos
+
+![](../imgs/cap18_image27.jpg)
+
+## Degradação de Aminoácidos Cetogênicos
+
+![](../imgs/cap18_image28.jpg)
+
+## Os Intermediários da Degradação do Triptofano São Usados para Sintetizar Outras Moléculas
+
+![](../imgs/cap18_image29.jpg)
+
+## Defeitos Genéticos em Muitas Etapas da Degradação da Phe Levam a Doenças
+
+![](../imgs/cap18_image30.jpg)
+
+## A Fenilcetonúria É Causada por um Defeito na Primeira Etapa da Degradação da Phe
+
+- Acúmulo de fenilalanina e fenilpiruvato
+- Prejudica o desenvolvimento neurológico, levando a déficits intelectuais
+- Controlada pela limitação da ingestão alimentar de Phe
+
+![](../imgs/cap18_image31.jpg)
+
+## Degradação de Aminoácidos a Piruvato
+
+![](../imgs/cap18_image32.jpg)
+
+## Degradação da Glicina
+
+::: {style="text-align:center"}
 Via nº 1: hidroxilação a serina → piruvato
-Via nº 2: enzima de clivagem da glicina
-aparentemente a via principal em mamíferos
-separação de três átomos centrais
-libera CO2 e NH3
-o grupo metileno é transferido para o THF
-Via nº 3: D-aminoácido oxidase
-via relativamente secundária
-oxidada, por fim, a oxalato
-principal componente dos cálculos renais
+:::
 
-# Slide 40:
-Degradação de Aminoácidos a 
-α-Cetoglutarato
-Prolina, arginina, histidina e glutamina são todas convertidas em glutamato. O glutamato é desaminado a α-cetoglutarato.
+- Via nº 2: enzima de clivagem da glicina
+    - aparentemente a via principal em mamíferos
+    - separação de três átomos centrais
+    - libera CO2 e NH3
+    - o grupo metileno é transferido para o THF
+- Via nº 3: D-aminoácido oxidase
+    - via relativamente secundária
+    - oxidada, por fim, a oxalato
+    - principal componente dos cálculos renais
+
+![](../imgs/cap18_image33.jpg)
+
+## Degradação de Aminoácidos a
+
+- α-Cetoglutarato
+- Prolina, arginina, histidina e glutamina são todas convertidas em glutamato. O glutamato é desaminado a α-cetoglutarato.
 
 A degradação da arginina faz parte do ciclo da ureia.
 
-# Slide 41:
-A Degradação dos Aminoácidos de 
-Cadeia Ramificada Não Ocorre no Fígado
-Leucina, isoleucina e valina são oxidadas como combustível.
-no músculo, no tecido adiposo, nos rins e no cérebro
+![](../imgs/cap18_image34.jpg)
 
+## A Degradação dos Aminoácidos de Cadeia Ramificada Não Ocorre no Fígado
 
-# Slide 42:
-A Degradação dos Aminoácidos de 
-Cadeia Ramificada Não Ocorre no Fígado
+- Leucina, isoleucina e valina são oxidadas como combustível.
+    - no músculo, no tecido adiposo, nos rins e no cérebro
+
+![](../imgs/cap18_image35.jpg)
+
+## A Degradação dos Aminoácidos de Cadeia Ramificada Não Ocorre no Fígado
+
 Os aminoácidos de cadeia ramificada são degradados a succinil-CoA, um importante intermediário do ciclo do ácido cítrico.
 
-# Slide 43:
-O Estado de Oxidação do Enxofre É Conservado no Organismo
+![](../imgs/cap18_image36.jpg)
 
+## O Estado de Oxidação do Enxofre É Conservado no Organismo
 
-A degradação da metionina envolve a transferência do enxofre para a serina, gerando cisteína.
-O esqueleto de carbono restante da metionina une-se à via de oxidação dos aminoácidos ramificados até succinil-CoA.
+- A degradação da metionina envolve a transferência do enxofre para a serina, gerando cisteína.
+- O esqueleto de carbono restante da metionina une-se à via de oxidação dos aminoácidos ramificados até succinil-CoA.
 
-# Slide 44:
-Degradação de Asn e Asp a 
-Oxaloacetato
+![](../imgs/cap18_image37.jpg)
 
-# Slide 45:
-TABELA 18-2	Alguns Distúrbios Genéticos Humanos que Afetam o Catabolismo de Aminoácidos	
-Condição médica	Incidência aproximada (por 100.000 nascimentos)	Processo defeituoso	Enzima defeituosa	Sintomas e efeitos	
-Albinismo	<3	Síntese de melanina a partir da tirosina	Tirosina 3-monoxigenase (tirosinase)	Falta de pigmentação; cabelos brancos, pele rosada	
-Alcaptonúria	<0,4	Degradação da tirosina	Homogentisato 1,2-dioxigenase	Pigmento escuro na urina; artrite de início tardio	
-Argininemia	<0,5	Síntese de ureia	Arginase	Deficiência intelectual	
-Acidemia argininossuccínica	<1,5	Síntese de ureia	Argininossuccinase	Vômitos; convulsões	
-Deficiência de carbamoil-fosfato sintetase I	<0,5	Síntese de ureia	Carbamoil-fosfato sintetase I 	Letargia; convulsões; morte precoce	
-Homocistinúria	<0,5	Degradação da metionina	Cistationina β-sintase	Desenvolvimento ósseo defeituoso; deficiência intelectual	
-Doença da urina de xarope de bordo (cetoacidúria de cadeia ramificada)	<0,4	Degradação de isoleucina, leucina e valina	Complexo da α-ceto ácido de cadeia ramificada desidrogenase	Vômitos; convulsões; deficiência intelectual; morte precoce	
-Acidemia metilmalônica	<0,5	Conversão de propionil-CoA em succinil-CoA	Metilmalonil-CoA mutase	Vômitos; convulsões; deficiência intelectual; morte precoce 	
-Fenilcetonúria	<8	Conversão de fenilalanina em tirosina	Fenilalanina hidroxilase	Vômitos neonatais; deficiência intelectual	
+## Degradação de Asn e Asp a Oxaloacetato
 
-# Slide 46:
-Vários Cofatores Estão 
-Envolvidos no Catabolismo de Aminoácidos
+![](../imgs/cap18_image38.jpg)
+
+## TABELA 18-2 — Alguns Distúrbios Genéticos Humanos que Afetam o Catabolismo de Aminoácidos {.smaller}
+
+| Condição médica | Incidência aproximada (por 100.000 nascimentos) | Processo defeituoso | Enzima defeituosa | Sintomas e efeitos |
+|:--|:--|:--|:--|:--|
+| Albinismo | <3 | Síntese de melanina a partir da tirosina | Tirosina 3-monoxigenase (tirosinase) | Falta de pigmentação; cabelos brancos, pele rosada |
+| Alcaptonúria | <0,4 | Degradação da tirosina | Homogentisato 1,2-dioxigenase | Pigmento escuro na urina; artrite de início tardio |
+| Argininemia | <0,5 | Síntese de ureia | Arginase | Deficiência intelectual |
+| Acidemia argininossuccínica | <1,5 | Síntese de ureia | Argininossuccinase | Vômitos; convulsões |
+| Deficiência de carbamoil-fosfato sintetase I | <0,5 | Síntese de ureia | Carbamoil-fosfato sintetase I | Letargia; convulsões; morte precoce |
+| Homocistinúria | <0,5 | Degradação da metionina | Cistationina β-sintase | Desenvolvimento ósseo defeituoso; deficiência intelectual |
+| Doença da urina de xarope de bordo (cetoacidúria de cadeia ramificada) | <0,4 | Degradação de isoleucina, leucina e valina | Complexo da α-ceto ácido de cadeia ramificada desidrogenase | Vômitos; convulsões; deficiência intelectual; morte precoce |
+| Acidemia metilmalônica | <0,5 | Conversão de propionil-CoA em succinil-CoA | Metilmalonil-CoA mutase | Vômitos; convulsões; deficiência intelectual; morte precoce |
+| Fenilcetonúria | <8 | Conversão de fenilalanina em tirosina | Fenilalanina hidroxilase | Vômitos neonatais; deficiência intelectual |
+
+## Vários Cofatores Estão Envolvidos no Catabolismo de Aminoácidos
+
+::: {.callout-important appearance="simple"}
 Importantes em reações de transferência de um carbono
-tetra-hidrofolato (THF)
-S-adenosilmetionina (adoMet)
-biotina
-A biotina, como vimos no Capítulo 16, transfere CO2.
+:::
 
+- tetra-hidrofolato (THF)
+- S-adenosilmetionina (adoMet)
+    - biotina
+    - A biotina, como vimos no Capítulo 16, transfere CO2.
 
-# Slide 47:
-O THF É um Cofator Versátil
-O tetra-hidrofolato é formado a partir do folato.
-uma vitamina essencial
-O THF pode transferir 1 carbono em diferentes estados de oxidação.
-CH3, CH2OH e CHO
-É usado em uma ampla variedade de reações metabólicas.
-O carbono geralmente vem da serina.
-As formas são interconvertidas no THF antes do uso.
+![](../imgs/cap18_image39.jpg)
 
-# Slide 48:
-O THF É um Cofator Versátil
+## O THF É um Cofator Versátil
 
-# Slide 49:
-A adoMet É Melhor na Transferência de CH3
-A S-adenosilmetionina é o cofator preferido para a transferência de metila em reações biológicas.
-O metila é 1000 vezes mais reativo que o grupo metila do THF.
-É sintetizada a partir de ATP e metionina.
-A regeneração usa N5-metil-THF.
-O único uso conhecido em mamíferos
+- O tetra-hidrofolato é formado a partir do folato.
+    - uma vitamina essencial
+- O THF pode transferir 1 carbono em diferentes estados de oxidação.
+    - CH3, CH2OH e CHO
+- É usado em uma ampla variedade de reações metabólicas.
+- O carbono geralmente vem da serina.
+- As formas são interconvertidas no THF antes do uso.
 
+![](../imgs/cap18_image40.jpg)
+
+## O THF É um Cofator Versátil
+
+![](../imgs/cap18_image41.jpg)
+
+## A adoMet É Melhor na Transferência de CH3
+
+- A S-adenosilmetionina é o cofator preferido para a transferência de metila em reações biológicas.
+- O metila é 1000 vezes mais reativo que o grupo metila do THF.
+- É sintetizada a partir de ATP e metionina.
+- A regeneração usa N5-metil-THF.
+- O único uso conhecido em mamíferos
 
 Metila transferível
 
-# Slide 50:
-Capítulo 18: Resumo
-os aminoácidos das proteínas são uma importante fonte de energia em animais carnívoros
-a primeira etapa do catabolismo de aminoácidos é a transferência do NH3 por aminotransferases dependentes de PLP, geralmente para o α-cetoglutarato, produzindo     L-glutamato
-na maioria dos mamíferos, a amônia tóxica é rapidamente recapturada em carbamoil-fosfato e encaminhada ao ciclo da ureia
-os aminoácidos são degradados a piruvato, acetil-CoA, α-cetoglutarato, succinil-CoA e/ou oxaloacetato
-os aminoácidos que geram acetil-CoA são cetogênicos
-os aminoácidos que geram outros produtos finais são glicogênicos
-defeitos genéticos nas vias de degradação de aminoácidos resultam em várias doenças humanas
-o catabolismo de aminoácidos depende de uma variedade de cofatores, incluindo THF, adoMet e PLP
+![](../imgs/cap18_image42.jpg)
 
-Neste capítulo, aprendemos que:
+## Capítulo 18: Resumo {.smaller}
+
+**Neste capítulo, aprendemos que:**
+
+- os aminoácidos das proteínas são uma importante fonte de energia em animais carnívoros
+    - a primeira etapa do catabolismo de aminoácidos é a transferência do NH3 por aminotransferases dependentes de PLP, geralmente para o α-cetoglutarato, produzindo     L-glutamato
+    - na maioria dos mamíferos, a amônia tóxica é rapidamente recapturada em carbamoil-fosfato e encaminhada ao ciclo da ureia
+    - os aminoácidos são degradados a piruvato, acetil-CoA, α-cetoglutarato, succinil-CoA e/ou oxaloacetato
+    - os aminoácidos que geram acetil-CoA são cetogênicos
+    - os aminoácidos que geram outros produtos finais são glicogênicos
+    - defeitos genéticos nas vias de degradação de aminoácidos resultam em várias doenças humanas
+    - o catabolismo de aminoácidos depende de uma variedade de cofatores, incluindo THF, adoMet e PLP

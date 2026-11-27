@@ -1,6 +1,5 @@
 ---
-title: "Capítulo"
-# author: Nicholas Costa & Nicholas Barroso
+title: "Metabolismo de Proteínas"
 lang: pt-BR
 date: today
 date-format: "DD/MM/YYYY"
@@ -11,7 +10,6 @@ format:
 #    height: 900
     width: 960
     height: 720
-#    logo: imgs/logo.png
     incremental: false
     theme: tema_azul.scss
     lightbox: true
@@ -23,597 +21,701 @@ format:
     auto-stretch: true
 ---
 
-# Slide 1:
+## 27 | Metabolismo de Proteínas
 
-27 | Metabolismo de Proteínas
-© 2017 W. H. Freeman and Company
+![](../imgs/cap27_image01.png)
 
-# Slide 2:
-CAPÍTULO 27
-Metabolismo de Proteínas
-O código genético
-Síntese de aminoacil-tRNA
-Tradução: síntese de proteínas dependente de RNA
-Direcionamento e degradação de proteínas
-Objetivos de aprendizagem:
+<small>© 2017 W. H. Freeman and Company</small>
 
-# Slide 3:
-Regulação da síntese de proteínas
-A síntese de proteínas é altamente demandante de energia, então é altamente coordenada.
-A síntese de proteínas pode usar 90% da energia química de uma célula.
-O número de cópias de proteína produzidas corresponde ao número de cópias necessárias.
-As proteínas são direcionadas para locais celulares.
-A degradação acompanha a síntese.
+## CAPÍTULO 27 — Metabolismo de Proteínas
 
-# Slide 4:
-A síntese de proteínas é um
-processo muito complexo
-Em eucariotos, requer >300 biomoléculas:
->70 proteínas ribossômicas
-~20 enzimas de ativação de aa
-~20 fatores proteicos para iniciação, elongação e terminação de peptídeos
-~100 enzimas adicionais para processamento final
-~40 tipos de tRNAs e rRNAs
+**Objetivos de aprendizagem:**
 
-# Slide 5:
-Três avanços iniciais no entendimento da síntese de proteínas
-Proteínas sintetizadas nos ribossomos
-Aminoácidos ativados para síntese por ligação ao tRNA via aminoacil-tRNA sintetases
-O tRNA atua como um "adaptador" para traduzir o mRNA em proteína
+1. O código genético
+2. Síntese de aminoacil-tRNA
+3. Tradução: síntese de proteínas dependente de RNA
+4. Direcionamento e degradação de proteínas
 
-# Slide 6:
-Retículo endoplasmático rugoso
+## Regulação da síntese de proteínas
 
-# Slide 7:
-História inicial da pesquisa sobre síntese de proteínas
-1955: O grupo de Paul Zamenick identifica o ribossomo como o local da síntese de proteínas.
-1956: Volkin e Astrachan encontram RNA que é como o DNA mas não percebem a importância desta descoberta.
-1958: Zamenick e Hoagland descobrem que os aminoácidos se ligam ao que agora é conhecido como tRNA.
-1960: Sydney Brenner percebe em uma reunião de Sexta-feira Santa com Crick e Francois Jacob que o RNA semelhante ao DNA de Volkin e Astrachan é o RNA mensageiro.
+- A síntese de proteínas é altamente demandante de energia, então é altamente coordenada.
+- A síntese de proteínas pode usar 90% da energia química de uma célula.
+- O número de cópias de proteína produzidas corresponde ao número de cópias necessárias.
+- As proteínas são direcionadas para locais celulares.
+- A degradação acompanha a síntese.
 
-# Slide 8:
-O código genético para proteínas consiste em tripletos de nucleotídeos
-Existem 20 aminoácidos comuns, geneticamente codificados.
-Um código de quatro letras em grupos de dois é insuficiente (16).
-Um código de quatro letras em grupos de três É suficiente (64).
-Os organismos vivos usam código de mRNA não sobreposto sem pontuação.
+## A síntese de proteínas é um
 
-# Slide 9:
-Adaptador (tRNA) traz aminoácido ao mRNA
+- processo muito complexo
+- **Em eucariotos, requer >300 biomoléculas:**
+    - >70 proteínas ribossômicas
+- ~20 enzimas de ativação de aa
+- ~20 fatores proteicos para iniciação, elongação e terminação de peptídeos
+- ~100 enzimas adicionais para processamento final
+- ~40 tipos de tRNAs e rRNAs
 
-# Slide 10:
-Código sobreposto versus não sobreposto
+## Três avanços iniciais no entendimento da síntese de proteínas
 
-# Slide 11:
-Decifrando o código genético
-Uma das maiores conquistas científicas do século XX
-Primeira pista de Nirenberg e Matthaei:
+- Proteínas sintetizadas nos ribossomos
+- Aminoácidos ativados para síntese por ligação ao tRNA via aminoacil-tRNA sintetases
+- O tRNA atua como um "adaptador" para traduzir o mRNA em proteína
+
+## Retículo endoplasmático rugoso
+
+![](../imgs/cap27_image02.jpg)
+
+## História inicial da pesquisa sobre síntese de proteínas
+
+- 1955: O grupo de Paul Zamenick identifica o ribossomo como o local da síntese de proteínas.
+- 1956: Volkin e Astrachan encontram RNA que é como o DNA mas não percebem a importância desta descoberta.
+- 1958: Zamenick e Hoagland descobrem que os aminoácidos se ligam ao que agora é conhecido como tRNA.
+- 1960: Sydney Brenner percebe em uma reunião de Sexta-feira Santa com Crick e Francois Jacob que o RNA semelhante ao DNA de Volkin e Astrachan é o RNA mensageiro.
+
+## O código genético para proteínas consiste em tripletos de nucleotídeos
+
+- Existem 20 aminoácidos comuns, geneticamente codificados.
+- Um código de quatro letras em grupos de dois é insuficiente (16).
+- Um código de quatro letras em grupos de três É suficiente (64).
+- Os organismos vivos usam código de mRNA não sobreposto sem pontuação.
+
+## Adaptador (tRNA) traz aminoácido ao mRNA
+
+![](../imgs/cap27_image03.jpg)
+
+## Código sobreposto versus não sobreposto
+
+![](../imgs/cap27_image04.jpg)
+
+## Decifrando o código genético
+
+- Uma das maiores conquistas científicas do século XX
+- Primeira pista de Nirenberg e Matthaei:
+
+::: {style="text-align:center"}
 poly(U) e 20 aminoácidos radiomarcados alimentados a E. coli → apenas *Phe produzido
-Portanto, UUU codifica Phe.
-Outro passo à frente de Khorana:
-usou mRNAs definidos em padrões planejados
+:::
+
+- Portanto, UUU codifica Phe.
+- **Outro passo à frente de Khorana:**
+    - usou mRNAs definidos em padrões planejados
+
+::: {style="text-align:center"}
 isto é, (AC)n (códons ACA e CAC alternados → His e Thr)
+:::
 
-# Slide 12:
-Características do código genético
-O código é escrito na direção 5' → 3'.
-A terceira base é menos importante na ligação ao tRNA.
-O primeiro códon estabelece o quadro de leitura.
-Se o quadro de leitura for deslocado por uma ou duas bases, todos os códons subsequentes ficam fora de ordem
-61/64 códons codificam aminoácidos.
-Existem três códons de terminação:
-UAA, UGA, UAG
-AUG = códon de iniciação (bem como códon de Met)
+## Características do código genético
 
-# Slide 13:
-Dicionário do código de nucleotídeos
+- O código é escrito na direção 5' → 3'.
+- A terceira base é menos importante na ligação ao tRNA.
+- O primeiro códon estabelece o quadro de leitura.
+    - Se o quadro de leitura for deslocado por uma ou duas bases, todos os códons subsequentes ficam fora de ordem
+- 61/64 códons codificam aminoácidos.
+- **Existem três códons de terminação:**
+    - UAA, UGA, UAG
+- AUG = códon de iniciação (bem como códon de Met)
 
-# Slide 14:
-A maioria dos aminoácidos tem mais de um códon
-Alguns códons são menos sujeitos a causar uma mutação em uma sequência de aminoácidos devido à degenerescência ou devido à abundância de tais tRNAs.
-Existem 20 aminoácidos com 61 códons possíveis.
-Apenas Met e Trp têm um único códon.
+## Dicionário do código de nucleotídeos
 
-# Slide 15:
-Correlação de códons com aminoácidos
-TABELA 27-3 Degenerescência do código genético
-Aminoácido	Número de códons	Aminoácido	Número de códons
-Met	1	Tyr	2
-Trp	1	Ile	3
-Asn	2	Ala	4
-Asp	2	Gly	4
-Cys	2	Pro	4
-Gln	2	Thr	4
-Glu	2	Val	4
-His	2	Arg	6
-Lys	2	Leu	6
-Phe	2	Ser	6
+![](../imgs/cap27_image05.jpg)
 
-# Slide 16:
-O código genético é universal,
-com algumas exceções
-É usado por procariotos e eucariotos, entre espécies.
-As mitocôndrias contêm DNA e usam um código ligeiramente diferente.
-UGA codifica Trp no mtDNA de vertebrados (em vez de STOP).
-AGA/AGG codifica STOP no mtDNA de vertebrados (em vez de Arg).
-As mitocôndrias codificam seus próprios tRNAs, usando 22 em vez de 32.
+## A maioria dos aminoácidos tem mais de um códon
 
-# Slide 17:
-Pareamentos "wobble" em tRNA com mRNA podem ocorrer na terceira base
-A terceira base de um códon pode formar pares de bases não canônicos com seu complemento (anticódon) no tRNA.
-Alguns tRNAs contêm inosinato (I), que pode fazer ponte de H com U, C e A.
-Essas pontes de H são mais fracas e foram nomeadas por Crick como pares de bases "wobble".
+- Alguns códons são menos sujeitos a causar uma mutação em uma sequência de aminoácidos devido à degenerescência ou devido à abundância de tais tRNAs.
+- Existem 20 aminoácidos com 61 códons possíveis.
+- Apenas Met e Trp têm um único códon.
+
+## Correlação de códons com aminoácidos {.smaller}
+
+| Aminoácido | Número de códons | Aminoácido | Número de códons |
+|:--|:--|:--|:--|
+| Met | 1 | Tyr | 2 |
+| Trp | 1 | Ile | 3 |
+| Asn | 2 | Ala | 4 |
+| Asp | 2 | Gly | 4 |
+| Cys | 2 | Pro | 4 |
+| Gln | 2 | Thr | 4 |
+| Glu | 2 | Val | 4 |
+| His | 2 | Arg | 6 |
+| Lys | 2 | Leu | 6 |
+| Phe | 2 | Ser | 6 |
+
+: **TABELA 27-3** Degenerescência do código genético
+
+## O código genético é universal,
+
+- com algumas exceções
+- É usado por procariotos e eucariotos, entre espécies.
+- As mitocôndrias contêm DNA e usam um código ligeiramente diferente.
+- UGA codifica Trp no mtDNA de vertebrados (em vez de STOP).
+- AGA/AGG codifica STOP no mtDNA de vertebrados (em vez de Arg).
+- As mitocôndrias codificam seus próprios tRNAs, usando 22 em vez de 32.
+
+## Pareamentos "wobble" em tRNA com mRNA podem ocorrer na terceira base
+
+- A terceira base de um códon pode formar pares de bases não canônicos com seu complemento (anticódon) no tRNA.
+- Alguns tRNAs contêm inosinato (I), que pode fazer ponte de H com U, C e A.
+- Essas pontes de H são mais fracas e foram nomeadas por Crick como pares de bases "wobble".
+
+::: {.callout-tip appearance="simple"}
 Exemplo: Em levedura, CGA, GCU e CGC todos se ligam ao tRNAArg, que tem o anticódon 3'-GCI-5'.
+:::
+
 Embora as sequências sejam geralmente escritas 5'→3', o anticódon aqui é escrito 3'→5' para ilustrar sua ligação aos códons do mRNA.
 
-# Slide 18:
-Reconhecimento molecular de códons no mRNA pelo tRNA
-A sequência do códon é complementar à sequência do anticódon.
-O códon no mRNA pareia com o anticódon no tRNA via ligações de hidrogênio.
-O alinhamento de dois segmentos de RNA é antiparalelo.
+## Reconhecimento molecular de códons no mRNA pelo tRNA
 
-# Slide 19:
+- A sequência do códon é complementar à sequência do anticódon.
+- O códon no mRNA pareia com o anticódon no tRNA via ligações de hidrogênio.
+- O alinhamento de dois segmentos de RNA é antiparalelo.
 
-# Slide 20:
-O código genético é resistente a mutações
-O código degenerado permite que certas mutações ainda codifiquem o mesmo aminoácido.
-mutações "silenciosas" ― nucleotídeo diferente no DNA mas mesmo aminoácido na proteína
-A mutação na primeira base de um códon geralmente produz uma substituição conservativa.
+![](../imgs/cap27_image06.jpg)
+
+---
+
+![](../imgs/cap27_image07.jpg)
+
+## O código genético é resistente a mutações
+
+- O código degenerado permite que certas mutações ainda codifiquem o mesmo aminoácido.
+    - mutações "silenciosas" ― nucleotídeo diferente no DNA mas mesmo aminoácido na proteína
+- A mutação na primeira base de um códon geralmente produz uma substituição conservativa.
+
+::: {.callout-tip appearance="simple"}
 Exemplo: GUU → Val mas AUU → Leu
+:::
 
-# Slide 21:
-Alguns mRNAs são editados antes da síntese de proteínas
-A edição envolve alteração, adição ou deleção de nucleotídeos no mRNA.
-A edição usa RNAs guia (gRNAs) que hibridizam temporariamente com o mRNA e atuam como moldes para a edição.
+## Alguns mRNAs são editados antes da síntese de proteínas
 
-# Slide 22:
-Reações de desaminação produzem
+- A edição envolve alteração, adição ou deleção de nucleotídeos no mRNA.
+- A edição usa RNAs guia (gRNAs) que hibridizam temporariamente com o mRNA e atuam como moldes para a edição.
+
+![](../imgs/cap27_image08.jpg)
+
+## Reações de desaminação produzem
+
 A edição de RNA por alteração de nucleotídeos mais comumente envolve a desaminação enzimática de resíduos de adenosina ou citidina.
 
-# Slide 23:
-Cinco estágios da síntese de proteínas
-Ativação de aminoácidos
-tRNA aminoacilado
-Iniciação da tradução
-mRNA e tRNA aminoacilado se ligam ao ribossomo
-Elongação
-ciclos de ligação de aminoacil-tRNA e formação de ligação peptídica… até que um códon STOP seja alcançado
-Terminação e reciclagem do ribossomo
-mRNA e proteína se dissociam, ribossomo reciclado
-Enovelamento e processamento pós-traducional
-catalisado por uma variedade de enzimas
+![](../imgs/cap27_image09.jpg)
 
-# Slide 24:
-Visão geral da síntese de proteínas
+## Cinco estágios da síntese de proteínas
 
-# Slide 25:
-TABELA 27-5 Componentes necessários para os cinco principais estágios da síntese de proteínas em E. coli
-Estágio	Componentes essenciais
-1. Ativação de aminoácidos	20 aminoácidos
-20 aminoacil-tRNA sintetases
-32 ou mais tRNAs
-ATP
-Mg2+
-2. Iniciação	mRNA
-N-Formilmetionil-tRNAfMet
-Códon de iniciação no mRNA (AUG)
-Subunidade ribossômica 30S
-Subunidade ribossômica 50S
-Fatores de iniciação (IF1, IF2, IF3)
-GTP
-Mg2+
-3. Elongação	Ribossomos 70S funcionais (complexo de iniciação)
-Aminoacil-tRNAs especificados por códons
-Fatores de elongação (EF-Tu, EF-Ts, EF-G)
-GTP
-Mg2+
-4. Terminação e reciclagem do ribossomo	Códon de terminação no mRNA
-Fatores de liberação (RF1, RF2, RF3, RRF)
-EF-G
-IF3
-5. Enovelamento e processamento pós-traducional	Chaperonas e enzimas de enovelamento (PPI, PDI); enzimas específicas, cofatores e outros componentes para remoção de resíduos iniciadores e sequências sinal, processamento proteolítico adicional, modificação de resíduos terminais e ligação de grupos acetil, fosforil, metil, carboxil, carboidrato ou prostéticos
+- Ativação de aminoácidos
+    - tRNA aminoacilado
+- Iniciação da tradução
+    - mRNA e tRNA aminoacilado se ligam ao ribossomo
+- Elongação
+    - ciclos de ligação de aminoacil-tRNA e formação de ligação peptídica… até que um códon STOP seja alcançado
+- Terminação e reciclagem do ribossomo
+    - mRNA e proteína se dissociam, ribossomo reciclado
+- Enovelamento e processamento pós-traducional
+    - catalisado por uma variedade de enzimas
 
-# Slide 26:
-O ribossomo é um ator-chave na síntese de proteínas
-Constituem ~25% do peso seco das bactérias
-~65% rRNA, 35% proteína
-O rRNA forma o núcleo.
-O RNA faz a catálise da formação da ligação peptídica.
-Feito de duas subunidades ligadas (30S e 50S) em bactérias, com o mRNA passando por elas
-TABELA 27-6 Componentes de RNA e proteína do ribossomo de E. coli
-Subunidade	Número de proteínas diferentes	Número total de proteínas	Designações de proteínas	Número e tipo de rRNAs
-30S	21	21	S1–S21	1 (rRNA 16S)
-50S	33	36	L1–L36a	2 (rRNAs 5S e 23S)
-aAs designações de proteínas L1 a L36 não correspondem a 36 proteínas diferentes. A proteína originalmente designada L7 é uma forma modificada de L12, e L8 é um complexo de três outras proteínas. Além disso, L26 provou ser a mesma proteína que S20 (e não parte da subunidade 50S). Isso dá 33 proteínas diferentes na subunidade grande. Existem quatro cópias da proteína L7/L12, com as três cópias extras elevando a contagem total de proteínas para 36.
+## Visão geral da síntese de proteínas
 
-# Slide 27:
-Estrutura dos ribossomos em bactérias e leveduras
+![](../imgs/cap27_image10.jpg)
 
-# Slide 28:
-Os rRNAs têm estruturas secundárias complexas
-Os três ss rRNAs de E. coli têm estrutura 3-D específica com extensos pares de bases intracadeia.
-A forma dos rRNAs é altamente conservada.
+## TABELA 27-5 — Componentes necessários para os cinco principais estágios da síntese de proteínas em E. coli {.smaller}
 
-# Slide 29:
-Ribossomos em bactérias e eucariotos
-No geral, muito semelhantes
-Ainda duas subunidades com mRNA passando entre elas
-Em eucariotos, maiores (80S), mais complexos, contêm > 80 proteínas
-Cloroplastos e mitocôndrias têm ribossomos mais simples que os das bactérias.
+| Estágio | Componentes essenciais |
+|:--|:--|
+| 1. Ativação de aminoácidos | 20 aminoácidos <br> 20 aminoacil-tRNA sintetases <br> 32 ou mais tRNAs <br> ATP <br> Mg2+ |
+| 2. Iniciação | mRNA <br> N-Formilmetionil-tRNAfMet <br> Códon de iniciação no mRNA (AUG) <br> Subunidade ribossômica 30S <br> Subunidade ribossômica 50S <br> Fatores de iniciação (IF1, IF2, IF3) <br> GTP <br> Mg2+ |
+| 3. Elongação | Ribossomos 70S funcionais (complexo de iniciação) <br> Aminoacil-tRNAs especificados por códons <br> Fatores de elongação (EF-Tu, EF-Ts, EF-G) <br> GTP <br> Mg2+ |
+| 4. Terminação e reciclagem do ribossomo | Códon de terminação no mRNA <br> Fatores de liberação (RF1, RF2, RF3, RRF) <br> EF-G <br> IF3 |
+| 5. Enovelamento e processamento pós-traducional | Chaperonas e enzimas de enovelamento (PPI, PDI); enzimas específicas, cofatores e outros componentes para remoção de resíduos iniciadores e sequências sinal, processamento proteolítico adicional, modificação de resíduos terminais e ligação de grupos acetil, fosforil, metil, carboxil, carboidrato ou prostéticos |
 
-# Slide 30:
-Características dos tRNAs
-ssRNA de 73–93 nucleotídeos em bactérias e eucariotos
-Estrutura em trevo em 2-D
-Forma de "L torcido" em 3-D
-A maioria tem G na extremidade 5'; todos têm CAA na extremidade 3'
-Têm bases modificadas
-bases metiladas, e assim por diante
+## O ribossomo é um ator-chave na síntese de proteínas
 
-# Slide 31:
-Braço do aminoácido
-tem aminoácido esterificado via grupo carboxil ao 2'-OH ou 3'-OH do A do códon CAA terminal
-Braço do anticódon
-Braço D
-contém di-hidrouridina (D)
-contribui para o enovelamento
-Braço TψC
-contém pseudouridina (ψ) ― tem ligação entre base e ribose
-ajuda no enovelamento
+- Constituem ~25% do peso seco das bactérias
+- ~65% rRNA, 35% proteína
+- O rRNA forma o núcleo.
+- O RNA faz a catálise da formação da ligação peptídica.
+- Feito de duas subunidades ligadas (30S e 50S) em bactérias, com o mRNA passando por elas
+
+| Subunidade | Número de proteínas diferentes | Número total de proteínas | Designações de proteínas | Número e tipo de rRNAs |
+|:--|:--|:--|:--|:--|
+| 30S | 21 | 21 | S1–S21 | 1 (rRNA 16S) |
+| 50S | 33 | 36 | L1–L36a | 2 (rRNAs 5S e 23S) |
+
+: **TABELA 27-6** Componentes de RNA e proteína do ribossomo de E. coli
+
+<small>aAs designações de proteínas L1 a L36 não correspondem a 36 proteínas diferentes. A proteína originalmente designada L7 é uma forma modificada de L12, e L8 é um complexo de três outras proteínas. Além disso, L26 provou ser a mesma proteína que S20 (e não parte da subunidade 50S). Isso dá 33 proteínas diferentes na subunidade grande. Existem quatro cópias da proteína L7/L12, com as três cópias extras elevando a contagem total de proteínas para 36.</small>
+
+## Estrutura dos ribossomos em bactérias e leveduras
+
+![](../imgs/cap27_image11.jpg)
+
+## Os rRNAs têm estruturas secundárias complexas
+
+- Os três ss rRNAs de E. coli têm estrutura 3-D específica com extensos pares de bases intracadeia.
+- A forma dos rRNAs é altamente conservada.
+
+![](../imgs/cap27_image12.jpg)
+
+## Ribossomos em bactérias e eucariotos
+
+- No geral, muito semelhantes
+- Ainda duas subunidades com mRNA passando entre elas
+- Em eucariotos, maiores (80S), mais complexos, contêm > 80 proteínas
+- Cloroplastos e mitocôndrias têm ribossomos mais simples que os das bactérias.
+
+![](../imgs/cap27_image13.jpg)
+
+## Características dos tRNAs
+
+- ssRNA de 73–93 nucleotídeos em bactérias e eucariotos
+- Estrutura em trevo em 2-D
+- Forma de "L torcido" em 3-D
+- A maioria tem G na extremidade 5'; todos têm CAA na extremidade 3'
+- Têm bases modificadas
+    - bases metiladas, e assim por diante
+
+## Braço do aminoácido
+
+- tem aminoácido esterificado via grupo carboxil ao 2'-OH ou 3'-OH do A do códon CAA terminal
+- Braço do anticódon
+- Braço D
+    - contém di-hidrouridina (D)
+    - contribui para o enovelamento
+- Braço TψC
+    - contém pseudouridina (ψ) ― tem ligação entre base e ribose
+    - ajuda no enovelamento
 
 Características dos tRNAs
 
-# Slide 32:
-Estrutura 3-D do tRNAPhe de levedura
+![](../imgs/cap27_image14.jpg)
 
-# Slide 33:
-Lembrete: 5 estágios da síntese de proteínas
-Ativação de aminoácidos
-tRNA aminoacilado
-Iniciação da tradução
-mRNA e tRNA aminoacilado se ligam ao ribossomo
-Elongação
-ciclos de ligação de aminoacil-tRNA e formação de ligação peptídica… até que um códon STOP seja alcançado
-Terminação e reciclagem do ribossomo
-mRNA e proteína se dissociam, ribossomo reciclado
-Enovelamento e processamento pós-traducional
-catalisado por uma variedade de enzimas
+## Estrutura 3-D do tRNAPhe de levedura
 
-# Slide 34:
-Etapa 1 − criação do intermediário aminoacil
+![](../imgs/cap27_image15.jpg)
+
+## Lembrete: 5 estágios da síntese de proteínas
+
+- Ativação de aminoácidos
+    - tRNA aminoacilado
+- Iniciação da tradução
+    - mRNA e tRNA aminoacilado se ligam ao ribossomo
+- Elongação
+    - ciclos de ligação de aminoacil-tRNA e formação de ligação peptídica… até que um códon STOP seja alcançado
+- Terminação e reciclagem do ribossomo
+    - mRNA e proteína se dissociam, ribossomo reciclado
+- Enovelamento e processamento pós-traducional
+    - catalisado por uma variedade de enzimas
+
+## Etapa 1 − criação do intermediário aminoacil
+
 As aminoacil-tRNA sintetases esterificam 20 aminoácidos aos tRNAs correspondentes.
+
+::: {style="text-align:center"}
 COO– do aminoácido ataca o fosfato do ATP → cria intermediário aminoaciladenilato
-O pirofosfato (PPi) também é clivado, então a reação é impulsionada para frente por duas clivagens de ligações fosfoanidrido.
-O destino do aminoaciladenilato varia.
-Cinco estágios da síntese de proteínas
-Estágio 1 – Ativação de aminoácidos
+:::
 
-# Slide 35:
-Aminoacilação do tRNA
+- O pirofosfato (PPi) também é clivado, então a reação é impulsionada para frente por duas clivagens de ligações fosfoanidrido.
+- O destino do aminoaciladenilato varia.
+    - Cinco estágios da síntese de proteínas
+- Estágio 1 – Ativação de aminoácidos
 
-# Slide 36:
-Etapa 2 – transferência do aminoacil para o tRNA
-As aminoacil-tRNA sintetases (duas classes) transferem o grupo aminoacil da enzima para o tRNA.
-O 2'-OH ou 3'-OH do tRNA ataca o fosfato do intermediário aminoacil, criando uma ligação fosfodiéster entre o aminoácido e o tRNA
+## Aminoacilação do tRNA
 
-Cinco estágios da síntese de proteínas
-Estágio 1 – Ativação de aminoácidos
+![](../imgs/cap27_image16.jpg)
 
-# Slide 37:
-Aminoacilação do tRNA
+## Etapa 2 – transferência do aminoacil para o tRNA
 
-# Slide 38:
-Aminoacil-tRNA sintetases
-Cada enzima liga um aminoácido específico e o tRNA correspondente.
-A maioria das células contém 20 aminoacil-tRNA sintetases diferentes, uma para cada aminoácido.
-Algumas células contêm menos de 20 sintetases; neste caso, um aminoácido é convertido em outro após o carregamento do tRNA.
+- As aminoacil-tRNA sintetases (duas classes) transferem o grupo aminoacil da enzima para o tRNA.
+- O 2'-OH ou 3'-OH do tRNA ataca o fosfato do intermediário aminoacil, criando uma ligação fosfodiéster entre o aminoácido e o tRNA
 
-# Slide 39:
-O segundo código genético
-As aminoacil-tRNA sintetases devem ser específicas tanto para o aminoácido quanto para o tRNA.
-Combinar cada aminoácido com o tRNA correto pode ser visto como o "segundo código genético".
-O "código" está no reconhecimento molecular de uma molécula de tRNA específica por uma sintetase específica.
-Apenas alguns nucleotídeos no tRNA conferem a especificidade de ligação.
-região do anticódon
-O determinante primário no Ala-tRNA é um único G=U no braço do aminoácido.
+- Cinco estágios da síntese de proteínas
+- Estágio 1 – Ativação de aminoácidos
 
-# Slide 40:
-Posições de nucleotídeos nos tRNAs que são reconhecidas pelas aminoacil-tRNA sintetases:
+## Aminoacilação do tRNA
+
+![](../imgs/cap27_image17.jpg)
+
+## Aminoacil-tRNA sintetases
+
+- Cada enzima liga um aminoácido específico e o tRNA correspondente.
+- A maioria das células contém 20 aminoacil-tRNA sintetases diferentes, uma para cada aminoácido.
+- Algumas células contêm menos de 20 sintetases; neste caso, um aminoácido é convertido em outro após o carregamento do tRNA.
+
+![](../imgs/cap27_image18.jpg)
+
+## O segundo código genético
+
+- As aminoacil-tRNA sintetases devem ser específicas tanto para o aminoácido quanto para o tRNA.
+- Combinar cada aminoácido com o tRNA correto pode ser visto como o "segundo código genético".
+- O "código" está no reconhecimento molecular de uma molécula de tRNA específica por uma sintetase específica.
+- Apenas alguns nucleotídeos no tRNA conferem a especificidade de ligação.
+    - região do anticódon
+- O determinante primário no Ala-tRNA é um único G=U no braço do aminoácido.
+
+## Posições de nucleotídeos nos tRNAs que são reconhecidas pelas aminoacil-tRNA sintetases:
+
 (Pontos laranja e verde)
 
-# Slide 41:
-O par G-U do tRNAAla necessário para o reconhecimento pela Ala-tRNA sintetase e a hélice sintética que também é aminoacilada especificamente com Ala
+![](../imgs/cap27_image19.jpg)
 
-# Slide 42:
-Cinco estágios da síntese de proteínas
-Estágio 2: Iniciação (Procariotos)
-O primeiro tRNA é único.
-O primeiro códon de qualquer peptídeo é AUG (Met).
-Todos os organismos têm dois tRNAs para Met.
-Em bactérias, mais cloroplastos e mitocôndrias, o tRNA de iniciação insere N-formilmetionina (usa um tRNAfMet especial).
-Met interno é inserido com tRNAMet normal.
-A proteína eucariótica começa com Met, não fMet, mas um tRNA especial ainda é usado para iniciação de peptídeos.
+## O par G-U do tRNAAla necessário para o reconhecimento pela Ala-tRNA sintetase e a hélice sintética que também é aminoacilada especificamente com Ala
 
-# Slide 43:
-Cinco estágios da síntese de proteínas
-Estágio 2: Iniciação
-Aminoácidos incomuns encontrados em peptídeos
-Vinte aminoácidos geneticamente codificados são comuns em todos os organismos.
-Mas dois aminoácidos adicionais também são encontrados em algumas proteínas e são geneticamente codificados.
-Selenocisteína
-formada após carregar um tRNA que reconhece UGA (stop) com serina em bactérias e eucariotos
-este tRNA único encontrado em baixos níveis na célula
-Pirrolisina
-diretamente ligada ao seu tRNA que reconhece o códon UAG (stop) por algumas arqueias
+![](../imgs/cap27_image20.jpg)
 
-# Slide 44:
-Aminoácidos incomuns encontrados em peptídeos
+## Cinco estágios da síntese de proteínas
 
-# Slide 45:
-A iniciação requer uma grande montagem.
-Em bactérias, a iniciação requer:
-Subunidade ribossômica 30S
-mRNA
-fMet-tRNA
-fatores de iniciação IF-1, IF-2 e IF-3
-GTP
-Subunidade ribossômica 50S
-GTP
-Mg2+
-Cinco estágios da síntese de proteínas
+- Estágio 2: Iniciação (Procariotos)
+- O primeiro tRNA é único.
+- O primeiro códon de qualquer peptídeo é AUG (Met).
+- Todos os organismos têm dois tRNAs para Met.
+- Em bactérias, mais cloroplastos e mitocôndrias, o tRNA de iniciação insere N-formilmetionina (usa um tRNAfMet especial).
+- Met interno é inserido com tRNAMet normal.
+- A proteína eucariótica começa com Met, não fMet, mas um tRNA especial ainda é usado para iniciação de peptídeos.
+
+## Cinco estágios da síntese de proteínas
+
+- Estágio 2: Iniciação
+- Aminoácidos incomuns encontrados em peptídeos
+- Vinte aminoácidos geneticamente codificados são comuns em todos os organismos.
+- Mas dois aminoácidos adicionais também são encontrados em algumas proteínas e são geneticamente codificados.
+- Selenocisteína
+    - formada após carregar um tRNA que reconhece UGA (stop) com serina em bactérias e eucariotos
+    - este tRNA único encontrado em baixos níveis na célula
+- Pirrolisina
+    - diretamente ligada ao seu tRNA que reconhece o códon UAG (stop) por algumas arqueias
+
+## Aminoácidos incomuns encontrados em peptídeos
+
+![](../imgs/cap27_image21.jpg)
+
+## A iniciação requer uma grande montagem.
+
+- **Em bactérias, a iniciação requer:**
+    - Subunidade ribossômica 30S
+    - mRNA
+    - fMet-tRNA
+    - fatores de iniciação IF-1, IF-2 e IF-3
+- GTP
+- Subunidade ribossômica 50S
+    - GTP
+- Mg2+
+- Cinco estágios da síntese de proteínas
+- Estágio 2: Iniciação (Procariótico)
+
+## Cinco estágios da síntese de proteínas
+
 Estágio 2: Iniciação (Procariótico)
 
-# Slide 46:
-Cinco estágios da síntese de proteínas
-Estágio 2: Iniciação (Procariótico)
+- Etapa 1: A subunidade ribossômica 30S liga IF-1, IF-2 e IF-3 e mRNA.
+- O fator de iniciação IF-3 mantém as subunidades 30S e 50S separadas.
+- O códon AUG iniciador (5') do mRNA é guiado à sua posição correta pela sequência Shine−Dalgarno (região no mRNA que é complementar a uma sequência no RNA ribossômico).
 
-Etapa 1: A subunidade ribossômica 30S liga IF-1, IF-2 e IF-3 e mRNA.
-O fator de iniciação IF-3 mantém as subunidades 30S e 50S separadas.
-O códon AUG iniciador (5') do mRNA é guiado à sua posição correta pela sequência Shine−Dalgarno (região no mRNA que é complementar a uma sequência no RNA ribossômico).
+## Cinco estágios da síntese de proteínas
 
-# Slide 47:
-Cinco estágios da síntese de proteínas
-Estágio 2: Iniciação
-Etapa 2: fMet-tRNAfMet se junta ao complexo.
-O formilmetionina tRNA se liga ao sítio peptidil (P) junto com o AUG iniciador (5').
+- Estágio 2: Iniciação
+    - Etapa 2: fMet-tRNAfMet se junta ao complexo.
+    - O formilmetionina tRNA se liga ao sítio peptidil (P) junto com o AUG iniciador (5').
 
-# Slide 48:
-Cinco estágios da síntese de proteínas
-Estágio 2: Iniciação
-Etapa 3: A subunidade 50S se associa
-A grande subunidade 50S se combina com a subunidade 30S formando o complexo de iniciação.
-IF-2 hidrolisa GTP.
+![](../imgs/cap27_image22.jpg)
 
-# Slide 49:
-Sequências de mRNA que servem como sinais para iniciação da síntese de proteínas em bactérias
+## Cinco estágios da síntese de proteínas
 
-# Slide 50:
-Cinco estágios da síntese de proteínas
-Estágio 2: Iniciação (Eucariotos)
-Usam mais fatores de iniciação
-mais de 12, incluindo eIF1A e eIF3 (homólogos funcionais de IF-1 e IF-3)
-Têm detalhes mecanísticos diferentes
-Têm uma etapa que circulariza o mRNA durante a iniciação
+- Estágio 2: Iniciação
+- Etapa 3: A subunidade 50S se associa
+- A grande subunidade 50S se combina com a subunidade 30S formando o complexo de iniciação.
+- IF-2 hidrolisa GTP.
 
-# Slide 51:
-Cinco estágios da síntese de proteínas
-Estágio 2: Iniciação (Eucariotos)
-Etapa 1: A subunidade 40S se junta com eIF1A e eIF3
-eIF1 se liga ao sítio E, eIF1A se liga ao sítio A, eIF3 bloqueia o sítio A prevenindo a ligação do tRNA
-Etapa 2: eIF2 e o tRNAMet carregado com GTP ligado se juntam à 40S
-criando o complexo de pré-iniciação 43S
+![](../imgs/cap27_image23.jpg)
 
-# Slide 52:
-Cinco estágios da síntese de proteínas
-Estágio 2: Iniciação (Eucariotos)
-Etapa 3: O mRNA se liga com eIF4F
-eIF4F inclui
-eIF4E (liga-se ao cap 5')
-eIF4A (uma ATPase e RNA helicase)
-eIF4G (proteína ligante que se liga à PABP – proteína de ligação à poli(A) na cauda poli(A) 3')
+## Sequências de mRNA que servem como sinais para iniciação da síntese de proteínas em bactérias
 
-# Slide 53:
-Cinco estágios da síntese de proteínas
-Estágio 2: Iniciação (Eucariotos)
-Etapa 4: varredura do mRNA até que um códon AUG seja encontrado
-Etapa 5: A subunidade 60S se associa e muitos dos fatores de iniciação são liberados.
+![](../imgs/cap27_image24.jpg)
 
-# Slide 54:
-Cinco estágios da síntese de proteínas
-Estágio 3: Elongação (Procariótico)
-Etapa 1: ligação do aminoacil-tRNA entrante
-O aminoacil-tRNA entrante se liga primeiro a um complexo EF-Tu–GTP.
-O complexo aminoacil-EF-Tu-GTP se liga ao sítio aminoacil (A) do complexo de iniciação 70S.
-Após a hidrólise do GTP, EF-Tu-GDP deixa o ribossomo.
+## Cinco estágios da síntese de proteínas
 
-# Slide 55:
-Cinco estágios da síntese de proteínas
-Estágio 3: Elongação (Procariótico)
-Etapa 2: a ligação peptídica se forma
-Agora há dois aminoácidos ligados a tRNAs posicionados para união.
-Um está no sítio A, o outro no sítio P.
-O grupo N-formilmetionil é transferido do seu tRNA no sítio P para o aminoácido no sítio A.
-A reação é catalisada pelo rRNA 23S (ribozima).
-O tRNAfMet "descarregado" (desacetilado) está agora no sítio P.
+- Estágio 2: Iniciação (Eucariotos)
+- Usam mais fatores de iniciação
+    - mais de 12, incluindo eIF1A e eIF3 (homólogos funcionais de IF-1 e IF-3)
+- Têm detalhes mecanísticos diferentes
+- Têm uma etapa que circulariza o mRNA durante a iniciação
 
-# Slide 56:
-Formação da primeira ligação peptídica
+## Cinco estágios da síntese de proteínas
 
-# Slide 57:
-Cinco estágios da síntese de proteínas
-Estágio 3: Elongação (Procariótico)
-Etapa 3: translocação do ribossomo
-O ribossomo se move um códon em direção à extremidade 3' do mRNA.
-usa energia da hidrólise do GTP
-GTP é parte do EF-G (translocase)
-deixa o sítio A aberto para novo aminoacil-tRNA
+- Estágio 2: Iniciação (Eucariotos)
+- Etapa 1: A subunidade 40S se junta com eIF1A e eIF3
+    - eIF1 se liga ao sítio E, eIF1A se liga ao sítio A, eIF3 bloqueia o sítio A prevenindo a ligação do tRNA
+- Etapa 2: eIF2 e o tRNAMet carregado com GTP ligado se juntam à 40S
+    - criando o complexo de pré-iniciação 43S
 
-# Slide 58:
-Cinco estágios da síntese de proteínas
-Estágio 3: Elongação (Eucariótico)
-As etapas são semelhantes às das bactérias
-Fatores de elongação – eEF1α (EF-Tu), eEF1βγ (EF-Ts), eEF2 (EF-G)
-Diferença: Os ribossomos eucarióticos NÃO têm um sítio E; os tRNAs descarregados são liberados do sítio P.
+![](../imgs/cap27_image25.jpg)
 
-# Slide 59:
-Cinco estágios da síntese de proteínas
-Estágio 4: Terminação
-Sinalizada por um códon de parada
-UAA, UAG ou UGA no sítio A desencadeará a ação dos fatores de terminação (fatores de liberação) RF-1, RF-2, RF-3.
-Estes ajudam a:
-hidrolisar a ligação peptídeo-tRNA terminal
-liberar o peptídeo e o tRNA do ribossomo
-fazer as subunidades do ribossomo se dissociarem para que a iniciação possa começar novamente
+## Cinco estágios da síntese de proteínas
 
-# Slide 60:
-Resgate do ribossomo
-mRNA danificado leva à formação de um peptídeo incompleto e um "complexo nonstop".
-O ribossomo é resgatado por trans-translação.
-Um RNA mensageiro transferente (tmRNA) e pequena proteína B (SmpB) se ligam ao complexo estagnado no sítio A vazio.
-A tradução continua até que um códon de parada seja encontrado no tmRNA.
-O mRNA defeituoso e o polipeptídeo são ambos degradados.
+- Estágio 2: Iniciação (Eucariotos)
+- Etapa 3: O mRNA se liga com eIF4F
+    - eIF4F inclui
+    - eIF4E (liga-se ao cap 5')
+    - eIF4A (uma ATPase e RNA helicase)
+    - eIF4G (proteína ligante que se liga à PABP – proteína de ligação à poli(A) na cauda poli(A) 3')
 
-# Slide 61:
-Características da síntese de proteínas
-Grande custo energético
-Pode ser rápida quando realizada em aglomerados de ribossomos chamados polissomo
-Em bactérias, firmemente acoplada à transcrição
-A tradução pode começar antes que a transcrição termine.
+![](../imgs/cap27_image26.jpg)
 
-# Slide 62:
-Cinco estágios da síntese de proteínas
-Estágio 5: Modificações pós-traducionais
-Algumas proteínas requerem modificação antes que a conformação totalmente ativa seja alcançada.
-As modificações pós-traducionais incluem:
-remoção enzimática do grupo formil do primeiro resíduo, ou remoção de Met e às vezes resíduos adicionais
-acetilação do resíduo N-terminal
-Remoção de sequências sinal ou outras regiões
-Ligação de carboidratos
-Remoção de sequência para ativar uma enzima
+## Cinco estágios da síntese de proteínas
 
-# Slide 63:
-Modificar aminoácidos com fosfatos adicionais, grupos ácido carboxílico, e assim por diante
-Adição de grupos isoprenil (como farnesil pirofosfato) de intermediários da via de síntese de colesterol
-O isopreno ou grupo derivado ajuda a ancorar proteínas em membranas.
-Adicionar grupos prostéticos
-Formar ligações dissulfeto
-Modificações pós-traducionais
+- Estágio 2: Iniciação (Eucariotos)
+- Etapa 4: varredura do mRNA até que um códon AUG seja encontrado
+- Etapa 5: A subunidade 60S se associa e muitos dos fatores de iniciação são liberados.
 
-# Slide 64:
-Mais aminoácidos modificados
+![](../imgs/cap27_image27.jpg)
 
-# Slide 65:
-Perfilagem de ribossomos
-É um método no qual um pesquisador é capaz de isolar o mRNA sendo transcrito no momento.
-O mRNA é isolado e submetido a RNase; apenas transcritos ligados a ribossomos sobreviverão.
-RT-PCR é feito e o cDNA resultante é sequenciado.
-Os dados são tanto quantitativos quanto qualitativos.
+## Cinco estágios da síntese de proteínas
 
-# Slide 66:
-Antibióticos e toxinas que visam a tradução
+- Estágio 3: Elongação (Procariótico)
+- Etapa 1: ligação do aminoacil-tRNA entrante
+- O aminoacil-tRNA entrante se liga primeiro a um complexo EF-Tu–GTP.
+- O complexo aminoacil-EF-Tu-GTP se liga ao sítio aminoacil (A) do complexo de iniciação 70S.
+- Após a hidrólise do GTP, EF-Tu-GDP deixa o ribossomo.
+
+![](../imgs/cap27_image28.jpg)
+
+## Cinco estágios da síntese de proteínas
+
+- Estágio 3: Elongação (Procariótico)
+- Etapa 2: a ligação peptídica se forma
+- Agora há dois aminoácidos ligados a tRNAs posicionados para união.
+- Um está no sítio A, o outro no sítio P.
+- O grupo N-formilmetionil é transferido do seu tRNA no sítio P para o aminoácido no sítio A.
+- A reação é catalisada pelo rRNA 23S (ribozima).
+- O tRNAfMet "descarregado" (desacetilado) está agora no sítio P.
+
+## Formação da primeira ligação peptídica
+
+![](../imgs/cap27_image29.jpg)
+
+## Cinco estágios da síntese de proteínas
+
+- Estágio 3: Elongação (Procariótico)
+- Etapa 3: translocação do ribossomo
+- O ribossomo se move um códon em direção à extremidade 3' do mRNA.
+    - usa energia da hidrólise do GTP
+- GTP é parte do EF-G (translocase)
+    - deixa o sítio A aberto para novo aminoacil-tRNA
+
+:::: {.columns}
+::: {.column width="50%"}
+![](../imgs/cap27_image30.jpg)
+:::
+
+::: {.column width="50%"}
+![](../imgs/cap27_image31.jpg)
+:::
+
+::::
+
+## Cinco estágios da síntese de proteínas
+
+- Estágio 3: Elongação (Eucariótico)
+- As etapas são semelhantes às das bactérias
+- Fatores de elongação – eEF1α (EF-Tu), eEF1βγ (EF-Ts), eEF2 (EF-G)
+- Diferença: Os ribossomos eucarióticos NÃO têm um sítio E; os tRNAs descarregados são liberados do sítio P.
+
+## Cinco estágios da síntese de proteínas
+
+- Estágio 4: Terminação
+- Sinalizada por um códon de parada
+- UAA, UAG ou UGA no sítio A desencadeará a ação dos fatores de terminação (fatores de liberação) RF-1, RF-2, RF-3.
+- **Estes ajudam a:**
+    - hidrolisar a ligação peptídeo-tRNA terminal
+    - liberar o peptídeo e o tRNA do ribossomo
+    - fazer as subunidades do ribossomo se dissociarem para que a iniciação possa começar novamente
+
+![](../imgs/cap27_image32.jpg)
+
+## Resgate do ribossomo
+
+- mRNA danificado leva à formação de um peptídeo incompleto e um "complexo nonstop".
+- O ribossomo é resgatado por trans-translação.
+- Um RNA mensageiro transferente (tmRNA) e pequena proteína B (SmpB) se ligam ao complexo estagnado no sítio A vazio.
+- A tradução continua até que um códon de parada seja encontrado no tmRNA.
+- O mRNA defeituoso e o polipeptídeo são ambos degradados.
+
+![](../imgs/cap27_image33.jpg)
+
+## Características da síntese de proteínas
+
+- Grande custo energético
+- Pode ser rápida quando realizada em aglomerados de ribossomos chamados polissomo
+- Em bactérias, firmemente acoplada à transcrição
+- A tradução pode começar antes que a transcrição termine.
+
+![](../imgs/cap27_image34.jpg)
+
+## Cinco estágios da síntese de proteínas
+
+- Estágio 5: Modificações pós-traducionais
+- Algumas proteínas requerem modificação antes que a conformação totalmente ativa seja alcançada.
+- **As modificações pós-traducionais incluem:**
+    - remoção enzimática do grupo formil do primeiro resíduo, ou remoção de Met e às vezes resíduos adicionais
+    - acetilação do resíduo N-terminal
+- Remoção de sequências sinal ou outras regiões
+- Ligação de carboidratos
+- Remoção de sequência para ativar uma enzima
+
+## Modificar aminoácidos com fosfatos adicionais, grupos ácido carboxílico, e assim por diante
+
+- Adição de grupos isoprenil (como farnesil pirofosfato) de intermediários da via de síntese de colesterol
+- O isopreno ou grupo derivado ajuda a ancorar proteínas em membranas.
+    - Adicionar grupos prostéticos
+    - Formar ligações dissulfeto
+- Modificações pós-traducionais
+
+:::: {.columns}
+::: {.column width="50%"}
+![](../imgs/cap27_image35.jpg)
+:::
+
+::: {.column width="50%"}
+![](../imgs/cap27_image36.jpg)
+:::
+
+::::
+
+## Mais aminoácidos modificados
+
+:::: {.columns}
+::: {.column width="50%"}
+![](../imgs/cap27_image37.jpg)
+:::
+
+::: {.column width="50%"}
+![](../imgs/cap27_image38.jpg)
+:::
+
+::::
+
+## Perfilagem de ribossomos
+
+- É um método no qual um pesquisador é capaz de isolar o mRNA sendo transcrito no momento.
+- O mRNA é isolado e submetido a RNase; apenas transcritos ligados a ribossomos sobreviverão.
+- RT-PCR é feito e o cDNA resultante é sequenciado.
+- Os dados são tanto quantitativos quanto qualitativos.
+
+![](../imgs/cap27_image39.jpg)
+
+## Antibióticos e toxinas que visam a tradução
+
 Quase todas as etapas da tradução podem ser inibidas com um antibiótico.
+
+::: {.callout-tip appearance="simple"}
 Exemplo: puromicina
-produzida pelo mofo Streptomyces alboniger
-estrutura semelhante à extremidade 3' do aminoacil-tRNA
-então se liga ao sítio A dos ribossomos, formando ligação com o peptídeo em crescimento
-mas não pode participar da translocação e dissociação
-Assim, a puromicina termina a síntese de proteínas.
+:::
 
-# Slide 67:
-Tetraciclinas
-Elas bloqueiam o sítio A no ribossomo.
-Cloranfenicol e cicloheximida
-Eles bloqueiam a transferência peptidil.
-O cloranfenicol inibe ribossomos mitocondriais e de cloroplasto, bem como bacterianos.
-Estreptomicina
-Faz com que o código seja lido erroneamente e inibe a iniciação em altas concentrações.
-Antibióticos e toxinas que visam a tradução
+- produzida pelo mofo Streptomyces alboniger
+    - estrutura semelhante à extremidade 3' do aminoacil-tRNA
+    - então se liga ao sítio A dos ribossomos, formando ligação com o peptídeo em crescimento
+    - mas não pode participar da translocação e dissociação
+- Assim, a puromicina termina a síntese de proteínas.
 
-# Slide 68:
-Toxina da difteria
+![](../imgs/cap27_image40.jpg)
+
+## Tetraciclinas
+
+- Elas bloqueiam o sítio A no ribossomo.
+- Cloranfenicol e cicloheximida
+    - Eles bloqueiam a transferência peptidil.
+    - O cloranfenicol inibe ribossomos mitocondriais e de cloroplasto, bem como bacterianos.
+- Estreptomicina
+    - Faz com que o código seja lido erroneamente e inibe a iniciação em altas concentrações.
+- Antibióticos e toxinas que visam a tradução
+
+![](../imgs/cap27_image41.jpg)
+
+## Toxina da difteria
+
 catalisa a ADP-ribosilação do resíduo de diftamida (histidina modificada) do eEF2 e o inativa
 
-Ricin
-proteína tóxica da mamona
-inativa a subunidade 60S por despurinação de um resíduo de adenosina específico do rRNA 28S
+- Ricin
+    - proteína tóxica da mamona
+    - inativa a subunidade 60S por despurinação de um resíduo de adenosina específico do rRNA 28S
 
 Antibióticos e toxinas que visam a tradução
 
-# Slide 69:
-Direcionamento e degradação de proteínas
-As proteínas se movem do local de síntese para:
-sair de uma célula
-tornar-se parte da membrana
-entrar em um compartimento subcelular, e assim por diante
-A maioria tem uma sequência sinal no ou perto do N-terminal
-13−36 resíduos de aminoácidos de comprimento
-Isso ocorre em células eucarióticas, onde a organização subcelular auxilia no compartimentalização das vias metabólicas.
+## Direcionamento e degradação de proteínas
 
-# Slide 70:
-Peptídeos direcionados ao RE
-À medida que o peptídeo emerge do ribossomo, a sequência sinal é ligada pela partícula de reconhecimento de sinal (SRP).
-O complexo SRP/ribossomo/RNA é entregue ao lúmen do RE.
-Alguma modificação ocorre aqui (glicosilação, etc.).
-Vesículas de transporte então levam as proteínas ao aparelho de Golgi.
-As proteínas são classificadas aqui de maneiras pouco compreendidas.
-As proteínas entram na via biossintética/secretora.
-Proteínas para mitocôndrias e cloroplastos ligam proteínas chaperonas no citosol e são entregues a receptores no exterior da organela.
+- As proteínas se movem do local de síntese para:
+    - sair de uma célula
+    - tornar-se parte da membrana
+    - entrar em um compartimento subcelular, e assim por diante
+- A maioria tem uma sequência sinal no ou perto do N-terminal
+- 13−36 resíduos de aminoácidos de comprimento
+- Isso ocorre em células eucarióticas, onde a organização subcelular auxilia no compartimentalização das vias metabólicas.
 
-# Slide 71:
-Direcionando peptídeos ao RE e além
+## Peptídeos direcionados ao RE
 
-# Slide 72:
-Glicosilação de proteínas
-As glicoproteínas se formam ligando um oligossacarídeo a um grupo lateral no peptídeo.
-N-ligada (nitrogênio de Asn ou Arg)
-começa no RER
-O-ligada (oxigênio de Ser, Thr, Tyr)
-tipicamente ocorre no Golgi ou citosol para proteínas que não entram no RE
-As proteínas são classificadas no Golgi e enviadas aos seus destinos finais.
+- À medida que o peptídeo emerge do ribossomo, a sequência sinal é ligada pela partícula de reconhecimento de sinal (SRP).
+- O complexo SRP/ribossomo/RNA é entregue ao lúmen do RE.
+- Alguma modificação ocorre aqui (glicosilação, etc.).
+- Vesículas de transporte então levam as proteínas ao aparelho de Golgi.
+- As proteínas são classificadas aqui de maneiras pouco compreendidas.
+- As proteínas entram na via biossintética/secretora.
+- Proteínas para mitocôndrias e cloroplastos ligam proteínas chaperonas no citosol e são entregues a receptores no exterior da organela.
 
-# Slide 73:
-Glicosilação de proteínas
+## Direcionando peptídeos ao RE e além
 
-# Slide 74:
-Como as proteínas são direcionadas e importadas para o núcleo
-Proteínas para o núcleo têm uma sequência de localização nuclear (NLS).
-Uma NLS não é clivada após a proteína ser direcionada.
-O envelope nuclear pode se degradar e as proteínas precisarão reentrar no núcleo.
-Liga-se à importina α e β e uma GTPase chamada Ran.
-O complexo atraca em um poro e é importado.
-As proteínas ribossômicas são sintetizadas no citosol, importadas de volta para o núcleo, montadas em subunidades no nucléolo e então exportadas de volta ao citosol.
+![](../imgs/cap27_image42.jpg)
 
-# Slide 75:
-Direcionamento de proteínas nucleares
+## Glicosilação de proteínas
 
-# Slide 76:
-A degradação de proteínas é inevitável
-As meias-vidas das proteínas variam de segundos a dias ou até meses.
-A hemoglobina tem vida longa.
-Proteínas defeituosas têm vida curta, assim como muitas proteínas reguladoras do metabolismo que respondem a necessidades em rápida mudança.
-Mas todas são eventualmente degradadas.
+- As glicoproteínas se formam ligando um oligossacarídeo a um grupo lateral no peptídeo.
+- N-ligada (nitrogênio de Asn ou Arg)
+    - começa no RER
+- O-ligada (oxigênio de Ser, Thr, Tyr)
+    - tipicamente ocorre no Golgi ou citosol para proteínas que não entram no RE
+- As proteínas são classificadas no Golgi e enviadas aos seus destinos finais.
 
-# Slide 77:
-Mecanismos de degradação
-Em E. coli, Lon (para "forma longa", uma protease dependente de ATP) hidrolisa peptídeos defeituosos ou de curto prazo.
-Em eucariotos, as proteínas são ligadas à proteína ubiquitina.
-via enzima ativadora E1, enzima conjugadora E2 e enzima ligante E3
-Proteínas ubiquitinadas são clivadas pelo complexo proteassomo 26.
-A ubiquitina é altamente conservada entre todos os eucariotos.
+## Glicosilação de proteínas
 
-# Slide 78:
-Ligação da ubiquitina a proteínas alvo
+![](../imgs/cap27_image43.jpg)
 
-# Slide 79:
-Capítulo 27: Resumo
-os aminoácidos são codificados no mRNA, carregados por tRNA carregado e ligados por rRNA/ribossomos
-o código genético é universal
-existem cinco estágios da biossíntese de proteínas
-os ribossomos são compostos de rRNA e proteínas, e seus tamanhos variam entre eucariotos e procariotos
-proteínas auxiliares ajudam na iniciação, elongação e terminação da síntese de peptídeos
-polissomos são encontrados apenas em organismos procarióticos
-a síntese de proteínas pode ser inibida por antibióticos ou toxinas
-as proteínas são direcionadas a locais específicos através de uma sequência N-terminal
-as proteínas podem ser modificadas pós-traducionalmente
-todas as proteínas são eventualmente recicladas
-Neste capítulo, aprendemos que:
+## Como as proteínas são direcionadas e importadas para o núcleo
+
+- Proteínas para o núcleo têm uma sequência de localização nuclear (NLS).
+- Uma NLS não é clivada após a proteína ser direcionada.
+- O envelope nuclear pode se degradar e as proteínas precisarão reentrar no núcleo.
+- Liga-se à importina α e β e uma GTPase chamada Ran.
+- O complexo atraca em um poro e é importado.
+- As proteínas ribossômicas são sintetizadas no citosol, importadas de volta para o núcleo, montadas em subunidades no nucléolo e então exportadas de volta ao citosol.
+
+## Direcionamento de proteínas nucleares
+
+![](../imgs/cap27_image44.jpg)
+
+## A degradação de proteínas é inevitável
+
+- As meias-vidas das proteínas variam de segundos a dias ou até meses.
+- A hemoglobina tem vida longa.
+- Proteínas defeituosas têm vida curta, assim como muitas proteínas reguladoras do metabolismo que respondem a necessidades em rápida mudança.
+- Mas todas são eventualmente degradadas.
+
+## Mecanismos de degradação
+
+- Em E. coli, Lon (para "forma longa", uma protease dependente de ATP) hidrolisa peptídeos defeituosos ou de curto prazo.
+- Em eucariotos, as proteínas são ligadas à proteína ubiquitina.
+    - via enzima ativadora E1, enzima conjugadora E2 e enzima ligante E3
+- Proteínas ubiquitinadas são clivadas pelo complexo proteassomo 26.
+- A ubiquitina é altamente conservada entre todos os eucariotos.
+
+## Ligação da ubiquitina a proteínas alvo
+
+![](../imgs/cap27_image45.jpg)
+
+## Capítulo 27: Resumo {.smaller}
+
+**Neste capítulo, aprendemos que:**
+
+- os aminoácidos são codificados no mRNA, carregados por tRNA carregado e ligados por rRNA/ribossomos
+    - o código genético é universal
+    - existem cinco estágios da biossíntese de proteínas
+    - os ribossomos são compostos de rRNA e proteínas, e seus tamanhos variam entre eucariotos e procariotos
+    - proteínas auxiliares ajudam na iniciação, elongação e terminação da síntese de peptídeos
+    - polissomos são encontrados apenas em organismos procarióticos
+    - a síntese de proteínas pode ser inibida por antibióticos ou toxinas
+    - as proteínas são direcionadas a locais específicos através de uma sequência N-terminal
+    - as proteínas podem ser modificadas pós-traducionalmente
+    - todas as proteínas são eventualmente recicladas

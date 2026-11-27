@@ -1,6 +1,5 @@
 ---
-title: "Capítulo"
-# author: Nicholas Costa & Nicholas Barroso
+title: "Metabolismo do glicogênio nos animais"
 lang: pt-BR
 date: today
 date-format: "DD/MM/YYYY"
@@ -23,434 +22,502 @@ format:
     auto-stretch: true
 ---
 
-# Slide 1:
+## 15| Princípios da Regulação Metabólica
 
-15| Princípios da Regulação Metabólica
-© 2017 W. H. Freeman and Company
+![](../imgs/cap15_image01.png)
 
-# Slide 2:
-CAPÍTULO 15: 
-Princípios da Regulação Metabólica
-Princípios de regulação em sistemas biológicos 
-O que determina a atividade da glicólise versus a gliconeogênese?
-Química e regulação do metabolismo do glicogênio 
-Objetivos de aprendizagem: 
+<small>© 2017 W. H. Freeman and Company</small>
 
-# Slide 3:
-Vias Metabólicas
-As reações bioquímicas da célula viva ― o metabolismo ― estão organizadas em vias metabólicas.
-As vias têm finalidades específicas:
-extração de energia
-armazenamento de combustíveis
-síntese de importantes blocos de construção
-eliminação de resíduos
-As vias podem ser representadas como um mapa:
-acompanhar o destino dos metabólitos e dos blocos de construção
-identificar as enzimas que atuam sobre esses metabólitos
-identificar pontos e agentes de regulação
-identificar a origem de doenças metabólicas
+## CAPÍTULO 15: Princípios da Regulação Metabólica
 
-# Slide 4:
-Mapa das Vias Metabólicas
+**Objetivos de aprendizagem:**
 
-# Slide 5:
-Princípios de Regulação
-O fluxo de metabólitos pelas vias é regulado para manter a homeostase.
-A homeostase ocorre quando as concentrações dos metabólitos são mantidas em estado estacionário no organismo.
-Quando perturbado, um novo estado estacionário é alcançado.
-Às vezes, os níveis de metabólitos necessários precisam ser alterados muito rapidamente.
-é preciso aumentar a capacidade da glicólise durante a atividade
-é preciso reduzir a capacidade da glicólise após a atividade
-é preciso aumentar a capacidade da gliconeogênese após uma atividade bem-sucedida 
+1. Princípios de regulação em sistemas biológicos
+2. O que determina a atividade da glicólise versus a gliconeogênese?
+3. Química e regulação do metabolismo do glicogênio
 
+## Vias Metabólicas
 
-# Slide 6:
-Inibição por Retroalimentação (Feedback) 
+- As reações bioquímicas da célula viva ― o metabolismo ― estão organizadas em vias metabólicas.
+- **As vias têm finalidades específicas:**
+    - extração de energia
+    - armazenamento de combustíveis
+    - síntese de importantes blocos de construção
+    - eliminação de resíduos
+- As vias podem ser representadas como um mapa:
+    - acompanhar o destino dos metabólitos e dos blocos de construção
+    - identificar as enzimas que atuam sobre esses metabólitos
+    - identificar pontos e agentes de regulação
+    - identificar a origem de doenças metabólicas
+
+## Mapa das Vias Metabólicas
+
+![](../imgs/cap15_image02.jpg)
+
+## Princípios de Regulação
+
+- O fluxo de metabólitos pelas vias é regulado para manter a homeostase.
+- A homeostase ocorre quando as concentrações dos metabólitos são mantidas em estado estacionário no organismo.
+- Quando perturbado, um novo estado estacionário é alcançado.
+- Às vezes, os níveis de metabólitos necessários precisam ser alterados muito rapidamente.
+    - é preciso aumentar a capacidade da glicólise durante a atividade
+    - é preciso reduzir a capacidade da glicólise após a atividade
+    - é preciso aumentar a capacidade da gliconeogênese após uma atividade bem-sucedida
+
+## Inibição por Retroalimentação (Feedback)
+
 Em muitos casos, os produtos finais das vias metabólicas inibem, direta ou indiretamente, suas próprias vias biossintéticas.
+
+::: {.callout-tip appearance="simple"}
 Exemplo: ATP elevado inibe a etapa de comprometimento da glicólise para evitar a degradação excessiva de glicose.
+:::
 
-# Slide 7:
-Velocidades das Reações Bioquímicas
-As velocidades das reações bioquímicas dependem de muitos fatores:
-Concentração de reagentes versus produtos
-Atividade do catalisador
-concentração da enzima
-velocidade de tradução versus velocidade de degradação
-atividade intrínseca da enzima
-pode depender do substrato, de efetores ou do estado de fosforilação 
-Concentrações de efetores
-reguladores alostéricos
-substratos competidores
-pH, ambiente iônico
-Temperatura
+## Velocidades das Reações Bioquímicas
 
-# Slide 8:
-Fatores que Determinam 
-a Atividade das Enzimas
+- As velocidades das reações bioquímicas dependem de muitos fatores:
+    - Concentração de reagentes versus produtos
+- Atividade do catalisador
+    - concentração da enzima
+    - velocidade de tradução versus velocidade de degradação
+    - atividade intrínseca da enzima
+    - pode depender do substrato, de efetores ou do estado de fosforilação
+- Concentrações de efetores
+    - reguladores alostéricos
+    - substratos competidores
+    - pH, ambiente iônico
+- Temperatura
 
-# Slide 9:
-A Velocidade da Reação Depende da Concentração de Substratos
-A velocidade é mais sensível à concentração em concentrações baixas.
-Cinética química: a frequência com que o substrato encontra a enzima é importante.
+## Fatores que Determinam a Atividade das Enzimas
 
-A velocidade torna-se insensível em concentrações elevadas de substrato.
-A enzima está quase saturada com substrato.
+![](../imgs/cap15_image03.jpg)
 
-# Slide 10:
-Efeito da [Substrato] sobre a Atividade Enzimática
-Em concentrações baixas, a inclinação (isto é, a variação da velocidade em relação à concentração) aumenta drasticamente.
-Em concentrações altas, a inclinação aumenta mais lentamente.
+## A Velocidade da Reação Depende da Concentração de Substratos
 
-# Slide 11:
-Km versus [Metabólito]
-Muitas enzimas têm um Km próximo ou maior que a concentração fisiológica de seu substrato.
-especialmente aquelas que utilizam ATP ou NAD(H)
+- A velocidade é mais sensível à concentração em concentrações baixas.
+- Cinética química: a frequência com que o substrato encontra a enzima é importante.
 
-# Slide 12:
-A Fosforilação de Enzimas 
-Afeta Sua Atividade
-A fosforilação é catalisada por proteínas-cinases.
-A desfosforilação é catalisada por proteínas-fosfatases ou pode ocorrer espontaneamente.
-Tipicamente, as proteínas são fosforiladas nos grupos hidroxila de Ser, Thr ou Tyr.
+- A velocidade torna-se insensível em concentrações elevadas de substrato.
+- A enzima está quase saturada com substrato.
 
-# Slide 13:
-As Enzimas Também São Reguladas 
-por Proteínas Reguladoras
+## Efeito da [Substrato] sobre a Atividade Enzimática
+
+- Em concentrações baixas, a inclinação (isto é, a variação da velocidade em relação à concentração) aumenta drasticamente.
+- Em concentrações altas, a inclinação aumenta mais lentamente.
+
+![](../imgs/cap15_image04.jpg)
+
+## Km versus [Metabólito]
+
+- Muitas enzimas têm um Km próximo ou maior que a concentração fisiológica de seu substrato.
+    - especialmente aquelas que utilizam ATP ou NAD(H)
+
+![](../imgs/cap15_image05.jpg)
+
+## A Fosforilação de Enzimas Afeta Sua Atividade
+
+- A fosforilação é catalisada por proteínas-cinases.
+- A desfosforilação é catalisada por proteínas-fosfatases ou pode ocorrer espontaneamente.
+- Tipicamente, as proteínas são fosforiladas nos grupos hidroxila de Ser, Thr ou Tyr.
+
+![](../imgs/cap15_image06.jpg)
+
+## As Enzimas Também São Reguladas por Proteínas Reguladoras
+
 A ligação de subunidades proteicas reguladoras afeta a especificidade.
 
+![](../imgs/cap15_image07.jpg)
 
-# Slide 14:
-As Proteínas Têm um Tempo de Vida Finito
-Diferentes proteínas no mesmo tecido têm meias-vidas muito diferentes.
-de menos de uma hora a cerca de uma semana para as enzimas do fígado
-a estabilidade se correlaciona com a sequência na extremidade N-terminal
-Algumas proteínas têm a sua idade.
-cristalinas no cristalino do olho
-TABELA 15-1	Meia-Vida Média das Proteínas em Tecidos de Mamíferos	
-Tecido	Meia-vida média (dias)	
-Fígado	0,9	
-Rim	1,7	
-Coração	4,1	
-Cérebro	4,6	
-Músculo	10,7	
+## As Proteínas Têm um Tempo de Vida Finito
 
-# Slide 15:
-Reações Distantes do Equilíbrio São Pontos Comuns de Regulação
-Em uma via metabólica, a maioria das reações opera próximo do equilíbrio, mas não nele (p. ex., “2” e “3”).
-As enzimas-chave operam longe do equilíbrio (p. ex., “1”).
-Esses são os locais de regulação.
-Elas controlam o fluxo pela via.
-Para manter o estado estacionário, todas as enzimas operam à mesma velocidade.
+- Diferentes proteínas no mesmo tecido têm meias-vidas muito diferentes.
+    - de menos de uma hora a cerca de uma semana para as enzimas do fígado
+    - a estabilidade se correlaciona com a sequência na extremidade N-terminal
+- Algumas proteínas têm a sua idade.
+    - cristalinas no cristalino do olho
 
-# Slide 16:
-TABELA 15-3	Constantes de Equilíbrio, Razões de Ação das Massas e Variações de Energia Livre para Enzimas do Metabolismo de Carboidratos	
-Enzima	K'eq	Razão de ação das massas, Q	Reação próxima do equilíbrio in vivo?a	ΔG'˚
-(kJ/mol)	ΔG
-(kJ/mol)
-no coração	
-Fígado	Coração	
-Hexocinase	1 × 103	2 × 10–2	8 × 10–2	Não	–17	-27	
-PFK-1	1,0 × 103	9 × 10–2	3 × 10–2	Não	–14	–23	
-Aldolase	1,0 × 10–4	1,2 × 10–6	9 × 10–6	Sim	+24	–6,0	
-Triose-fosfato isomerase	4 × 10–2	—b	2,4 × 10–1	Sim	+7,5	+3,8	
-Gliceraldeído 3-fosfato desidrogenase + fosfoglicerato-cinase	2 × 103	6 × 102	9,0	Sim	–13	+3,5	
-Fosfoglicerato mutase	1 × 10–1	1 × 10–1	1,2 × 10–1	Sim	+4,4	+0,6	
-Enolase	3	2,9	1,4	Sim	–3,2	≠0,5	
-Piruvato-cinase	2 × 104	7 × 10–1	40	Não	–31	–17	
-Fosfoglicose isomerase	4 × 10–1	3,1 × 10–1	2,4 × 10–1	Sim	+2,2	–1,4	
-Piruvato-carboxilase + PEP-carboxicinase	7	1 × 10–3	—b	Não	–5,0	–23	
-Glicose 6-fosfatase	8,5 × 102	1,2 × 102	—b	Sim	–17	–5,0	
-Fonte: K'eq e Q de E. A. Newsholme e C. Start, Regulation in Metabolism, pp. 97, 263, Wiley Press, 1973. ΔG e ΔG'˚ foram calculados a partir desses dados.
-aPor simplicidade, qualquer reação cujo valor absoluto de ΔG calculado seja menor que 6 é considerada próxima do equilíbrio.
-bDados não disponíveis.	
+| Tecido | Meia-vida média (dias) |
+|:--|:--|
+| Fígado | 0,9 |
+| Rim | 1,7 |
+| Coração | 4,1 |
+| Cérebro | 4,6 |
+| Músculo | 10,7 |
 
-# Slide 17:
-ATP e AMP São Reguladores Celulares-Chave
-Uma redução de 10% na [ATP] pode afetar muito a atividade das enzimas que utilizam ATP.
-Uma redução de 10% na [ATP] leva a um aumento dramático na [AMP].
-O AMP pode ser um regulador alostérico mais potente.
-TABELA 15-4	Variações Relativas na [ATP] e na [AMP] Quando o ATP É Consumido	
-Nucleotídeo de adenina	Concentração antes da depleção de ATP (mM)	Concentração após a depleção de ATP (mM)	Variação relativa	
-ATP	5,0	4,5	10%	
-ADP	1,0	1,0	0	
-AMP	0,1	0,6	600%	
+: **TABELA 15-1** Meia-Vida Média das Proteínas em Tecidos de Mamíferos
 
-# Slide 18:
-O AMP Afeta Diferentemente as Vias em Diferentes Tecidos por meio da AMPK
+## Reações Distantes do Equilíbrio São Pontos Comuns de Regulação
 
-# Slide 19:
-Algumas Enzimas da Via Limitam o Fluxo de Metabólitos Mais do que Outras
-Enzimas que estão longe do equilíbrio (reguladas)
-Nem todas as enzimas reguladas têm o mesmo efeito sobre a via como um todo.
-Algumas controlam o fluxo pela via.
-Outras regulam as concentrações de metabólitos em estado estacionário em resposta a variações no fluxo.
-A hexocinase e a fosfofrutocinase são alvos apropriados para a regulação do fluxo glicolítico.
-O aumento da atividade da hexocinase permite a ativação da glicose.
-O aumento da atividade da fosfofrutocinase-1 permite o catabolismo da glicose ativada pela glicólise.
+- Em uma via metabólica, a maioria das reações opera próximo do equilíbrio, mas não nele (p. ex., “2” e “3”).
+- As enzimas-chave operam longe do equilíbrio (p. ex., “1”).
+- Esses são os locais de regulação.
+- Elas controlam o fluxo pela via.
+- Para manter o estado estacionário, todas as enzimas operam à mesma velocidade.
 
-# Slide 20:
-A Hexocinase Afeta o Fluxo pela Glicólise Mais do que a Fosfofrutocinase
+![](../imgs/cap15_image08.jpg)
 
-# Slide 21:
-O Coeficiente de Elasticidade Mede a Responsividade ao Substrato 
+## TABELA 15-3 — Constantes de Equilíbrio, Razões de Ação das Massas e Variações de Energia Livre para Enzimas do Metabolismo de Carboidratos {.smaller}
 
-# Slide 22:
-Glicólise versus Gliconeogênese
-As enzimas reguladas frequentemente correspondem a pontos das vias que têm o mesmo substrato e o mesmo produto, mas uma enzima diferente. 
+| Enzima | K'eq | Razão de ação das massas, Q (Fígado) | Razão de ação das massas, Q (Coração) | Reação próxima do equilíbrio in vivo?a | ΔG'˚ (kJ/mol) | ΔG (kJ/mol) no coração |
+|:--|:--|:--|:--|:--|:--|:--|
+| Hexocinase | 1 × 103 | 2 × 10–2 | 8 × 10–2 | Não | –17 | -27 |
+| PFK-1 | 1,0 × 103 | 9 × 10–2 | 3 × 10–2 | Não | –14 | –23 |
+| Aldolase | 1,0 × 10–4 | 1,2 × 10–6 | 9 × 10–6 | Sim | +24 | –6,0 |
+| Triose-fosfato isomerase | 4 × 10–2 | —b | 2,4 × 10–1 | Sim | +7,5 | +3,8 |
+| Gliceraldeído 3-fosfato desidrogenase + fosfoglicerato-cinase | 2 × 103 | 6 × 102 | 9,0 | Sim | –13 | +3,5 |
+| Fosfoglicerato mutase | 1 × 10–1 | 1 × 10–1 | 1,2 × 10–1 | Sim | +4,4 | +0,6 |
+| Enolase | 3 | 2,9 | 1,4 | Sim | –3,2 | ≠0,5 |
+| Piruvato-cinase | 2 × 104 | 7 × 10–1 | 40 | Não | –31 | –17 |
+| Fosfoglicose isomerase | 4 × 10–1 | 3,1 × 10–1 | 2,4 × 10–1 | Sim | +2,2 | –1,4 |
+| Piruvato-carboxilase + PEP-carboxicinase | 7 | 1 × 10–3 | —b | Não | –5,0 | –23 |
+| Glicose 6-fosfatase | 8,5 × 102 | 1,2 × 102 | —b | Sim | –17 | –5,0 |
 
-Você consegue nomear essas enzimas? 
+::: {.callout-note appearance="simple" title="Fonte"}
+K'eq e Q de E. A. Newsholme e C. Start, Regulation in Metabolism, pp. 97, 263, Wiley Press, 1973. ΔG e ΔG'˚ foram calculados a partir desses dados.
+:::
 
-# Slide 23:
-Existem Quatro Isozimas da Hexocinase (I-IV)
-A HK I é expressa em todos os tecidos, em níveis diferentes.
-A HK IV (p. ex., glicocinase) é expressa apenas no fígado.
-tem Km mais alto, portanto responde a [glicose] mais elevada
-não é inibida pela glicose 6-fosfato, portanto pode funcionar em [glicose] mais elevada
-tem a função de remover a glicose do sangue em [glicose] mais elevada para o armazenamento como glicogênio
-Isozimas são enzimas diferentes que catalisam a mesma reação.
-tipicamente compartilham sequências semelhantes
-podem ter propriedades cinéticas diferentes
-podem ser reguladas de modo diferente
+<small>aPor simplicidade, qualquer reação cujo valor absoluto de ΔG calculado seja menor que 6 é considerada próxima do equilíbrio.</small>
 
-# Slide 24:
-Propriedades Cinéticas da HK I versus HK IV
+<small>bDados não disponíveis.</small>
 
-# Slide 25:
-A Hexocinase IV É Regulada por Sequestro (e Transcrição)
+## ATP e AMP São Reguladores Celulares-Chave
 
-# Slide 26:
-Regulação da Fosfofrutocinase-1
-Frutose 6-fosfato → frutose 1,6-bifosfato é a etapa de comprometimento da glicólise.
-Embora o ATP seja um substrato, ele também é um efetor negativo.
-Não gaste glicose na glicólise se há ATP em abundância.
+- Uma redução de 10% na [ATP] pode afetar muito a atividade das enzimas que utilizam ATP.
+- Uma redução de 10% na [ATP] leva a um aumento dramático na [AMP].
+- O AMP pode ser um regulador alostérico mais potente.
 
-# Slide 27:
-Efeito do ATP sobre a Fosfofrutocinase-1
+| Nucleotídeo de adenina | Concentração antes da depleção de ATP (mM) | Concentração após a depleção de ATP (mM) | Variação relativa |
+|:--|:--|:--|:--|
+| ATP | 5,0 | 4,5 | 10% |
+| ADP | 1,0 | 1,0 | 0 |
+| AMP | 0,1 | 0,6 | 600% |
 
-# Slide 28:
-Regulação da Fosfofrutocinase-1 
-e da Frutose 1,6-Bifosfatase
-Glicólise ativa se o AMP está alto e o ATP está baixo.
-Gliconeogênese ativa se o AMP está baixo.
+: **TABELA 15-4** Variações Relativas na [ATP] e na [AMP] Quando o ATP É Consumido
 
-# Slide 29:
-Frutose 2,6-Bifosfato
-NÃO é um intermediário glicolítico, apenas um regulador
-Produzida especificamente para regular a glicólise e a gliconeogênese
-ativa a fosfofrutocinase (glicólise)
-inibe a frutose 1,6-bifosfatase (gliconeogênese)
+## O AMP Afeta Diferentemente as Vias em Diferentes Tecidos por meio da AMPK
 
+![](../imgs/cap15_image09.jpg)
 
-# Slide 30:
-A Glicólise e a Gliconeogênese São Reguladas Diferencialmente pela F-2,6-bP
+## Algumas Enzimas da Via Limitam o Fluxo de Metabólitos Mais do que Outras
 
-# Slide 31:
-A F-2,6-bP É Produzida
-a partir da Frutose 6-fosfato
-As enzimas de síntese e degradação da F-2,6-bP funcionam de modo semelhante àquelas da glicólise e da gliconeogênese.
+- Enzimas que estão longe do equilíbrio (reguladas)
+- Nem todas as enzimas reguladas têm o mesmo efeito sobre a via como um todo.
+- Algumas controlam o fluxo pela via.
+- Outras regulam as concentrações de metabólitos em estado estacionário em resposta a variações no fluxo.
+- A hexocinase e a fosfofrutocinase são alvos apropriados para a regulação do fluxo glicolítico.
+- O aumento da atividade da hexocinase permite a ativação da glicose.
+- O aumento da atividade da fosfofrutocinase-1 permite o catabolismo da glicose ativada pela glicólise.
 
-# Slide 32:
-Regulação dos Níveis de F-2,6-bP
-Estruturalmente, essas duas enzimas são diferentes daquelas da glicólise e da gliconeogênese (isto é, estão unidas em uma única proteína, em vez de independentes) e são reguladas por fosforilação. 
+## A Hexocinase Afeta o Fluxo pela Glicólise Mais do que a Fosfofrutocinase
 
-# Slide 33:
-Regulação da Piruvato-Cinase
-Ativada alostericamente pela frutose 1,6-bifosfato
-aumenta o fluxo pela glicólise
-Inibida alostericamente por sinais de suprimento abundante de energia (todos os tecidos)
-ATP 
-acetil-CoA e ácidos graxos de cadeia longa
-alanina (aminoácidos suficientes)
-Inativada por fosforilação em resposta a sinais de depleção de glicose (glucagon) (apenas no fígado)
-A glicose do fígado é exportada para o cérebro e outros órgãos vitais.
+![](../imgs/cap15_image10.jpg)
 
-# Slide 34:
-Regulação da Piruvato-Cinase
+## O Coeficiente de Elasticidade Mede a Responsividade ao Substrato
 
-# Slide 35:
-Dois Destinos Alternativos para o Piruvato
-O piruvato pode ser fonte de nova glicose.
-armazenar energia como glicogênio
-gerar NADPH pela via das pentoses-fosfato
-O piruvato pode ser fonte de acetil-CoA.
-armazenar energia como gordura corporal
-produzir ATP pelo ciclo do ácido cítrico
-O acetil-CoA estimula a síntese de glicose por gliconeogênese ao ativar a piruvato-carboxilase.
+![](../imgs/cap15_image11.jpg)
 
-# Slide 36:
-Dois Destinos Alternativos para o Piruvato
+## Glicólise versus Gliconeogênese
 
-# Slide 37:
-A Quantidade de Muitas Enzimas Metabólicas É Controlada pela Transcrição
-TABELA 15-5	Alguns dos Muitos Genes Regulados pela Insulina	
-Alteração na expressão gênica	Papel no metabolismo da glicose	
-Aumento da expressão
-Hexocinase II
-Hexocinase IV
-Fosfofrutocinase-1 (PFK-1)
-PFK-2/FBPase-2
-Piruvato-cinase	Essenciais para a glicólise, que consome glicose para obter energia	
-Glicose 6-fosfato desidrogenase
-6-Fosfogliconato desidrogenase
-Enzima málica	Produzem NADPH, essencial para a conversão de glicose em lipídeos	
-ATP-citrato liase
-Piruvato desidrogenase	Produzem acetil-CoA, essencial para a conversão de glicose em lipídeos	
-Acetil-CoA carboxilase
-Complexo da ácido graxo sintase
-Estearoil-CoA desidrogenase
-Acil-CoA–glicerol transferases	Essenciais para a conversão de glicose em lipídeos	
-Redução da expressão
-PEP-carboxicinase
-Glicose 6-fosfatase (subunidade catalítica)	Essenciais para a produção de glicose por gliconeogênese	
+As enzimas reguladas frequentemente correspondem a pontos das vias que têm o mesmo substrato e o mesmo produto, mas uma enzima diferente.
 
-# Slide 38:
-A ChREBP Ativa a Transcrição em Resposta à Glicose
+::: {.callout-tip appearance="simple" icon="false"}
+**Você consegue nomear essas enzimas?**
+:::
 
-# Slide 39:
-A FOXO1 Ativa a Transcrição em Resposta à Insulina (Glicemia Elevada)
+![](../imgs/cap15_image12.jpg)
 
-# Slide 40:
-A Transcrição de Muitos Genes É Controlada por Muitos Fatores Diferentes
+## Existem Quatro Isozimas da Hexocinase (I-IV)
 
-# Slide 41:
-A Glicose Pode Ser Armazenada para Uso Posterior como Glicogênio
-O glicogênio é um polímero ramificado de glicose com ligações α(1→4) e ligações α(1→6) a cada 12 a 14 unidades de glicose.  
-O armazenamento de glicogênio ocorre principalmente no fígado e no músculo. 
-O glicogênio é degradado em unidades de glicose para uso na produção de energia.
-O glicogênio pode ser produzido a partir do excesso de glicose sanguínea ou da reciclagem de metabólitos glicogênicos, como o lactato ou certos aminoácidos.
+- A HK I é expressa em todos os tecidos, em níveis diferentes.
+- A HK IV (p. ex., glicocinase) é expressa apenas no fígado.
+    - tem Km mais alto, portanto responde a [glicose] mais elevada
+    - não é inibida pela glicose 6-fosfato, portanto pode funcionar em [glicose] mais elevada
+    - tem a função de remover a glicose do sangue em [glicose] mais elevada para o armazenamento como glicogênio
+- Isozimas são enzimas diferentes que catalisam a mesma reação.
+    - tipicamente compartilham sequências semelhantes
+    - podem ter propriedades cinéticas diferentes
+    - podem ser reguladas de modo diferente
 
-# Slide 42:
-Os Resíduos de Glicose São Removidos do Glicogênio pela Glicogênio-Fosforilase
+## Propriedades Cinéticas da HK I versus HK IV
 
-# Slide 43:
-Lidando com os Pontos de Ramificação no Glicogênio
-A glicogênio-fosforilase atua nas extremidades não redutoras até chegar a quatro resíduos de distância de um ponto de ramificação (α1→6).
-A enzima desramificadora transfere um bloco de três resíduos para a extremidade não redutora da cadeia.
-A enzima desramificadora cliva a única glicose remanescente com ligação (α1→6), que se torna uma unidade de glicose livre (isto é, NÃO glicose 1-fosfato).
+![](../imgs/cap15_image13.jpg)
 
-# Slide 44:
-A Glicose 1-Fosfato Precisa Ser Isomerizada a Glicose 6-Fosfato para ser Metabolizada
+## A Hexocinase IV É Regulada por Sequestro (e Transcrição)
+
+![](../imgs/cap15_image14.jpg)
+
+## Regulação da Fosfofrutocinase-1
+
+- Frutose 6-fosfato → frutose 1,6-bifosfato é a etapa de comprometimento da glicólise.
+- Embora o ATP seja um substrato, ele também é um efetor negativo.
+- Não gaste glicose na glicólise se há ATP em abundância.
+
+![](../imgs/cap15_image15.jpg)
+
+## Efeito do ATP sobre a Fosfofrutocinase-1
+
+![](../imgs/cap15_image16.jpg)
+
+## Regulação da Fosfofrutocinase-1
+
+- e da Frutose 1,6-Bifosfatase
+- Glicólise ativa se o AMP está alto e o ATP está baixo.
+- Gliconeogênese ativa se o AMP está baixo.
+
+![](../imgs/cap15_image17.jpg)
+
+## Frutose 2,6-Bifosfato
+
+- NÃO é um intermediário glicolítico, apenas um regulador
+- Produzida especificamente para regular a glicólise e a gliconeogênese
+    - ativa a fosfofrutocinase (glicólise)
+    - inibe a frutose 1,6-bifosfatase (gliconeogênese)
+
+![](../imgs/cap15_image18.jpg)
+
+## A Glicólise e a Gliconeogênese São Reguladas Diferencialmente pela F-2,6-bP
+
+:::: {.columns}
+::: {.column width="50%"}
+![](../imgs/cap15_image19.jpg)
+:::
+
+::: {.column width="50%"}
+![](../imgs/cap15_image20.jpg)
+:::
+
+::::
+
+## A F-2,6-bP É Produzida
+
+- a partir da Frutose 6-fosfato
+- As enzimas de síntese e degradação da F-2,6-bP funcionam de modo semelhante àquelas da glicólise e da gliconeogênese.
+
+![](../imgs/cap15_image21.jpg)
+
+## Regulação dos Níveis de F-2,6-bP
+
+Estruturalmente, essas duas enzimas são diferentes daquelas da glicólise e da gliconeogênese (isto é, estão unidas em uma única proteína, em vez de independentes) e são reguladas por fosforilação.
+
+![](../imgs/cap15_image22.jpg)
+
+## Regulação da Piruvato-Cinase
+
+- Ativada alostericamente pela frutose 1,6-bifosfato
+    - aumenta o fluxo pela glicólise
+- Inibida alostericamente por sinais de suprimento abundante de energia (todos os tecidos)
+    - ATP
+    - acetil-CoA e ácidos graxos de cadeia longa
+    - alanina (aminoácidos suficientes)
+- Inativada por fosforilação em resposta a sinais de depleção de glicose (glucagon) (apenas no fígado)
+- A glicose do fígado é exportada para o cérebro e outros órgãos vitais.
+
+## Regulação da Piruvato-Cinase
+
+![](../imgs/cap15_image23.jpg)
+
+## Dois Destinos Alternativos para o Piruvato
+
+- O piruvato pode ser fonte de nova glicose.
+    - armazenar energia como glicogênio
+    - gerar NADPH pela via das pentoses-fosfato
+- O piruvato pode ser fonte de acetil-CoA.
+    - armazenar energia como gordura corporal
+    - produzir ATP pelo ciclo do ácido cítrico
+- O acetil-CoA estimula a síntese de glicose por gliconeogênese ao ativar a piruvato-carboxilase.
+
+## Dois Destinos Alternativos para o Piruvato
+
+![](../imgs/cap15_image24.jpg)
+
+## A Quantidade de Muitas Enzimas Metabólicas É Controlada pela Transcrição {.smaller}
+
+| Alteração na expressão gênica | Papel no metabolismo da glicose |
+|:--|:--|
+| Aumento da expressão <br> Hexocinase II <br> Hexocinase IV <br> Fosfofrutocinase-1 (PFK-1) <br> PFK-2/FBPase-2 <br> Piruvato-cinase | Essenciais para a glicólise, que consome glicose para obter energia |
+| Glicose 6-fosfato desidrogenase <br> 6-Fosfogliconato desidrogenase <br> Enzima málica | Produzem NADPH, essencial para a conversão de glicose em lipídeos |
+| ATP-citrato liase <br> Piruvato desidrogenase | Produzem acetil-CoA, essencial para a conversão de glicose em lipídeos |
+| Acetil-CoA carboxilase <br> Complexo da ácido graxo sintase <br> Estearoil-CoA desidrogenase <br> Acil-CoA–glicerol transferases | Essenciais para a conversão de glicose em lipídeos |
+| Redução da expressão <br> PEP-carboxicinase <br> Glicose 6-fosfatase (subunidade catalítica) | Essenciais para a produção de glicose por gliconeogênese |
+
+: **TABELA 15-5** Alguns dos Muitos Genes Regulados pela Insulina
+
+## A ChREBP Ativa a Transcrição em Resposta à Glicose
+
+![](../imgs/cap15_image25.jpg)
+
+## A FOXO1 Ativa a Transcrição em Resposta à Insulina (Glicemia Elevada)
+
+![](../imgs/cap15_image26.jpg)
+
+## A Transcrição de Muitos Genes É Controlada por Muitos Fatores Diferentes
+
+![](../imgs/cap15_image27.jpg)
+
+## A Glicose Pode Ser Armazenada para Uso Posterior como Glicogênio
+
+- O glicogênio é um polímero ramificado de glicose com ligações α(1→4) e ligações α(1→6) a cada 12 a 14 unidades de glicose.
+- O armazenamento de glicogênio ocorre principalmente no fígado e no músculo.
+- O glicogênio é degradado em unidades de glicose para uso na produção de energia.
+- O glicogênio pode ser produzido a partir do excesso de glicose sanguínea ou da reciclagem de metabólitos glicogênicos, como o lactato ou certos aminoácidos.
+
+![](../imgs/cap15_image28.jpg)
+
+## Os Resíduos de Glicose São Removidos do Glicogênio pela Glicogênio-Fosforilase
+
+![](../imgs/cap15_image29.jpg)
+
+## Lidando com os Pontos de Ramificação no Glicogênio
+
+- A glicogênio-fosforilase atua nas extremidades não redutoras até chegar a quatro resíduos de distância de um ponto de ramificação (α1→6).
+- A enzima desramificadora transfere um bloco de três resíduos para a extremidade não redutora da cadeia.
+- A enzima desramificadora cliva a única glicose remanescente com ligação (α1→6), que se torna uma unidade de glicose livre (isto é, NÃO glicose 1-fosfato).
+
+![](../imgs/cap15_image30.jpg)
+
+## A Glicose 1-Fosfato Precisa Ser Isomerizada a Glicose 6-Fosfato para ser Metabolizada
+
 A fosfoglicomutase realiza essa reação por um mecanismo semelhante ao da fosfoglicerato mutase.
 
-# Slide 45:
-A Glicose 6-Fosfato É Desfosforilada no Fígado para Ser Transportada para Fora do Fígado
+![](../imgs/cap15_image31.jpg)
+
+## A Glicose 6-Fosfato É Desfosforilada no Fígado para Ser Transportada para Fora do Fígado
+
 A glicose 6-fosfatase é sequestrada no lúmen do RE, o que permite o uso de gradientes de concentração (de glicose e de glicose 6-fosfato) para controlar o fluxo para fora do fígado.
 
-# Slide 46:
-A Síntese de Glicogênio a partir de Glicose Ocorre em Múltiplas Etapas
+![](../imgs/cap15_image32.jpg)
+
+## A Síntese de Glicogênio a partir de Glicose Ocorre em Múltiplas Etapas
+
 A síntese de glicogênio requer mais enzimas e intermediários metabólicos do que a degradação do glicogênio.
 
-A glicose sanguínea precisa ser: 
-fosforilada
-marcada com UDP
-adicionada ao glicogênio
+- **A glicose sanguínea precisa ser:**
+    - fosforilada
+    - marcada com UDP
+    - adicionada ao glicogênio
 
 Múltiplas etapas permitem múltiplos pontos de regulação.
 
+## O Glicogênio É Sintetizado pela Glicogênio-Sintase
 
+![](../imgs/cap15_image33.jpg)
 
-# Slide 47:
-O Glicogênio É Sintetizado pela 
-Glicogênio-Sintase
+## A UDP-Glicose É o Substrato
 
-# Slide 48:
-A UDP-Glicose É o Substrato 
 da Glicogênio-Sintase
 
-# Slide 49:
-A Glicose 1-Fosfato É o Substrato 
-da NDP-Açúcar Pirofosforilase
-A fosfoglicomutase é reversível.
-Na degradação do glicogênio, a glicose 1-fosfato é convertida em glicose 6-fosfato.
-Na síntese de glicogênio, a glicose 6-fosfato é convertida em glicose 1-fosfato.
+:::: {.columns}
+::: {.column width="50%"}
+![](../imgs/cap15_image34.jpg)
+:::
 
-# Slide 50:
-Síntese de Ramificações no Glicogênio
+::: {.column width="50%"}
+![](../imgs/cap15_image35.jpg)
+:::
 
-# Slide 51:
-A Glicogenina Inicia uma Nova Cadeia de Glicogênio
+::::
 
-# Slide 52:
-Estrutura Geral de uma Partícula de Glicogênio
+## A Glicose 1-Fosfato É o Substrato da NDP-Açúcar Pirofosforilase
 
-# Slide 53:
-Integração entre a Síntese e a Degradação do Glicogênio
+- A fosfoglicomutase é reversível.
+- Na degradação do glicogênio, a glicose 1-fosfato é convertida em glicose 6-fosfato.
+- Na síntese de glicogênio, a glicose 6-fosfato é convertida em glicose 1-fosfato.
+
+![](../imgs/cap15_image36.jpg)
+
+## Síntese de Ramificações no Glicogênio
+
+![](../imgs/cap15_image37.jpg)
+
+## A Glicogenina Inicia uma Nova Cadeia de Glicogênio
+
+![](../imgs/cap15_image38.jpg)
+
+## Estrutura Geral de uma Partícula de Glicogênio
+
+![](../imgs/cap15_image39.jpg)
+
+## Integração entre a Síntese e a Degradação do Glicogênio
+
 Glicose
 
 Glicose 6-fosfato
 
-
 Glicose 1-fosfato
 
-Glicogênio
-UDP-glicose
-Glicose 6-fosfatase
-Hexocinase
-Fosfoglicomutase
-Glicogênio-fosforilase
-UDP-glicose pirofosforilase
-Glicogênio-sintase
-Assim como na glicólise e na gliconeogênese, a regulação ocorre em pontos irreversíveis da via
+- Glicogênio
+- UDP-glicose
+- Glicose 6-fosfatase
+- Hexocinase
+- Fosfoglicomutase
+- Glicogênio-fosforilase
+- UDP-glicose pirofosforilase
+- Glicogênio-sintase
+- Assim como na glicólise e na gliconeogênese, a regulação ocorre em pontos irreversíveis da via
 
-# Slide 54:
-Controle da Degradação do Glicogênio
-Via de sinalização do glucagon/epinefrina
-inicia uma cascata de fosforilação via AMPc
-ativa a glicogênio-fosforilase
-A glicogênio-fosforilase remove resíduos de glicose do glicogênio, gerando glicose 1-fosfato.
+## Controle da Degradação do Glicogênio
 
+- Via de sinalização do glucagon/epinefrina
+    - inicia uma cascata de fosforilação via AMPc
+    - ativa a glicogênio-fosforilase
+- A glicogênio-fosforilase remove resíduos de glicose do glicogênio, gerando glicose 1-fosfato.
 
+![](../imgs/cap15_image40.jpg)
 
-# Slide 55:
-A Epinefrina e o Glucagon Estimulam a Degradação do Glicogênio
+## A Epinefrina e o Glucagon Estimulam a Degradação do Glicogênio
 
-# Slide 56:
-Controle da Síntese de Glicogênio
-Via de sinalização da insulina
-aumenta a captação de glicose pelo músculo
-estimula a atividade da hexocinase muscular 
-ativa a glicogênio-sintase
-O aumento da atividade da hexocinase permite a ativação da glicose.
-A glicogênio-sintase produz glicogênio para armazenamento de energia.
+![](../imgs/cap15_image41.jpg)
 
+## Controle da Síntese de Glicogênio
 
+- Via de sinalização da insulina
+    - aumenta a captação de glicose pelo músculo
+    - estimula a atividade da hexocinase muscular
+    - ativa a glicogênio-sintase
+- O aumento da atividade da hexocinase permite a ativação da glicose.
+- A glicogênio-sintase produz glicogênio para armazenamento de energia.
 
-# Slide 57:
-O Fluxo para a Glicogênio-Sintase É Controlado pela Captação e pela Fosforilação da Glicose
+## O Fluxo para a Glicogênio-Sintase É Controlado pela Captação e pela Fosforilação da Glicose
 
-# Slide 58:
-A Glicogênio-Sintase É Controlada 
+![](../imgs/cap15_image42.jpg)
+
+## A Glicogênio-Sintase É Controlada
+
 por Fosforilação
 
-# Slide 59:
-Controle do Metabolismo de Carboidratos no Fígado
+![](../imgs/cap15_image43.jpg)
 
-# Slide 60:
-Controle do Metabolismo de Carboidratos 
-no Fígado versus no Músculo
+## Controle do Metabolismo de Carboidratos no Fígado
 
-# Slide 61:
-TABELA 1	Doenças de Depósito de Glicogênio em Humanos	
-Tipo (nome)	Enzima afetada	Órgão/células primariamente afetados	Sintomas	
-Tipo 0	Glicogênio-sintase	Fígado	Glicemia baixa, corpos cetônicos elevados, morte precoce	
-Tipo Ia (von Gierke) 	Glicose 6-fosfatase	Fígado	Fígado aumentado, insuficiência renal	
-Tipo Ib	Glicose 6-fosfato translocase microssomal	Fígado	Como no tipo Ia; também alta suscetibilidade a infecções bacterianas	
-Tipo Ic	Transportador microssomal de Pi	Fígado	Como no tipo Ia	
-Tipo II (Pompe)	Glicosidase lisossomal	Músculo esquelético e cardíaco	Forma infantil: morte até os 2 anos de idade; forma juvenil: defeitos musculares (miopatia); forma adulta: como na distrofia muscular	
-Tipo IIIa (Cori ou Forbes)	Enzima desramificadora	Fígado, músculo esquelético e cardíaco	Fígado aumentado em lactentes; miopatia	
-Tipo IIIb	Enzima desramificadora hepática (enzima muscular normal)	Fígado	Fígado aumentado em lactentes	
-Tipo IV (Andersen)	Enzima ramificadora 	Fígado, músculo esquelético	Fígado e baço aumentados, mioglobina na urina	
-Tipo V (McArdle)	Fosforilase muscular	Músculo esquelético	Cãibras e dor induzidas por exercício; mioglobina na urina	
-Tipo VI (Hers)	Fosforilase hepática	Fígado	Fígado aumentado	
-Tipo VII (Tarui)	PFK-1 muscular	Músculo, eritrócitos	Como no tipo V; também anemia hemolítica	
-Tipo VIb, VIII ou IX	Fosforilase-cinase	Fígado, leucócitos, músculo	Fígado aumentado	
-Tipo XI (Fanconi-Bickel)	Transportador de glicose (GLUT2)	Fígado	Falha no desenvolvimento, fígado aumentado, raquitismo, disfunção renal	
+![](../imgs/cap15_image44.jpg)
 
-# Slide 62:
-Capítulo 15: Resumo
-os organismos vivos regulam o fluxo de metabólitos pelas vias metabólicas por meio de
-aumento ou redução das concentrações de enzimas
-ativação ou inativação de enzimas-chave da via
-a atividade das enzimas-chave da glicólise e da gliconeogênese é regulada de modo rigoroso e coordenado por diversos metabólitos ativadores e inibidores
-a síntese e a degradação do glicogênio são reguladas pelos hormônios insulina, epinefrina e glucagon, que informam sobre os níveis de glicose no organismo  
-Neste capítulo, aprendemos que:
+## Controle do Metabolismo de Carboidratos no Fígado versus no Músculo
+
+![](../imgs/cap15_image45.jpg)
+
+## TABELA 1 — Doenças de Depósito de Glicogênio em Humanos {.smaller}
+
+| Tipo (nome) | Enzima afetada | Órgão/células primariamente afetados | Sintomas |
+|:--|:--|:--|:--|
+| Tipo 0 | Glicogênio-sintase | Fígado | Glicemia baixa, corpos cetônicos elevados, morte precoce |
+| Tipo Ia (von Gierke) | Glicose 6-fosfatase | Fígado | Fígado aumentado, insuficiência renal |
+| Tipo Ib | Glicose 6-fosfato translocase microssomal | Fígado | Como no tipo Ia; também alta suscetibilidade a infecções bacterianas |
+| Tipo Ic | Transportador microssomal de Pi | Fígado | Como no tipo Ia |
+| Tipo II (Pompe) | Glicosidase lisossomal | Músculo esquelético e cardíaco | Forma infantil: morte até os 2 anos de idade; forma juvenil: defeitos musculares (miopatia); forma adulta: como na distrofia muscular |
+| Tipo IIIa (Cori ou Forbes) | Enzima desramificadora | Fígado, músculo esquelético e cardíaco | Fígado aumentado em lactentes; miopatia |
+| Tipo IIIb | Enzima desramificadora hepática (enzima muscular normal) | Fígado | Fígado aumentado em lactentes |
+| Tipo IV (Andersen) | Enzima ramificadora | Fígado, músculo esquelético | Fígado e baço aumentados, mioglobina na urina |
+| Tipo V (McArdle) | Fosforilase muscular | Músculo esquelético | Cãibras e dor induzidas por exercício; mioglobina na urina |
+| Tipo VI (Hers) | Fosforilase hepática | Fígado | Fígado aumentado |
+| Tipo VII (Tarui) | PFK-1 muscular | Músculo, eritrócitos | Como no tipo V; também anemia hemolítica |
+| Tipo VIb, VIII ou IX | Fosforilase-cinase | Fígado, leucócitos, músculo | Fígado aumentado |
+| Tipo XI (Fanconi-Bickel) | Transportador de glicose (GLUT2) | Fígado | Falha no desenvolvimento, fígado aumentado, raquitismo, disfunção renal |
+
+## Capítulo 15: Resumo
+
+**Neste capítulo, aprendemos que:**
+
+- os organismos vivos regulam o fluxo de metabólitos pelas vias metabólicas por meio de
+    - aumento ou redução das concentrações de enzimas
+    - ativação ou inativação de enzimas-chave da via
+    - a atividade das enzimas-chave da glicólise e da gliconeogênese é regulada de modo rigoroso e coordenado por diversos metabólitos ativadores e inibidores
+    - a síntese e a degradação do glicogênio são reguladas pelos hormônios insulina, epinefrina e glucagon, que informam sobre os níveis de glicose no organismo

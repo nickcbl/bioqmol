@@ -1,6 +1,5 @@
 ---
-title: "Capítulo"
-# author: Nicholas Costa & Nicholas Barroso
+title: "O Ciclo do Ácido Cítrico"
 lang: pt-BR
 date: today
 date-format: "DD/MM/YYYY"
@@ -11,7 +10,6 @@ format:
 #    height: 900
     width: 960
     height: 720
-#    logo: imgs/logo.png
     incremental: false
     theme: tema_azul.scss
     lightbox: true
@@ -23,391 +21,460 @@ format:
     auto-stretch: true
 ---
 
-# Slide 1:
+## 16| O Ciclo do Ácido Cítrico
 
-16| O Ciclo do Ácido Cítrico
-© 2017 W. H. Freeman and Company
+![](../imgs/cap16_image01.png)
 
-# Slide 2:
-CAPÍTULO 16: 
-O Ciclo do Ácido Cítrico
-Respiração celular
-Conversão de piruvato em acetato ativado 
-Reações do ciclo do ácido cítrico
-Regulação do ciclo do ácido cítrico
-Natureza anfibólica dos intermediários do ciclo do ácido cítrico
-Mecanismos de reposição dos intermediários do ciclo do ácido cítrico
-Objetivos de aprendizagem: 
+<small>© 2017 W. H. Freeman and Company</small>
 
-# Slide 3:
-Apenas uma Pequena Quantidade da Energia Disponível na Glicose É Captada na Glicólise
-2
-ΔG′° = –146 kJ/mol
-Glicólise
-Oxidação completa (+ 6 O2)
-ΔG′° = –2.840 kJ/mol
-6 CO2 + 6 H2O
-GLICOSE
+## CAPÍTULO 16: O Ciclo do Ácido Cítrico
 
-# Slide 4:
-Respiração Celular
-Processo no qual as células consomem O2 e produzem CO2
-Fornece mais energia (ATP) a partir da glicose do que a glicólise
-Também capta a energia armazenada em lipídeos e aminoácidos 
-Origem evolutiva: desenvolveu-se há cerca de 2,5 bilhões de anos
-Utilizada por animais, plantas e muitos microrganismos
-Ocorre em três grandes estágios: 
- produção de acetil-CoA
- oxidação do acetil-CoA
- transferência de elétrons e fosforilação oxidativa
+**Objetivos de aprendizagem:**
 
+1. Respiração celular
+2. Conversão de piruvato em acetato ativado
+3. Reações do ciclo do ácido cítrico
+4. Regulação do ciclo do ácido cítrico
+5. Natureza anfibólica dos intermediários do ciclo do ácido cítrico
+6. Mecanismos de reposição dos intermediários do ciclo do ácido cítrico
 
-# Slide 5:
-Respiração: Estágio 1
-Produção de Acetil-CoA
-Gera um pouco de ATP, NADH e FADH2
-Os carboidratos liberam 1/3 do CO2 potencial total durante o Estágio 1.
+## Apenas uma Pequena Quantidade da Energia Disponível na Glicose É Captada na Glicólise
 
-# Slide 6:
-Respiração: Estágio 2
-Oxidação do Acetil-CoA
-Gera mais NADH, FADH2 e um GTP
-Os átomos de carbono restantes provenientes de carboidratos, aminoácidos e ácidos graxos são liberados durante o Estágio 2.
+- 2
+- ΔG′° = –146 kJ/mol
+- Glicólise
+- Oxidação completa (+ 6 O2)
+- ΔG′° = –2.840 kJ/mol
+    - 6 CO2 + 6 H2O
+- GLICOSE
 
-# Slide 7:
-Respiração: Estágio 3
-Fosforilação Oxidativa
-Gera a grande maioria do ATP durante o catabolismo
+:::: {.columns}
+::: {.column width="50%"}
+![](../imgs/cap16_image02.png)
+:::
 
+::: {.column width="50%"}
+![](../imgs/cap16_image03.png)
+:::
 
-# Slide 8:
-Em Eucariotos, os Estágios 2 e 3 Estão Localizados nas Mitocôndrias
-A glicólise ocorre no citoplasma.
-O ciclo do ácido cítrico ocorre na matriz mitocondrial†.
-A fosforilação oxidativa ocorre na membrana interna.
-†Exceto a succinato desidrogenase, que está localizada na membrana interna
+::::
 
-# Slide 9:
-Conversão de Piruvato em Acetil-CoA
-Reação líquida:
-descarboxilação oxidativa do piruvato
-primeiros carbonos da glicose a serem totalmente oxidados
-Catalisada pelo complexo da piruvato desidrogenase
-requer 5 coenzimas
-TPP, lipoil-lisina e FAD são grupos prostéticos.
-NAD+ e CoA-SH são cossubstratos.
+## Respiração Celular
 
+- Processo no qual as células consomem O2 e produzem CO2
+- Fornece mais energia (ATP) a partir da glicose do que a glicólise
+- Também capta a energia armazenada em lipídeos e aminoácidos
+- Origem evolutiva: desenvolveu-se há cerca de 2,5 bilhões de anos
+- Utilizada por animais, plantas e muitos microrganismos
+- **Ocorre em três grandes estágios:**
+    - produção de acetil-CoA
+    - oxidação do acetil-CoA
+    - transferência de elétrons e fosforilação oxidativa
 
-# Slide 10:
-Estrutura da Coenzima A
-As coenzimas não fazem parte permanente da estrutura das enzimas.
-Elas se associam, desempenham uma função e se dissociam.
-A função da CoA é aceitar e transportar grupos acetila.  
+## Respiração: Estágio 1
 
-# Slide 11:
-Estrutura da Lipoil-lisina
-Os grupos prostéticos estão fortemente ligados à proteína.
-O ácido lipoico está covalentemente ligado à enzima por meio de um resíduo de lisina 
+- Produção de Acetil-CoA
+- Gera um pouco de ATP, NADH e FADH2
+- Os carboidratos liberam 1/3 do CO2 potencial total durante o Estágio 1.
 
-# Slide 12:
-Complexo da Piruvato Desidrogenase 
-(PDC)
- O PDC é um grande complexo multienzimático (até 10 MDa).
-piruvato desidrogenase (E1)
-di-hidrolipoil transacetilase (E2)
-di-hidrolipoil desidrogenase (E3)
+![](../imgs/cap16_image04.png)
 
-Vantagens dos complexos multienzimáticos: 
-A curta distância entre os sítios catalíticos permite o direcionamento (canalização) de substratos de um sítio catalítico para outro.
-A canalização minimiza reações colaterais.
-A regulação da atividade de uma subunidade afeta o complexo inteiro.
+## Respiração: Estágio 2
 
+- Oxidação do Acetil-CoA
+- Gera mais NADH, FADH2 e um GTP
+- Os átomos de carbono restantes provenientes de carboidratos, aminoácidos e ácidos graxos são liberados durante o Estágio 2.
 
-# Slide 13:
-Crio-microscopia Eletrônica do PDC
-As amostras estão em um estado hidratado congelado quase nativo.
-A baixa temperatura protege os espécimes biológicos contra danos causados pela radiação.
-Os elétrons têm menor comprimento de onda de de Broglie e produzem imagens de resolução muito maior que a luz.
+:::: {.columns}
+::: {.column width="50%"}
+![](../imgs/cap16_image05.png)
+:::
 
+::: {.column width="50%"}
+![](../imgs/cap16_image06.png)
+:::
 
-# Slide 14:
-Reação Global do PDC
+::::
 
-# Slide 15:
-Sequência de Eventos na 
-Descarboxilação Oxidativa do Piruvato
-Enzima 1 
- Etapa 1: Descarboxilação do piruvato a um aldeído 
- Etapa 2: Oxidação do aldeído a um ácido carboxílico
-Os elétrons reduzem a lipoamida e formam um tioéster.
-Enzima 2
- Etapa 3: Formação de acetil-CoA (produto 1)
-Enzima 3 
- Etapa 4: Reoxidação do cofator lipoamida
- Etapa 5: Regeneração do cofator FAD oxidado
-formando NADH (produto 2)
+## Respiração: Estágio 3
 
+- Fosforilação Oxidativa
+- Gera a grande maioria do ATP durante o catabolismo
 
-# Slide 16:
-O Ciclo do Ácido Cítrico (CAC)
+![](../imgs/cap16_image07.png)
 
-# Slide 17:
-Sequência de Eventos no Ciclo do Ácido Cítrico 
-Etapa 1: Formação de ligação C-C entre acetato (2C) e oxaloacetato (4C) para formar citrato (6C)
-Etapa 2: Isomerização por desidratação/reidratação
-Etapas 3–4: Descarboxilações oxidativas que geram 2 NADH
-Etapa 5: Fosforilação em nível de substrato que gera GTP
-Etapa 6: Desidrogenação que gera FADH2 
-Etapa 7: Hidratação
-Etapa 8: Desidrogenação que gera NADH
+## Em Eucariotos, os Estágios 2 e 3 Estão Localizados nas Mitocôndrias
 
+- A glicólise ocorre no citoplasma.
+- O ciclo do ácido cítrico ocorre na matriz mitocondrial†.
+- A fosforilação oxidativa ocorre na membrana interna.
+- †Exceto a succinato desidrogenase, que está localizada na membrana interna
 
-# Slide 18:
-Formação de Ligação C-C por Condensação de Acetil-CoA e Oxaloacetato
+![](../imgs/cap16_image08.png)
 
-# Slide 19:
-Citrato-Sintase
-Condensação de acetil-CoA e oxaloacetato
-A única reação com formação de ligação C-C
-Utiliza catálise ácido-base
-A carbonila do oxaloacetato é um bom eletrófilo.
-O metila do acetil-CoA não é um bom nucleófilo… 
-…a menos que seja ativado por desprotonação.
-Etapa limitante do CAC
-A atividade depende em grande parte da [oxaloacetato].
-Altamente favorável do ponto de vista termodinâmico/irreversível
-regulada pela disponibilidade de substrato e pela inibição pelo produto
+## Conversão de Piruvato em Acetil-CoA
 
-# Slide 20:
-Ajuste Induzido na Citrato-Sintase
-Ocorre mudança conformacional após a ligação do oxaloacetato.
-Evita a hidrólise desnecessária do tioéster no acetil-CoA
+- **Reação líquida:**
+    - descarboxilação oxidativa do piruvato
+    - primeiros carbonos da glicose a serem totalmente oxidados
+- Catalisada pelo complexo da piruvato desidrogenase
+    - requer 5 coenzimas
+- TPP, lipoil-lisina e FAD são grupos prostéticos.
+- NAD+ e CoA-SH são cossubstratos.
 
-Conformação aberta:
-A enzima livre não tem sítio de ligação para o acetil-CoA.
+![](../imgs/cap16_image09.jpg)
 
-Conformação fechada:
-A ligação do OAA cria o sítio de ligação para o acetil-CoA.
-O carbânion reativo fica protegido.
+## Estrutura da Coenzima A
 
-# Slide 21:
-Ajuste Induzido na Citrato-Sintase
+- As coenzimas não fazem parte permanente da estrutura das enzimas.
+- Elas se associam, desempenham uma função e se dissociam.
+- A função da CoA é aceitar e transportar grupos acetila.
 
-# Slide 22:
-Mecanismo da Citrato-Sintase:
-Catálise Ácido-Base
+![](../imgs/cap16_image10.jpg)
 
-# Slide 23:
-Mecanismo da Citrato-Sintase:
-Catálise Ácido-Base
+## Estrutura da Lipoil-lisina
 
-# Slide 24:
-Mecanismo da Citrato-Sintase:
-Hidrólise do Tioéster
+- Os grupos prostéticos estão fortemente ligados à proteína.
+- O ácido lipoico está covalentemente ligado à enzima por meio de um resíduo de lisina
 
-# Slide 25:
-Isomerização por Desidratação/Reidratação
+![](../imgs/cap16_image11.jpg)
 
-# Slide 26:
-Aconitase
-A eliminação de H2O do citrato forma uma ligação C=C cis. 
-liase
-O citrato, um álcool terciário, é um mau substrato para oxidação.
-O isocitrato, um álcool secundário, é um bom substrato para oxidação.
-A adição de H2O ao cis-aconitato é estereoespecífica.
-Termodinamicamente desfavorável/reversível
-a concentração do produto é mantida baixa para impulsionar a reação
+## Complexo da Piruvato Desidrogenase
 
-# Slide 27:
-Centro Ferro-Enxofre na Aconitase
-A remoção de água do citrato e a subsequente adição ao cis-aconitato são catalisadas pelo centro ferro-enxofre: sensível ao estresse oxidativo. 
+- (PDC)
+- O PDC é um grande complexo multienzimático (até 10 MDa).
+    - piruvato desidrogenase (E1)
+    - di-hidrolipoil transacetilase (E2)
+    - di-hidrolipoil desidrogenase (E3)
 
-# Slide 28:
-A Aconitase É Estereoespecífica
-Apenas o R-isocitrato é produzido pela aconitase. 
+- **Vantagens dos complexos multienzimáticos:**
+    - A curta distância entre os sítios catalíticos permite o direcionamento (canalização) de substratos de um sítio catalítico para outro.
+- A canalização minimiza reações colaterais.
+- A regulação da atividade de uma subunidade afeta o complexo inteiro.
+
+## Crio-microscopia Eletrônica do PDC
+
+- As amostras estão em um estado hidratado congelado quase nativo.
+- A baixa temperatura protege os espécimes biológicos contra danos causados pela radiação.
+- Os elétrons têm menor comprimento de onda de de Broglie e produzem imagens de resolução muito maior que a luz.
+
+![](../imgs/cap16_image12.jpg)
+
+## Reação Global do PDC
+
+![](../imgs/cap16_image13.jpg)
+
+## Sequência de Eventos na Descarboxilação Oxidativa do Piruvato
+
+- Enzima 1
+- Etapa 1: Descarboxilação do piruvato a um aldeído
+- Etapa 2: Oxidação do aldeído a um ácido carboxílico
+- Os elétrons reduzem a lipoamida e formam um tioéster.
+- Enzima 2
+- Etapa 3: Formação de acetil-CoA (produto 1)
+- Enzima 3
+- Etapa 4: Reoxidação do cofator lipoamida
+- Etapa 5: Regeneração do cofator FAD oxidado
+    - formando NADH (produto 2)
+
+## O Ciclo do Ácido Cítrico (CAC)
+
+![](../imgs/cap16_image14.jpg)
+
+## Sequência de Eventos no Ciclo do Ácido Cítrico
+
+- Etapa 1: Formação de ligação C-C entre acetato (2C) e oxaloacetato (4C) para formar citrato (6C)
+- Etapa 2: Isomerização por desidratação/reidratação
+- Etapas 3–4: Descarboxilações oxidativas que geram 2 NADH
+- Etapa 5: Fosforilação em nível de substrato que gera GTP
+- Etapa 6: Desidrogenação que gera FADH2
+- Etapa 7: Hidratação
+- Etapa 8: Desidrogenação que gera NADH
+
+## Formação de Ligação C-C por Condensação de Acetil-CoA e Oxaloacetato
+
+![](../imgs/cap16_image15.jpg)
+
+## Citrato-Sintase
+
+- Condensação de acetil-CoA e oxaloacetato
+- A única reação com formação de ligação C-C
+- Utiliza catálise ácido-base
+    - A carbonila do oxaloacetato é um bom eletrófilo.
+- O metila do acetil-CoA não é um bom nucleófilo…
+- …a menos que seja ativado por desprotonação.
+    - Etapa limitante do CAC
+- A atividade depende em grande parte da [oxaloacetato].
+- Altamente favorável do ponto de vista termodinâmico/irreversível
+    - regulada pela disponibilidade de substrato e pela inibição pelo produto
+
+## Ajuste Induzido na Citrato-Sintase
+
+- Ocorre mudança conformacional após a ligação do oxaloacetato.
+- Evita a hidrólise desnecessária do tioéster no acetil-CoA
+
+- **Conformação aberta:**
+    - A enzima livre não tem sítio de ligação para o acetil-CoA.
+
+- **Conformação fechada:**
+    - A ligação do OAA cria o sítio de ligação para o acetil-CoA.
+- O carbânion reativo fica protegido.
+
+## Ajuste Induzido na Citrato-Sintase
+
+![](../imgs/cap16_image16.jpg)
+
+## Mecanismo da Citrato-Sintase: Catálise Ácido-Base
+
+![](../imgs/cap16_image17.jpg)
+
+## Mecanismo da Citrato-Sintase: Catálise Ácido-Base
+
+![](../imgs/cap16_image18.jpg)
+
+## Mecanismo da Citrato-Sintase: Hidrólise do Tioéster
+
+![](../imgs/cap16_image19.jpg)
+
+## Isomerização por Desidratação/Reidratação
+
+![](../imgs/cap16_image20.jpg)
+
+## Aconitase
+
+- A eliminação de H2O do citrato forma uma ligação C=C cis.
+    - liase
+- O citrato, um álcool terciário, é um mau substrato para oxidação.
+- O isocitrato, um álcool secundário, é um bom substrato para oxidação.
+- A adição de H2O ao cis-aconitato é estereoespecífica.
+- Termodinamicamente desfavorável/reversível
+    - a concentração do produto é mantida baixa para impulsionar a reação
+
+## Centro Ferro-Enxofre na Aconitase
+
+A remoção de água do citrato e a subsequente adição ao cis-aconitato são catalisadas pelo centro ferro-enxofre: sensível ao estresse oxidativo.
+
+![](../imgs/cap16_image21.jpg)
+
+## A Aconitase É Estereoespecífica
+
+Apenas o R-isocitrato é produzido pela aconitase.
 
 Distinguido por fixação em três pontos ao sítio ativo
 
-# Slide 29:
-Descarboxilação Oxidativa pela Isocitrato Desidrogenase
-As isozimas são específicas para NADP+ (citosólica) ou NAD+ (mitocondrial).
-A descarboxilação libera CO2.
-Altamente favorável/irreversível e regulada pela [ATP]
+![](../imgs/cap16_image22.jpg)
 
-# Slide 30:
-Descarboxilação Oxidativa Final pela           α-Cetoglutarato Desidrogenase
+## Descarboxilação Oxidativa pela Isocitrato Desidrogenase
 
-# Slide 31:
-α-Cetoglutarato Desidrogenase
-Complexo semelhante ao da piruvato desidrogenase
-mesmas coenzimas, mecanismos idênticos
-sítios ativos diferentes para acomodar substratos de tamanhos diferentes
+- As isozimas são específicas para NADP+ (citosólica) ou NAD+ (mitocondrial).
+- A descarboxilação libera CO2.
+- Altamente favorável/irreversível e regulada pela [ATP]
 
-# Slide 32:
-α-Cetoglutarato Desidrogenase
-Última descarboxilação oxidativa
-oxidação completa líquida de todos os carbonos da glicose
-após duas voltas do ciclo
-os carbonos não são diretamente da glicose, porque os carbonos perdidos vieram do oxaloacetato, e não do acetato  
-O succinil-CoA é outra ligação tioéster de alta energia.
-Altamente favorável do ponto de vista termodinâmico/irreversível
-regulada por inibição pelo produto
+![](../imgs/cap16_image23.jpg)
 
-# Slide 33:
-Origem dos Átomos de C no CO2
-Os carbonos do acetato estão em vermelho.
-Todo o CO2 gerado durante o ciclo do ácido cítrico é produzido antes da formação do succinil-CoA.
-Em uma volta do ciclo do ácido cítrico, nenhum dos carbonos vermelhos é perdido.
-Ambas as moléculas de CO2 perdidas estavam presentes no oxaloacetato usado para iniciar o ciclo.
+## Descarboxilação Oxidativa Final pela           α-Cetoglutarato Desidrogenase
 
-# Slide 34:
-Geração de GTP por meio do Tioéster: Fosforilação em Nível de Substrato pela Succinil-CoA Sintetase
+![](../imgs/cap16_image24.jpg)
 
-# Slide 35:
-Succinil-CoA Sintetase
-Fosforilação em nível de substrato
-A energia do tioéster permite a incorporação de fosfato inorgânico.
-Passa por um intermediário fosfo-enzima
-Produz GTP, que pode ser convertido em ATP
-Levemente favorável do ponto de vista termodinâmico/reversível
-a concentração do produto é mantida baixa para impulsionar a reação
+## α-Cetoglutarato Desidrogenase
 
-# Slide 36:
-Mecanismo da Succinil-CoA Sintetase
+- Complexo semelhante ao da piruvato desidrogenase
+    - mesmas coenzimas, mecanismos idênticos
+    - sítios ativos diferentes para acomodar substratos de tamanhos diferentes
 
-# Slide 37:
-Oxidação de um Alcano a Alceno pela Succinato Desidrogenase
+![](../imgs/cap16_image25.jpg)
 
-# Slide 38:
-Succinato Desidrogenase
-Ligada à membrana mitocondrial interna 
-atua como Complexo II na cadeia transportadora de elétrons
-A redução do alcano a alceno requer FADH2.
-O potencial de redução da ligação carbono-hidrogênio é muito baixo para a produção de NADH.
-O FAD está covalentemente ligado, o que é incomum
-Próximo do equilíbrio/reversível
-a concentração do produto é mantida baixa para impulsionar a reação
+## α-Cetoglutarato Desidrogenase
 
-# Slide 39:
-Hidratação de uma Ligação Dupla: Fumarase
+- Última descarboxilação oxidativa
+    - oxidação completa líquida de todos os carbonos da glicose
+    - após duas voltas do ciclo
+    - os carbonos não são diretamente da glicose, porque os carbonos perdidos vieram do oxaloacetato, e não do acetato
+    - O succinil-CoA é outra ligação tioéster de alta energia.
+- Altamente favorável do ponto de vista termodinâmico/irreversível
+    - regulada por inibição pelo produto
 
-# Slide 40:
-Fumarase
-Estereoespecífica
-A adição de água é sempre trans e forma L-malato.
-O OH− adiciona-se ao fumarato… depois o H+ adiciona-se ao carbânion.
-Não distingue entre os carbonos internos, portanto qualquer um deles pode receber o –OH
+## Origem dos Átomos de C no CO2
 
-Levemente favorável do ponto de vista termodinâmico/reversível
-a concentração do produto é mantida baixa para impulsionar a reação
+- Os carbonos do acetato estão em vermelho.
+- Todo o CO2 gerado durante o ciclo do ácido cítrico é produzido antes da formação do succinil-CoA.
+- Em uma volta do ciclo do ácido cítrico, nenhum dos carbonos vermelhos é perdido.
+- Ambas as moléculas de CO2 perdidas estavam presentes no oxaloacetato usado para iniciar o ciclo.
 
-# Slide 41:
-Estereoespecificidade da Fumarase
+![](../imgs/cap16_image26.png)
 
-# Slide 42:
-Oxidação de um Álcool a Cetona e Regeneração do Oxaloacetato pela Malato Desidrogenase
+## Geração de GTP por meio do Tioéster: Fosforilação em Nível de Substrato pela Succinil-CoA Sintetase
 
-# Slide 43:
-Malato Desidrogenase
-Etapa final do ciclo
-Regenera o oxaloacetato para a citrato-sintase
-Altamente DESfavorável do ponto de vista termodinâmico/reversível
-a concentração de oxaloacetato é mantida MUITO baixa pela citrato-sintase 
-o que impulsiona a reação
+![](../imgs/cap16_image27.jpg)
 
-# Slide 44:
-Uma Volta do Ciclo do Ácido Cítrico
+## Succinil-CoA Sintetase
 
-# Slide 45:
-Resultado Líquido do Ciclo do Ácido Cítrico
-Oxidação líquida de dois carbonos a CO2
-equivalente aos dois carbonos do acetil-CoA 
-mas NÃO exatamente os mesmos carbonos
-Energia captada pela transferência de elétrons para NADH e FADH2
-Gera 1 GTP, que pode ser convertido em ATP
-Conclusão do ciclo
-Acetil-CoA + 3NAD+ + FAD + GDP + Pi + 2 H2O →
-		 2CO2 + 3NADH + FADH2 + GTP + CoA + 3H+
+- Fosforilação em nível de substrato
+- A energia do tioéster permite a incorporação de fosfato inorgânico.
+    - Passa por um intermediário fosfo-enzima
+    - Produz GTP, que pode ser convertido em ATP
+- Levemente favorável do ponto de vista termodinâmico/reversível
+    - a concentração do produto é mantida baixa para impulsionar a reação
 
-# Slide 46:
-Rendimento Direto e Indireto de ATP
-TABELA 16-1	Estequiometria da Redução de Coenzimas e da Formação de ATP na Oxidação Aeróbia da Glicose pela Glicólise, pela Reação do Complexo da Piruvato Desidrogenase, pelo Ciclo do Ácido Cítrico e pela Fosforilação Oxidativa	
-Reação	Número de ATP ou coenzimas reduzidas formados diretamente	Número de ATP formados ao final(a)	
-Glicose → glicose 6-fosfato	–1 ATP	–1	
-Frutose 6-fosfato → frutose 1,6-bifosfato	–1 ATP	–1	
-2 Gliceraldeído 3-fosfato → 2 1,3-bifosfoglicerato	2 NADH	3 ou 5(b)	
-2 1,3-Bifosfoglicerato → 2 3-fosfoglicerato	2 ATP	2	
-2 Fosfoenolpiruvato → 2 piruvato	2 ATP	2	
-2 Piruvato → 2 acetil-CoA	2 NADH	5	
-2 Isocitrato → 2 α-cetoglutarato	2 NADH	5	
-2 α-Cetoglutarato → 2 succinil-CoA	2 NADH	5	
-2 Succinil-CoA → 2 succinato	2 ATP (ou 2 GTP)	2	
-2 Succinato → 2 fumarato	2 FADH2	3	
-2 Malato → 2 oxaloacetato	2 NADH	5	
-    Total		30-32	
-(a) Calculado com 2,5 ATP por NADH e 1,5 ATP por FADH2. Um valor negativo indica consumo.
-(b) Esse número é 3 ou 5, dependendo do mecanismo usado para transportar os equivalentes de NADH do citosol para a matriz mitocondrial; ver Figuras 19-30 e 19-31.	
+## Mecanismo da Succinil-CoA Sintetase
 
-# Slide 47:
-Os Intermediários do CAC São Anfibólicos
+![](../imgs/cap16_image28.jpg)
 
-# Slide 48:
-Reações Anapleróticas
-Os intermediários do ciclo do ácido cítrico podem ser utilizados em vias biossintéticas (removidos do ciclo).
-É preciso repor os intermediários para que o ciclo e a via metabólica central continuem.
-Os intermediários de 4 carbonos são formados por carboxilação de precursores de 3 carbonos.
+## Oxidação de um Alcano a Alceno pela Succinato Desidrogenase
 
-# Slide 49:
-A Biotina É uma Transportadora de CO2
+![](../imgs/cap16_image29.jpg)
 
-# Slide 50:
-Braços Biológicos Permitem Flexibilidade
+## Succinato Desidrogenase
 
-# Slide 51:
-Regulação do Ciclo do Ácido Cítrico
+- Ligada à membrana mitocondrial interna
+    - atua como Complexo II na cadeia transportadora de elétrons
+- A redução do alcano a alceno requer FADH2.
+- O potencial de redução da ligação carbono-hidrogênio é muito baixo para a produção de NADH.
+    - O FAD está covalentemente ligado, o que é incomum
+- Próximo do equilíbrio/reversível
+    - a concentração do produto é mantida baixa para impulsionar a reação
 
-# Slide 52:
-Regulação do Ciclo do Ácido Cítrico
-Regulado em etapas altamente favoráveis do ponto de vista termodinâmico e irreversíveis
-PDH, citrato-sintase, IDH e KDH
+## Hidratação de uma Ligação Dupla: Fumarase
 
-Mecanismo regulatório geral
-ativado pela disponibilidade de substrato
-inibido pelo acúmulo de produto
-Os produtos globais da via são NADH e ATP.
-afetam todas as enzimas reguladas do ciclo
-inibidores: NADH e ATP
-ativadores: NAD+ e AMP
+![](../imgs/cap16_image30.jpg)
 
-# Slide 53:
-Regulação da Piruvato Desidrogenase
-Também regulada por fosforilação reversível da E1
-fosforilação: inativa
-desfosforilação: ativa
-A PDH-cinase e a PDH-fosfatase fazem parte do complexo PDH de mamíferos.
-A cinase é ativada pelo ATP. 
+## Fumarase
+
+- Estereoespecífica
+    - A adição de água é sempre trans e forma L-malato.
+    - O OH− adiciona-se ao fumarato… depois o H+ adiciona-se ao carbânion.
+- Não distingue entre os carbonos internos, portanto qualquer um deles pode receber o –OH
+
+- Levemente favorável do ponto de vista termodinâmico/reversível
+    - a concentração do produto é mantida baixa para impulsionar a reação
+
+## Estereoespecificidade da Fumarase
+
+![](../imgs/cap16_image31.jpg)
+
+## Oxidação de um Álcool a Cetona e Regeneração do Oxaloacetato pela Malato Desidrogenase
+
+![](../imgs/cap16_image32.jpg)
+
+## Malato Desidrogenase
+
+- Etapa final do ciclo
+- Regenera o oxaloacetato para a citrato-sintase
+- Altamente DESfavorável do ponto de vista termodinâmico/reversível
+    - a concentração de oxaloacetato é mantida MUITO baixa pela citrato-sintase o que impulsiona a reação
+
+## Uma Volta do Ciclo do Ácido Cítrico
+
+![](../imgs/cap16_image33.jpg)
+
+## Resultado Líquido do Ciclo do Ácido Cítrico
+
+- Oxidação líquida de dois carbonos a CO2
+    - equivalente aos dois carbonos do acetil-CoA
+    - mas NÃO exatamente os mesmos carbonos
+- Energia captada pela transferência de elétrons para NADH e FADH2
+- Gera 1 GTP, que pode ser convertido em ATP
+- Conclusão do ciclo
+
+::: {style="text-align:center"}
+Acetil-CoA + 3NAD+ + FAD + GDP + Pi + 2 H2O → 2CO2 + 3NADH + FADH2 + GTP + CoA + 3H+
+:::
+
+## Rendimento Direto e Indireto de ATP {.smaller .scrollable}
+
+| Reação | Número de ATP ou coenzimas reduzidas formados diretamente | Número de ATP formados ao final(a) |
+|:--|:--|:--|
+| Glicose → glicose 6-fosfato | –1 ATP | –1 |
+| Frutose 6-fosfato → frutose 1,6-bifosfato | –1 ATP | –1 |
+| 2 Gliceraldeído 3-fosfato → 2 1,3-bifosfoglicerato | 2 NADH | 3 ou 5(b) |
+| 2 1,3-Bifosfoglicerato → 2 3-fosfoglicerato | 2 ATP | 2 |
+| 2 Fosfoenolpiruvato → 2 piruvato | 2 ATP | 2 |
+| 2 Piruvato → 2 acetil-CoA | 2 NADH | 5 |
+| 2 Isocitrato → 2 α-cetoglutarato | 2 NADH | 5 |
+| 2 α-Cetoglutarato → 2 succinil-CoA | 2 NADH | 5 |
+| 2 Succinil-CoA → 2 succinato | 2 ATP (ou 2 GTP) | 2 |
+| 2 Succinato → 2 fumarato | 2 FADH2 | 3 |
+| 2 Malato → 2 oxaloacetato | 2 NADH | 5 |
+| Total |  | 30-32 |
+
+: **TABELA 16-1** Estequiometria da Redução de Coenzimas e da Formação de ATP na Oxidação Aeróbia da Glicose pela Glicólise, pela Reação do Complexo da Piruvato Desidrogenase, pelo Ciclo do Ácido Cítrico e pela Fosforilação Oxidativa
+
+<small>(a) Calculado com 2,5 ATP por NADH e 1,5 ATP por FADH2. Um valor negativo indica consumo.</small>
+
+<small>(b) Esse número é 3 ou 5, dependendo do mecanismo usado para transportar os equivalentes de NADH do citosol para a matriz mitocondrial; ver Figuras 19-30 e 19-31.</small>
+
+## Os Intermediários do CAC São Anfibólicos
+
+![](../imgs/cap16_image34.jpg)
+
+## Reações Anapleróticas
+
+- Os intermediários do ciclo do ácido cítrico podem ser utilizados em vias biossintéticas (removidos do ciclo).
+- É preciso repor os intermediários para que o ciclo e a via metabólica central continuem.
+- Os intermediários de 4 carbonos são formados por carboxilação de precursores de 3 carbonos.
+
+![](../imgs/cap16_image35.jpg)
+
+## A Biotina É uma Transportadora de CO2
+
+![](../imgs/cap16_image36.jpg)
+
+## Braços Biológicos Permitem Flexibilidade
+
+![](../imgs/cap16_image37.jpg)
+
+## Regulação do Ciclo do Ácido Cítrico
+
+![](../imgs/cap16_image38.jpg)
+
+## Regulação do Ciclo do Ácido Cítrico
+
+- Regulado em etapas altamente favoráveis do ponto de vista termodinâmico e irreversíveis
+- PDH, citrato-sintase, IDH e KDH
+
+- Mecanismo regulatório geral
+    - ativado pela disponibilidade de substrato
+    - inibido pelo acúmulo de produto
+    - Os produtos globais da via são NADH e ATP.
+    - afetam todas as enzimas reguladas do ciclo
+    - inibidores: NADH e ATP
+    - ativadores: NAD+ e AMP
+
+## Regulação da Piruvato Desidrogenase
+
+- Também regulada por fosforilação reversível da E1
+    - fosforilação: inativa
+    - desfosforilação: ativa
+- A PDH-cinase e a PDH-fosfatase fazem parte do complexo PDH de mamíferos.
+- A cinase é ativada pelo ATP.
+
+::: {style="text-align:center"}
 ATP alto → PDH fosforilada → menos acetil-CoA
+:::
+
+::: {style="text-align:center"}
 ATP baixo → a cinase fica menos ativa e a fosfatase remove o fosfato da PDH → mais acetil-CoA
+:::
+
 A regulação da PDH é um tanto semelhante à regulação do complexo glicogênio-sintase/glicogênio-fosforilase.
 
-# Slide 54:
-Mecanismos Regulatórios Adicionais
-A citrato-sintase também é inibida pelo succinil-CoA.
-O α-cetoglutarato é um importante ponto de ramificação do metabolismo de aminoácidos.
-O succinil-CoA comunica o fluxo nesse ponto de ramificação ao início do ciclo.
+## Mecanismos Regulatórios Adicionais
 
-A regulação da isocitrato desidrogenase controla os níveis de citrato.
-A aconitase é reversível.
-A inibição da IDH leva ao acúmulo de isocitrato e reverte a aconitase.
-O citrato acumulado sai da mitocôndria e inibe a fosfofrutocinase na glicólise.
+- A citrato-sintase também é inibida pelo succinil-CoA.
+- O α-cetoglutarato é um importante ponto de ramificação do metabolismo de aminoácidos.
+- O succinil-CoA comunica o fluxo nesse ponto de ramificação ao início do ciclo.
 
-# Slide 55:
-Capítulo 16: Resumo
-uma grande enzima de múltiplas subunidades, o complexo da piruvato desidrogenase, converte piruvato em acetil-CoA
-vários cofatores participam de reações que aproveitam a energia do piruvato
-o ciclo do ácido cítrico é um importante processo catabólico: produz GTP e cofatores reduzidos que podem render ATP
-o ciclo do ácido cítrico desempenha importantes papéis anabólicos na célula 
-os organismos têm múltiplas maneiras de repor os intermediários utilizados em outras vias
-as regras da química orgânica ajudam a racionalizar as reações do ciclo do ácido cítrico  
-o ciclo do ácido cítrico é regulado em grande parte pela disponibilidade de substratos e pela inibição pelo produto (especialmente NADH e ATP)
-Neste capítulo, aprendemos que:
+- A regulação da isocitrato desidrogenase controla os níveis de citrato.
+- A aconitase é reversível.
+- A inibição da IDH leva ao acúmulo de isocitrato e reverte a aconitase.
+- O citrato acumulado sai da mitocôndria e inibe a fosfofrutocinase na glicólise.
+
+## Capítulo 16: Resumo {.smaller}
+
+**Neste capítulo, aprendemos que:**
+
+- uma grande enzima de múltiplas subunidades, o complexo da piruvato desidrogenase, converte piruvato em acetil-CoA
+    - vários cofatores participam de reações que aproveitam a energia do piruvato
+    - o ciclo do ácido cítrico é um importante processo catabólico: produz GTP e cofatores reduzidos que podem render ATP
+    - o ciclo do ácido cítrico desempenha importantes papéis anabólicos na célula os organismos têm múltiplas maneiras de repor os intermediários utilizados em outras vias
+    - as regras da química orgânica ajudam a racionalizar as reações do ciclo do ácido cítrico o ciclo do ácido cítrico é regulado em grande parte pela disponibilidade de substratos e pela inibição pelo produto (especialmente NADH e ATP)

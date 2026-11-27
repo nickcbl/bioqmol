@@ -1,6 +1,5 @@
 ---
-title: "Capítulo"
-# author: Nicholas Costa & Nicholas Barroso
+title: "Sinalização bioquímica"
 lang: pt-BR
 date: today
 date-format: "DD/MM/YYYY"
@@ -11,7 +10,6 @@ format:
 #    height: 900
     width: 960
     height: 720
-#    logo: imgs/logo.png
     incremental: false
     theme: tema_azul.scss
     lightbox: true
@@ -22,370 +20,455 @@ format:
     center: true
     auto-stretch: true
 ---
-# Slide 1:
 
-12 | Biossinalização
-© 2017 W. H. Freeman and Company
+## 12 | Biossinalização
 
-# Slide 2:
-CAPÍTULO 12 
-Biossinalização
-Características gerais da transdução de sinal  
-Estrutura e função dos receptores acoplados à proteína G
-Estrutura e função dos receptores ligados a enzimas
-Estrutura e função dos canais iônicos regulados (*gated*)
-Processos fisiológicos que utilizam transdução de sinal
-Objetivos de aprendizagem: 
+![](../imgs/cap12_image01.png)
 
-# Slide 3:
-Papel Biológico da Transdução de Sinal
-As células recebem sinais do ambiente além da membrana plasmática. Os tipos de sinais incluem: 
-antígenos
-hormônios
-neurotransmissores
-luz
-toque
-feromônios
-Esses sinais causam alterações na composição e função da célula, tais como: 
-diferenciação e produção de anticorpos
-crescimento em tamanho ou força
-divisão celular sexuada versus assexuada
+<small>© 2017 W. H. Freeman and Company</small>
 
+## CAPÍTULO 12 — Biossinalização
 
-# Slide 4:
-Receptores Interagem com Sinais e Traduzem a Mensagem para a Célula: 
- Receptor: Uma proteína ou complexo proteico ligado à membrana ou solúvel, que exerce um efeito fisiológico (efeito intrínseco) após ligar seu ligante natural.
-Receptores acoplados à proteína G 
-receptor de epinefrina
-Receptores ligados a enzimas
-receptor de insulina
-Canais iônicos regulados por ligantes
-receptor nicotínico de acetilcolina
-Outros receptores de membrana 
-receptores de integrina
-Receptores nucleares
-receptores de esteroides
+**Objetivos de aprendizagem:**
 
-# Slide 5:
-Receptores Ligam Ligantes Específicos
-Ligantes típicos são:
-Íons pequenos 
-íon férrico: receptor férrico bacteriano
-Moléculas orgânicas
-adrenalina: receptor de epinefrina
-Polissacarídeos
-heparina: fator de crescimento de fibroblastos
-Peptídeos
-insulina: receptor de insulina
-Proteínas
-fator de crescimento endotelial vascular: receptor de VEGF
+1. Características gerais da transdução de sinal
+2. Estrutura e função dos receptores acoplados à proteína G
+3. Estrutura e função dos receptores ligados a enzimas
+4. Estrutura e função dos canais iônicos regulados (*gated*)
+5. Processos fisiológicos que utilizam transdução de sinal
 
-# Slide 6:
-Cinco Características dos 
-Sistemas Transdutores de Sinal
+## Papel Biológico da Transdução de Sinal
 
-# Slide 7:
-Receptores Ligam Ligantes Específicos
+- As células recebem sinais do ambiente além da membrana plasmática. Os tipos de sinais incluem:
+    - antígenos
+    - hormônios
+    - neurotransmissores
+    - luz
+    - toque
+    - feromônios
+- Esses sinais causam alterações na composição e função da célula, tais como:
+    - diferenciação e produção de anticorpos
+    - crescimento em tamanho ou força
+    - divisão celular sexuada versus assexuada
+
+## Receptores Interagem com Sinais e Traduzem a Mensagem para a Célula:
+
+- Receptor: Uma proteína ou complexo proteico ligado à membrana ou solúvel, que exerce um efeito fisiológico (efeito intrínseco) após ligar seu ligante natural.
+- Receptores acoplados à proteína G
+    - receptor de epinefrina
+- Receptores ligados a enzimas
+    - receptor de insulina
+- Canais iônicos regulados por ligantes
+    - receptor nicotínico de acetilcolina
+- Outros receptores de membrana
+    - receptores de integrina
+- Receptores nucleares
+    - receptores de esteroides
+
+## Receptores Ligam Ligantes Específicos
+
+- **Ligantes típicos são:**
+    - Íons pequenos
+    - íon férrico: receptor férrico bacteriano
+- Moléculas orgânicas
+    - adrenalina: receptor de epinefrina
+- Polissacarídeos
+    - heparina: fator de crescimento de fibroblastos
+- Peptídeos
+    - insulina: receptor de insulina
+- Proteínas
+    - fator de crescimento endotelial vascular: receptor de VEGF
+
+## Cinco Características dos Sistemas Transdutores de Sinal
+
+![](../imgs/cap12_image02.jpg)
+
+## Receptores Ligam Ligantes Específicos
+
+::: {style="text-align:center"}
 R + S1 ↔ RS1
+:::
+
 Exemplo Kd = 10−7
 
-# Slide 8:
-Receptores de Membrana Comuns
+![](../imgs/cap12_image03.jpg)
 
-# Slide 9:
-Sinalização Acoplada à Proteína G
-Receptores acoplados à proteína G (GPCRs) são proteínas integrais de membrana em α-hélice.
-Proteínas G são proteínas heterotriméricas (αβγ) associadas à membrana que ligam GTP.
-Proteínas G medeiam a transdução de sinal dos GPCRs para outras proteínas-alvo.
+## Receptores de Membrana Comuns
 
-# Slide 10:
-Proteína G Prototípica: Ras
+![](../imgs/cap12_image04.jpg)
 
-# Slide 11:
-A Epinefrina Interage com a Célula via um GPCR
-A epinefrina é um hormônio produzido nas glândulas adrenais (par de órgãos no topo dos rins).
-Medeia a resposta ao estresse: mobilização de energia
-A ligação a receptores em células musculares ou hepáticas induz a quebra do glicogênio.
-A ligação a receptores em células adiposas induz a hidrólise de lipídios.
-A ligação a receptores em células cardíacas aumenta a frequência cardíaca.
+## Sinalização Acoplada à Proteína G
 
+- Receptores acoplados à proteína G (GPCRs) são proteínas integrais de membrana em α-hélice.
+- Proteínas G são proteínas heterotriméricas (αβγ) associadas à membrana que ligam GTP.
+- Proteínas G medeiam a transdução de sinal dos GPCRs para outras proteínas-alvo.
 
-# Slide 12:
-Epinefrina e Análogos
+![](../imgs/cap12_image05.jpg)
 
+## Proteína G Prototípica: Ras
 
-# Slide 13:
-Percebendo o Sinal da Epinefrina via 
-um Receptor Acoplado à Proteína G 
+![](../imgs/cap12_image06.jpg)
 
-# Slide 14:
-Síntese de cAMP
-O cAMP é um segundo mensageiro.
-Ativa alostericamente uma variedade de enzimas, incluindo a proteína quinase A dependente de cAMP (PKA).
-A ativação da PKA leva à ativação de enzimas que liberam glicose a partir do glicogênio.
+## A Epinefrina Interage com a Célula via um GPCR
 
-# Slide 15:
-Amplificação de Sinal 
-na Cascata da Epinefrina
-A ativação de poucos GPCRs leva à ativação de poucas enzimas adenilil ciclase.
-Cada enzima adenilil ciclase ativa produz várias moléculas de cAMP, ativando assim várias enzimas PKA.
-Estas ativam milhares de enzimas degradadoras de glicogênio no tecido hepático.
-Ao final, dezenas de milhares de moléculas de glicose são liberadas na corrente sanguínea.
+- A epinefrina é um hormônio produzido nas glândulas adrenais (par de órgãos no topo dos rins).
+    - Medeia a resposta ao estresse: mobilização de energia
+- A ligação a receptores em células musculares ou hepáticas induz a quebra do glicogênio.
+- A ligação a receptores em células adiposas induz a hidrólise de lipídios.
+- A ligação a receptores em células cardíacas aumenta a frequência cardíaca.
 
-# Slide 16:
-Amplificação de Sinal 
+## Epinefrina e Análogos
 
-# Slide 17:
-TABELA 12-2	Algumas Enzimas e Outras Proteínas Reguladas por Fosforilação Dependente de cAMP (pela PKA)	
-Enzima/proteína	Sequência fosforiladaa	 Via/processo regulado	
-Glicogênio sintase	RASCTSSS	Síntese de glicogênio	
-Fosforilase b quinase
-   subunidade α
-   subunidade β	VEFRRLSI
-RTKRSGSV	Quebra de glicogênio	
-Piruvato quinase (fígado de rato)	GVLRRASVAZL	Glicólise	
-Complexo piruvato desidrogenase (tipo L)	GYLRRASV	Piruvato a acetil-CoA	
-Lipase hormônio-sensível	PMRRSV	Mobilização de triacilgliceróis e oxidação de ácidos graxos	
-Fosfofructoquinase-2/frutose 2,6-bisfosfatase	LQRRRGSSIPQ	Glicólise/gliconeogênese	
-Tirosina hidroxilase	FIGRRQSL	Síntese de L-dopa, dopamina, norepinefrina e epinefrina	
-Histona H1	AKRKASGPPVS	Condensação do DNA	
-Histona H2B 	KKAKASRKESYSVYVYK	Condensação do DNA	
-Fosfolambam cardíaco (regulador da bomba cardíaca)	AIRRAST	[Ca2+] intracelular	
-Inibidor-1 da proteína fosfatase-1	IRRRRPTP	Desfosforilação de proteínas	
-Sequência consenso da PKAb	xR[RK]x[ST]B	Muitos	
-aO resíduo S ou T fosforilado é mostrado em vermelho. Todos os resíduos são dados por suas abreviações de uma letra (ver Tabela 3-1).
-bx é qualquer aminoácido; B é qualquer aminoácido hidrofóbico. Ver Quadro 3-2 para convenções usadas na exibição de sequências consenso.	
+![](../imgs/cap12_image07.jpg)
 
-# Slide 18:
-A Autoinativação Medeia a Dessensibilização na Sinalização por Proteína G
-A epinefrina foi feita para ser um sinal de ação curta.
-O organismo deve interromper a síntese de glicose se não houver mais necessidade de lutar ou fugir.
-A regulação negativa (*down-regulation*) do cAMP ocorre pela hidrólise do GTP na subunidade α da proteína G.
+## Percebendo o Sinal da Epinefrina via um Receptor Acoplado à Proteína G
 
-# Slide 19:
-Autoinativação na Sinalização por Proteína G
+![](../imgs/cap12_image08.jpg)
 
-# Slide 20:
-Dessensibilização de Receptores β-Adrenérgicos 
+## Síntese de cAMP
 
-# Slide 21:
-cAMP É um Segundo Mensageiro Comum
-Um grande número de GPCRs medeia seus efeitos via cAMP.
-tanto ativando quanto inibindo a síntese de cAMP
-O genoma humano codifica cerca de 1.000 GPCRs.
-com ligantes como hormônios, fatores de crescimento e neurotransmissores 
-Existem também centenas de GPCRs diferentes que podem ser responsáveis por processos semelhantes.
-como paladar ou olfato
-Os ligantes para muitos GPCRs ainda não foram identificados.
+- O cAMP é um segundo mensageiro.
+- Ativa alostericamente uma variedade de enzimas, incluindo a proteína quinase A dependente de cAMP (PKA).
+- A ativação da PKA leva à ativação de enzimas que liberam glicose a partir do glicogênio.
 
-# Slide 22:
-TABELA 12-3	Alguns Sinais que Usam cAMP como Segundo Mensageiro	
-Corticotropina (ACTH)	
-Hormônio liberador de corticotropina (CRH)	
-Dopamina [D1, D2]	
-Epinefrina (β-adrenérgica)	
-Hormônio folículo-estimulante (FSH)	
-Glucagon	
-Histamina [H2]	
-Hormônio luteinizante (LH)	
-Hormônio melanócito-estimulante (MSH)	
-Odorantes (muitos)	
-Hormônio paratireoideano (PTH)	
-Prostaglandinas E1, E2 (PGE1, PGE2)	
-Serotonina [5-HT1, 5-HT4]	
-Somatostatina	
-Substâncias gustativas (doce, amargo)	
-Hormônio tireoestimulante (TSH)	
-Nota: Subtipos de receptores entre colchetes. Subtipos podem ter mecanismos de transdução diferentes. Por exemplo, a serotonina é detectada em alguns tecidos pelos subtipos de receptores 5-HT1 e 5-HT4, que atuam através da adenilil ciclase e cAMP, e em outros tecidos pelos subtipos de receptores 5-HT2, atuando através do mecanismo fosfolipase C-IP3 (ver Tabela 12-4).	
+![](../imgs/cap12_image09.jpg)
 
-# Slide 23:
-O cAMP É Capaz de Mediar Múltiplos Sinais Devido à Localização da Proteína Quinase A 
-A PKA é localizada em estruturas particulares por proteínas de ancoragem.
-Diferentes âncoras são expressas em diferentes tipos celulares para determinar o efeito a jusante (*downstream*) do cAMP.
+## Amplificação de Sinal na Cascata da Epinefrina
 
-# Slide 24:
-Algumas Toxinas Bacterianas São 
-Enzimas que Inativam Proteínas G
-A adenilato ciclase torna-se agora sempre (constitutivamente) ativa e produz excesso de cAMP a partir de ATP.
-A toxina colérica e a toxina pertussis funcionam dessa maneira.
+- A ativação de poucos GPCRs leva à ativação de poucas enzimas adenilil ciclase.
+- Cada enzima adenilil ciclase ativa produz várias moléculas de cAMP, ativando assim várias enzimas PKA.
+- Estas ativam milhares de enzimas degradadoras de glicogênio no tecido hepático.
+- Ao final, dezenas de milhares de moléculas de glicose são liberadas na corrente sanguínea.
 
-# Slide 25:
-GPCRs Podem Usar Outras Moléculas como Segundos Mensageiros
+![](../imgs/cap12_image10.jpg)
+
+## Amplificação de Sinal
+
+![](../imgs/cap12_image11.jpg)
+
+## TABELA 12-2 — Algumas Enzimas e Outras Proteínas Reguladas por Fosforilação Dependente de cAMP (pela PKA) {.smaller}
+
+| Enzima/proteína | Sequência fosforiladaa | Via/processo regulado |
+|:--|:--|:--|
+| Glicogênio sintase | RASCTSSS | Síntese de glicogênio |
+| Fosforilase b quinase <br> subunidade α <br> subunidade β | VEFRRLSI <br> RTKRSGSV | Quebra de glicogênio |
+| Piruvato quinase (fígado de rato) | GVLRRASVAZL | Glicólise |
+| Complexo piruvato desidrogenase (tipo L) | GYLRRASV | Piruvato a acetil-CoA |
+| Lipase hormônio-sensível | PMRRSV | Mobilização de triacilgliceróis e oxidação de ácidos graxos |
+| Fosfofructoquinase-2/frutose 2,6-bisfosfatase | LQRRRGSSIPQ | Glicólise/gliconeogênese |
+| Tirosina hidroxilase | FIGRRQSL | Síntese de L-dopa, dopamina, norepinefrina e epinefrina |
+| Histona H1 | AKRKASGPPVS | Condensação do DNA |
+| Histona H2B | KKAKASRKESYSVYVYK | Condensação do DNA |
+| Fosfolambam cardíaco (regulador da bomba cardíaca) | AIRRAST | [Ca2+] intracelular |
+| Inibidor-1 da proteína fosfatase-1 | IRRRRPTP | Desfosforilação de proteínas |
+| Sequência consenso da PKAb | xR[RK]x[ST]B | Muitos |
+
+<small>aO resíduo S ou T fosforilado é mostrado em vermelho. Todos os resíduos são dados por suas abreviações de uma letra (ver Tabela 3-1).</small>
+
+<small>bx é qualquer aminoácido; B é qualquer aminoácido hidrofóbico. Ver Quadro 3-2 para convenções usadas na exibição de sequências consenso.</small>
+
+## A Autoinativação Medeia a Dessensibilização na Sinalização por Proteína G
+
+- A epinefrina foi feita para ser um sinal de ação curta.
+- O organismo deve interromper a síntese de glicose se não houver mais necessidade de lutar ou fugir.
+- A regulação negativa (*down-regulation*) do cAMP ocorre pela hidrólise do GTP na subunidade α da proteína G.
+
+![](../imgs/cap12_image12.jpg)
+
+## Autoinativação na Sinalização por Proteína G
+
+![](../imgs/cap12_image13.jpg)
+
+## Dessensibilização de Receptores β-Adrenérgicos
+
+![](../imgs/cap12_image14.jpg)
+
+## cAMP É um Segundo Mensageiro Comum
+
+- Um grande número de GPCRs medeia seus efeitos via cAMP.
+    - tanto ativando quanto inibindo a síntese de cAMP
+- O genoma humano codifica cerca de 1.000 GPCRs.
+    - com ligantes como hormônios, fatores de crescimento e neurotransmissores
+- Existem também centenas de GPCRs diferentes que podem ser responsáveis por processos semelhantes.
+    - como paladar ou olfato
+- Os ligantes para muitos GPCRs ainda não foram identificados.
+
+## TABELA 12-3 — Alguns Sinais que Usam cAMP como Segundo Mensageiro {.smaller .scrollable}
+
+- Corticotropina (ACTH)
+- Hormônio liberador de corticotropina (CRH)
+- Dopamina [D1, D2]
+- Epinefrina (β-adrenérgica)
+- Hormônio folículo-estimulante (FSH)
+- Glucagon
+- Histamina [H2]
+- Hormônio luteinizante (LH)
+- Hormônio melanócito-estimulante (MSH)
+- Odorantes (muitos)
+- Hormônio paratireoideano (PTH)
+- Prostaglandinas E1, E2 (PGE1, PGE2)
+- Serotonina [5-HT1, 5-HT4]
+- Somatostatina
+- Substâncias gustativas (doce, amargo)
+- Hormônio tireoestimulante (TSH)
+
+::: {.callout-note appearance="simple" title="Nota"}
+Subtipos de receptores entre colchetes. Subtipos podem ter mecanismos de transdução diferentes. Por exemplo, a serotonina é detectada em alguns tecidos pelos subtipos de receptores 5-HT1 e 5-HT4, que atuam através da adenilil ciclase e cAMP, e em outros tecidos pelos subtipos de receptores 5-HT2, atuando através do mecanismo fosfolipase C-IP3 (ver Tabela 12-4).
+:::
+
+## O cAMP É Capaz de Mediar Múltiplos Sinais Devido à Localização da Proteína Quinase A
+
+- A PKA é localizada em estruturas particulares por proteínas de ancoragem.
+- Diferentes âncoras são expressas em diferentes tipos celulares para determinar o efeito a jusante (*downstream*) do cAMP.
+
+![](../imgs/cap12_image15.jpg)
+
+## Algumas Toxinas Bacterianas São Enzimas que Inativam Proteínas G
+
+- A adenilato ciclase torna-se agora sempre (constitutivamente) ativa e produz excesso de cAMP a partir de ATP.
+- A toxina colérica e a toxina pertussis funcionam dessa maneira.
+
+![](../imgs/cap12_image16.jpg)
+
+## GPCRs Podem Usar Outras Moléculas como Segundos Mensageiros
+
 Por exemplo: cGMP, inositol-1,4,5-trisfosfato (IP3) e/ou cálcio
 
-# Slide 26:
-Segundos Mensageiros Podem Ativar Outras Moléculas de Segundos Mensageiros
-O GPCR ativa o IP3, que pode ativar um canal iônico regulado por ligante.
-Um canal iônico regulado por ligante libera Ca2+, que atua como outro segundo mensageiro ativando proteínas sensoras de cálcio como a proteína quinase C ou a calmodulina.
+![](../imgs/cap12_image17.jpg)
 
-# Slide 27:
-O Cálcio Modula a Função de 
-Muitas Enzimas Através da Calmodulina
+## Segundos Mensageiros Podem Ativar Outras Moléculas de Segundos Mensageiros
 
-# Slide 28:
-O Cálcio Modula a Função de 
-Muitas Enzimas Através da Calmodulina
-TABELA 12-5	Algumas Proteínas Reguladas por Ca2+ e Calmodulina	
-Adenilil ciclase (cérebro)	
-Proteína quinases dependentes de Ca2+/calmodulina (CaM quinases I a IV)	
-Canal de Na+ dependente de Ca2+ (Paramecium)	
-Canal de liberação de Ca2+ do retículo sarcoplasmático	
-Calcineurina (fosfoproteína fosfatase 2B)	
-cAMP fosfodiesterase	
-Canal olfatório regulado por cAMP	
-Canais de Na+, Ca2+ regulados por cGMP (células bastonetes e cones)	
-Glutamato descarboxilase	
-Quinases da cadeia leve da miosina	
-NAD+ quinase	
-Óxido nítrico sintase	
-Fosfatidilinositol 3-quinase	
-Ca2+ ATPase da membrana plasmática (bomba de Ca2+)	
-RNA helicase (p68)	
+- O GPCR ativa o IP3, que pode ativar um canal iônico regulado por ligante.
+- Um canal iônico regulado por ligante libera Ca2+, que atua como outro segundo mensageiro ativando proteínas sensoras de cálcio como a proteína quinase C ou a calmodulina.
 
-# Slide 29:
-GPCRs Funcionam na Visão e no Olfato
+![](../imgs/cap12_image18.jpg)
 
-# Slide 30:
-Receptores de Membrana Ligados a Enzimas
-Muitos receptores de membrana consistem em: 
-um domínio extracelular de ligação ao ligante 
-um domínio catalítico intracelular
-Os domínios catalíticos mais comuns possuem atividade tirosina quinase.
-Adicionam um grupo fosfato a si mesmos; a autofosforilação leva a uma mudança conformacional permitindo a ligação e fosforilação catalítica de proteínas-alvo específicas.
-Adicionam um grupo fosfato a uma tirosina em proteínas-alvo específicas.
-Alguns domínios catalíticos possuem atividade guanilil ciclase.
-convertem GTP em cGMP, um segundo mensageiro
+## O Cálcio Modula a Função de Muitas Enzimas Através da Calmodulina
 
-# Slide 31:
-Receptores Guanilil Ciclases
-O domínio catalítico converte GTP em cGMP
-Atua por meio da ativação da proteína quinase G
+![](../imgs/cap12_image19.jpg)
 
-# Slide 32:
-Receptores Tirosina Quinases
+## O Cálcio Modula a Função de Muitas Enzimas Através da Calmodulina {.smaller .scrollable}
 
-# Slide 33:
-A Insulina Interage com a Célula via um Receptor Tirosina Quinase
-A insulina é um hormônio peptídico produzido pelas células β das ilhotas de Langerhans no pâncreas.
-A insulina atinge células-alvo, como células do fígado, músculo ou tecido adiposo, pela corrente sanguínea.
-A ligação da insulina ao receptor de insulina inicia uma cascata de eventos que leva ao aumento da captação e metabolismo da glicose.
+**TABELA 12-5** Algumas Proteínas Reguladas por Ca2+ e Calmodulina
+
+- Adenilil ciclase (cérebro)
+- Proteína quinases dependentes de Ca2+/calmodulina (CaM quinases I a IV)
+- Canal de Na+ dependente de Ca2+ (Paramecium)
+- Canal de liberação de Ca2+ do retículo sarcoplasmático
+- Calcineurina (fosfoproteína fosfatase 2B)
+- cAMP fosfodiesterase
+- Canal olfatório regulado por cAMP
+- Canais de Na+, Ca2+ regulados por cGMP (células bastonetes e cones)
+- Glutamato descarboxilase
+- Quinases da cadeia leve da miosina
+- NAD+ quinase
+- Óxido nítrico sintase
+- Fosfatidilinositol 3-quinase
+- Ca2+ ATPase da membrana plasmática (bomba de Ca2+)
+- RNA helicase (p68)
+
+## GPCRs Funcionam na Visão e no Olfato
+
+![](../imgs/cap12_image20.jpg)
+
+## Receptores de Membrana Ligados a Enzimas
+
+- **Muitos receptores de membrana consistem em:**
+    - um domínio extracelular de ligação ao ligante um domínio catalítico intracelular
+- Os domínios catalíticos mais comuns possuem atividade tirosina quinase.
+- Adicionam um grupo fosfato a si mesmos; a autofosforilação leva a uma mudança conformacional permitindo a ligação e fosforilação catalítica de proteínas-alvo específicas.
+- Adicionam um grupo fosfato a uma tirosina em proteínas-alvo específicas.
+- Alguns domínios catalíticos possuem atividade guanilil ciclase.
+    - convertem GTP em cGMP, um segundo mensageiro
+
+## Receptores Guanilil Ciclases
+
+- O domínio catalítico converte GTP em cGMP
+- Atua por meio da ativação da proteína quinase G
+
+![](../imgs/cap12_image21.jpg)
+
+## Receptores Tirosina Quinases
+
+![](../imgs/cap12_image22.jpg)
+
+## A Insulina Interage com a Célula via um Receptor Tirosina Quinase
+
+- A insulina é um hormônio peptídico produzido pelas células β das ilhotas de Langerhans no pâncreas.
+- A insulina atinge células-alvo, como células do fígado, músculo ou tecido adiposo, pela corrente sanguínea.
+- A ligação da insulina ao receptor de insulina inicia uma cascata de eventos que leva ao aumento da captação e metabolismo da glicose.
+
+::: {style="text-align:center"}
 Incapacidade de produzir ou detectar insulina → diabetes
+:::
 
-# Slide 34:
-Importação de Glicose nos Miócitos
+## Importação de Glicose nos Miócitos
 
-# Slide 35:
-Cascata de Sinalização da Insulina: Ligação do Ligante
-A ligação da insulina aos domínios extracelulares do receptor ativa o domínio catalítico dentro da célula.
-O domínio catalítico em um receptor fosforila resíduos de Tyr em outro receptor.
-A autofosforilação do receptor permite a ligação e fosforilação da proteína IRS-1.  
+![](../imgs/cap12_image23.jpg)
 
-# Slide 36:
-Cascata de Sinalização da Insulina
-A interação indireta do IRS fosforilado com a proteína Ras inicia uma série de fosforilações proteicas.
-A ERK, uma das proteína quinases fosforiladas, entra no núcleo.
-Um fator de transcrição (Elk1) torna-se fosforilado e estimula a expressão de genes específicos (ex.: transportador de glicose (GLUT4)).
+## Cascata de Sinalização da Insulina: Ligação do Ligante
 
-# Slide 37:
-Comunicação Cruzada (*Crosstalk*) Entre um Receptor Tirosina Quinase e um GPCR É um Exemplo de Integração de Sinais
+- A ligação da insulina aos domínios extracelulares do receptor ativa o domínio catalítico dentro da célula.
+- O domínio catalítico em um receptor fosforila resíduos de Tyr em outro receptor.
+- A autofosforilação do receptor permite a ligação e fosforilação da proteína IRS-1.
 
-# Slide 38:
-O Receptor de Insulina Ativa uma Cascata de Proteínas Sinalizadoras Multivalentes
-Resíduos de Tyr fosforilados são ligados por proteínas com domínios SH2, como Grb2. 
-Domínios SH2 possuem múltiplos domínios de ligação proteica e podem aproximar duas ou mais proteínas.
+![](../imgs/cap12_image24.jpg)
 
-# Slide 39:
-Proteínas Adaptadoras Multivalentes Permitem Transdução de Sinal Modular e Adaptável 
+## Cascata de Sinalização da Insulina
 
-# Slide 40:
-Domínios SH2 Ligam Proteínas com Resíduo de Fosfotirosina
+- A interação indireta do IRS fosforilado com a proteína Ras inicia uma série de fosforilações proteicas.
+- A ERK, uma das proteína quinases fosforiladas, entra no núcleo.
+- Um fator de transcrição (Elk1) torna-se fosforilado e estimula a expressão de genes específicos (ex.: transportador de glicose (GLUT4)).
 
-# Slide 41:
-Proteínas Adaptadoras Multivalentes Montam e Regulam Cascatas de Sinalização
+![](../imgs/cap12_image25.jpg)
 
-# Slide 42:
-Canais Iônicos Regulados (*Gated*)
-Regulam o transporte de íons através das membranas celulares 
-Respondem a:
-alterações no potencial de membrana
-ligação de ligantes a sítios receptores específicos
+## Comunicação Cruzada (*Crosstalk*) Entre um Receptor Tirosina Quinase e um GPCR É um Exemplo de Integração de Sinais
 
-Muitos papéis importantes no sistema nervoso
-canais de sódio dependentes de voltagem
-receptor nicotínico de acetilcolina
-receptor ionotrópico de glutamato
-receptor A do ácido gama-aminobutírico (GABA_A)
+:::: {.columns}
+::: {.column width="50%"}
+![](../imgs/cap12_image26.jpg)
+:::
 
-# Slide 43:
-As Membranas São Eletricamente Polarizadas
-O interior da célula é tipicamente carregado negativamente em comparação com o exterior: Vm –50 a –70 mV.
-O potencial de membrana deve-se em grande parte ao transporte assimétrico de cátions pela Na+K+ ATPase.
-3 Na+ para fora
-2 K+ para dentro 
-O fluxo de espécies iônicas através da membrana depende de seu gradiente de concentração e do potencial elétrico global.
+::: {.column width="50%"}
+![](../imgs/cap12_image27.jpg)
+:::
 
+::::
 
-# Slide 44:
-As Membranas São Eletricamente Polarizadas
+## O Receptor de Insulina Ativa uma Cascata de Proteínas Sinalizadoras Multivalentes
 
-# Slide 45:
-Canais Iônicos Dependentes de Voltagem e Regulados por Ligantes na Sinalização Nervosa
-Sinais nervosos dentro dos nervos propagam-se como impulsos elétricos.
-A propagação do impulso envolve a abertura de canais de Na+ dependentes de voltagem.
-A abertura de canais de Ca++ dependentes de voltagem na extremidade do axônio desencadeia a liberação do neurotransmissor acetilcolina.
-A acetilcolina abre o canal iônico regulado por ligante na célula receptora.
+- Resíduos de Tyr fosforilados são ligados por proteínas com domínios SH2, como Grb2.
+- Domínios SH2 possuem múltiplos domínios de ligação proteica e podem aproximar duas ou mais proteínas.
 
-# Slide 46:
-Canais Iônicos na Sinalização Nervosa
+![](../imgs/cap12_image28.jpg)
 
-# Slide 47:
-Integrinas Medeiam a Adesão Celular
-O domínio extracelular interage com proteínas contendo Arg-Gly-Asp.
-colágeno, fibrinogênio, fibronectina e outras
-Isso desencadeia o rearranjo do citoesqueleto e a expressão gênica.
-Genes recém-expressos ligam-se ao domínio intracelular, desencadeando resposta extracelular.
+## Proteínas Adaptadoras Multivalentes Permitem Transdução de Sinal Modular e Adaptável
 
-# Slide 48:
-Regulação Direta da Transcrição 
+:::: {.columns}
+::: {.column width="50%"}
+![](../imgs/cap12_image29.jpg)
+:::
+
+::: {.column width="50%"}
+![](../imgs/cap12_image30.jpg)
+:::
+
+::::
+
+## Domínios SH2 Ligam Proteínas com Resíduo de Fosfotirosina
+
+![](../imgs/cap12_image31.jpg)
+
+## Proteínas Adaptadoras Multivalentes Montam e Regulam Cascatas de Sinalização
+
+![](../imgs/cap12_image32.jpg)
+
+## Canais Iônicos Regulados (*Gated*)
+
+- Regulam o transporte de íons através das membranas celulares
+- **Respondem a:**
+    - alterações no potencial de membrana
+    - ligação de ligantes a sítios receptores específicos
+
+- Muitos papéis importantes no sistema nervoso
+    - canais de sódio dependentes de voltagem
+    - receptor nicotínico de acetilcolina
+    - receptor ionotrópico de glutamato
+    - receptor A do ácido gama-aminobutírico (GABA_A)
+
+## As Membranas São Eletricamente Polarizadas
+
+- O interior da célula é tipicamente carregado negativamente em comparação com o exterior: Vm –50 a –70 mV.
+- O potencial de membrana deve-se em grande parte ao transporte assimétrico de cátions pela Na+K+ ATPase.
+    - 3 Na+ para fora
+    - 2 K+ para dentro
+- O fluxo de espécies iônicas através da membrana depende de seu gradiente de concentração e do potencial elétrico global.
+
+## As Membranas São Eletricamente Polarizadas
+
+![](../imgs/cap12_image33.jpg)
+
+## Canais Iônicos Dependentes de Voltagem e Regulados por Ligantes na Sinalização Nervosa
+
+- Sinais nervosos dentro dos nervos propagam-se como impulsos elétricos.
+- A propagação do impulso envolve a abertura de canais de Na+ dependentes de voltagem.
+- A abertura de canais de Ca++ dependentes de voltagem na extremidade do axônio desencadeia a liberação do neurotransmissor acetilcolina.
+- A acetilcolina abre o canal iônico regulado por ligante na célula receptora.
+
+## Canais Iônicos na Sinalização Nervosa
+
+![](../imgs/cap12_image34.jpg)
+
+## Integrinas Medeiam a Adesão Celular
+
+- O domínio extracelular interage com proteínas contendo Arg-Gly-Asp.
+    - colágeno, fibrinogênio, fibronectina e outras
+- Isso desencadeia o rearranjo do citoesqueleto e a expressão gênica.
+- Genes recém-expressos ligam-se ao domínio intracelular, desencadeando resposta extracelular.
+
+## Regulação Direta da Transcrição
+
 por Hormônios
 
-# Slide 49:
-A Quimiotaxia Bacteriana É Controlada por Receptores Acoplados a Enzimas
+![](../imgs/cap12_image35.jpg)
 
-# Slide 50:
-O Ciclo Celular É Regulado Intracelularmente 
-por Proteína Quinases Dependentes de Ciclinas (CDKs)
+## A Quimiotaxia Bacteriana É Controlada por Receptores Acoplados a Enzimas
 
-# Slide 51:
-CDKs São Reguladas por 
-Fosforilação e Proteólise 
+![](../imgs/cap12_image36.jpg)
 
-# Slide 52:
-Fatores de Crescimento Desencadeiam a 
-Regulação Transcricional das CDKs
+## O Ciclo Celular É Regulado Intracelularmente por Proteína Quinases Dependentes de Ciclinas (CDKs)
 
-# Slide 53:
-A Ativação Constitutiva de CDKs 
-Pode Levar ao Câncer
+:::: {.columns}
+::: {.column width="50%"}
+![](../imgs/cap12_image37.jpg)
+:::
 
-# Slide 54:
-Inibidores de Proteína Quinases 
-Podem Ser um Tratamento para o Câncer
+::: {.column width="50%"}
+![](../imgs/cap12_image38.jpg)
+:::
 
-# Slide 55:
-Danos às Macromoléculas Podem Desencadear Morte Celular Programada (Apoptose)
+::::
 
-# Slide 56:
-Capítulo 12: Resumo
-A sinalização celular é desencadeada por receptores que detectam o ambiente extracelular.
-específicos para ligantes
-frequentemente amplificam o sinal
-podem ser modulares
-dessensibilizam-se para evitar excesso de sinal
-GPCRs ligam proteínas G, que ativam proteínas interagentes.
-Receptores tirosina quinases ativam domínios quinase com autofosforilação.
-Receptores guanilil ciclases geram o segundo mensageiro cGMP.
-Canais iônicos dependentes de voltagem geram e propagam impulsos nervosos.
-A desregulação das cascatas de sinalização intracelular pode levar ao câncer.
+## CDKs São Reguladas por Fosforilação e Proteólise
 
-Neste capítulo, aprendemos:
+![](../imgs/cap12_image39.jpg)
+
+## Fatores de Crescimento Desencadeiam a Regulação Transcricional das CDKs
+
+![](../imgs/cap12_image40.jpg)
+
+## A Ativação Constitutiva de CDKs Pode Levar ao Câncer
+
+![](../imgs/cap12_image41.jpg)
+
+## Inibidores de Proteína Quinases Podem Ser um Tratamento para o Câncer
+
+:::: {.columns}
+::: {.column width="50%"}
+![](../imgs/cap12_image42.jpg)
+:::
+
+::: {.column width="50%"}
+![](../imgs/cap12_image43.png)
+:::
+
+::::
+
+## Danos às Macromoléculas Podem Desencadear Morte Celular Programada (Apoptose)
+
+![](../imgs/cap12_image44.jpg)
+
+## Capítulo 12: Resumo
+
+**Neste capítulo, aprendemos:**
+
+- A sinalização celular é desencadeada por receptores que detectam o ambiente extracelular.
+    - específicos para ligantes
+    - frequentemente amplificam o sinal
+    - podem ser modulares
+    - dessensibilizam-se para evitar excesso de sinal
+- GPCRs ligam proteínas G, que ativam proteínas interagentes.
+- Receptores tirosina quinases ativam domínios quinase com autofosforilação.
+- Receptores guanilil ciclases geram o segundo mensageiro cGMP.
+- Canais iônicos dependentes de voltagem geram e propagam impulsos nervosos.
+- A desregulação das cascatas de sinalização intracelular pode levar ao câncer.
